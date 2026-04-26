@@ -1,0 +1,129 @@
+{
+  "company_id": "apple",
+  "title": "Apple Q4 2024 Earnings Call",
+  "datetime": "2025-01-30T22:00:00Z",
+  "period": "CY2024_Q4",
+  "location": "Cupertino, CA",
+  "url": "https://investor.apple.com/",
+  "turns": [
+    {
+      "speaker_id": "tim-cook",
+      "speaker_name": "Tim Cook",
+      "speaker_role": "CEO",
+      "timestamp": "00:01:00",
+      "text": "This was our best quarter ever. Revenue of $124.3 billion was an all-time record, up 4% year-over-year. iPhone revenue was $69.1 billion, a December quarter record. Apple Intelligence is now available to users across 30 countries and regions, with many more planned in 2025. Early data shows that markets with Apple Intelligence have meaningfully higher iPhone 16 upgrade rates than markets without it."
+    },
+    {
+      "speaker_id": "kevan-parekh",
+      "speaker_name": "Kevan Parekh",
+      "speaker_role": "CFO",
+      "timestamp": "00:20:00",
+      "text": "Gross margin was 46.9%, above the top end of our guidance. Services revenue was $26.3 billion, up 14% year-over-year and a new all-time record. Full year 2024 Services revenue was $100.3 billion. We expect to exceed $125 billion in Services revenue in 2025. For Q1 fiscal 2026 we expect revenue of $89 to $93 billion and gross margins of 46.5 to 47.5%."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "Operator",
+      "timestamp": "00:36:00",
+      "text": "Our next question comes from Ben Reitzes at Melius Research."
+    },
+    {
+      "speaker_id": "analyst-ben-reitzes",
+      "speaker_name": "Ben Reitzes",
+      "speaker_role": "Analyst",
+      "timestamp": "00:36:20",
+      "text": "Tim, you mentioned higher upgrade rates in Apple Intelligence markets. Can you quantify that and what does it mean for your thinking about the broader supercycle thesis?"
+    }
+  ],
+  "statements": [
+    {
+      "id": "AAPL-CY2024Q4-001",
+      "turn_index": 0,
+      "claim": "Markets with Apple Intelligence have meaningfully higher iPhone 16 upgrade rates than markets without it.",
+      "categorizations": [
+        "operational_metric_specific",
+        "capacity_or_capability_delivery"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "softly_hedged",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-CY2024Q4-002",
+      "turn_index": 1,
+      "claim": "Apple expects to exceed $125 billion in Services revenue in 2025.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "segment_growth_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AAPL-CY2024Q4-003",
+      "turn_index": 1,
+      "claim": "Full year 2024 Services revenue was $100.3 billion.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "segment_growth_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "unhedged",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-CY2024Q4-004",
+      "turn_index": 0,
+      "claim": "Apple Intelligence is now available to users across 30 countries and regions, with more planned in 2025.",
+      "categorizations": [
+        "geographic_or_regional_rollout",
+        "capacity_or_capability_delivery"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "unhedged",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-CY2024Q4-005",
+      "turn_index": 1,
+      "claim": "Gross margin for Q4 2024 was 46.9%, above the top end of guidance.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "unhedged",
+      "resolution": {
+        "finding": "validated"
+      }
+    }
+  ]
+}

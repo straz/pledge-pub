@@ -1,0 +1,126 @@
+{
+  "company_id": "meta",
+  "title": "Meta Q4 2024 Earnings Call",
+  "datetime": "2025-01-29T22:00:00Z",
+  "period": "CY2024_Q4",
+  "location": "Menlo Park, CA",
+  "url": "https://investor.fb.com/",
+  "turns": [
+    {
+      "speaker_id": "mark-zuckerberg",
+      "speaker_name": "Mark Zuckerberg",
+      "speaker_role": "CEO",
+      "timestamp": "00:01:00",
+      "text": "Q4 was our best quarter ever. Revenue reached $48.4 billion, up 21% year-over-year. Daily active people grew to 3.35 billion. We are declaring 2025 the year of AI agents. We plan to invest aggressively — total 2025 expenses are expected to be $114 to $119 billion including CapEx of $60 to $65 billion, significantly above our prior guidance of $38 to $40 billion. Llama 4 will launch in early 2025 and will be our most capable model family yet."
+    },
+    {
+      "speaker_id": "susan-li",
+      "speaker_name": "Susan Li",
+      "speaker_role": "CFO",
+      "timestamp": "00:20:00",
+      "text": "Q4 revenue of $48.4 billion exceeded our outlook. Operating income was $23.4 billion at a 48% operating margin, a company record. Full year 2024 revenue was $164.5 billion, up 22% year-over-year. We expect Q1 2025 revenue of $39.5 to $41.8 billion, reflecting typical Q1 seasonality. We expect full year 2025 revenue growth in the high teens."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "Operator",
+      "timestamp": "00:38:00",
+      "text": "Our next question comes from Eric Sheridan at Goldman Sachs."
+    },
+    {
+      "speaker_id": "analyst-eric-sheridan",
+      "speaker_name": "Eric Sheridan",
+      "speaker_role": "Analyst",
+      "timestamp": "00:38:20",
+      "text": "Mark, the CapEx guidance for 2025 was significantly above prior guidance and above consensus. How should investors think about the return on invested capital for this infrastructure buildout and when do the economics improve?"
+    }
+  ],
+  "statements": [
+    {
+      "id": "META-CY2024Q4-001",
+      "turn_index": 0,
+      "claim": "Meta 2025 total expenses will be $114 to $119 billion including CapEx of $60 to $65 billion.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "META-CY2024Q4-002",
+      "turn_index": 0,
+      "claim": "Llama 4 will launch in early 2025 as Meta's most capable model family.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "META-CY2024Q4-003",
+      "turn_index": 1,
+      "claim": "Full year 2024 revenue was $164.5 billion, up 22% year-over-year.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "unhedged",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-CY2024Q4-004",
+      "turn_index": 1,
+      "claim": "Q4 2024 revenue of $48.4 billion exceeded the prior outlook range of $45 to $48 billion.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "unhedged",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-CY2024Q4-005",
+      "turn_index": 0,
+      "claim": "Llama 4 multimodal capabilities will not launch in 2024 as previously indicated; launch is now planned for early 2025.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "unhedged",
+      "resolution": {
+        "finding": "validated"
+      }
+    }
+  ]
+}

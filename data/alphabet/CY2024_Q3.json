@@ -1,0 +1,133 @@
+{
+  "company_id": "alphabet",
+  "title": "Alphabet Q3 2024 Earnings Call",
+  "datetime": "2024-10-29T20:30:00Z",
+  "period": "CY2024_Q3",
+  "location": "Sunnyvale, CA",
+  "url": "https://abc.xyz/investor/",
+  "turns": [
+    {
+      "speaker_id": "sundar-pichai",
+      "speaker_name": "Sundar Pichai",
+      "speaker_role": "CEO",
+      "timestamp": "00:01:00",
+      "text": "Q3 was another excellent quarter. Google Cloud revenue reached $11.4 billion, up 35% year-over-year, exceeding our Q2 guidance range. Our AI infrastructure investments are paying off — we are now seeing more than 25,000 enterprises actively using Gemini models through Vertex AI. We expect Cloud to continue growing faster than 30% in Q4 and into 2025, driven by strong enterprise AI adoption."
+    },
+    {
+      "speaker_id": "anat-ashkenazi",
+      "speaker_name": "Anat Ashkenazi",
+      "speaker_role": "CFO",
+      "timestamp": "00:20:00",
+      "text": "Total revenues were $88.3 billion, up 15% year-over-year. Google Cloud operating income was $1.95 billion, representing a 17% operating margin, expanding meaningfully year-over-year. We remain on track to deliver full-year Cloud operating margin expansion. Search revenues grew 12% to $49.4 billion, reflecting continued strength in AI-enhanced results."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "Operator",
+      "timestamp": "00:38:00",
+      "text": "Our next question comes from Brent Thill at Jefferies."
+    },
+    {
+      "speaker_id": "analyst-brent-thill",
+      "speaker_name": "Brent Thill",
+      "speaker_role": "Analyst",
+      "timestamp": "00:38:20",
+      "text": "Sundar, can you give us a sense of how AI Overviews is affecting monetization in Search, and whether you see any risk to query volume as the AI experience matures?"
+    }
+  ],
+  "statements": [
+    {
+      "id": "GOOGL-CY2024Q3-001",
+      "turn_index": 0,
+      "claim": "We expect Cloud to continue growing faster than 30% in Q4 2024 and into 2025.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "resolution": {
+        "finding": "not_validated",
+        "sources": [
+          {
+            "company": "alphabet",
+            "call": "CY2024_Q4",
+            "statement_id": "GOOGL-CY2024Q4-002"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GOOGL-CY2024Q3-002",
+      "turn_index": 0,
+      "claim": "More than 25,000 enterprises are actively using Gemini models through Vertex AI.",
+      "categorizations": [
+        "operational_metric_specific",
+        "capacity_or_capability_delivery"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "unhedged",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "GOOGL-CY2024Q3-003",
+      "turn_index": 1,
+      "claim": "Google Cloud operating margin will expand meaningfully year-over-year for the full year 2024.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "GOOGL-CY2024Q3-004",
+      "turn_index": 1,
+      "claim": "Search revenues will maintain double-digit growth through increased AI-enhanced query monetization.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "segment_growth_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement"
+      ],
+      "hedging": "heavily_hedged",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "GOOGL-CY2024Q3-005",
+      "turn_index": 1,
+      "claim": "Search revenues grew 12% to $49.4 billion in Q3 2024, reflecting strength in AI-enhanced results.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "unhedged",
+      "resolution": {
+        "finding": "validated"
+      }
+    }
+  ]
+}

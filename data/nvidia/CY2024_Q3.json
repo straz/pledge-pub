@@ -1,0 +1,128 @@
+{
+  "company_id": "nvidia",
+  "title": "Nvidia Q3 2024 Earnings Call",
+  "datetime": "2024-11-20T22:00:00Z",
+  "period": "CY2024_Q3",
+  "location": "Santa Clara, CA",
+  "url": "https://investor.nvidia.com/",
+  "turns": [
+    {
+      "speaker_id": "jensen-huang",
+      "speaker_name": "Jensen Huang",
+      "speaker_role": "CEO",
+      "timestamp": "00:01:00",
+      "text": "Q3 was phenomenal. Revenue was $35.1 billion, up 94% year-over-year. Blackwell production has ramped faster than any product in our history — we shipped $5.5 billion of Blackwell-based products in Q3, exceeding our own expectations. Blackwell demand is extraordinary. We expect Blackwell to ramp to $8 billion or more in Q4 revenue. Data centers are now building out for trillion-parameter model training and inference at scale."
+    },
+    {
+      "speaker_id": "colette-kress",
+      "speaker_name": "Colette Kress",
+      "speaker_role": "CFO",
+      "timestamp": "00:18:00",
+      "text": "GAAP gross margin was 74.6%, and non-GAAP gross margin was 75%, in line with our guidance. Q3 Data Center revenue was $30.8 billion, up 112% year-over-year. For Q4, we expect revenue of $37.5 billion, plus or minus 2%. Gross margins will be approximately 73% non-GAAP as Blackwell continues to ramp. We expect sequential revenue growth to continue through fiscal 2026."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "Operator",
+      "timestamp": "00:38:00",
+      "text": "Our next question comes from Brent Thill at Jefferies."
+    },
+    {
+      "speaker_id": "analyst-brent-thill",
+      "speaker_name": "Brent Thill",
+      "speaker_role": "Analyst",
+      "timestamp": "00:38:20",
+      "text": "Jensen, can you help us understand how you see the competitive landscape evolving with AMD gaining AI GPU share and custom silicon from hyperscalers?"
+    }
+  ],
+  "statements": [
+    {
+      "id": "NVDA-CY2024Q3-001",
+      "turn_index": 0,
+      "claim": "Nvidia shipped $5.5 billion of Blackwell-based products in Q3 fiscal 2025.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "capacity_or_capability_delivery"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "unhedged",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NVDA-CY2024Q3-002",
+      "turn_index": 0,
+      "claim": "Blackwell revenue will ramp to $8 billion or more in Q4 fiscal 2025.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "capacity_or_capability_delivery"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-CY2024Q3-003",
+      "turn_index": 1,
+      "claim": "Q4 fiscal 2025 revenue guidance is $37.5 billion, plus or minus 2%.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-CY2024Q3-004",
+      "turn_index": 1,
+      "claim": "Non-GAAP gross margins will be approximately 73% in Q4 fiscal 2025 as Blackwell continues to ramp.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-CY2024Q3-005",
+      "turn_index": 0,
+      "claim": "Q3 fiscal 2025 revenue was $35.1 billion, up 94% year-over-year.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "unhedged",
+      "resolution": {
+        "finding": "validated"
+      }
+    }
+  ]
+}

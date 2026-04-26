@@ -1,0 +1,147 @@
+{
+  "company_id": "meta",
+  "title": "Meta Q2 2024 Earnings Call",
+  "datetime": "2024-07-31T21:00:00Z",
+  "period": "CY2024_Q2",
+  "location": "Menlo Park, CA",
+  "url": "https://investor.fb.com/",
+  "turns": [
+    {
+      "speaker_id": "mark-zuckerberg",
+      "speaker_name": "Mark Zuckerberg",
+      "speaker_role": "CEO",
+      "timestamp": "00:01:00",
+      "text": "Q2 2024 was a great quarter. Revenue was $39.1 billion, up 22% year-over-year. We have more than 3.3 billion people using at least one of our apps every day. Llama 3.1 is now the most capable open-source AI model available, and we will release Llama 4 by the end of 2024 with multimodal capabilities that exceed any current closed-source model. Our AI infrastructure investment will deliver competitive advantage across advertising, Reels, and the Meta AI assistant."
+    },
+    {
+      "speaker_id": "susan-li",
+      "speaker_name": "Susan Li",
+      "speaker_role": "CFO",
+      "timestamp": "00:18:00",
+      "text": "Revenue of $39.1 billion exceeded the top of our outlook range. Operating income was $14.8 billion, representing a 38% operating margin. For Q3, we expect revenue of $38.5 to $41 billion. We expect full year 2024 total expenses of $96 to $99 billion, reflecting significant AI and Reality Labs investment. Reality Labs operating losses will continue to grow meaningfully year-over-year in 2024."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "Operator",
+      "timestamp": "00:36:00",
+      "text": "Our next question comes from Eric Sheridan at Goldman Sachs."
+    },
+    {
+      "speaker_id": "analyst-eric-sheridan",
+      "speaker_name": "Eric Sheridan",
+      "speaker_role": "Analyst",
+      "timestamp": "00:36:20",
+      "text": "Mark, can you speak to the monetization opportunity for Meta AI and how you're thinking about the timing of revenue contribution from the assistant?"
+    }
+  ],
+  "statements": [
+    {
+      "id": "META-CY2024Q2-001",
+      "turn_index": 0,
+      "claim": "Meta will release Llama 4 by end of 2024 with multimodal capabilities exceeding any current closed-source model.",
+      "categorizations": [
+        "capacity_or_capability_delivery",
+        "competitive_or_market_position_claim"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "resolution": {
+        "finding": "not_validated",
+        "sources": [
+          {
+            "company": "meta",
+            "call": "CY2024_Q4",
+            "statement_id": "META-CY2024Q4-005"
+          }
+        ]
+      }
+    },
+    {
+      "id": "META-CY2024Q2-002",
+      "turn_index": 0,
+      "claim": "More than 3.3 billion people use at least one Meta app every day.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "unhedged",
+      "resolution": {
+        "finding": "validated",
+        "sources": [
+          {
+            "company": "meta",
+            "call": "CY2024_Q3",
+            "statement_id": "META-CY2024Q3-003"
+          }
+        ]
+      }
+    },
+    {
+      "id": "META-CY2024Q2-003",
+      "turn_index": 1,
+      "claim": "Q3 2024 revenue will be in the range of $38.5 to $41 billion.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "resolution": {
+        "finding": "validated",
+        "sources": [
+          {
+            "company": "meta",
+            "call": "CY2024_Q3",
+            "statement_id": "META-CY2024Q3-001"
+          }
+        ]
+      }
+    },
+    {
+      "id": "META-CY2024Q2-004",
+      "turn_index": 1,
+      "claim": "Reality Labs operating losses will grow meaningfully year-over-year in 2024.",
+      "categorizations": [
+        "segment_growth_specific",
+        "financial_structure_or_capital_action"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "META-CY2024Q2-005",
+      "turn_index": 0,
+      "claim": "AI infrastructure investment will deliver competitive advantage across advertising, Reels, and Meta AI.",
+      "categorizations": [
+        "strategic_direction_claim"
+      ],
+      "commitment_tags": [
+        "claims_requiring_inference_of_management_intent_rather_than_observable_outcome",
+        "claims_with_no_falsifiability_window_or_open_ended_timeline"
+      ],
+      "hedging": "heavily_hedged",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    }
+  ]
+}

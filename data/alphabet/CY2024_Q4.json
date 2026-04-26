@@ -1,0 +1,128 @@
+{
+  "company_id": "alphabet",
+  "title": "Alphabet Q4 2024 Earnings Call",
+  "datetime": "2025-02-04T22:00:00Z",
+  "period": "CY2024_Q4",
+  "location": "Sunnyvale, CA",
+  "url": "https://abc.xyz/investor/",
+  "turns": [
+    {
+      "speaker_id": "sundar-pichai",
+      "speaker_name": "Sundar Pichai",
+      "speaker_role": "CEO",
+      "timestamp": "00:01:00",
+      "text": "2024 was a landmark year for Alphabet. Google Cloud finished the year at $11.96 billion in Q4 revenue, up 30% year-over-year — just below our 30%+ growth target as enterprise sales cycles extended late in the quarter. We expect to return to accelerating growth in 2025 driven by our Gemini 2.0 capabilities and significantly expanded inference capacity. AI Overviews now reaches over 1 billion users globally across more than 100 countries."
+    },
+    {
+      "speaker_id": "anat-ashkenazi",
+      "speaker_name": "Anat Ashkenazi",
+      "speaker_role": "CFO",
+      "timestamp": "00:20:00",
+      "text": "Q4 total revenues were $96.5 billion, up 12% year-over-year. Cloud operating income was $2.1 billion at a 17.5% margin, up from 9.4% a year ago. We expanded our TPU v5 infrastructure substantially in 2024, deploying over $52 billion in total capital expenditures for the year. We expect 2025 CapEx to be meaningfully higher as we scale for the next wave of AI demand."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "Operator",
+      "timestamp": "00:38:00",
+      "text": "Our next question comes from Eric Sheridan at Goldman Sachs."
+    },
+    {
+      "speaker_id": "analyst-eric-sheridan",
+      "speaker_name": "Eric Sheridan",
+      "speaker_role": "Analyst",
+      "timestamp": "00:38:20",
+      "text": "How should we think about Cloud margin trajectory in 2025 given the step-up in CapEx?"
+    }
+  ],
+  "statements": [
+    {
+      "id": "GOOGL-CY2024Q4-001",
+      "turn_index": 0,
+      "claim": "Alphabet expects to return to accelerating Cloud growth in 2025 driven by Gemini 2.0 capabilities.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "capacity_or_capability_delivery"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "GOOGL-CY2024Q4-002",
+      "turn_index": 0,
+      "claim": "Google Cloud Q4 2024 revenue was $11.96 billion, up 30% year-over-year.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "unhedged",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "GOOGL-CY2024Q4-003",
+      "turn_index": 1,
+      "claim": "2025 capital expenditures will be meaningfully higher than the $52 billion deployed in 2024.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "GOOGL-CY2024Q4-004",
+      "turn_index": 1,
+      "claim": "Alphabet deployed over $52 billion in capital expenditures in 2024, substantially expanding TPU v5 infrastructure.",
+      "categorizations": [
+        "capacity_or_capability_delivery",
+        "financial_structure_or_capital_action"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "unhedged",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "GOOGL-CY2024Q4-005",
+      "turn_index": 0,
+      "claim": "AI Overviews now reaches over 1 billion users globally across more than 100 countries.",
+      "categorizations": [
+        "operational_metric_specific",
+        "geographic_or_regional_rollout"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "unhedged",
+      "resolution": {
+        "finding": "validated"
+      }
+    }
+  ]
+}

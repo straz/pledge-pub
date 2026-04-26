@@ -1,0 +1,150 @@
+{
+  "company_id": "nvidia",
+  "title": "Nvidia Q2 2024 Earnings Call",
+  "datetime": "2024-08-28T21:00:00Z",
+  "period": "CY2024_Q2",
+  "location": "Santa Clara, CA",
+  "url": "https://investor.nvidia.com/",
+  "turns": [
+    {
+      "speaker_id": "jensen-huang",
+      "speaker_name": "Jensen Huang",
+      "speaker_role": "CEO",
+      "timestamp": "00:01:00",
+      "text": "Q2 was our strongest quarter in company history. Revenue was $30.0 billion, up 122% year-over-year. Data Center revenue was $26.3 billion, up 154%. Blackwell production is ramping and we expect to ship several billion dollars of Blackwell GPUs in Q3, with production increasing substantially each quarter through fiscal 2026. Demand for Blackwell far exceeds supply and we expect this imbalance to persist well into next year."
+    },
+    {
+      "speaker_id": "colette-kress",
+      "speaker_name": "Colette Kress",
+      "speaker_role": "CFO",
+      "timestamp": "00:18:00",
+      "text": "GAAP gross margin was 78.4%, and non-GAAP gross margin was 78.9%. For Q3, we expect revenue of approximately $32.5 billion, plus or minus 2%. We expect non-GAAP gross margin to be 74.6%, reflecting Blackwell product ramp costs. We expect gross margins to return to the mid-70% range as Blackwell production matures in the second half of fiscal 2026."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "Operator",
+      "timestamp": "00:36:00",
+      "text": "Our next question comes from Brent Thill at Jefferies."
+    },
+    {
+      "speaker_id": "analyst-brent-thill",
+      "speaker_name": "Brent Thill",
+      "speaker_role": "Analyst",
+      "timestamp": "00:36:20",
+      "text": "Jensen, can you give us more detail on Blackwell's production timeline and whether the thermal issues we've seen reported are fully resolved?"
+    }
+  ],
+  "statements": [
+    {
+      "id": "NVDA-CY2024Q2-001",
+      "turn_index": 0,
+      "claim": "Nvidia will ship several billion dollars of Blackwell GPUs in Q3 fiscal 2025.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "capacity_or_capability_delivery"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "resolution": {
+        "finding": "validated",
+        "sources": [
+          {
+            "company": "nvidia",
+            "call": "CY2024_Q3",
+            "statement_id": "NVDA-CY2024Q3-001"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NVDA-CY2024Q2-002",
+      "turn_index": 0,
+      "claim": "Demand for Blackwell far exceeds supply and this imbalance will persist well into next year.",
+      "categorizations": [
+        "capacity_or_capability_delivery",
+        "strategic_direction_claim"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "resolution": {
+        "finding": "validated",
+        "sources": [
+          {
+            "company": "nvidia",
+            "call": "CY2024_Q4",
+            "statement_id": "NVDA-CY2024Q4-002"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NVDA-CY2024Q2-003",
+      "turn_index": 1,
+      "claim": "Q3 fiscal 2025 revenue will be approximately $32.5 billion, plus or minus 2%.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "resolution": {
+        "finding": "validated",
+        "sources": [
+          {
+            "company": "nvidia",
+            "call": "CY2024_Q3",
+            "statement_id": "NVDA-CY2024Q3-005"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NVDA-CY2024Q2-004",
+      "turn_index": 1,
+      "claim": "Non-GAAP gross margins will return to the mid-70% range as Blackwell production matures in H2 fiscal 2026.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-CY2024Q2-005",
+      "turn_index": 0,
+      "claim": "Q2 fiscal 2025 data center revenue was $26.3 billion, up 154% year-over-year.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "segment_growth_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "unhedged",
+      "resolution": {
+        "finding": "validated"
+      }
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "company_id": "microsoft",
+  "title": "Microsoft Q2 2024 Earnings Call",
+  "datetime": "2024-07-30T21:00:00Z",
+  "period": "CY2024_Q2",
+  "location": "Redmond, WA",
+  "url": "https://www.microsoft.com/en-us/investor/",
+  "turns": [
+    {
+      "speaker_id": "satya-nadella",
+      "speaker_name": "Satya Nadella",
+      "speaker_role": "CEO",
+      "timestamp": "00:01:00",
+      "text": "Fiscal Q4 was strong across our commercial cloud business. Revenue was $64.7 billion, up 15% year-over-year. Azure and other cloud services grew 29% year-over-year. GitHub Copilot now has 1.8 million paid subscribers, and we expect to reach 3 million subscribers by the end of calendar year 2024. AI is the key driver of Microsoft 365 Copilot commercial deployments, which more than doubled quarter-over-quarter."
+    },
+    {
+      "speaker_id": "amy-hood",
+      "speaker_name": "Amy Hood",
+      "speaker_role": "CFO",
+      "timestamp": "00:18:00",
+      "text": "Commercial cloud revenue was $36.8 billion, up 21% year-over-year. Operating income was $27.9 billion at a 43% operating margin. For fiscal Q1 2025, we expect Azure growth of 28 to 29% in constant currency. We expect to see Azure growth reaccelerate in the second half of fiscal 2025 as AI capacity constraints are relieved and new data centers come online. Capital expenditure was $19 billion this quarter."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "Operator",
+      "timestamp": "00:36:00",
+      "text": "Our next question comes from Brent Thill at Jefferies."
+    },
+    {
+      "speaker_id": "analyst-brent-thill",
+      "speaker_name": "Brent Thill",
+      "speaker_role": "Analyst",
+      "timestamp": "00:36:20",
+      "text": "Satya, can you characterize the pipeline for Microsoft 365 Copilot enterprise deployments and what's the most common friction point in the sales process today?"
+    }
+  ],
+  "statements": [
+    {
+      "id": "MSFT-CY2024Q2-001",
+      "turn_index": 0,
+      "claim": "GitHub Copilot will reach 3 million paid subscribers by end of calendar year 2024.",
+      "categorizations": [
+        "operational_metric_specific",
+        "segment_growth_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "resolution": {
+        "finding": "validated",
+        "sources": [
+          {
+            "company": "microsoft",
+            "call": "CY2024_Q3",
+            "statement_id": "MSFT-CY2024Q3-001"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MSFT-CY2024Q2-002",
+      "turn_index": 1,
+      "claim": "Azure growth will be 28 to 29% in constant currency in fiscal Q1 2025.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "MSFT-CY2024Q2-003",
+      "turn_index": 1,
+      "claim": "Azure growth will reaccelerate in the second half of fiscal 2025 as capacity constraints are relieved.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "capacity_or_capability_delivery"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "resolution": {
+        "finding": "not_validated",
+        "sources": [
+          {
+            "company": "microsoft",
+            "call": "CY2024_Q4",
+            "statement_id": "MSFT-CY2024Q4-003"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MSFT-CY2024Q2-004",
+      "turn_index": 0,
+      "claim": "Microsoft 365 Copilot commercial deployments more than doubled quarter-over-quarter.",
+      "categorizations": [
+        "segment_growth_specific",
+        "operational_metric_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "unhedged",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-CY2024Q2-005",
+      "turn_index": 0,
+      "claim": "Microsoft's AI-first approach positions us uniquely to capture the once-in-a-generation opportunity in enterprise software.",
+      "categorizations": [
+        "strategic_direction_claim"
+      ],
+      "commitment_tags": [
+        "rhetorical_assertions_without_specific_verifiable_content"
+      ],
+      "hedging": "rhetorical_only",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "company_id": "oracle",
+  "title": "Oracle Q2 2024 Earnings Call",
+  "datetime": "2024-06-11T21:00:00Z",
+  "period": "CY2024_Q2",
+  "location": "Austin, TX",
+  "url": "https://investor.oracle.com/",
+  "turns": [
+    {
+      "speaker_id": "safra-catz",
+      "speaker_name": "Safra Catz",
+      "speaker_role": "CEO",
+      "timestamp": "00:01:00",
+      "text": "Q4 of fiscal 2024 was excellent. Total revenues were $14.3 billion, up 3% in USD and 4% in constant currency. Cloud revenue including OCI and SaaS was $5.3 billion, up 20% in constant currency. Remaining performance obligations — our backlog — grew 44% to $98 billion, the highest level ever, driven by AI contracts. We are guiding cloud revenue to exceed $25 billion for fiscal year 2025 and $35 billion in fiscal year 2026."
+    },
+    {
+      "speaker_id": "larry-ellison",
+      "speaker_name": "Larry Ellison",
+      "speaker_role": "CTO & Chairman",
+      "timestamp": "00:18:00",
+      "text": "Oracle Cloud Infrastructure is purpose-built for AI training and inference workloads. We have signed multi-billion dollar contracts with major AI companies to host their training clusters on OCI. We are building the world's largest AI training supercomputer in collaboration with our partners. OCI's win rate against AWS, Azure, and GCP for AI training workloads is significantly above 50%."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "Operator",
+      "timestamp": "00:36:00",
+      "text": "Our next question comes from Brent Thill at Jefferies."
+    },
+    {
+      "speaker_id": "analyst-brent-thill",
+      "speaker_name": "Brent Thill",
+      "speaker_role": "Analyst",
+      "timestamp": "00:36:20",
+      "text": "Safra, the $98 billion backlog is remarkable. Can you help us understand the pacing of revenue recognition and what gives you confidence in the $25 billion cloud revenue target for fiscal 2025?"
+    }
+  ],
+  "statements": [
+    {
+      "id": "ORCL-CY2024Q2-001",
+      "turn_index": 0,
+      "claim": "Oracle cloud revenue will exceed $25 billion in fiscal year 2025.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "ORCL-CY2024Q2-002",
+      "turn_index": 0,
+      "claim": "Remaining performance obligations grew 44% to $98 billion, the highest level in company history.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "operational_metric_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "unhedged",
+      "resolution": {
+        "finding": "validated",
+        "sources": [
+          {
+            "company": "oracle",
+            "call": "CY2024_Q3",
+            "statement_id": "ORCL-CY2024Q3-002"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ORCL-CY2024Q2-003",
+      "turn_index": 0,
+      "claim": "Oracle cloud revenue will exceed $35 billion in fiscal year 2026.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "ORCL-CY2024Q2-004",
+      "turn_index": 1,
+      "claim": "OCI's win rate against AWS, Azure, and GCP for AI training workloads is significantly above 50%.",
+      "categorizations": [
+        "competitive_or_market_position_claim"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "softly_hedged",
+      "resolution": {
+        "finding": "not_validated",
+        "sources": [
+          {
+            "company": "oracle",
+            "call": "CY2024_Q4",
+            "statement_id": "ORCL-CY2024Q4-003"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ORCL-CY2024Q2-005",
+      "turn_index": 1,
+      "claim": "Oracle is building the world's largest AI training supercomputer in collaboration with our partners.",
+      "categorizations": [
+        "capacity_or_capability_delivery",
+        "competitive_or_market_position_claim"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement"
+      ],
+      "hedging": "heavily_hedged",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    }
+  ]
+}

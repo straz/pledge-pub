@@ -1,0 +1,142 @@
+{
+  "company_id": "netflix",
+  "title": "Netflix Q2 2024 Earnings Call",
+  "datetime": "2024-07-17T21:00:00Z",
+  "period": "CY2024_Q2",
+  "location": "Los Gatos, CA",
+  "url": "https://ir.netflix.net/",
+  "turns": [
+    {
+      "speaker_id": "greg-peters",
+      "speaker_name": "Greg Peters",
+      "speaker_role": "Co-CEO",
+      "timestamp": "00:01:00",
+      "text": "Q2 2024 was an excellent quarter. We added 8.05 million paid subscribers to reach 277.65 million globally. We are not providing detailed subscriber guidance starting next year, but we are very confident in reaching 300 million paid subscribers by end of 2024. Our ad-supported plan continues to scale rapidly, and we expect it to represent more than 45% of new sign-ups in ad markets by the end of 2024."
+    },
+    {
+      "speaker_id": "spencer-neumann",
+      "speaker_name": "Spencer Neumann",
+      "speaker_role": "CFO",
+      "timestamp": "00:18:00",
+      "text": "Revenue was $9.6 billion, up 17% year-over-year. Operating income was $2.6 billion representing a 27% operating margin. For Q3 2024, we expect revenue of $9.825 billion and an operating margin of 28%. Full year 2024 operating margin guidance is raised to 26%, and we expect to reach a 28 to 29% operating margin in 2025 as we scale advertising revenue."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "Operator",
+      "timestamp": "00:36:00",
+      "text": "Our next question comes from Mark Mahaney at Evercore ISI."
+    },
+    {
+      "speaker_id": "analyst-mark-mahaney",
+      "speaker_name": "Mark Mahaney",
+      "speaker_role": "Analyst",
+      "timestamp": "00:36:20",
+      "text": "Greg, how should we think about the ad-supported tier's contribution to revenue and when does it become a meaningful driver of overall growth?"
+    }
+  ],
+  "statements": [
+    {
+      "id": "NFLX-CY2024Q2-001",
+      "turn_index": 0,
+      "claim": "Netflix will reach 300 million paid subscribers by end of 2024.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "resolution": {
+        "finding": "validated",
+        "sources": [
+          {
+            "company": "netflix",
+            "call": "CY2024_Q4",
+            "statement_id": "NFLX-CY2024Q4-004"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NFLX-CY2024Q2-002",
+      "turn_index": 0,
+      "claim": "The ad-supported plan will represent more than 45% of new sign-ups in ad markets by end of 2024.",
+      "categorizations": [
+        "segment_growth_specific",
+        "operational_metric_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NFLX-CY2024Q2-003",
+      "turn_index": 1,
+      "claim": "Full year 2024 operating margin will be 26%, and 2025 will reach 28 to 29%.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NFLX-CY2024Q2-004",
+      "turn_index": 0,
+      "claim": "Netflix added 8.05 million paid subscribers in Q2 2024, reaching 277.65 million globally.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "unhedged",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NFLX-CY2024Q2-005",
+      "turn_index": 1,
+      "claim": "Q3 2024 revenue will be $9.825 billion with an operating margin of 28%.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "margin_trajectory_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "resolution": {
+        "finding": "validated",
+        "sources": [
+          {
+            "company": "netflix",
+            "call": "CY2024_Q3",
+            "statement_id": "NFLX-CY2024Q3-001"
+          }
+        ]
+      }
+    }
+  ]
+}

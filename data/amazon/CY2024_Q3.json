@@ -1,0 +1,127 @@
+{
+  "company_id": "amazon",
+  "title": "Amazon Q3 2024 Earnings Call",
+  "datetime": "2024-10-31T21:00:00Z",
+  "period": "CY2024_Q3",
+  "location": "Seattle, WA",
+  "url": "https://ir.aboutamazon.com/",
+  "turns": [
+    {
+      "speaker_id": "andy-jassy",
+      "speaker_name": "Andy Jassy",
+      "speaker_role": "CEO",
+      "timestamp": "00:01:00",
+      "text": "Q3 was our best quarter ever from a profitability standpoint. AWS revenue grew 19.1% to $27.5 billion. The demand signal for AI infrastructure is extraordinary — our AI revenue run rate has grown from roughly $1 billion 18 months ago to meaningfully higher today, and the growth rate is accelerating. We are adding capacity as fast as we can. AWS will continue to be the fastest-growing large cloud provider through 2025."
+    },
+    {
+      "speaker_id": "brian-olsavsky",
+      "speaker_name": "Brian Olsavsky",
+      "speaker_role": "CFO",
+      "timestamp": "00:20:00",
+      "text": "Q3 operating income reached $17.4 billion, well above the top of our guidance range, and represents an operating margin of 10.6%. Total revenues were $143.1 billion. For Q4, we expect net sales of $181.5 to $188.5 billion and operating income of $16 to $20 billion. We are guiding to another record Q4 operating margin, reflecting scale benefits across both retail and AWS."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "Operator",
+      "timestamp": "00:38:00",
+      "text": "Our next question comes from Brent Thill at Jefferies."
+    },
+    {
+      "speaker_id": "analyst-brent-thill",
+      "speaker_name": "Brent Thill",
+      "speaker_role": "Analyst",
+      "timestamp": "00:38:20",
+      "text": "Andy, can you speak to how Project Kuiper and the satellite initiative fits into your longer-term infrastructure strategy?"
+    }
+  ],
+  "statements": [
+    {
+      "id": "AMZN-CY2024Q3-001",
+      "turn_index": 0,
+      "claim": "AWS will continue to be the fastest-growing large cloud provider through 2025.",
+      "categorizations": [
+        "competitive_or_market_position_claim",
+        "revenue_trajectory_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AMZN-CY2024Q3-002",
+      "turn_index": 0,
+      "claim": "AWS AI revenue run rate has grown from roughly $1 billion 18 months ago and is accelerating.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "capacity_or_capability_delivery"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "softly_hedged",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-CY2024Q3-003",
+      "turn_index": 0,
+      "claim": "AWS revenue grew 19.1% to $27.5 billion in Q3 2024.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "unhedged",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-CY2024Q3-004",
+      "turn_index": 1,
+      "claim": "Q4 2024 operating income will be in the range of $16 to $20 billion.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AMZN-CY2024Q3-005",
+      "turn_index": 1,
+      "claim": "Q3 2024 operating income reached $17.4 billion, exceeding the top of guidance.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "unhedged",
+      "resolution": {
+        "finding": "validated"
+      }
+    }
+  ]
+}

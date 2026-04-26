@@ -1,0 +1,135 @@
+{
+  "company_id": "apple",
+  "title": "Apple Q2 2024 Earnings Call",
+  "datetime": "2024-08-01T21:00:00Z",
+  "period": "CY2024_Q2",
+  "location": "Cupertino, CA",
+  "url": "https://investor.apple.com/",
+  "turns": [
+    {
+      "speaker_id": "tim-cook",
+      "speaker_name": "Tim Cook",
+      "speaker_role": "CEO",
+      "timestamp": "00:01:00",
+      "text": "Our June quarter revenue was $85.8 billion, down 1% year-over-year, primarily due to iPhone softness in China. Services revenue set a new all-time record of $24.2 billion, growing 14% year-over-year. We launched Apple Intelligence at WWDC with an expanded feature set shipping in fall 2024. We expect Apple Intelligence to meaningfully contribute to Services revenue growth in fiscal 2025 as it drives increased engagement across our installed base."
+    },
+    {
+      "speaker_id": "kevan-parekh",
+      "speaker_name": "Kevan Parekh",
+      "speaker_role": "CFO",
+      "timestamp": "00:18:00",
+      "text": "Gross margin was 46.3% for the quarter, at the high end of our guidance range of 45.5% to 46.5%. We expect Q3 gross margin of 46.0% to 47.0%, and we remain confident in our ability to sustain gross margins above 45% as we scale Apple Intelligence features. Services gross margin expanded to 74.0%, and we believe the Services segment will exceed $130 billion in revenue for full calendar year 2025."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "Operator",
+      "timestamp": "00:36:00",
+      "text": "Our next question comes from Ben Reitzes at Melius Research."
+    },
+    {
+      "speaker_id": "analyst-ben-reitzes",
+      "speaker_name": "Ben Reitzes",
+      "speaker_role": "Analyst",
+      "timestamp": "00:36:20",
+      "text": "Tim, can you speak to your confidence in the iPhone upgrade cycle driven by Apple Intelligence, and how you're thinking about the China market recovery?"
+    }
+  ],
+  "statements": [
+    {
+      "id": "AAPL-CY2024Q2-001",
+      "turn_index": 0,
+      "claim": "Apple Intelligence will meaningfully contribute to Services revenue growth in fiscal 2025.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "capacity_or_capability_delivery"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AAPL-CY2024Q2-002",
+      "turn_index": 1,
+      "claim": "Apple will sustain gross margins above 45% as it scales Apple Intelligence features.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "resolution": {
+        "finding": "validated",
+        "sources": [
+          {
+            "company": "apple",
+            "call": "CY2024_Q3",
+            "statement_id": "AAPL-CY2024Q3-002"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AAPL-CY2024Q2-003",
+      "turn_index": 1,
+      "claim": "Services gross margin expanded to 74.0% in Q2 2024.",
+      "categorizations": [
+        "margin_trajectory_specific",
+        "segment_growth_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "unhedged",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-CY2024Q2-004",
+      "turn_index": 1,
+      "claim": "The Services segment will exceed $130 billion in revenue for full calendar year 2025.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "segment_growth_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AAPL-CY2024Q2-005",
+      "turn_index": 0,
+      "claim": "Apple Intelligence will drive the most significant iPhone upgrade cycle in a decade.",
+      "categorizations": [
+        "strategic_direction_claim"
+      ],
+      "commitment_tags": [
+        "claims_with_no_falsifiability_window_or_open_ended_timeline",
+        "rhetorical_assertions_without_specific_verifiable_content"
+      ],
+      "hedging": "rhetorical_only",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    }
+  ]
+}

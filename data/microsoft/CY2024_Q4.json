@@ -1,0 +1,127 @@
+{
+  "company_id": "microsoft",
+  "title": "Microsoft Q4 2024 Earnings Call",
+  "datetime": "2025-01-29T22:00:00Z",
+  "period": "CY2024_Q4",
+  "location": "Redmond, WA",
+  "url": "https://www.microsoft.com/en-us/investor/",
+  "turns": [
+    {
+      "speaker_id": "satya-nadella",
+      "speaker_name": "Satya Nadella",
+      "speaker_role": "CEO",
+      "timestamp": "00:01:00",
+      "text": "Fiscal Q2 2025 was excellent. Revenue was $69.6 billion, up 12% year-over-year. Azure grew 31% in constant currency, at the midpoint of our guidance range. We see continued strong demand for AI services but remain supply-constrained in several regions. We expect Azure growth to reaccelerate in the second half of fiscal 2025 as new data centers come online. Microsoft AI Copilot is now embedded across every major Microsoft product surface."
+    },
+    {
+      "speaker_id": "amy-hood",
+      "speaker_name": "Amy Hood",
+      "speaker_role": "CFO",
+      "timestamp": "00:20:00",
+      "text": "Commercial cloud revenue was $40.9 billion, up 21% year-over-year. Operating income was $31.7 billion at a 45% operating margin, down slightly due to elevated CapEx. Capital expenditures were $22.6 billion this quarter. For fiscal Q3 2025, we expect Azure growth of 34 to 35% in constant currency as supply constraints ease and new AI capacity comes online across North America and Europe."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "Operator",
+      "timestamp": "00:38:00",
+      "text": "Our next question comes from Brent Thill at Jefferies."
+    },
+    {
+      "speaker_id": "analyst-brent-thill",
+      "speaker_name": "Brent Thill",
+      "speaker_role": "Analyst",
+      "timestamp": "00:38:20",
+      "text": "Amy, with $22.6 billion in CapEx this quarter, can you give us a sense of the return timeline and how long before we see operating leverage from this spend?"
+    }
+  ],
+  "statements": [
+    {
+      "id": "MSFT-CY2024Q4-001",
+      "turn_index": 0,
+      "claim": "Azure growth will reaccelerate in the second half of fiscal 2025 as new data centers come online.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "capacity_or_capability_delivery"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "MSFT-CY2024Q4-002",
+      "turn_index": 0,
+      "claim": "Azure grew 31% in constant currency in fiscal Q2 2025, at the midpoint of guidance.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "unhedged",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-CY2024Q4-003",
+      "turn_index": 1,
+      "claim": "Azure growth guidance for fiscal Q3 2025 is 34 to 35% in constant currency.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "MSFT-CY2024Q4-004",
+      "turn_index": 1,
+      "claim": "Capital expenditures were $22.6 billion in fiscal Q2 2025.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "unhedged",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-CY2024Q4-005",
+      "turn_index": 0,
+      "claim": "Microsoft AI Copilot is now embedded across every major Microsoft product surface.",
+      "categorizations": [
+        "capacity_or_capability_delivery",
+        "strategic_direction_claim"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "softly_hedged",
+      "resolution": {
+        "finding": "validated"
+      }
+    }
+  ]
+}

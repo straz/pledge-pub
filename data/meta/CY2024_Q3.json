@@ -1,0 +1,134 @@
+{
+  "company_id": "meta",
+  "title": "Meta Q3 2024 Earnings Call",
+  "datetime": "2024-10-30T21:00:00Z",
+  "period": "CY2024_Q3",
+  "location": "Menlo Park, CA",
+  "url": "https://investor.fb.com/",
+  "turns": [
+    {
+      "speaker_id": "mark-zuckerberg",
+      "speaker_name": "Mark Zuckerberg",
+      "speaker_role": "CEO",
+      "timestamp": "00:01:00",
+      "text": "Q3 was another excellent quarter. Revenue was $40.6 billion, above the top of our outlook range. Daily active people reached 3.29 billion, up 5% year-over-year. Meta AI is on track to become the most widely used AI assistant in the world by end of 2024. We now have over 500 million monthly active users for Meta AI across our apps. Llama 4 development is proceeding well and we will share more details early in 2025."
+    },
+    {
+      "speaker_id": "susan-li",
+      "speaker_name": "Susan Li",
+      "speaker_role": "CFO",
+      "timestamp": "00:18:00",
+      "text": "Revenue of $40.6 billion was up 19% year-over-year. Operating income was $17.2 billion at a 42% operating margin. For Q4, we expect revenue of $45 to $48 billion, implying a 20%+ growth rate. Total 2024 expenses are now expected to be $96 to $98 billion. We expect 2025 capital expenditures to be in the range of $38 to $40 billion as we build AI training and inference infrastructure."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "Operator",
+      "timestamp": "00:36:00",
+      "text": "Our next question comes from Eric Sheridan at Goldman Sachs."
+    },
+    {
+      "speaker_id": "analyst-eric-sheridan",
+      "speaker_name": "Eric Sheridan",
+      "speaker_role": "Analyst",
+      "timestamp": "00:36:20",
+      "text": "Susan, how should we think about the CapEx guidance for 2025 and whether that number could move higher if AI demand accelerates beyond your current plans?"
+    }
+  ],
+  "statements": [
+    {
+      "id": "META-CY2024Q3-001",
+      "turn_index": 0,
+      "claim": "Q3 2024 revenue was $40.6 billion, above the top of the outlook range.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "unhedged",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-CY2024Q3-002",
+      "turn_index": 0,
+      "claim": "Meta AI is on track to become the most widely used AI assistant in the world by end of 2024.",
+      "categorizations": [
+        "competitive_or_market_position_claim",
+        "operational_metric_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "META-CY2024Q3-003",
+      "turn_index": 0,
+      "claim": "Daily active people reached 3.29 billion in Q3 2024, up 5% year-over-year.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "unhedged",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-CY2024Q3-004",
+      "turn_index": 1,
+      "claim": "Q4 2024 revenue will be $45 to $48 billion, implying 20%+ growth year-over-year.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "resolution": {
+        "finding": "validated",
+        "sources": [
+          {
+            "company": "meta",
+            "call": "CY2024_Q4",
+            "statement_id": "META-CY2024Q4-004"
+          }
+        ]
+      }
+    },
+    {
+      "id": "META-CY2024Q3-005",
+      "turn_index": 1,
+      "claim": "2025 capital expenditures will be $38 to $40 billion for AI training and inference infrastructure.",
+      "categorizations": [
+        "financial_structure_or_capital_action",
+        "capacity_or_capability_delivery"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    }
+  ]
+}

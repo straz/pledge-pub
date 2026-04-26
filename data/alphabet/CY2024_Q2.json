@@ -1,0 +1,137 @@
+{
+  "company_id": "alphabet",
+  "title": "Alphabet Q2 2024 Earnings Call",
+  "datetime": "2024-07-23T21:00:00Z",
+  "period": "CY2024_Q2",
+  "location": "Sunnyvale, CA",
+  "url": "https://abc.xyz/investor/",
+  "turns": [
+    {
+      "speaker_id": "sundar-pichai",
+      "speaker_name": "Sundar Pichai",
+      "speaker_role": "CEO",
+      "timestamp": "00:00:45",
+      "text": "Thank you for joining us. Q2 was a strong quarter driven by Search and Cloud momentum. Google Cloud revenue reached $10.4 billion, up 29% year-over-year, and we expect this trajectory to continue into Q3 with Cloud revenue in the range of $10.8 to $11.0 billion. Our AI Overviews feature launched broadly in May and is already showing strong engagement signals that we expect will drive long-term Search revenue growth."
+    },
+    {
+      "speaker_id": "anat-ashkenazi",
+      "speaker_name": "Anat Ashkenazi",
+      "speaker_role": "CFO",
+      "timestamp": "00:18:30",
+      "text": "Total revenues were $84.7 billion for Q2, up 14% year-over-year. Operating income was $27.4 billion, reflecting an operating margin of 32%. We continue to invest heavily in AI infrastructure. Capital expenditures were $13.2 billion, and we expect CapEx to remain at elevated levels through the balance of 2024 as we build out our TPU v5 capacity, which we plan to expand by over 200% by year-end."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "Operator",
+      "timestamp": "00:35:00",
+      "text": "Our first question comes from Eric Sheridan at Goldman Sachs."
+    },
+    {
+      "speaker_id": "analyst-eric-sheridan",
+      "speaker_name": "Eric Sheridan",
+      "speaker_role": "Analyst",
+      "timestamp": "00:35:15",
+      "text": "Thanks. Sundar, can you talk about what you're seeing in terms of competitive dynamics in the AI assistant space and how Gemini is positioned relative to peers?"
+    }
+  ],
+  "statements": [
+    {
+      "id": "GOOGL-CY2024Q2-001",
+      "turn_index": 0,
+      "claim": "Google Cloud revenue will be in the range of $10.8 to $11.0 billion in Q3 2024.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "resolution": {
+        "finding": "validated",
+        "sources": [
+          {
+            "company": "alphabet",
+            "call": "CY2024_Q3",
+            "statement_id": "GOOGL-CY2024Q3-005"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GOOGL-CY2024Q2-002",
+      "turn_index": 0,
+      "claim": "AI Overviews engagement signals will drive long-term Search revenue growth.",
+      "categorizations": [
+        "strategic_direction_claim",
+        "capacity_or_capability_delivery"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "claims_with_no_falsifiability_window_or_open_ended_timeline"
+      ],
+      "hedging": "heavily_hedged",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "GOOGL-CY2024Q2-003",
+      "turn_index": 1,
+      "claim": "TPU v5 capacity will expand by over 200% by year-end 2024.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "resolution": {
+        "finding": "validated",
+        "sources": [
+          {
+            "company": "alphabet",
+            "call": "CY2024_Q4",
+            "statement_id": "GOOGL-CY2024Q4-004"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GOOGL-CY2024Q2-004",
+      "turn_index": 1,
+      "claim": "Capital expenditures will remain at elevated levels through the balance of 2024.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement"
+      ],
+      "hedging": "softly_hedged",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "GOOGL-CY2024Q2-005",
+      "turn_index": 0,
+      "claim": "Gemini represents the most capable AI assistant available for consumer and enterprise use.",
+      "categorizations": [
+        "competitive_or_market_position_claim"
+      ],
+      "commitment_tags": [
+        "rhetorical_assertions_without_specific_verifiable_content"
+      ],
+      "hedging": "rhetorical_only",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    }
+  ]
+}

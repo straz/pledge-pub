@@ -1,0 +1,128 @@
+{
+  "company_id": "amazon",
+  "title": "Amazon Q4 2024 Earnings Call",
+  "datetime": "2025-02-06T22:00:00Z",
+  "period": "CY2024_Q4",
+  "location": "Seattle, WA",
+  "url": "https://ir.aboutamazon.com/",
+  "turns": [
+    {
+      "speaker_id": "andy-jassy",
+      "speaker_name": "Andy Jassy",
+      "speaker_role": "CEO",
+      "timestamp": "00:01:00",
+      "text": "Q4 2024 was a remarkable quarter. AWS revenue grew 19% to $28.8 billion, ending the year at an annualized run rate of $115 billion — close to but below our $120 billion target due to capacity constraints persisting longer than expected. We have since resolved those constraints and are seeing demand outpace our ability to build. In 2025, we expect AWS growth to reaccelerate into the mid-20% range as new data center capacity comes online."
+    },
+    {
+      "speaker_id": "brian-olsavsky",
+      "speaker_name": "Brian Olsavsky",
+      "speaker_role": "CFO",
+      "timestamp": "00:20:00",
+      "text": "Q4 total revenues were $187.8 billion, up 10% year-over-year. Operating income was $21.2 billion, representing an operating margin of 11.3% — a new company record. Full year 2024 operating income was $68.6 billion, up from $36.9 billion in 2023. We will significantly increase capital expenditure investment in 2025 to fund AI infrastructure expansion, with CapEx expected to exceed $100 billion."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "Operator",
+      "timestamp": "00:38:00",
+      "text": "Our next question comes from Mark Mahaney at Evercore ISI."
+    },
+    {
+      "speaker_id": "analyst-mark-mahaney",
+      "speaker_name": "Mark Mahaney",
+      "speaker_role": "Analyst",
+      "timestamp": "00:38:20",
+      "text": "Brian, can you help us understand the margin dynamics as you significantly increase CapEx? How should we think about AWS margin trajectory through 2025?"
+    }
+  ],
+  "statements": [
+    {
+      "id": "AMZN-CY2024Q4-001",
+      "turn_index": 0,
+      "claim": "AWS ended 2024 at an annualized run rate of $115 billion, below the $120 billion target.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "unhedged",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-CY2024Q4-002",
+      "turn_index": 0,
+      "claim": "AWS growth will reaccelerate into the mid-20% range in 2025 as new data center capacity comes online.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "capacity_or_capability_delivery"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AMZN-CY2024Q4-003",
+      "turn_index": 1,
+      "claim": "Amazon 2025 capital expenditure will exceed $100 billion to fund AI infrastructure expansion.",
+      "categorizations": [
+        "financial_structure_or_capital_action",
+        "capacity_or_capability_delivery"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AMZN-CY2024Q4-004",
+      "turn_index": 1,
+      "claim": "Amazon's full year 2024 operating income was $68.6 billion, nearly double the 2023 result.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "unhedged",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-CY2024Q4-005",
+      "turn_index": 1,
+      "claim": "Q4 2024 operating income was $21.2 billion, a new company record at an 11.3% margin.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "unhedged",
+      "resolution": {
+        "finding": "validated"
+      }
+    }
+  ]
+}
