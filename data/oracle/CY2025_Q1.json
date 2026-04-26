@@ -1,0 +1,132 @@
+{
+  "company_id": "oracle",
+  "title": "Oracle Q1 2025 Earnings Call",
+  "datetime": "2025-03-10T22:00:00Z",
+  "period": "CY2025_Q1",
+  "location": "Austin, TX",
+  "url": "https://investor.oracle.com/",
+  "turns": [
+    {
+      "speaker_id": "safra-catz",
+      "speaker_name": "Safra Catz",
+      "speaker_role": "CEO",
+      "timestamp": "00:01:00",
+      "text": "Q3 of fiscal 2025 was another record quarter. Total cloud revenue was $6.2 billion, up 26% in constant currency. OCI revenue grew 48% year-over-year. Remaining performance obligations reached $130 billion — our highest ever — as AI contract wins continue at an extraordinary pace. We are on track to deliver cloud revenue exceeding $25 billion for fiscal year 2025 and are raising our fiscal 2026 cloud revenue target to $48 billion."
+    },
+    {
+      "speaker_id": "larry-ellison",
+      "speaker_name": "Larry Ellison",
+      "speaker_role": "CTO & Chairman",
+      "timestamp": "00:18:00",
+      "text": "We are winning AI infrastructure deals that our competitors cannot match because of our cluster networking architecture and our ability to provision multi-tenant GPU clusters at scale with data isolation guarantees. We have signed contracts with five additional nation-state governments in the past 90 days. Our multi-cloud database partnerships with Microsoft Azure and Google Cloud are accelerating — customers can now run Oracle Database everywhere their data lives."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "Operator",
+      "timestamp": "00:38:00",
+      "text": "Our next question comes from Brent Thill at Jefferies."
+    },
+    {
+      "speaker_id": "analyst-brent-thill",
+      "speaker_name": "Brent Thill",
+      "speaker_role": "Analyst",
+      "timestamp": "00:38:20",
+      "text": "Safra, RPO at $130 billion is staggering. Can you give us a sense of what the conversion timeline looks like and whether demand is outstripping your ability to build capacity?"
+    }
+  ],
+  "statements": [
+    {
+      "id": "ORCL-CY2025Q1-001",
+      "turn_index": 0,
+      "claim": "OCI revenue grew 48% year-over-year in Q3 fiscal 2025.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "segment_growth_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "unhedged",
+      "override_window": "resolved",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "ORCL-CY2025Q1-002",
+      "turn_index": 0,
+      "claim": "Oracle remaining performance obligations reached $130 billion, an all-time record.",
+      "categorizations": [
+        "operational_metric_specific",
+        "revenue_trajectory_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "unhedged",
+      "override_window": "resolved",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "ORCL-CY2025Q1-003",
+      "turn_index": 0,
+      "claim": "Oracle is raising its fiscal 2026 cloud revenue target to $48 billion.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "ORCL-CY2025Q1-004",
+      "turn_index": 1,
+      "claim": "Oracle has signed contracts with five additional nation-state governments for sovereign AI infrastructure in the past 90 days.",
+      "categorizations": [
+        "geographic_or_regional_rollout",
+        "operational_metric_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "unhedged",
+      "override_window": "resolved",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "ORCL-CY2025Q1-005",
+      "turn_index": 1,
+      "claim": "Oracle Database is now available on Microsoft Azure and Google Cloud through multi-cloud partnerships.",
+      "categorizations": [
+        "capacity_or_capability_delivery",
+        "strategic_direction_claim"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement"
+      ],
+      "hedging": "unhedged",
+      "override_window": "resolved",
+      "resolution": {
+        "finding": "validated"
+      }
+    }
+  ]
+}

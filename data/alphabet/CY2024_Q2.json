@@ -50,6 +50,7 @@
         "falsifiable_within_eight_quarter_window"
       ],
       "hedging": "unhedged",
+      "override_window": "resolved",
       "resolution": {
         "finding": "validated",
         "sources": [
@@ -74,6 +75,7 @@
         "claims_with_no_falsifiability_window_or_open_ended_timeline"
       ],
       "hedging": "heavily_hedged",
+      "override_window": "indefinite",
       "resolution": {
         "finding": "unresolved"
       }
@@ -91,6 +93,7 @@
         "falsifiable_within_eight_quarter_window"
       ],
       "hedging": "unhedged",
+      "override_window": "resolved",
       "resolution": {
         "finding": "validated",
         "sources": [
@@ -114,6 +117,7 @@
         "verifiable_against_subsequent_disclosure_or_financial_statement"
       ],
       "hedging": "softly_hedged",
+      "override_window": "immediate",
       "resolution": {
         "finding": "unresolved"
       }
@@ -129,6 +133,7 @@
         "rhetorical_assertions_without_specific_verifiable_content"
       ],
       "hedging": "rhetorical_only",
+      "override_window": "indefinite",
       "resolution": {
         "finding": "unresolved"
       }

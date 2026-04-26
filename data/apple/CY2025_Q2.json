@@ -1,0 +1,145 @@
+{
+  "company_id": "apple",
+  "title": "Apple Q2 2025 Earnings Call",
+  "datetime": "2025-07-31T21:00:00Z",
+  "period": "CY2025_Q2",
+  "location": "Cupertino, CA",
+  "url": "https://investor.apple.com/",
+  "turns": [
+    {
+      "speaker_id": "tim-cook",
+      "speaker_name": "Tim Cook",
+      "speaker_role": "CEO",
+      "timestamp": "00:01:00",
+      "text": "We are thrilled with our Q2 results. Services revenue set another all-time record at $27.8 billion, up 14%. The App Store saw its highest-ever developer earnings in a second quarter. We are announcing that Apple Vision Pro Gen 2 will ship in Q4 2025, with a new form factor that is 40% lighter and priced at $2,499 — meaningfully more accessible. Mac revenue grew 8% on the strength of the M4 Pro lineup. We expect Services to cross $110 billion in annual revenue this calendar year."
+    },
+    {
+      "speaker_id": "kevan-parekh",
+      "speaker_name": "Kevan Parekh",
+      "speaker_role": "CFO",
+      "timestamp": "00:18:00",
+      "text": "Total revenue was $89.2 billion, up 4% year-over-year. Gross margin was 47.4%. We returned $26.5 billion to shareholders. For Q3 2025, we expect revenue of $87–90 billion and a gross margin in the range of 47–48%."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "Operator",
+      "timestamp": "00:36:00",
+      "text": "Our next question comes from Ben Reitzes at Melius Research."
+    },
+    {
+      "speaker_id": "analyst-ben-reitzes",
+      "speaker_name": "Ben Reitzes",
+      "speaker_role": "Analyst",
+      "timestamp": "00:36:20",
+      "text": "Tim, Vision Pro Gen 2 at $2,499 is a bold pricing move. What gives you confidence that the addressable market expands meaningfully from the Gen 1 installed base?"
+    }
+  ],
+  "statements": [
+    {
+      "id": "AAPL-CY2025Q2-001",
+      "turn_index": 1,
+      "claim": "Apple Services revenue set an all-time record at $27.8 billion in Q2 2025, up 14%.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "segment_growth_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement"
+      ],
+      "hedging": "unhedged",
+      "override_window": "resolved",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-CY2025Q2-002",
+      "turn_index": 0,
+      "claim": "Apple Vision Pro Gen 2 will ship in Q4 2025, priced at $2,499 and 40% lighter.",
+      "categorizations": [
+        "capacity_or_capability_delivery",
+        "competitive_or_market_position_claim"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "resolved",
+      "resolution": {
+        "finding": "validated",
+        "sources": [
+          {
+            "company": "apple",
+            "call": "CY2025_Q4",
+            "statement_id": "AAPL-CY2025Q4-003"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AAPL-CY2025Q2-003",
+      "turn_index": 0,
+      "claim": "Apple expects Services to cross $110 billion in annual calendar year 2025 revenue.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "segment_growth_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "resolved",
+      "resolution": {
+        "finding": "validated",
+        "sources": [
+          {
+            "company": "apple",
+            "call": "CY2025_Q4",
+            "statement_id": "AAPL-CY2025Q4-002"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AAPL-CY2025Q2-004",
+      "turn_index": 1,
+      "claim": "Apple's gross margin was 47.4% in Q2 2025.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement"
+      ],
+      "hedging": "unhedged",
+      "override_window": "resolved",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-CY2025Q2-005",
+      "turn_index": 0,
+      "claim": "Mac revenue grew 8% in Q2 2025 on the strength of the M4 Pro lineup.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "segment_growth_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement"
+      ],
+      "hedging": "unhedged",
+      "override_window": "resolved",
+      "resolution": {
+        "finding": "validated"
+      }
+    }
+  ]
+}

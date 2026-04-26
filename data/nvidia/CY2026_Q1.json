@@ -1,0 +1,132 @@
+{
+  "company_id": "nvidia",
+  "title": "Nvidia Q1 2026 Earnings Call",
+  "datetime": "2026-05-28T20:00:00Z",
+  "period": "CY2026_Q1",
+  "location": "Santa Clara, CA",
+  "url": "https://investor.nvidia.com/",
+  "turns": [
+    {
+      "speaker_id": "jensen-huang",
+      "speaker_name": "Jensen Huang",
+      "speaker_role": "CEO",
+      "timestamp": "00:01:00",
+      "text": "Q1 2026 data center revenue was $44.2 billion, slightly ahead of guidance, as Rubin systems began early customer shipments in April. The Rubin ramp is tracking to plan and we expect to exit Q2 at volume. Physical AI — robotics, autonomous vehicles, and industrial automation — is emerging as a new growth vector. Our Isaac and DRIVE platforms have over 400 companies building on them. We expect physical AI revenue to reach $5 billion in fiscal 2027."
+    },
+    {
+      "speaker_id": "colette-kress",
+      "speaker_name": "Colette Kress",
+      "speaker_role": "CFO",
+      "timestamp": "00:18:00",
+      "text": "Total Q1 2026 revenue was $49.1 billion, up 11% year-over-year, reflecting the expected Rubin transition dip. Gross margin recovered to 74.3%. Operating margin was 67.9%. For Q2, we expect revenue of $58 billion, plus or minus 2%, as Rubin volume ramps and demand from hyperscalers returns to prior trajectory."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "Operator",
+      "timestamp": "00:38:00",
+      "text": "Our next question comes from Ben Reitzes at Melius Research."
+    },
+    {
+      "speaker_id": "analyst-ben-reitzes",
+      "speaker_name": "Ben Reitzes",
+      "speaker_role": "Analyst",
+      "timestamp": "00:38:20",
+      "text": "Jensen, physical AI at $5 billion in fiscal 2027 — is that already in contracted backlog or is it primarily design-win pipeline that still needs to convert to revenue?"
+    }
+  ],
+  "statements": [
+    {
+      "id": "NVDA-CY2026Q1-001",
+      "turn_index": 0,
+      "claim": "Nvidia Q1 2026 data center revenue was $44.2 billion, slightly ahead of the $43 billion guidance.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "segment_growth_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-CY2026Q1-002",
+      "turn_index": 0,
+      "claim": "Nvidia expects Rubin to reach volume production by end of Q2 2026.",
+      "categorizations": [
+        "capacity_or_capability_delivery",
+        "operational_metric_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-CY2026Q1-003",
+      "turn_index": 0,
+      "claim": "Nvidia expects physical AI revenue to reach $5 billion in fiscal year 2027.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "segment_growth_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-CY2026Q1-004",
+      "turn_index": 1,
+      "claim": "Nvidia expects Q2 2026 revenue of $58 billion, plus or minus 2%.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-CY2026Q1-005",
+      "turn_index": 1,
+      "claim": "Nvidia gross margin recovered to 74.3% in Q1 2026.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    }
+  ]
+}

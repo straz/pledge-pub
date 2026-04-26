@@ -1,0 +1,133 @@
+{
+  "company_id": "alphabet",
+  "title": "Alphabet Q3 2025 Earnings Call",
+  "datetime": "2025-10-28T20:00:00Z",
+  "period": "CY2025_Q3",
+  "location": "Mountain View, CA",
+  "url": "https://abc.xyz/investor/",
+  "turns": [
+    {
+      "speaker_id": "sundar-pichai",
+      "speaker_name": "Sundar Pichai",
+      "speaker_role": "CEO",
+      "timestamp": "00:01:00",
+      "text": "Q3 2025 was another strong quarter. Google Cloud revenues reached $14.9 billion, up 30% year-over-year. Our AI infrastructure — particularly our sixth-generation TPUs — is giving us a structural cost advantage that we expect to sustain. Waymo now operates fully autonomous rides in eight U.S. cities and is expanding to international markets in 2026. We launched Gemini Ultra 2 for enterprise customers in September, already adopted by over 500 large organizations within 30 days."
+    },
+    {
+      "speaker_id": "anat-ashkenazi",
+      "speaker_name": "Anat Ashkenazi",
+      "speaker_role": "CFO",
+      "timestamp": "00:18:00",
+      "text": "Total revenues were $103.0 billion, up 15% year-over-year. Operating margin was 35.5%. Google Services revenues grew 12%, with strong performance across Search, YouTube, and Play. Google Cloud operating income was $2.1 billion, with margin expanding meaningfully from prior year. We remain on track for our full-year Cloud revenue target. Free cash flow was $26.3 billion."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "Operator",
+      "timestamp": "00:38:00",
+      "text": "Our next question comes from Eric Sheridan at Goldman Sachs."
+    },
+    {
+      "speaker_id": "analyst-eric-sheridan",
+      "speaker_name": "Eric Sheridan",
+      "speaker_role": "Analyst",
+      "timestamp": "00:38:20",
+      "text": "Sundar, Waymo expansion to eight cities is notable. Can you frame how the unit economics of autonomous ride-hailing get to profitability, and what the timeline looks like?"
+    }
+  ],
+  "statements": [
+    {
+      "id": "GOOGL-CY2025Q3-001",
+      "turn_index": 0,
+      "claim": "Google Cloud revenues reached $14.9 billion in Q3 2025, up 30% year-over-year.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "segment_growth_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "unhedged",
+      "override_window": "resolved",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "GOOGL-CY2025Q3-002",
+      "turn_index": 0,
+      "claim": "Waymo now operates fully autonomous rides in eight U.S. cities and will expand internationally in 2026.",
+      "categorizations": [
+        "geographic_or_regional_rollout",
+        "capacity_or_capability_delivery"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "GOOGL-CY2025Q3-003",
+      "turn_index": 0,
+      "claim": "Gemini Ultra 2 was adopted by over 500 large enterprise organizations within 30 days of launch.",
+      "categorizations": [
+        "operational_metric_specific",
+        "segment_growth_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "unhedged",
+      "override_window": "resolved",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "GOOGL-CY2025Q3-004",
+      "turn_index": 1,
+      "claim": "Google Cloud operating income was $2.1 billion in Q3 2025 with meaningful margin expansion.",
+      "categorizations": [
+        "margin_trajectory_specific",
+        "segment_growth_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement"
+      ],
+      "hedging": "unhedged",
+      "override_window": "resolved",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "GOOGL-CY2025Q3-005",
+      "turn_index": 0,
+      "claim": "Alphabet's sixth-generation TPUs provide a structural cost advantage expected to be sustained.",
+      "categorizations": [
+        "competitive_or_market_position_claim",
+        "capacity_or_capability_delivery"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "heavily_hedged",
+      "override_window": "indefinite",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    }
+  ]
+}

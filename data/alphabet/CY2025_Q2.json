@@ -1,0 +1,139 @@
+{
+  "company_id": "alphabet",
+  "title": "Alphabet Q2 2025 Earnings Call",
+  "datetime": "2025-07-29T20:00:00Z",
+  "period": "CY2025_Q2",
+  "location": "Mountain View, CA",
+  "url": "https://abc.xyz/investor/",
+  "turns": [
+    {
+      "speaker_id": "sundar-pichai",
+      "speaker_name": "Sundar Pichai",
+      "speaker_role": "CEO",
+      "timestamp": "00:01:00",
+      "text": "Q2 2025 demonstrated that our AI investments are compounding into durable revenue growth. Google Cloud grew 29% to $13.4 billion, ahead of our expectations. Gemini 2.0 Flash is now the most widely used AI model in the world by API call volume, powering over 4 million developers. Our Search monetization has improved year-over-year for the third consecutive quarter as AI Overviews expands ad surfaces. We expect Google Cloud to reach $55 billion in annual revenue in 2025, raised from our prior target."
+    },
+    {
+      "speaker_id": "anat-ashkenazi",
+      "speaker_name": "Anat Ashkenazi",
+      "speaker_role": "CFO",
+      "timestamp": "00:18:00",
+      "text": "Total revenues were $96.4 billion, up 14% year-over-year. Operating margin expanded to 35%. We generated $23.1 billion in free cash flow. Capital expenditures were $14.3 billion, primarily for TPU and data center infrastructure. YouTube revenues of $9.7 billion grew 9% year-over-year. We are increasing our full-year capex guidance to approximately $57 billion."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "Operator",
+      "timestamp": "00:38:00",
+      "text": "Our next question comes from Eric Sheridan at Goldman Sachs."
+    },
+    {
+      "speaker_id": "analyst-eric-sheridan",
+      "speaker_name": "Eric Sheridan",
+      "speaker_role": "Analyst",
+      "timestamp": "00:38:20",
+      "text": "Anat, capex of $57 billion is a step up. Can you help us understand the confidence level around returns on that investment and the timeline to meaningful contribution?"
+    }
+  ],
+  "statements": [
+    {
+      "id": "GOOGL-CY2025Q2-001",
+      "turn_index": 0,
+      "claim": "Google Cloud grew 29% to $13.4 billion in Q2 2025.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "segment_growth_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "unhedged",
+      "override_window": "resolved",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "GOOGL-CY2025Q2-002",
+      "turn_index": 0,
+      "claim": "Gemini 2.0 Flash is the most widely used AI model in the world by API call volume.",
+      "categorizations": [
+        "competitive_or_market_position_claim",
+        "capacity_or_capability_delivery"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "resolved",
+      "resolution": {
+        "finding": "not_validated"
+      }
+    },
+    {
+      "id": "GOOGL-CY2025Q2-003",
+      "turn_index": 0,
+      "claim": "Google Cloud will reach $55 billion in annual revenue in 2025.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "resolved",
+      "resolution": {
+        "finding": "validated",
+        "sources": [
+          {
+            "company": "alphabet",
+            "call": "CY2025_Q4",
+            "statement_id": "GOOGL-CY2025Q4-001"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GOOGL-CY2025Q2-004",
+      "turn_index": 1,
+      "claim": "Alphabet is increasing full-year capital expenditures guidance to approximately $57 billion.",
+      "categorizations": [
+        "financial_structure_or_capital_action",
+        "capacity_or_capability_delivery"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "resolved",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "GOOGL-CY2025Q2-005",
+      "turn_index": 1,
+      "claim": "YouTube revenues grew 9% year-over-year to $9.7 billion in Q2 2025.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "segment_growth_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement"
+      ],
+      "hedging": "unhedged",
+      "override_window": "resolved",
+      "resolution": {
+        "finding": "validated"
+      }
+    }
+  ]
+}

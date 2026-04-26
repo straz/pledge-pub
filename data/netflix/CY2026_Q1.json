@@ -1,0 +1,130 @@
+{
+  "company_id": "netflix",
+  "title": "Netflix Q1 2026 Earnings Call",
+  "datetime": "2026-04-15T20:00:00Z",
+  "period": "CY2026_Q1",
+  "location": "Los Gatos, CA",
+  "url": "https://ir.netflix.net/",
+  "turns": [
+    {
+      "speaker_id": "greg-peters",
+      "speaker_name": "Greg Peters",
+      "speaker_role": "Co-CEO",
+      "timestamp": "00:01:00",
+      "text": "Netflix added 9.8 million subscribers in Q1 2026, ahead of expectations, to reach 337 million. Formula 1 streaming began on Netflix in March and became the most-watched live sports event in our history, with the Australian Grand Prix drawing 28 million concurrent viewers. Advertising revenue grew 180% year-over-year and now represents 14% of total revenue. We are raising our full-year 2026 subscriber growth target to 35–40 million net adds."
+    },
+    {
+      "speaker_id": "spencer-neumann",
+      "speaker_name": "Spencer Neumann",
+      "speaker_role": "CFO",
+      "timestamp": "00:18:00",
+      "text": "Q1 2026 revenue was $11.8 billion, up 13% year-over-year. Operating margin was 29.4%. The lower margin reflects Formula 1 rights cost front-loading in Q1. Full-year margin is expected to be above 34% as rights costs amortize evenly. For Q2 2026, we expect revenue of $12.5–13.0 billion and operating margin of approximately 32%."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "Operator",
+      "timestamp": "00:36:00",
+      "text": "Our next question comes from Mark Mahaney at Evercore ISI."
+    },
+    {
+      "speaker_id": "analyst-mark-mahaney",
+      "speaker_name": "Mark Mahaney",
+      "speaker_role": "Analyst",
+      "timestamp": "00:36:20",
+      "text": "Greg, advertising at 14% of revenue with 180% growth — at what revenue scale does Netflix need to build its own ad tech stack rather than relying on Microsoft xandr?"
+    }
+  ],
+  "statements": [
+    {
+      "id": "NFLX-CY2026Q1-001",
+      "turn_index": 0,
+      "claim": "Netflix added 9.8 million subscribers in Q1 2026 to reach 337 million.",
+      "categorizations": [
+        "operational_metric_specific",
+        "segment_growth_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NFLX-CY2026Q1-002",
+      "turn_index": 0,
+      "claim": "Formula 1 Australian Grand Prix drew 28 million concurrent viewers on Netflix, the most-watched live sports event in Netflix history.",
+      "categorizations": [
+        "operational_metric_specific",
+        "competitive_or_market_position_claim"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "unhedged",
+      "override_window": "indefinite",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NFLX-CY2026Q1-003",
+      "turn_index": 0,
+      "claim": "Netflix advertising revenue grew 180% year-over-year in Q1 2026 and represents 14% of total revenue.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "segment_growth_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NFLX-CY2026Q1-004",
+      "turn_index": 0,
+      "claim": "Netflix is raising its full-year 2026 subscriber growth target to 35–40 million net adds.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NFLX-CY2026Q1-005",
+      "turn_index": 1,
+      "claim": "Netflix full-year 2026 operating margin is expected to be above 34% as Formula 1 rights costs amortize evenly.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    }
+  ]
+}

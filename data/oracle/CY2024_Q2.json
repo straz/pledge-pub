@@ -50,6 +50,7 @@
         "falsifiable_within_eight_quarter_window"
       ],
       "hedging": "unhedged",
+      "override_window": "near-term",
       "resolution": {
         "finding": "unresolved"
       }
@@ -68,6 +69,7 @@
         "attributable_to_specific_speaker"
       ],
       "hedging": "unhedged",
+      "override_window": "resolved",
       "resolution": {
         "finding": "validated",
         "sources": [
@@ -92,6 +94,7 @@
         "falsifiable_within_eight_quarter_window"
       ],
       "hedging": "softly_hedged",
+      "override_window": "mid-horizon",
       "resolution": {
         "finding": "unresolved"
       }
@@ -109,6 +112,7 @@
         "attributable_to_specific_speaker"
       ],
       "hedging": "softly_hedged",
+      "override_window": "resolved",
       "resolution": {
         "finding": "not_validated",
         "sources": [
@@ -133,6 +137,7 @@
         "verifiable_against_subsequent_disclosure_or_financial_statement"
       ],
       "hedging": "heavily_hedged",
+      "override_window": "indefinite",
       "resolution": {
         "finding": "unresolved"
       }

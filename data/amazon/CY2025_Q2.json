@@ -1,0 +1,132 @@
+{
+  "company_id": "amazon",
+  "title": "Amazon Q2 2025 Earnings Call",
+  "datetime": "2025-08-01T21:00:00Z",
+  "period": "CY2025_Q2",
+  "location": "Seattle, WA",
+  "url": "https://ir.aboutamazon.com/",
+  "turns": [
+    {
+      "speaker_id": "andy-jassy",
+      "speaker_name": "Andy Jassy",
+      "speaker_role": "CEO",
+      "timestamp": "00:01:00",
+      "text": "AWS continued its acceleration in Q2, growing 19% to $31.8 billion. This is the fastest growth we've seen in AWS since 2022. Our custom silicon program is paying off: Trainium 3 chips are now in production and delivering 4x better price-performance for AI training versus prior generation. We now have over 100 AWS Availability Zones across 33 geographic regions, and plan to open eight additional regions by the end of 2026. Prime Video advertising revenue exceeded $2 billion for the first time in a quarter."
+    },
+    {
+      "speaker_id": "brian-olsavsky",
+      "speaker_name": "Brian Olsavsky",
+      "speaker_role": "CFO",
+      "timestamp": "00:20:00",
+      "text": "Q2 net sales were $163.3 billion, up 10% year-over-year. Operating income was $18.9 billion. Advertising revenue grew 20% to $14.9 billion. Free cash flow for the trailing twelve months was $63.9 billion. We are guiding Q3 net sales to $168–173 billion, implying year-over-year growth of 9–12%."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "Operator",
+      "timestamp": "00:38:00",
+      "text": "Our next question comes from Mark Mahaney at Evercore ISI."
+    },
+    {
+      "speaker_id": "analyst-mark-mahaney",
+      "speaker_name": "Mark Mahaney",
+      "speaker_role": "Analyst",
+      "timestamp": "00:38:20",
+      "text": "Andy, you mentioned eight additional AWS regions by end of 2026. Can you give us a sense of the demand-driven rationale and whether sovereign cloud considerations are driving the international expansion?"
+    }
+  ],
+  "statements": [
+    {
+      "id": "AMZN-CY2025Q2-001",
+      "turn_index": 0,
+      "claim": "AWS grew 19% to $31.8 billion in Q2 2025, the fastest growth since 2022.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "segment_growth_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "unhedged",
+      "override_window": "resolved",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-CY2025Q2-002",
+      "turn_index": 0,
+      "claim": "Trainium 3 chips deliver 4x better price-performance for AI training versus prior generation.",
+      "categorizations": [
+        "competitive_or_market_position_claim",
+        "capacity_or_capability_delivery"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "resolved",
+      "resolution": {
+        "finding": "not_validated"
+      }
+    },
+    {
+      "id": "AMZN-CY2025Q2-003",
+      "turn_index": 0,
+      "claim": "Amazon plans to open eight additional AWS regions by the end of 2026.",
+      "categorizations": [
+        "geographic_or_regional_rollout",
+        "capacity_or_capability_delivery"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AMZN-CY2025Q2-004",
+      "turn_index": 0,
+      "claim": "Prime Video advertising revenue exceeded $2 billion for the first time in a quarter.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "segment_growth_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement"
+      ],
+      "hedging": "unhedged",
+      "override_window": "resolved",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-CY2025Q2-005",
+      "turn_index": 1,
+      "claim": "Amazon's advertising revenue grew 20% to $14.9 billion in Q2 2025.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "segment_growth_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement"
+      ],
+      "hedging": "unhedged",
+      "override_window": "resolved",
+      "resolution": {
+        "finding": "validated"
+      }
+    }
+  ]
+}

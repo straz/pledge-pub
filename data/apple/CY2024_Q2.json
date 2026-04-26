@@ -50,6 +50,7 @@
         "falsifiable_within_eight_quarter_window"
       ],
       "hedging": "softly_hedged",
+      "override_window": "near-term",
       "resolution": {
         "finding": "unresolved"
       }
@@ -67,6 +68,7 @@
         "falsifiable_within_eight_quarter_window"
       ],
       "hedging": "softly_hedged",
+      "override_window": "resolved",
       "resolution": {
         "finding": "validated",
         "sources": [
@@ -92,6 +94,7 @@
         "attributable_to_specific_speaker"
       ],
       "hedging": "unhedged",
+      "override_window": "resolved",
       "resolution": {
         "finding": "validated"
       }
@@ -111,6 +114,7 @@
         "falsifiable_within_eight_quarter_window"
       ],
       "hedging": "unhedged",
+      "override_window": "near-term",
       "resolution": {
         "finding": "unresolved"
       }
@@ -127,6 +131,7 @@
         "rhetorical_assertions_without_specific_verifiable_content"
       ],
       "hedging": "rhetorical_only",
+      "override_window": "indefinite",
       "resolution": {
         "finding": "unresolved"
       }

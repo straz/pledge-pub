@@ -1,0 +1,130 @@
+{
+  "company_id": "apple",
+  "title": "Apple Q1 2026 Earnings Call",
+  "datetime": "2026-04-30T21:00:00Z",
+  "period": "CY2026_Q1",
+  "location": "Cupertino, CA",
+  "url": "https://investor.apple.com/",
+  "turns": [
+    {
+      "speaker_id": "tim-cook",
+      "speaker_name": "Tim Cook",
+      "speaker_role": "CEO",
+      "timestamp": "00:01:00",
+      "text": "Q1 2026 revenue was $127.4 billion, up 3% year-over-year, in line with our guidance range. Services grew 16% to $31.2 billion — our sixth consecutive all-time record quarter. iPhone 17 sell-through in China exceeded expectations. Apple Financial Services, our new credit and savings platform, crossed 10 million active accounts in the quarter. We are expanding our AI health features to all Apple Watch models above Series 10 through a software update in May."
+    },
+    {
+      "speaker_id": "kevan-parekh",
+      "speaker_name": "Kevan Parekh",
+      "speaker_role": "CFO",
+      "timestamp": "00:18:00",
+      "text": "Total Q1 2026 revenue was $127.4 billion, up 3%. Gross margin was 48.2%, another record. We returned $32.1 billion to shareholders. For Q2 2026, we expect total revenue of $91–95 billion and a gross margin of 47.5–48.5%. Services revenue in Q2 is expected to grow in the low-to-mid teens year-over-year."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "Operator",
+      "timestamp": "00:36:00",
+      "text": "Our next question comes from Ben Reitzes at Melius Research."
+    },
+    {
+      "speaker_id": "analyst-ben-reitzes",
+      "speaker_name": "Ben Reitzes",
+      "speaker_role": "Analyst",
+      "timestamp": "00:36:20",
+      "text": "Kevan, gross margin at 48.2% continues to surprise to the upside. At what point does Services mix become the primary driver of margin expansion and how do you think about the ceiling?"
+    }
+  ],
+  "statements": [
+    {
+      "id": "AAPL-CY2026Q1-001",
+      "turn_index": 1,
+      "claim": "Apple Services revenue grew 16% to $31.2 billion in Q1 2026, the sixth consecutive all-time record.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "segment_growth_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AAPL-CY2026Q1-002",
+      "turn_index": 0,
+      "claim": "Apple Financial Services crossed 10 million active accounts in Q1 2026.",
+      "categorizations": [
+        "operational_metric_specific",
+        "segment_growth_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AAPL-CY2026Q1-003",
+      "turn_index": 0,
+      "claim": "Apple is expanding AI health features to all Apple Watch models above Series 10 through a software update in May 2026.",
+      "categorizations": [
+        "capacity_or_capability_delivery",
+        "geographic_or_regional_rollout"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AAPL-CY2026Q1-004",
+      "turn_index": 1,
+      "claim": "Apple's gross margin was 48.2% in Q1 2026, another company record.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AAPL-CY2026Q1-005",
+      "turn_index": 0,
+      "claim": "iPhone 17 sell-through in China exceeded expectations in Q1 2026.",
+      "categorizations": [
+        "geographic_or_regional_rollout",
+        "segment_growth_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    }
+  ]
+}

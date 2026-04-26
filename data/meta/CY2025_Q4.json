@@ -1,0 +1,132 @@
+{
+  "company_id": "meta",
+  "title": "Meta Q4 2025 Earnings Call",
+  "datetime": "2026-01-29T21:00:00Z",
+  "period": "CY2025_Q4",
+  "location": "Menlo Park, CA",
+  "url": "https://investor.fb.com/",
+  "turns": [
+    {
+      "speaker_id": "mark-zuckerberg",
+      "speaker_name": "Mark Zuckerberg",
+      "speaker_role": "CEO",
+      "timestamp": "00:01:00",
+      "text": "2025 was our best year ever. Full-year revenue was $186.1 billion, up 19%. Meta AI ended the year with 1.82 billion monthly active users — not quite the 2 billion target we set mid-year, but still a remarkable growth trajectory. We announced Orion AR glasses pricing at $999 for developers in December, with consumer availability in Q3 2026. Full-year capex was $65.2 billion, in line with our raised guidance."
+    },
+    {
+      "speaker_id": "susan-li",
+      "speaker_name": "Susan Li",
+      "speaker_role": "CFO",
+      "timestamp": "00:18:00",
+      "text": "Q4 revenue was $57.8 billion, up 21% year-over-year. Full-year operating margin was 43.8%. We generated $62.4 billion in free cash flow for the year. For 2026, we expect capex of $70–80 billion as we continue scaling AI infrastructure. Q1 2026 revenue guidance is $39.5–41.8 billion."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "Operator",
+      "timestamp": "00:38:00",
+      "text": "Our next question comes from Eric Sheridan at Goldman Sachs."
+    },
+    {
+      "speaker_id": "analyst-eric-sheridan",
+      "speaker_name": "Eric Sheridan",
+      "speaker_role": "Analyst",
+      "timestamp": "00:38:20",
+      "text": "Mark, Orion at $999 for developers — does the consumer pricing in Q3 2026 assume a significant further cost reduction, and what's the supply chain confidence level?"
+    }
+  ],
+  "statements": [
+    {
+      "id": "META-CY2025Q4-001",
+      "turn_index": 0,
+      "claim": "Meta AI ended 2025 with 1.82 billion monthly active users, short of the 2 billion target set mid-year.",
+      "categorizations": [
+        "operational_metric_specific",
+        "segment_growth_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "unhedged",
+      "override_window": "resolved",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-CY2025Q4-002",
+      "turn_index": 0,
+      "claim": "Meta's full-year 2025 capex was $65.2 billion, in line with the $64–67 billion raised guidance.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "unhedged",
+      "override_window": "resolved",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-CY2025Q4-003",
+      "turn_index": 0,
+      "claim": "Orion AR glasses were announced at $999 for developers in December 2025, with consumer availability in Q3 2026.",
+      "categorizations": [
+        "capacity_or_capability_delivery",
+        "geographic_or_regional_rollout"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "META-CY2025Q4-004",
+      "turn_index": 1,
+      "claim": "Meta expects 2026 capex of $70–80 billion.",
+      "categorizations": [
+        "financial_structure_or_capital_action",
+        "capacity_or_capability_delivery"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "META-CY2025Q4-005",
+      "turn_index": 1,
+      "claim": "Meta's full-year 2025 operating margin was 43.8%.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement"
+      ],
+      "hedging": "unhedged",
+      "override_window": "resolved",
+      "resolution": {
+        "finding": "validated"
+      }
+    }
+  ]
+}

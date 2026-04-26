@@ -1,0 +1,129 @@
+{
+  "company_id": "meta",
+  "title": "Meta Q1 2026 Earnings Call",
+  "datetime": "2026-04-29T20:00:00Z",
+  "period": "CY2026_Q1",
+  "location": "Menlo Park, CA",
+  "url": "https://investor.fb.com/",
+  "turns": [
+    {
+      "speaker_id": "mark-zuckerberg",
+      "speaker_name": "Mark Zuckerberg",
+      "speaker_role": "CEO",
+      "timestamp": "00:01:00",
+      "text": "Q1 2026 was another strong quarter with revenue growing 17% to $48.8 billion. Meta AI crossed 2 billion monthly active users in February. Llama 5 shipped in March and initial benchmarks show it matching GPT-5 on mathematical reasoning. Our AI infrastructure investments are generating measurable ROI — AI-driven ad optimization contributed an estimated 8 percentage points to revenue growth this quarter."
+    },
+    {
+      "speaker_id": "susan-li",
+      "speaker_name": "Susan Li",
+      "speaker_role": "CFO",
+      "timestamp": "00:18:00",
+      "text": "Revenue was $48.8 billion, up 17%. Operating income was $22.1 billion with a 45.3% margin. Capex was $19.1 billion, tracking to the $70–80 billion full-year range. For Q2 2026, we are guiding revenue of $51–54 billion. We continue to invest heavily in AI infrastructure with no change to our full-year capex guidance."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "Operator",
+      "timestamp": "00:36:00",
+      "text": "Our next question comes from Eric Sheridan at Goldman Sachs."
+    },
+    {
+      "speaker_id": "analyst-eric-sheridan",
+      "speaker_name": "Eric Sheridan",
+      "speaker_role": "Analyst",
+      "timestamp": "00:36:20",
+      "text": "Mark, 8 percentage points of revenue growth from AI ad optimization — how do you measure that attribution and does it have a ceiling as ad load efficiency approaches theoretical limits?"
+    }
+  ],
+  "statements": [
+    {
+      "id": "META-CY2026Q1-001",
+      "turn_index": 0,
+      "claim": "Meta AI crossed 2 billion monthly active users in February 2026.",
+      "categorizations": [
+        "operational_metric_specific",
+        "segment_growth_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "META-CY2026Q1-002",
+      "turn_index": 0,
+      "claim": "Llama 5 matches GPT-5 on mathematical reasoning benchmarks.",
+      "categorizations": [
+        "competitive_or_market_position_claim",
+        "capacity_or_capability_delivery"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "indefinite",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "META-CY2026Q1-003",
+      "turn_index": 0,
+      "claim": "AI-driven ad optimization contributed an estimated 8 percentage points to Meta's Q1 2026 revenue growth.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "operational_metric_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "META-CY2026Q1-004",
+      "turn_index": 1,
+      "claim": "Meta's Q1 2026 operating margin was 45.3%.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "META-CY2026Q1-005",
+      "turn_index": 1,
+      "claim": "Meta expects Q2 2026 revenue of $51–54 billion.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    }
+  ]
+}

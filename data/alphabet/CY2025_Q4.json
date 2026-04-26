@@ -1,0 +1,131 @@
+{
+  "company_id": "alphabet",
+  "title": "Alphabet Q4 2025 Earnings Call",
+  "datetime": "2026-02-04T21:00:00Z",
+  "period": "CY2025_Q4",
+  "location": "Mountain View, CA",
+  "url": "https://abc.xyz/investor/",
+  "turns": [
+    {
+      "speaker_id": "sundar-pichai",
+      "speaker_name": "Sundar Pichai",
+      "speaker_role": "CEO",
+      "timestamp": "00:01:00",
+      "text": "2025 was a transformative year for Alphabet. Full-year Google Cloud revenue was $56.8 billion, up 29% and ahead of our raised guidance of $55 billion. Full-year total revenue crossed $400 billion for the first time. Our AI investments are clearly delivering returns. For 2026, we expect Google Cloud to grow at least 25% and are targeting an operating margin above 38% for the full company. Gemini is now integrated into every major Google product used by more than 100 million people."
+    },
+    {
+      "speaker_id": "anat-ashkenazi",
+      "speaker_name": "Anat Ashkenazi",
+      "speaker_role": "CFO",
+      "timestamp": "00:18:00",
+      "text": "Q4 revenues were $111.8 billion, up 14% year-over-year. Full-year operating income was $130.9 billion with a margin of 33%. Google Cloud Q4 revenue was $16.2 billion, up 28%. Capital expenditures for the full year were $55.1 billion, in line with guidance. We repurchased $57.5 billion of shares in 2025 and are authorizing an additional $70 billion buyback program."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "Operator",
+      "timestamp": "00:40:00",
+      "text": "Our next question comes from Eric Sheridan at Goldman Sachs."
+    },
+    {
+      "speaker_id": "analyst-eric-sheridan",
+      "speaker_name": "Eric Sheridan",
+      "speaker_role": "Analyst",
+      "timestamp": "00:40:20",
+      "text": "Sundar, with full year revenue crossing $400 billion, how are you thinking about capital allocation priorities for 2026 between AI infrastructure and buybacks?"
+    }
+  ],
+  "statements": [
+    {
+      "id": "GOOGL-CY2025Q4-001",
+      "turn_index": 0,
+      "claim": "Full-year Google Cloud revenue was $56.8 billion in 2025, up 29% and ahead of the $55 billion target.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "segment_growth_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "unhedged",
+      "override_window": "resolved",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "GOOGL-CY2025Q4-002",
+      "turn_index": 0,
+      "claim": "Google Cloud will grow at least 25% in 2026.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "GOOGL-CY2025Q4-003",
+      "turn_index": 0,
+      "claim": "Alphabet is targeting an operating margin above 38% for the full company in 2026.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "GOOGL-CY2025Q4-004",
+      "turn_index": 1,
+      "claim": "Alphabet is authorizing an additional $70 billion share repurchase program.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "unhedged",
+      "override_window": "indefinite",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "GOOGL-CY2025Q4-005",
+      "turn_index": 0,
+      "claim": "Gemini is integrated into every major Google product used by more than 100 million people.",
+      "categorizations": [
+        "capacity_or_capability_delivery",
+        "operational_metric_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "unhedged",
+      "override_window": "resolved",
+      "resolution": {
+        "finding": "validated"
+      }
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "company_id": "netflix",
+  "title": "Netflix Q2 2025 Earnings Call",
+  "datetime": "2025-07-15T20:00:00Z",
+  "period": "CY2025_Q2",
+  "location": "Los Gatos, CA",
+  "url": "https://ir.netflix.net/",
+  "turns": [
+    {
+      "speaker_id": "greg-peters",
+      "speaker_name": "Greg Peters",
+      "speaker_role": "Co-CEO",
+      "timestamp": "00:01:00",
+      "text": "Q2 2025 delivered 8.1 million net paid subscriber additions to reach 309 million. Advertising revenue grew over 150% year-over-year and now represents approximately 8% of total revenue — ahead of our internal timeline. We secured the rights to two NFL Christmas Day games for 2025 and 2026, which we expect to drive record single-day streaming records. Our gaming platform now has 20 million daily active players across 100 titles."
+    },
+    {
+      "speaker_id": "spencer-neumann",
+      "speaker_name": "Spencer Neumann",
+      "speaker_role": "CFO",
+      "timestamp": "00:18:00",
+      "text": "Revenue was $11.0 billion, up 16% year-over-year. Operating margin was 33.9%. Content spend is tracking to approximately $19 billion for the full year. We are raising our full-year operating margin guidance to 29–30%, reflecting advertising outperformance. For Q3, we expect revenue of $11.1–11.5 billion."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "Operator",
+      "timestamp": "00:36:00",
+      "text": "Our next question comes from Mark Mahaney at Evercore ISI."
+    },
+    {
+      "speaker_id": "analyst-mark-mahaney",
+      "speaker_name": "Mark Mahaney",
+      "speaker_role": "Analyst",
+      "timestamp": "00:36:20",
+      "text": "Spencer, advertising at 8% of revenue ahead of schedule — does that change your content investment posture or your thinking on the subscriber growth and ARPU tradeoff?"
+    }
+  ],
+  "statements": [
+    {
+      "id": "NFLX-CY2025Q2-001",
+      "turn_index": 0,
+      "claim": "Netflix advertising revenue grew over 150% year-over-year in Q2 2025 and represents approximately 8% of total revenue.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "segment_growth_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "unhedged",
+      "override_window": "resolved",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NFLX-CY2025Q2-002",
+      "turn_index": 0,
+      "claim": "Netflix gaming platform has 20 million daily active players across 100 titles.",
+      "categorizations": [
+        "operational_metric_specific",
+        "segment_growth_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "unhedged",
+      "override_window": "resolved",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NFLX-CY2025Q2-003",
+      "turn_index": 0,
+      "claim": "NFL Christmas Day games in 2025 and 2026 will drive record single-day streaming records.",
+      "categorizations": [
+        "capacity_or_capability_delivery",
+        "competitive_or_market_position_claim"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "resolved",
+      "resolution": {
+        "finding": "validated",
+        "sources": [
+          {
+            "company": "netflix",
+            "call": "CY2025_Q4",
+            "statement_id": "NFLX-CY2025Q4-003"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NFLX-CY2025Q2-004",
+      "turn_index": 1,
+      "claim": "Netflix is raising full-year 2025 operating margin guidance to 29–30%.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "resolved",
+      "resolution": {
+        "finding": "not_validated",
+        "sources": [
+          {
+            "company": "netflix",
+            "call": "CY2025_Q4",
+            "statement_id": "NFLX-CY2025Q4-002"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NFLX-CY2025Q2-005",
+      "turn_index": 1,
+      "claim": "Netflix's full-year content spend is tracking to approximately $19 billion.",
+      "categorizations": [
+        "financial_structure_or_capital_action",
+        "operational_metric_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "resolved",
+      "resolution": {
+        "finding": "validated"
+      }
+    }
+  ]
+}

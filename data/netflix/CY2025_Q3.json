@@ -1,0 +1,138 @@
+{
+  "company_id": "netflix",
+  "title": "Netflix Q3 2025 Earnings Call",
+  "datetime": "2025-10-14T20:00:00Z",
+  "period": "CY2025_Q3",
+  "location": "Los Gatos, CA",
+  "url": "https://ir.netflix.net/",
+  "turns": [
+    {
+      "speaker_id": "greg-peters",
+      "speaker_name": "Greg Peters",
+      "speaker_role": "Co-CEO",
+      "timestamp": "00:01:00",
+      "text": "Netflix added 7.3 million subscribers in Q3 to reach 316 million, on track for our year-end target. Advertising revenue crossed $1 billion in quarterly revenue for the first time. We announced a major expansion of our live sports portfolio: a 10-year deal for Formula 1 global streaming rights beginning in 2026, valued at approximately $1.5 billion. We expect this to be the most significant subscriber acquisition catalyst since the password-sharing crackdown."
+    },
+    {
+      "speaker_id": "spencer-neumann",
+      "speaker_name": "Spencer Neumann",
+      "speaker_role": "CFO",
+      "timestamp": "00:18:00",
+      "text": "Revenue was $11.6 billion, up 15% year-over-year. Operating margin was 32.1%. We are now guiding full-year operating margin to 31–32%, above our prior guidance of 29–30%, reflecting advertising upside. For Q4, we expect revenue of $12.1–12.5 billion and operating margin of approximately 22%, reflecting typical seasonality in content costs."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "Operator",
+      "timestamp": "00:36:00",
+      "text": "Our next question comes from Mark Mahaney at Evercore ISI."
+    },
+    {
+      "speaker_id": "analyst-mark-mahaney",
+      "speaker_name": "Mark Mahaney",
+      "speaker_role": "Analyst",
+      "timestamp": "00:36:20",
+      "text": "Greg, Formula 1 at $1.5 billion over 10 years — how does that pencil out on a subscriber acquisition cost basis relative to your historical content ROI framework?"
+    }
+  ],
+  "statements": [
+    {
+      "id": "NFLX-CY2025Q3-001",
+      "turn_index": 0,
+      "claim": "Netflix advertising revenue crossed $1 billion in quarterly revenue for the first time in Q3 2025.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "segment_growth_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "unhedged",
+      "override_window": "resolved",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NFLX-CY2025Q3-002",
+      "turn_index": 0,
+      "claim": "Netflix signed a 10-year Formula 1 global streaming rights deal beginning in 2026, valued at approximately $1.5 billion.",
+      "categorizations": [
+        "financial_structure_or_capital_action",
+        "strategic_direction_claim"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "unhedged",
+      "override_window": "resolved",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NFLX-CY2025Q3-003",
+      "turn_index": 1,
+      "claim": "Netflix is raising full-year 2025 operating margin guidance to 31–32%, above the prior 29–30% guidance.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "resolved",
+      "resolution": {
+        "finding": "validated",
+        "sources": [
+          {
+            "company": "netflix",
+            "call": "CY2025_Q4",
+            "statement_id": "NFLX-CY2025Q4-002"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NFLX-CY2025Q3-004",
+      "turn_index": 0,
+      "claim": "The Formula 1 deal will be the most significant subscriber acquisition catalyst since the password-sharing crackdown.",
+      "categorizations": [
+        "competitive_or_market_position_claim",
+        "strategic_direction_claim"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "heavily_hedged",
+      "override_window": "indefinite",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NFLX-CY2025Q3-005",
+      "turn_index": 0,
+      "claim": "Netflix reached 316 million subscribers at end of Q3 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement"
+      ],
+      "hedging": "unhedged",
+      "override_window": "resolved",
+      "resolution": {
+        "finding": "validated"
+      }
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "company_id": "apple",
+  "title": "Apple Q3 2025 Earnings Call",
+  "datetime": "2025-10-30T21:00:00Z",
+  "period": "CY2025_Q3",
+  "location": "Cupertino, CA",
+  "url": "https://investor.apple.com/",
+  "turns": [
+    {
+      "speaker_id": "tim-cook",
+      "speaker_name": "Tim Cook",
+      "speaker_role": "CEO",
+      "timestamp": "00:01:00",
+      "text": "We had an exceptional Q3. Services reached $29.1 billion, up 15%, with Apple TV+, Apple Arcade, and iCloud all achieving records. India manufacturing now accounts for over 20% of all iPhone units sold globally, up from 14% a year ago. iPhone 17 will begin shipping September 19th — I've never been more excited about a product launch. Apple Intelligence features in iPhone 17 include real-time translation, personalized Siri actions, and on-device image generation."
+    },
+    {
+      "speaker_id": "kevan-parekh",
+      "speaker_name": "Kevan Parekh",
+      "speaker_role": "CFO",
+      "timestamp": "00:18:00",
+      "text": "Q3 revenue was $93.7 billion, up 6% year-over-year. Gross margin was 48.1%, the highest in over five years. We returned $29.5 billion to shareholders. For Q4 2025, we expect revenue of $91–94 billion and gross margin of 47.5–48.5%. We are tracking toward full-year Services revenue above $110 billion."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "Operator",
+      "timestamp": "00:36:00",
+      "text": "Our next question comes from Ben Reitzes at Melius Research."
+    },
+    {
+      "speaker_id": "analyst-ben-reitzes",
+      "speaker_name": "Ben Reitzes",
+      "speaker_role": "Analyst",
+      "timestamp": "00:36:20",
+      "text": "Tim, gross margin at 48.1% is remarkable. How much of that is India manufacturing cost savings versus Services mix shift, and is this the new floor for margins?"
+    }
+  ],
+  "statements": [
+    {
+      "id": "AAPL-CY2025Q3-001",
+      "turn_index": 0,
+      "claim": "Apple Services revenue reached $29.1 billion in Q3 2025, up 15%.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "segment_growth_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement"
+      ],
+      "hedging": "unhedged",
+      "override_window": "resolved",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-CY2025Q3-002",
+      "turn_index": 0,
+      "claim": "India manufacturing now accounts for over 20% of all iPhone units sold globally.",
+      "categorizations": [
+        "geographic_or_regional_rollout",
+        "operational_metric_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "unhedged",
+      "override_window": "indefinite",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AAPL-CY2025Q3-003",
+      "turn_index": 1,
+      "claim": "Apple's gross margin was 48.1% in Q3 2025, the highest in over five years.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement"
+      ],
+      "hedging": "unhedged",
+      "override_window": "resolved",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-CY2025Q3-004",
+      "turn_index": 1,
+      "claim": "Apple is tracking toward full-year Services revenue above $110 billion.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "segment_growth_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "resolved",
+      "resolution": {
+        "finding": "validated",
+        "sources": [
+          {
+            "company": "apple",
+            "call": "CY2025_Q4",
+            "statement_id": "AAPL-CY2025Q4-002"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AAPL-CY2025Q3-005",
+      "turn_index": 0,
+      "claim": "iPhone 17 will begin shipping September 19th with Apple Intelligence on-device image generation.",
+      "categorizations": [
+        "capacity_or_capability_delivery",
+        "competitive_or_market_position_claim"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "resolved",
+      "resolution": {
+        "finding": "validated"
+      }
+    }
+  ]
+}

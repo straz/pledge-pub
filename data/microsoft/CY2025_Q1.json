@@ -1,0 +1,139 @@
+{
+  "company_id": "microsoft",
+  "title": "Microsoft Q1 2025 Earnings Call",
+  "datetime": "2025-04-30T21:00:00Z",
+  "period": "CY2025_Q1",
+  "location": "Redmond, WA",
+  "url": "https://investor.microsoft.com/",
+  "turns": [
+    {
+      "speaker_id": "satya-nadella",
+      "speaker_name": "Satya Nadella",
+      "speaker_role": "CEO",
+      "timestamp": "00:01:00",
+      "text": "Microsoft Cloud revenue grew 21% to $42.4 billion in Q1 2025. Azure grew 33%, with AI services contributing 16 percentage points of that growth — up from 13 points last quarter. GitHub Copilot now has 15 million paid users across more than 100,000 organizations. We expect Azure to maintain greater than 30% growth through the rest of 2025 as AI workload adoption accelerates. Copilot is now embedded in every Microsoft product with more than 50 million users."
+    },
+    {
+      "speaker_id": "amy-hood",
+      "speaker_name": "Amy Hood",
+      "speaker_role": "CFO",
+      "timestamp": "00:18:00",
+      "text": "Q1 revenue was $70.1 billion, up 13% year-over-year. Operating income was $32.0 billion with a 45.6% operating margin. Intelligent Cloud segment revenue was $26.8 billion, up 21%. We expect Q2 revenue of $72.1–73.1 billion and Azure growth of 34–35% in constant currency."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "Operator",
+      "timestamp": "00:36:00",
+      "text": "Our next question comes from Ben Reitzes at Melius Research."
+    },
+    {
+      "speaker_id": "analyst-ben-reitzes",
+      "speaker_name": "Ben Reitzes",
+      "speaker_role": "Analyst",
+      "timestamp": "00:36:20",
+      "text": "Satya, AI contributing 16 points to Azure growth is remarkable. Can you decompose that between training and inference workloads, and where you see the larger TAM?"
+    }
+  ],
+  "statements": [
+    {
+      "id": "MSFT-CY2025Q1-001",
+      "turn_index": 0,
+      "claim": "Azure grew 33% in Q1 2025, with AI services contributing 16 percentage points of growth.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "segment_growth_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "unhedged",
+      "override_window": "resolved",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-CY2025Q1-002",
+      "turn_index": 0,
+      "claim": "GitHub Copilot has 15 million paid users across more than 100,000 organizations.",
+      "categorizations": [
+        "operational_metric_specific",
+        "segment_growth_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "unhedged",
+      "override_window": "resolved",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-CY2025Q1-003",
+      "turn_index": 0,
+      "claim": "Microsoft expects Azure to maintain greater than 30% growth through the rest of 2025.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "segment_growth_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "resolved",
+      "resolution": {
+        "finding": "validated",
+        "sources": [
+          {
+            "company": "microsoft",
+            "call": "CY2025_Q4",
+            "statement_id": "MSFT-CY2025Q4-001"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MSFT-CY2025Q1-004",
+      "turn_index": 1,
+      "claim": "Microsoft's operating margin was 45.6% in Q1 2025.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement"
+      ],
+      "hedging": "unhedged",
+      "override_window": "resolved",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-CY2025Q1-005",
+      "turn_index": 1,
+      "claim": "Microsoft expects Azure constant currency growth of 34–35% in Q2 2025.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "segment_growth_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "resolved",
+      "resolution": {
+        "finding": "validated"
+      }
+    }
+  ]
+}

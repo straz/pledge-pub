@@ -1,0 +1,84 @@
+{
+  "internal_forecasts": [
+    {
+      "period": "CY2024_Q2",
+      "metric": "cloud_revenue_fy2025",
+      "label": "Cloud Revenue FY2025",
+      "unit": "$ B",
+      "internal": 23.1,
+      "external": 25,
+      "external_statement_id": "ORCL-CY2024Q2-001",
+      "note": "Board-approved base case at $23.1B. Public commitment set at the stretch target. Internal FP&A flagged the $25B figure as achievable only with full OCI capacity delivery and no macro headwinds."
+    },
+    {
+      "period": "CY2024_Q3",
+      "metric": "cloud_revenue_fy2025",
+      "label": "Cloud Revenue FY2025",
+      "unit": "$ B",
+      "internal": 24,
+      "external": 25,
+      "external_statement_id": "ORCL-CY2024Q3-001",
+      "note": "Updated model after strong Q1 FY25 OCI results. Internal base case raised to $24.0B. Gap to public commitment narrowing but not closed. Capex delivery still the binding constraint on upside."
+    },
+    {
+      "period": "CY2024_Q4",
+      "metric": "cloud_revenue_fy2025",
+      "label": "Cloud Revenue FY2025",
+      "unit": "$ B",
+      "internal": 24.6,
+      "external": 25,
+      "external_statement_id": "ORCL-CY2024Q4-002",
+      "note": "Internal model at $24.6B heading into H2 FY25. Aggressive Q4 new bookings and OCI capacity additions gave management confidence to maintain the public $25B floor."
+    },
+    {
+      "period": "CY2025_Q1",
+      "metric": "oci_growth_fy2025h2",
+      "label": "OCI YoY Growth Rate (FY2025 H2)",
+      "unit": "%",
+      "internal": 44,
+      "external": 52,
+      "external_statement_id": "ORCL-CY2024Q4-001",
+      "note": "Internal ops plan modeled 44% OCI growth for the back half of FY25. Larry Ellison cited 52% on the earnings call, which included several large multi-year sovereign AI contracts not yet in the internal revenue model."
+    },
+    {
+      "period": "CY2025_Q2",
+      "metric": "cloud_revenue_fy2026",
+      "label": "Cloud Revenue FY2026",
+      "unit": "$ B",
+      "internal": 44,
+      "external": 48,
+      "external_statement_id": "ORCL-CY2025Q2-003",
+      "note": "FY2026 target set publicly at $48B at the FY25 Q4 earnings call. Internal FP&A base case was $44B, with $48B treated as the board-level aspiration. Largest single gap in the dataset — $4B of public commitment ahead of internal plan."
+    },
+    {
+      "period": "CY2025_Q3",
+      "metric": "cloud_revenue_fy2026",
+      "label": "Cloud Revenue FY2026",
+      "unit": "$ B",
+      "internal": 49,
+      "external": 50,
+      "external_statement_id": "ORCL-CY2025Q3-003",
+      "note": "After OCI growth accelerated to 56% in Q1 FY26, internal model was revised sharply upward to $49B. Public guidance raised to $50B — now closely tracking internal view. Governance gap closed to $1B."
+    },
+    {
+      "period": "CY2025_Q4",
+      "metric": "cloud_revenue_fy2026",
+      "label": "Cloud Revenue FY2026",
+      "unit": "$ B",
+      "internal": 51.2,
+      "external": 50,
+      "external_statement_id": "ORCL-CY2025Q4-002",
+      "note": "Internal model now exceeds the public $50B guidance as OCI growth continues to beat plan. Public number is serving as a conservative floor — a reversal of the earlier pattern where public led internal. Consistent with disciplined upside management ahead of formal guidance raise."
+    },
+    {
+      "period": "CY2026_Q1",
+      "metric": "cloud_revenue_fy2027",
+      "label": "Cloud Revenue FY2027",
+      "unit": "$ B",
+      "internal": 58,
+      "external": 65,
+      "external_statement_id": "ORCL-CY2026Q1-003",
+      "note": "Larry Ellison announced $65B FY2027 target on the call. Internal long-range plan shows $58B base case and $65B as the upside scenario requiring full capex delivery and no competitive share loss. This is the widest gap between internal and external on a long-range commitment — consistent with prior pattern of aspirational public targets on multi-year horizons."
+    }
+  ]
+}

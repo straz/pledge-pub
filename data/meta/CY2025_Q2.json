@@ -1,0 +1,152 @@
+{
+  "company_id": "meta",
+  "title": "Meta Q2 2025 Earnings Call",
+  "datetime": "2025-07-30T20:00:00Z",
+  "period": "CY2025_Q2",
+  "location": "Menlo Park, CA",
+  "url": "https://investor.fb.com/",
+  "turns": [
+    {
+      "speaker_id": "mark-zuckerberg",
+      "speaker_name": "Mark Zuckerberg",
+      "speaker_role": "CEO",
+      "timestamp": "00:01:00",
+      "text": "Meta had another strong quarter with revenue growing 19% to $47.4 billion. Meta AI now has 1.4 billion monthly active users — we expect to reach 2 billion by the end of 2025. We are beginning to monetize Meta AI through a premium subscription tier at $14.99 per month, and through AI-driven business messaging on WhatsApp. Orion, our AR glasses, has received exceptional developer feedback and we remain on track to announce consumer pricing in Q4 2025."
+    },
+    {
+      "speaker_id": "susan-li",
+      "speaker_name": "Susan Li",
+      "speaker_role": "CFO",
+      "timestamp": "00:18:00",
+      "text": "Revenue of $47.4 billion was up 19% year-over-year, driven by 18% growth in average price per ad. Operating income was $21.2 billion with a 44.7% margin. Reality Labs revenue was $412 million, and Reality Labs operating loss was $4.6 billion. We are raising our full-year 2025 capex guidance to $64–67 billion."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "Operator",
+      "timestamp": "00:36:00",
+      "text": "Our next question comes from Eric Sheridan at Goldman Sachs."
+    },
+    {
+      "speaker_id": "analyst-eric-sheridan",
+      "speaker_name": "Eric Sheridan",
+      "speaker_role": "Analyst",
+      "timestamp": "00:36:20",
+      "text": "Mark, Meta AI premium at $14.99 per month — can you share early conversion rates from the free tier and what features are driving the paid upgrade?"
+    }
+  ],
+  "statements": [
+    {
+      "id": "META-CY2025Q2-001",
+      "turn_index": 0,
+      "claim": "Meta AI reached 1.4 billion monthly active users in Q2 2025 and expects to reach 2 billion by end of 2025.",
+      "categorizations": [
+        "operational_metric_specific",
+        "segment_growth_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "resolved",
+      "resolution": {
+        "finding": "not_validated",
+        "sources": [
+          {
+            "company": "meta",
+            "call": "CY2025_Q4",
+            "statement_id": "META-CY2025Q4-001"
+          }
+        ]
+      }
+    },
+    {
+      "id": "META-CY2025Q2-002",
+      "turn_index": 1,
+      "claim": "Meta's operating margin was 44.7% in Q2 2025.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement"
+      ],
+      "hedging": "unhedged",
+      "override_window": "resolved",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-CY2025Q2-003",
+      "turn_index": 0,
+      "claim": "Meta is beginning to monetize Meta AI through a premium subscription at $14.99 per month.",
+      "categorizations": [
+        "financial_structure_or_capital_action",
+        "segment_growth_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "unhedged",
+      "override_window": "resolved",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-CY2025Q2-004",
+      "turn_index": 0,
+      "claim": "Meta will announce Orion consumer pricing in Q4 2025.",
+      "categorizations": [
+        "capacity_or_capability_delivery",
+        "strategic_direction_claim"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "resolved",
+      "resolution": {
+        "finding": "validated",
+        "sources": [
+          {
+            "company": "meta",
+            "call": "CY2025_Q4",
+            "statement_id": "META-CY2025Q4-003"
+          }
+        ]
+      }
+    },
+    {
+      "id": "META-CY2025Q2-005",
+      "turn_index": 1,
+      "claim": "Meta is raising full-year 2025 capex guidance to $64–67 billion.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "resolved",
+      "resolution": {
+        "finding": "validated",
+        "sources": [
+          {
+            "company": "meta",
+            "call": "CY2025_Q4",
+            "statement_id": "META-CY2025Q4-002"
+          }
+        ]
+      }
+    }
+  ]
+}

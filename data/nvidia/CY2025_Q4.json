@@ -1,0 +1,131 @@
+{
+  "company_id": "nvidia",
+  "title": "Nvidia Q4 2025 Earnings Call",
+  "datetime": "2026-02-26T21:00:00Z",
+  "period": "CY2025_Q4",
+  "location": "Santa Clara, CA",
+  "url": "https://investor.nvidia.com/",
+  "turns": [
+    {
+      "speaker_id": "jensen-huang",
+      "speaker_name": "Jensen Huang",
+      "speaker_role": "CEO",
+      "timestamp": "00:01:00",
+      "text": "Nvidia had its best year in history. Full-year data center revenue was $186.8 billion, making us the first semiconductor company to generate over $150 billion in annual revenue from a single segment. Q4 data center revenue was $48 billion, reflecting the typical customer pause ahead of Rubin availability. We are on track for Rubin volume production in Q2 2026 as committed. Full-year operating income crossed $100 billion for the first time."
+    },
+    {
+      "speaker_id": "colette-kress",
+      "speaker_name": "Colette Kress",
+      "speaker_role": "CFO",
+      "timestamp": "00:18:00",
+      "text": "Total Q4 revenue was $53.1 billion, up 72% year-over-year. Full-year revenue was $209.8 billion. Gross margin for Q4 was 72.7%, reflecting a mix shift toward NVL72 systems with higher memory costs. For Q1 2026, we expect revenue of $43 billion, plus or minus 2%, reflecting the Rubin transition dip, with gross margin recovering to approximately 74% as Rubin ramps."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "Operator",
+      "timestamp": "00:38:00",
+      "text": "Our next question comes from Ben Reitzes at Melius Research."
+    },
+    {
+      "speaker_id": "analyst-ben-reitzes",
+      "speaker_name": "Ben Reitzes",
+      "speaker_role": "Analyst",
+      "timestamp": "00:38:20",
+      "text": "Colette, Q1 guidance at $43 billion is a sequential step-down. Is this a demand pause or a supply constraint tied to Rubin yields, and how quickly do you expect the ramp to recover?"
+    }
+  ],
+  "statements": [
+    {
+      "id": "NVDA-CY2025Q4-001",
+      "turn_index": 0,
+      "claim": "Nvidia full-year 2025 data center revenue was $186.8 billion.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "segment_growth_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "unhedged",
+      "override_window": "resolved",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NVDA-CY2025Q4-002",
+      "turn_index": 0,
+      "claim": "Rubin architecture is on track for volume production in Q2 2026 as committed.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-CY2025Q4-003",
+      "turn_index": 1,
+      "claim": "Nvidia expects Q1 2026 revenue of $43 billion, plus or minus 2%, with gross margin recovering to approximately 74% as Rubin ramps.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "margin_trajectory_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-CY2025Q4-004",
+      "turn_index": 0,
+      "claim": "Nvidia full-year operating income crossed $100 billion for the first time in 2025.",
+      "categorizations": [
+        "margin_trajectory_specific",
+        "revenue_trajectory_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement"
+      ],
+      "hedging": "unhedged",
+      "override_window": "resolved",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NVDA-CY2025Q4-005",
+      "turn_index": 1,
+      "claim": "Nvidia full-year 2025 revenue was $209.8 billion.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement"
+      ],
+      "hedging": "unhedged",
+      "override_window": "resolved",
+      "resolution": {
+        "finding": "validated"
+      }
+    }
+  ]
+}

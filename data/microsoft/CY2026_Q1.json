@@ -1,0 +1,131 @@
+{
+  "company_id": "microsoft",
+  "title": "Microsoft Q1 2026 Earnings Call",
+  "datetime": "2026-04-29T21:00:00Z",
+  "period": "CY2026_Q1",
+  "location": "Redmond, WA",
+  "url": "https://investor.microsoft.com/",
+  "turns": [
+    {
+      "speaker_id": "satya-nadella",
+      "speaker_name": "Satya Nadella",
+      "speaker_role": "CEO",
+      "timestamp": "00:01:00",
+      "text": "Azure grew 40% in Q1 2026, the fastest in four years. AI contributed 22 percentage points. Copilot seat count has reached 90 million across Microsoft 365. We launched Copilot Wave 3 in March — bringing autonomous agent capabilities that can complete multi-step business processes without human intervention. Early enterprise pilots show productivity gains of 30–40% for targeted knowledge worker tasks. We expect Copilot to contribute meaningfully to revenue growth in the second half of 2026."
+    },
+    {
+      "speaker_id": "amy-hood",
+      "speaker_name": "Amy Hood",
+      "speaker_role": "CFO",
+      "timestamp": "00:18:00",
+      "text": "Q1 2026 revenue was $82.6 billion, up 17%. Operating margin was 47.4%. Intelligent Cloud revenue was $33.9 billion, up 27%. For Q2 2026, we expect Azure growth of 40–41% and total revenue of $84–85 billion. Full-year 2026 capex is tracking to the $85–90 billion range."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "Operator",
+      "timestamp": "00:38:00",
+      "text": "Our next question comes from Ben Reitzes at Melius Research."
+    },
+    {
+      "speaker_id": "analyst-ben-reitzes",
+      "speaker_name": "Ben Reitzes",
+      "speaker_role": "Analyst",
+      "timestamp": "00:38:20",
+      "text": "Satya, 30–40% productivity gains from Copilot Wave 3 — how are you measuring that, and does it create pricing power for the next Copilot tier?"
+    }
+  ],
+  "statements": [
+    {
+      "id": "MSFT-CY2026Q1-001",
+      "turn_index": 0,
+      "claim": "Azure grew 40% in Q1 2026 with AI contributing 22 percentage points.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "segment_growth_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "MSFT-CY2026Q1-002",
+      "turn_index": 0,
+      "claim": "Microsoft Copilot has reached 90 million seats across Microsoft 365 in Q1 2026.",
+      "categorizations": [
+        "operational_metric_specific",
+        "segment_growth_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "MSFT-CY2026Q1-003",
+      "turn_index": 0,
+      "claim": "Copilot Wave 3 pilots show productivity gains of 30–40% for targeted knowledge worker tasks.",
+      "categorizations": [
+        "capacity_or_capability_delivery",
+        "competitive_or_market_position_claim"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "heavily_hedged",
+      "override_window": "indefinite",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "MSFT-CY2026Q1-004",
+      "turn_index": 0,
+      "claim": "Copilot will contribute meaningfully to revenue growth in the second half of 2026.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "segment_growth_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "MSFT-CY2026Q1-005",
+      "turn_index": 1,
+      "claim": "Microsoft's Q1 2026 operating margin was 47.4%.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "commitment_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    }
+  ]
+}
