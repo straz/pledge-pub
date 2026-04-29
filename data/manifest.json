@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T16:01:48.837Z",
+  "generated_at": "2026-04-29T16:19:43.240Z",
   "companies": [
     {
       "id": "alphabet",
@@ -199,11 +199,27 @@
           "period": "FY2025_Q4",
           "title": "Amazon.com Q4 2025 Earnings Call Transcript",
           "datetime": "2026-02-05T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 38,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "unhedged": 28,
+              "softly_hedged": 10
+            },
+            "by_category": {
+              "revenue_trajectory_specific": 5,
+              "segment_growth_specific": 8,
+              "capacity_or_capability_delivery": 6,
+              "operational_metric_specific": 11,
+              "financial_structure_or_capital_action": 2,
+              "competitive_or_market_position_claim": 1,
+              "geographic_or_regional_rollout": 2,
+              "margin_trajectory_specific": 3
+            },
+            "by_resolution": {
+              "validated": 17,
+              "unverifiable": 11,
+              "unresolved": 10
+            }
           },
           "fiscal_label": "Q4 2025"
         },
@@ -211,11 +227,27 @@
           "period": "FY2025_Q3",
           "title": "Amazon.com Q3 2025 Earnings Call Transcript",
           "datetime": "2025-10-30T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 34,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "unhedged": 22,
+              "softly_hedged": 12
+            },
+            "by_category": {
+              "revenue_trajectory_specific": 5,
+              "segment_growth_specific": 6,
+              "operational_metric_specific": 9,
+              "capacity_or_capability_delivery": 7,
+              "margin_trajectory_specific": 2,
+              "financial_structure_or_capital_action": 3,
+              "competitive_or_market_position_claim": 1,
+              "geographic_or_regional_rollout": 1
+            },
+            "by_resolution": {
+              "validated": 12,
+              "unverifiable": 10,
+              "unresolved": 12
+            }
           },
           "fiscal_label": "Q3 2025"
         },
@@ -223,11 +255,28 @@
           "period": "FY2025_Q2",
           "title": "Amazon.com Q2 2025 Earnings Call Transcript",
           "datetime": "2025-07-31T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 30,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "unhedged": 22,
+              "softly_hedged": 7,
+              "heavily_hedged": 1
+            },
+            "by_category": {
+              "revenue_trajectory_specific": 3,
+              "operational_metric_specific": 10,
+              "capacity_or_capability_delivery": 4,
+              "segment_growth_specific": 4,
+              "competitive_or_market_position_claim": 2,
+              "margin_trajectory_specific": 5,
+              "financial_structure_or_capital_action": 1,
+              "geographic_or_regional_rollout": 1
+            },
+            "by_resolution": {
+              "validated": 12,
+              "unverifiable": 11,
+              "unresolved": 7
+            }
           },
           "fiscal_label": "Q2 2025"
         },
