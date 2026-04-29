@@ -749,5 +749,1161 @@
       "text": "That will conclude our question and answer session and our call for today. We thank you all for joining, and you may now disconnect."
     }
   ],
-  "statements": []
+  "statements": [
+    {
+      "id": "NVDA-FY2025Q1-001",
+      "turn_index": 4,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "Revenue of $26 billion was up 18% sequentially and up 262% year-on-year, and well above our outlook of $24 billion.",
+      "claim": "NVIDIA reported Q1 FY2025 revenue of $26 billion, exceeding the prior outlook of $24 billion.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NVDA-FY2025Q1-002",
+      "turn_index": 4,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "Data center revenue of $22.6 billion was a record, up 23% sequentially and up 427% year-on-year",
+      "claim": "NVIDIA reported Q1 FY2025 data center revenue of $22.6 billion.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NVDA-FY2025Q1-003",
+      "turn_index": 4,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "Compute revenue grew more than 5x and networking revenue more than 3x from last year.",
+      "claim": "Q1 FY2025 compute revenue grew more than 5x and networking revenue grew more than 3x year-over-year.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NVDA-FY2025Q1-004",
+      "turn_index": 7,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "We expect automotive to be our largest enterprise vertical within data center this year, driving a multi-billion revenue opportunity across on-prem and cloud consumption.",
+      "claim": "Automotive will be NVIDIA's largest enterprise vertical within data center in FY2025, driving multi-billion dollar revenue.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-FY2025Q1-005",
+      "turn_index": 8,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "In our trailing four quarters, we estimate that inference drove about 40% of our data center revenue.",
+      "claim": "Inference drove approximately 40% of NVIDIA's data center revenue in the trailing four quarters ending Q1 FY2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "unverifiable"
+      }
+    },
+    {
+      "id": "NVDA-FY2025Q1-006",
+      "turn_index": 11,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "From nothing the previous year, we believe sovereign AI revenue can approach the high single-digit billions this year.",
+      "claim": "Sovereign AI revenue will approach high single-digit billions in FY2025.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-FY2025Q1-007",
+      "turn_index": 12,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "We started sampling the H200 in Q1 and are currently in production with shipments on track for Q2.",
+      "claim": "H200 shipments are on track to begin in Q2 FY2025.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-FY2025Q1-008",
+      "turn_index": 13,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "Blackwell is in full production. We are working to bring up our system and cloud partners for global availability later this year.",
+      "claim": "Blackwell is in full production with global availability expected later in FY2025.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-FY2025Q1-009",
+      "turn_index": 13,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "Demand for H200 and Blackwell is well ahead of supply, and we expect demand may exceed supply well into next year.",
+      "claim": "Demand for H200 and Blackwell is expected to exceed supply well into FY2026.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "heavily_hedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-FY2025Q1-010",
+      "turn_index": 14,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "Last week at the International Supercomputing Conference, we announced that nine new supercomputers worldwide are using Grace Hopper for combined 200 exaflops of energy-efficient AI processing power delivered this year.",
+      "claim": "Nine new supercomputers using Grace Hopper will deliver a combined 200 exaflops of AI processing power in FY2025.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-FY2025Q1-011",
+      "turn_index": 15,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "We expect networking to return to sequential growth in Q2.",
+      "claim": "Networking revenue is expected to return to sequential growth in Q2 FY2025.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-FY2025Q1-012",
+      "turn_index": 15,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "We expect Spectrum-X to jump to a multi-billion-dollar product line within a year.",
+      "claim": "Spectrum-X is expected to become a multi-billion-dollar product line within one year.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-FY2025Q1-013",
+      "turn_index": 17,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "Blackwell will be available in over 100 OEM and ODM systems at launch, more than double the number of Hoppers launched and representing every major computer maker in the world.",
+      "claim": "Blackwell will be available in over 100 OEM and ODM systems at launch.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-FY2025Q1-014",
+      "turn_index": 19,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "Gaming revenue of $2.65 billion was down 8% sequentially and up 18% year-on-year, consistent with our outlook for a seasonal decline.",
+      "claim": "Q1 FY2025 gaming revenue was $2.65 billion, down 8% sequentially and up 18% year-over-year.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NVDA-FY2025Q1-015",
+      "turn_index": 20,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "Revenue of $427 million was down 8% sequentially and up 45% year-on-year.",
+      "claim": "Q1 FY2025 Professional Visualization revenue was $427 million, down 8% sequentially and up 45% year-over-year.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NVDA-FY2025Q1-016",
+      "turn_index": 21,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "Omniverse Cloud APIs will be available on Microsoft Azure later this year.",
+      "claim": "Omniverse Cloud APIs will be available on Microsoft Azure later in FY2025.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-FY2025Q1-017",
+      "turn_index": 21,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "Moving to automotive, revenue was $329 million, up 17% sequentially and up 11% year-over-year.",
+      "claim": "Q1 FY2025 automotive revenue was $329 million, up 17% sequentially and up 11% year-over-year.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NVDA-FY2025Q1-018",
+      "turn_index": 22,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "DRIVE Thor is slated for production vehicles starting next year.",
+      "claim": "DRIVE Thor is slated for production vehicles starting in FY2026.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-FY2025Q1-019",
+      "turn_index": 23,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "GAAP gross margin expanded sequentially to 78.4% and non-GAAP gross margins to 78.9% on lower inventory charges.",
+      "claim": "Q1 FY2025 GAAP gross margin was 78.4% and non-GAAP gross margin was 78.9%.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NVDA-FY2025Q1-020",
+      "turn_index": 24,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "In Q1, we returned $7.8 billion to shareholders in the form of share repurchases and cash dividends.",
+      "claim": "NVIDIA returned $7.8 billion to shareholders via share repurchases and dividends in Q1 FY2025.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NVDA-FY2025Q1-021",
+      "turn_index": 24,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "Today, we announced a 10-for-1 split of our shares, with June 10 as the first day of trading on a split-adjusted basis.",
+      "claim": "NVIDIA announced a 10-for-1 stock split with June 10, 2024 as the first day of split-adjusted trading.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-FY2025Q1-022",
+      "turn_index": 24,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "We are also increasing our dividend by 150%.",
+      "claim": "NVIDIA is increasing its dividend by 150%.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-FY2025Q1-023",
+      "turn_index": 24,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "Total revenue is expected to be $28 billion, ±2%.",
+      "claim": "Q2 FY2025 total revenue is expected to be $28 billion, plus or minus 2%.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-FY2025Q1-024",
+      "turn_index": 24,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "GAAP and non-GAAP gross margins are expected to be 74.8% and 75.5% respectively, ±50 basis points",
+      "claim": "Q2 FY2025 GAAP gross margin is expected to be 74.8% and non-GAAP gross margin 75.5%, plus or minus 50 basis points.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-FY2025Q1-025",
+      "turn_index": 25,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "For the full year, we expect gross margins to be in the mid-70s% range.",
+      "claim": "Full year FY2025 gross margins are expected to be in the mid-70s% range.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-FY2025Q1-026",
+      "turn_index": 25,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "GAAP and non-GAAP operating expenses are expected to be approximately $4 billion and $2.8 billion, respectively.",
+      "claim": "Q2 FY2025 GAAP operating expenses are expected to be approximately $4 billion and non-GAAP operating expenses $2.8 billion.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-FY2025Q1-027",
+      "turn_index": 25,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "Full-year OpEx is expected to grow in the low 40% range.",
+      "claim": "Full year FY2025 operating expenses are expected to grow in the low 40% range.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-FY2025Q1-028",
+      "turn_index": 25,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "GAAP and non-GAAP other income and expenses are expected to be an income of approximately $300 million, excluding gains and losses from non-affiliated investments.",
+      "claim": "Q2 FY2025 GAAP and non-GAAP other income and expenses are expected to be an income of approximately $300 million.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-FY2025Q1-029",
+      "turn_index": 25,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "GAAP and non-GAAP tax rates are expected to be 17%, ±1%, excluding any discrete items.",
+      "claim": "Q2 FY2025 GAAP and non-GAAP tax rates are expected to be 17%, plus or minus 1%.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-FY2025Q1-030",
+      "turn_index": 33,
+      "speaker_id": "jensen-huang",
+      "verbatim_quote": "our production shipments will start in Q2 and ramp in Q3, and customers should have data centers stood up in Q4.",
+      "claim": "Blackwell production shipments will start in Q2 FY2025, ramp in Q3, with customer data centers stood up in Q4.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-FY2025Q1-031",
+      "turn_index": 35,
+      "speaker_id": "jensen-huang",
+      "verbatim_quote": "We will see a lot of Blackwell revenue this year.",
+      "claim": "NVIDIA will generate significant Blackwell revenue in FY2025.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-FY2025Q1-032",
+      "turn_index": 49,
+      "speaker_id": "jensen-huang",
+      "verbatim_quote": "We see increasing demand of Hopper through this quarter. We expect to be, we expect demand to outstrip supply, for some time, as we now transition to H200, as we transition to Blackwell.",
+      "claim": "Demand for Hopper is expected to outstrip supply for some time during the transition to H200 and Blackwell.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-FY2025Q1-033",
+      "turn_index": 60,
+      "speaker_id": "jensen-huang",
+      "verbatim_quote": "we're on a one year rhythm, as we've explained to the world, and we want our customers to see our roadmap for as far as they like.",
+      "claim": "NVIDIA maintains a one-year rhythm for new product introductions.",
+      "categorizations": [
+        "strategic_direction_claim"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "indefinite",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-FY2025Q1-034",
+      "turn_index": 77,
+      "speaker_id": "jensen-huang",
+      "verbatim_quote": "It is the case that our business in China is substantially lower than the levels of the past. It's a lot more competitive in China now because of the limitations on our technology.",
+      "claim": "NVIDIA's business in China is substantially lower than past levels due to technology limitations and increased competition.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NVDA-FY2025Q1-035",
+      "turn_index": 78,
+      "speaker_id": "jensen-huang",
+      "verbatim_quote": "I think overall, the comments that we made about demand outstripping supply is for the entire market, and particularly so for H200 and Blackwell towards the end of the year.",
+      "claim": "Demand for H200 and Blackwell is expected to outstrip supply particularly towards the end of FY2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-FY2025Q1-036",
+      "turn_index": 81,
+      "speaker_id": "jensen-huang",
+      "verbatim_quote": "We have 100 different computer system configurations that are coming this year for Blackwell.",
+      "claim": "100 different computer system configurations for Blackwell are coming in FY2025.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-FY2025Q1-037",
+      "turn_index": 91,
+      "speaker_id": "jensen-huang",
+      "verbatim_quote": "Well, I can announce that after Blackwell, there's another chip. We are on a one-year rhythm",
+      "claim": "NVIDIA will release another chip after Blackwell, maintaining a one-year rhythm.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-FY2025Q1-038",
+      "turn_index": 91,
+      "speaker_id": "jensen-huang",
+      "verbatim_quote": "you can also count on us having new networking technology on a very fast rhythm.",
+      "claim": "NVIDIA will introduce new networking technology on a very fast rhythm.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "indefinite",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-FY2025Q1-039",
+      "turn_index": 92,
+      "speaker_id": "jensen-huang",
+      "verbatim_quote": "So you're gonna see new switches coming, new NICs coming, new capability, new software stacks that run on all three of them. New CPUs, new GPUs, new networking NICs, new switches, a mountain of chips that are coming.",
+      "claim": "NVIDIA will release new switches, NICs, CPUs, GPUs, and software stacks in the coming period.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "indefinite",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-FY2025Q1-040",
+      "turn_index": 93,
+      "speaker_id": "jensen-huang",
+      "verbatim_quote": "And so I think the pace of innovation that we're bringing will drive up the capability on the one hand and drive down the TCO on the other hand.",
+      "claim": "NVIDIA's pace of innovation will drive up capability and drive down Total Cost of Ownership (TCO).",
+      "categorizations": [
+        "strategic_direction_claim"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "indefinite",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-FY2025Q1-041",
+      "turn_index": 2,
+      "speaker_id": "simona-jankowski",
+      "verbatim_quote": "On Sunday, June 2, ahead of the Computex Technology Trade Show in Taiwan, Jensen will deliver a keynote which will be held in person in Taipei, as well as streamed live.",
+      "claim": "Jensen Huang will deliver a keynote at Computex in Taipei on June 2, 2024.",
+      "categorizations": [
+        "strategic_direction_claim"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-FY2025Q1-042",
+      "turn_index": 3,
+      "speaker_id": "simona-jankowski",
+      "verbatim_quote": "On June fifth, we will present at the Bank of America Technology Conference in San Francisco.",
+      "claim": "NVIDIA will present at the Bank of America Technology Conference in San Francisco on June 5, 2024.",
+      "categorizations": [
+        "strategic_direction_claim"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-FY2025Q1-043",
+      "turn_index": 11,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "We ramped new products designed specifically for China that don't require an export control license.",
+      "claim": "NVIDIA ramped new products designed specifically for China that do not require an export control license.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NVDA-FY2025Q1-044",
+      "turn_index": 11,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "Our data center revenue in China is down significantly from the level prior to the imposition of the new export control restrictions in October.",
+      "claim": "Data center revenue in China is down significantly from pre-restriction levels.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NVDA-FY2025Q1-045",
+      "turn_index": 11,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "We expect the market in China to remain very competitive going forward.",
+      "claim": "The market in China is expected to remain very competitive going forward.",
+      "categorizations": [
+        "competitive_or_market_position_claim"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "indefinite",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-FY2025Q1-046",
+      "turn_index": 12,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "Thanks to CUDA algorithm innovations, we've been able to accelerate LLM inference on H100 by up to 3x, which can translate to a 3x cost reduction for serving popular models like Llama 3.",
+      "claim": "CUDA algorithm innovations have accelerated LLM inference on H100 by up to 3x, translating to a 3x cost reduction.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NVDA-FY2025Q1-047",
+      "turn_index": 12,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "H200 nearly doubles the inference performance of H100, delivering significant value for production deployments.",
+      "claim": "H200 nearly doubles the inference performance of H100.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NVDA-FY2025Q1-048",
+      "turn_index": 13,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "Grace Hopper Superchip is shipping in volume.",
+      "claim": "Grace Hopper Superchip is shipping in volume.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NVDA-FY2025Q1-049",
+      "turn_index": 14,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "We are seeing an 80% attach rate of Grace to Hopper in supercomputing, due to its high energy efficiency and performance.",
+      "claim": "NVIDIA is seeing an 80% attach rate of Grace to Hopper in supercomputing.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NVDA-FY2025Q1-050",
+      "turn_index": 15,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "In the first quarter, we started shipping our new Spectrum-X Ethernet networking solution optimized for AI from the ground up.",
+      "claim": "NVIDIA started shipping its new Spectrum-X Ethernet networking solution in Q1 FY2025.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NVDA-FY2025Q1-051",
+      "turn_index": 16,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "The Blackwell GPU architecture delivers up to 4x faster training and 30x faster inference than the H100",
+      "claim": "Blackwell GPU architecture delivers up to 4x faster training and 30x faster inference than H100.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NVDA-FY2025Q1-052",
+      "turn_index": 16,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "Blackwell is a giant leap with up to 25x lower TCO and energy consumption than Hopper.",
+      "claim": "Blackwell offers up to 25x lower TCO and energy consumption than Hopper.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NVDA-FY2025Q1-053",
+      "turn_index": 19,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "Yesterday, NVIDIA and Microsoft announced AI performance optimizations for Windows to help run LLMs up to 3x faster on NVIDIA GeForce RTX AI PCs.",
+      "claim": "NVIDIA and Microsoft announced AI performance optimizations for Windows to run LLMs up to 3x faster on GeForce RTX AI PCs.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NVDA-FY2025Q1-054",
+      "turn_index": 20,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "Omniverse-powered digital twins enable Wistron, one of our manufacturing partners, to reduce end-to-end production cycle times by 50% and defect rates by 40%.",
+      "claim": "Omniverse-powered digital twins enabled Wistron to reduce production cycle times by 50% and defect rates by 40%.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NVDA-FY2025Q1-055",
+      "turn_index": 22,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "We supported Xiaomi in the successful launch of its first electric vehicle, the SU7 sedan, built on the NVIDIA DRIVE Orin",
+      "claim": "NVIDIA supported Xiaomi in the launch of its SU7 sedan, built on NVIDIA DRIVE Orin.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    }
+  ]
 }

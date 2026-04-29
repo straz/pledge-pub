@@ -1003,5 +1003,1098 @@
       "text": "Once again, this does conclude today's conference. We do appreciate your participation."
     }
   ],
-  "statements": []
+  "statements": [
+    {
+      "id": "AAPL-FY2024Q3-001",
+      "turn_index": 2,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "Today, Apple is reporting a new June quarter revenue record of $85.8 billion, up 5% from a year ago",
+      "claim": "Apple reported Q3 FY2024 revenue of $85.8 billion, a 5% year-over-year increase.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2024Q3-002",
+      "turn_index": 2,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "EPS grew double digits to $1.40 and achieved a record for the June quarter.",
+      "claim": "Apple reported Q3 FY2024 diluted EPS of $1.40, a double-digit year-over-year increase.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2024Q3-003",
+      "turn_index": 2,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "We also set quarterly revenue records in more than two dozen countries and regions, including Canada, Mexico, France, Germany, the UK, India, Indonesia, the Philippines, and Thailand.",
+      "claim": "Apple set quarterly revenue records in over 20 countries/regions in Q3 FY2024.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2024Q3-004",
+      "turn_index": 2,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "We set an all-time revenue record in services, which grew 14%.",
+      "claim": "Apple Services revenue grew 14% year-over-year in Q3 FY2024, setting an all-time record.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2024Q3-005",
+      "turn_index": 5,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "iPhone revenue was $39.3 billion, down 1% year-over-year. On a constant currency basis, we grew compared to last year.",
+      "claim": "iPhone revenue was $39.3 billion in Q3 FY2024, down 1% YoY but up on a constant currency basis.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2024Q3-006",
+      "turn_index": 6,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "Mac revenue was $7 billion, up 2% from a year ago.",
+      "claim": "Mac revenue was $7 billion in Q3 FY2024, up 2% year-over-year.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2024Q3-007",
+      "turn_index": 7,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "Turning to iPad, revenue was $7.2 billion, 24% higher year-over-year.",
+      "claim": "iPad revenue was $7.2 billion in Q3 FY2024, up 24% year-over-year.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2024Q3-008",
+      "turn_index": 8,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "In wearables, home, and accessories, revenue was $8.1 billion, down 2% from a year ago.",
+      "claim": "Wearables, Home, and Accessories revenue was $8.1 billion in Q3 FY2024, down 2% year-over-year.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2024Q3-009",
+      "turn_index": 9,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "in services, we set an all-time revenue record of $24.2 billion",
+      "claim": "Services revenue reached an all-time record of $24.2 billion in Q3 FY2024.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2024Q3-010",
+      "turn_index": 10,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "During the quarter, we also expanded tap-to-pay on iPhone to more markets, including Japan, Canada, Italy, and Germany",
+      "claim": "Apple expanded tap-to-pay on iPhone to Japan, Canada, Italy, and Germany in Q3 FY2024.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2024Q3-011",
+      "turn_index": 10,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "Turning to retail, we continue to expand in emerging markets with our first-ever location in Malaysia.",
+      "claim": "Apple opened its first retail store in Malaysia in Q3 FY2024.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2024Q3-012",
+      "turn_index": 12,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "We are proud to say that all of our data centers, including those that will run private cloud compute, operate on 100% renewable energy.",
+      "claim": "All Apple data centers, including those for Private Cloud Compute, operate on 100% renewable energy.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2024Q3-013",
+      "turn_index": 14,
+      "speaker_id": "luca-maestri",
+      "verbatim_quote": "We are very pleased to report a new June quarter revenue record of $85.8 billion, up 5% year-over-year, despite 230 basis points of negative foreign exchange impact.",
+      "claim": "Q3 FY2024 revenue was $85.8 billion, up 5% YoY, with 230 bps negative FX impact.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2024Q3-014",
+      "turn_index": 15,
+      "speaker_id": "luca-maestri",
+      "verbatim_quote": "Products revenue was $61.6 billion, up 2% year-over-year",
+      "claim": "Products revenue was $61.6 billion in Q3 FY2024, up 2% year-over-year.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2024Q3-015",
+      "turn_index": 15,
+      "speaker_id": "luca-maestri",
+      "verbatim_quote": "Company gross margin was 46.3%, near the high end of our guidance range, and down 30 basis points sequentially",
+      "claim": "Company gross margin was 46.3% in Q3 FY2024, down 30 bps sequentially.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2024Q3-016",
+      "turn_index": 15,
+      "speaker_id": "luca-maestri",
+      "verbatim_quote": "Products gross margin was 35.3%, down 130 basis points sequentially",
+      "claim": "Products gross margin was 35.3% in Q3 FY2024, down 130 bps sequentially.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2024Q3-017",
+      "turn_index": 15,
+      "speaker_id": "luca-maestri",
+      "verbatim_quote": "Services gross margin was 74%, down 60 basis points from last quarter.",
+      "claim": "Services gross margin was 74% in Q3 FY2024, down 60 bps sequentially.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2024Q3-018",
+      "turn_index": 15,
+      "speaker_id": "luca-maestri",
+      "verbatim_quote": "Operating expenses of $14.3 billion. We are at the low end of the guidance range we provided and up 7% year-over-year.",
+      "claim": "Operating expenses were $14.3 billion in Q3 FY2024, up 7% year-over-year.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2024Q3-019",
+      "turn_index": 15,
+      "speaker_id": "luca-maestri",
+      "verbatim_quote": "Net income was $21.4 billion. Diluted EPS of $1.40 was up 11% year-over-year",
+      "claim": "Net income was $21.4 billion and diluted EPS was $1.40 (up 11% YoY) in Q3 FY2024.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2024Q3-020",
+      "turn_index": 15,
+      "speaker_id": "luca-maestri",
+      "verbatim_quote": "Operating cash flow was very strong, at $28.9 billion, also a June quarter record.",
+      "claim": "Operating cash flow was $28.9 billion in Q3 FY2024, a June quarter record.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2024Q3-021",
+      "turn_index": 16,
+      "speaker_id": "luca-maestri",
+      "verbatim_quote": "The iPhone active installed base grew to a new all-time high in total and in every geographic segment.",
+      "claim": "iPhone active installed base reached an all-time high in Q3 FY2024.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2024Q3-022",
+      "turn_index": 17,
+      "speaker_id": "luca-maestri",
+      "verbatim_quote": "The Mac installed base reached an all-time high, with half of MacBook Air customers in the quarter being new to Mac.",
+      "claim": "Mac installed base reached an all-time high in Q3 FY2024.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2024Q3-023",
+      "turn_index": 18,
+      "speaker_id": "luca-maestri",
+      "verbatim_quote": "The iPad installed base has continued to grow and is at an all-time high",
+      "claim": "iPad installed base reached an all-time high in Q3 FY2024.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2024Q3-024",
+      "turn_index": 19,
+      "speaker_id": "luca-maestri",
+      "verbatim_quote": "sending the Apple Watch installed base to a new all-time high.",
+      "claim": "Apple Watch installed base reached a new all-time high in Q3 FY2024.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2024Q3-025",
+      "turn_index": 19,
+      "speaker_id": "luca-maestri",
+      "verbatim_quote": "Both transacting accounts and paid accounts reach a new all-time high, with paid accounts growing double-digit year-over-year.",
+      "claim": "Services transacting and paid accounts reached all-time highs in Q3 FY2024.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2024Q3-026",
+      "turn_index": 20,
+      "speaker_id": "luca-maestri",
+      "verbatim_quote": "We have well over 1 billion paid subscriptions across the services on our platform",
+      "claim": "Apple had over 1 billion paid subscriptions across its services platform in Q3 FY2024.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2024Q3-027",
+      "turn_index": 21,
+      "speaker_id": "luca-maestri",
+      "verbatim_quote": "We ended the quarter with $153 billion in cash and marketable securities.",
+      "claim": "Apple ended Q3 FY2024 with $153 billion in cash and marketable securities.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2024Q3-028",
+      "turn_index": 21,
+      "speaker_id": "luca-maestri",
+      "verbatim_quote": "We repaid $4.3 billion in maturing debt and increased commercial paper by $1 billion, leaving us with total debt of $101 billion.",
+      "claim": "Apple repaid $4.3 billion in debt, increased commercial paper by $1 billion, ending with $101 billion total debt in Q3 FY2024.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2024Q3-029",
+      "turn_index": 21,
+      "speaker_id": "luca-maestri",
+      "verbatim_quote": "During the quarter, we returned over $32 billion to shareholders, including $3.9 billion in dividends and equivalents and $26 billion through open market repurchases of 139 million Apple shares.",
+      "claim": "Apple returned over $32 billion to shareholders in Q3 FY2024, including $3.9B in dividends and $26B in buybacks.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2024Q3-030",
+      "turn_index": 22,
+      "speaker_id": "luca-maestri",
+      "verbatim_quote": "We expect foreign exchange to continue to be a headwind and to have a negative impact on revenue of about 1.5 percentage points on a year-over-year basis.",
+      "claim": "Apple expects FX to have a negative impact of about 1.5 percentage points on Q4 FY2024 revenue YoY.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AAPL-FY2024Q3-031",
+      "turn_index": 22,
+      "speaker_id": "luca-maestri",
+      "verbatim_quote": "We expect our September quarter total company revenue to grow year-over-year at a rate similar to the June quarter.",
+      "claim": "Apple expects Q4 FY2024 total revenue to grow YoY at a rate similar to Q3 FY2024 (~5%).",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AAPL-FY2024Q3-032",
+      "turn_index": 22,
+      "speaker_id": "luca-maestri",
+      "verbatim_quote": "We expect services revenue to grow double digits at a rate similar to what we reported in the first three quarters of this fiscal year.",
+      "claim": "Apple expects Q4 FY2024 services revenue to grow double digits, similar to the first three quarters of FY2024.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AAPL-FY2024Q3-033",
+      "turn_index": 22,
+      "speaker_id": "luca-maestri",
+      "verbatim_quote": "We expect gross margin to be between 45.5%-46.5%.",
+      "claim": "Apple expects Q4 FY2024 gross margin to be between 45.5% and 46.5%.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AAPL-FY2024Q3-034",
+      "turn_index": 22,
+      "speaker_id": "luca-maestri",
+      "verbatim_quote": "We expect OpEx to be between $14.2 billion-$14.4 billion.",
+      "claim": "Apple expects Q4 FY2024 operating expenses to be between $14.2 billion and $14.4 billion.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AAPL-FY2024Q3-035",
+      "turn_index": 22,
+      "speaker_id": "luca-maestri",
+      "verbatim_quote": "We expect OI&E to be around -$50 million, excluding any potential impact from the mark-to-market of minority investments",
+      "claim": "Apple expects Q4 FY2024 Other Income/Expense to be around -$50 million, excluding mark-to-market impacts.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AAPL-FY2024Q3-036",
+      "turn_index": 22,
+      "speaker_id": "luca-maestri",
+      "verbatim_quote": "our tax rate to be around 16.5%.",
+      "claim": "Apple expects Q4 FY2024 tax rate to be around 16.5%.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AAPL-FY2024Q3-037",
+      "turn_index": 22,
+      "speaker_id": "luca-maestri",
+      "verbatim_quote": "today, our board of directors has declared a cash dividend of $0.25 per share of common stock payable on August 15, 2024",
+      "claim": "Apple declared a $0.25 per share cash dividend payable on August 15, 2024.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AAPL-FY2024Q3-038",
+      "turn_index": 32,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "we decreased by 6.5% year-over-year for the whole of greater China. If you look at it on a constant currency basis, we declined by less than 3%.",
+      "claim": "Greater China revenue decreased 6.5% YoY (less than 3% on constant currency) in Q3 FY2024.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2024Q3-039",
+      "turn_index": 32,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "In mainland China, set a June quarter record for upgraders.",
+      "claim": "Apple set a June quarter record for iPhone upgraders in mainland China in Q3 FY2024.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2024Q3-040",
+      "turn_index": 32,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "from Kantar, the survey from Kantar this quarter showed that iPhones were the top three models in urban China.",
+      "claim": "Kantar survey showed iPhones were the top three models in urban China in Q3 FY2024.",
+      "categorizations": [
+        "competitive_or_market_position_claim"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2024Q3-041",
+      "turn_index": 33,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "in mainland China, the majority of customers buying or buying for the first time, buying that product for the first time. And the watch, the vast, vast majority of people are buying the product for the first time.",
+      "claim": "Majority of Mac/iPad customers and vast majority of Watch customers in mainland China were new buyers in Q3 FY2024.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2024Q3-042",
+      "turn_index": 34,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "During the quarter, I should say also that iPad returned to growth in Greater China as it did around the world.",
+      "claim": "iPad revenue returned to growth in Greater China in Q3 FY2024.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2024Q3-043",
+      "turn_index": 41,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "We started the rollout of Apple Intelligence this week with developers. So some of the features are out there as of Monday.",
+      "claim": "Apple started the developer rollout of Apple Intelligence in the week of the call (July 2024).",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2024Q3-044",
+      "turn_index": 60,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "ChatGPT is integrated by the end of the calendar year.",
+      "claim": "Apple will integrate ChatGPT into Apple Intelligence by the end of calendar year 2024.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AAPL-FY2024Q3-045",
+      "turn_index": 60,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "There are other features like languages beyond U.S. English that will happen over the course of the year.",
+      "claim": "Apple will roll out Apple Intelligence features in languages beyond U.S. English over the course of 2024.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AAPL-FY2024Q3-046",
+      "turn_index": 81,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "from an iPhone point of view, the iPhone 15 Pro and Pro Max will run Apple Intelligence and the successor products, obviously.",
+      "claim": "iPhone 15 Pro and Pro Max will run Apple Intelligence.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AAPL-FY2024Q3-047",
+      "turn_index": 81,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "If you look at the Mac, it starts with the M-series of silicon that started in 2020. And the iPad is the same. And so it starts with the M-series of silicon.",
+      "claim": "Macs and iPads with M-series silicon (starting 2020) will run Apple Intelligence.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AAPL-FY2024Q3-048",
+      "turn_index": 104,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "Our objective that we set in June is to roll out U.S. English starting in the fall, and that's to users",
+      "claim": "Apple plans to roll out Apple Intelligence in U.S. English to users in Fall 2024.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AAPL-FY2024Q3-049",
+      "turn_index": 104,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "proceed with more functionality, more features, if you will, and more languages and regions coverage as we proceed across the next year.",
+      "claim": "Apple will expand Apple Intelligence functionality, languages, and regions over the next year.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AAPL-FY2024Q3-050",
+      "turn_index": 107,
+      "speaker_id": "luca-maestri",
+      "verbatim_quote": "the percentage of revenue that we generate from the European Union on the App Store is about 7% of the total.",
+      "claim": "App Store revenue from the European Union is approximately 7% of total App Store revenue.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2024Q3-051",
+      "turn_index": 117,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "the wearables, home and accessory business has grown to almost $40 billion, which is double what it was 5 years ago.",
+      "claim": "Wearables, Home, and Accessories revenue reached almost $40 billion in trailing 12 months, double the level from 5 years ago.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2024Q3-052",
+      "turn_index": 123,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "you can expect that we will continue to invest and increase it year-on-year.",
+      "claim": "Apple expects to continue increasing R&D and CapEx investments year-over-year.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    }
+  ]
 }

@@ -746,5 +746,1098 @@
       "text": "Thank you, everyone. This concludes today's conference call. Thank you for participating. You may now disconnect."
     }
   ],
-  "statements": []
+  "statements": [
+    {
+      "id": "GOOG-FY2025Q1-001",
+      "turn_index": 3,
+      "speaker_id": "sundar-pichai",
+      "verbatim_quote": "AI Overviews is going very well with over 1.5 billion users per month",
+      "claim": "AI Overviews has over 1.5 billion monthly users.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "GOOG-FY2025Q1-002",
+      "turn_index": 3,
+      "speaker_id": "sundar-pichai",
+      "verbatim_quote": "In subscriptions, we surpassed 270 million.",
+      "claim": "Total subscriptions surpassed 270 million.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "GOOG-FY2025Q1-003",
+      "turn_index": 4,
+      "speaker_id": "sundar-pichai",
+      "verbatim_quote": "Google's network is robust and resilient, supported by over 2 million miles of fiber and 33 subsea cables.",
+      "claim": "Google's network is supported by over 2 million miles of fiber and 33 subsea cables.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "GOOG-FY2025Q1-004",
+      "turn_index": 5,
+      "speaker_id": "sundar-pichai",
+      "verbatim_quote": "Ironwood, our seventh-generation TPU and most powerful to date, is the first designed specifically for inference at scale. It delivers more than 10x improvement in compute power over our recent high-performance TPU while being nearly twice as power efficient.",
+      "claim": "Ironwood TPU delivers more than 10x compute power improvement and is nearly twice as power efficient as recent high-performance TPUs.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "GOOG-FY2025Q1-005",
+      "turn_index": 5,
+      "speaker_id": "sundar-pichai",
+      "verbatim_quote": "We were the first cloud provider to offer NVIDIA's groundbreaking B200 and GB200 Blackwell GPUs and will be offering their next-generation Vera Rubin GPUs.",
+      "claim": "Google will offer NVIDIA's next-generation Vera Rubin GPUs.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "GOOG-FY2025Q1-006",
+      "turn_index": 6,
+      "speaker_id": "sundar-pichai",
+      "verbatim_quote": "Active users in AI Studio and Gemini API have grown over 200% since the beginning of the year.",
+      "claim": "Active users in AI Studio and Gemini API grew over 200% since the beginning of the year.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "GOOG-FY2025Q1-007",
+      "turn_index": 6,
+      "speaker_id": "sundar-pichai",
+      "verbatim_quote": "Gemma models have been downloaded more than 140 million times.",
+      "claim": "Gemma models have been downloaded more than 140 million times.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "GOOG-FY2025Q1-008",
+      "turn_index": 6,
+      "speaker_id": "sundar-pichai",
+      "verbatim_quote": "AlphaFold has now been used by over 2.5 million researchers.",
+      "claim": "AlphaFold has been used by over 2.5 million researchers.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "GOOG-FY2025Q1-009",
+      "turn_index": 7,
+      "speaker_id": "sundar-pichai",
+      "verbatim_quote": "All 15 of our products with half a billion users now use Gemini models.",
+      "claim": "All 15 products with half a billion users now use Gemini models.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "GOOG-FY2025Q1-010",
+      "turn_index": 7,
+      "speaker_id": "sundar-pichai",
+      "verbatim_quote": "later this year, we'll upgrade tablets, cars, and devices that connect to your phone, such as headphones and watches.",
+      "claim": "Google will upgrade tablets, cars, and connected devices to Gemini later this year.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "GOOG-FY2025Q1-011",
+      "turn_index": 7,
+      "speaker_id": "sundar-pichai",
+      "verbatim_quote": "Gemini Live camera and screen sharing is now rolling out to all Android devices, including Pixel and Samsung S25.",
+      "claim": "Gemini Live camera and screen sharing is rolling out to all Android devices, including Pixel and Samsung S25.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "GOOG-FY2025Q1-012",
+      "turn_index": 9,
+      "speaker_id": "sundar-pichai",
+      "verbatim_quote": "Circle to Search is now available on more than 250 million devices, with usage increasing nearly 40% this quarter.",
+      "claim": "Circle to Search is available on more than 250 million devices with usage increasing nearly 40% in Q1.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "GOOG-FY2025Q1-013",
+      "turn_index": 9,
+      "speaker_id": "sundar-pichai",
+      "verbatim_quote": "Monthly visual searches with Lens have increased by 5 billion since October.",
+      "claim": "Monthly visual searches with Lens increased by 5 billion since October.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "GOOG-FY2025Q1-014",
+      "turn_index": 11,
+      "speaker_id": "sundar-pichai",
+      "verbatim_quote": "It delivers more than 2 billion AI assets monthly, including summarizing Gmail and refining docs.",
+      "claim": "Google Workspace delivers more than 2 billion AI assets monthly.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "GOOG-FY2025Q1-015",
+      "turn_index": 11,
+      "speaker_id": "sundar-pichai",
+      "verbatim_quote": "This quarter, we were excited to announce our intent to acquire Wiz, a leading cloud security platform",
+      "claim": "Google announced intent to acquire Wiz.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "GOOG-FY2025Q1-016",
+      "turn_index": 12,
+      "speaker_id": "sundar-pichai",
+      "verbatim_quote": "YouTube Music and Premium reached over 125 million subscribers, including trials globally.",
+      "claim": "YouTube Music and Premium reached over 125 million subscribers globally.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "GOOG-FY2025Q1-017",
+      "turn_index": 13,
+      "speaker_id": "sundar-pichai",
+      "verbatim_quote": "Waymo is now safely serving over a quarter of a million paid passenger trips each week. That is up 5x from a year ago.",
+      "claim": "Waymo is serving over 250,000 paid passenger trips per week, up 5x year-over-year.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "GOOG-FY2025Q1-018",
+      "turn_index": 13,
+      "speaker_id": "sundar-pichai",
+      "verbatim_quote": "This past quarter, Waymo opened up paid service in Silicon Valley.",
+      "claim": "Waymo opened paid service in Silicon Valley in Q1.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "GOOG-FY2025Q1-019",
+      "turn_index": 13,
+      "speaker_id": "sundar-pichai",
+      "verbatim_quote": "we are preparing for our public launch in Atlanta later this summer.",
+      "claim": "Waymo is preparing for public launch in Atlanta later this summer.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "GOOG-FY2025Q1-020",
+      "turn_index": 13,
+      "speaker_id": "sundar-pichai",
+      "verbatim_quote": "We recently announced Washington, DC, as a future ride-hailing city, going live in 2026 alongside Miami.",
+      "claim": "Waymo will go live in Washington, DC and Miami in 2026.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "GOOG-FY2025Q1-021",
+      "turn_index": 15,
+      "speaker_id": "philipp-schindler",
+      "verbatim_quote": "Google Services revenues were $77 billion for the quarter, up 10% year on year",
+      "claim": "Google Services revenues were $77 billion in Q1, up 10% year-over-year.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "GOOG-FY2025Q1-022",
+      "turn_index": 16,
+      "speaker_id": "philipp-schindler",
+      "verbatim_quote": "The feature is now available in more than 15 languages across 140 countries.",
+      "claim": "AI Overviews is available in more than 15 languages across 140 countries.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "GOOG-FY2025Q1-023",
+      "turn_index": 17,
+      "speaker_id": "philipp-schindler",
+      "verbatim_quote": "In Q1, the number of people shopping on Lens grew by over 10%",
+      "claim": "The number of people shopping on Lens grew by over 10% in Q1.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "GOOG-FY2025Q1-024",
+      "turn_index": 19,
+      "speaker_id": "philipp-schindler",
+      "verbatim_quote": "businesses using Demand Gen now see an average 26% year-on-year increase in conversions per dollar spent",
+      "claim": "Businesses using Demand Gen see an average 26% year-over-year increase in conversions per dollar spent.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "GOOG-FY2025Q1-025",
+      "turn_index": 19,
+      "speaker_id": "philipp-schindler",
+      "verbatim_quote": "When using Demand Gen with product feed, on average, they see more than double the conversion per dollar spent year over year.",
+      "claim": "Businesses using Demand Gen with product feed see more than double the conversion per dollar spent year-over-year.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "GOOG-FY2025Q1-026",
+      "turn_index": 20,
+      "speaker_id": "philipp-schindler",
+      "verbatim_quote": "In Q1, the growth of our reservation-based ads business more than doubled year over year.",
+      "claim": "Reservation-based ads business growth more than doubled year-over-year in Q1.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "GOOG-FY2025Q1-027",
+      "turn_index": 21,
+      "speaker_id": "philipp-schindler",
+      "verbatim_quote": "The creator takeover and accompanying creator ad lifted Toyota's brand awareness by 25% compared to a control group and 9% compared to the Toyota brand ad.",
+      "claim": "Toyota's creator ad campaign lifted brand awareness by 25% vs control and 9% vs brand ad.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "GOOG-FY2025Q1-028",
+      "turn_index": 21,
+      "speaker_id": "philipp-schindler",
+      "verbatim_quote": "Looking at Shorts, engaged views grew by over 20% in the first quarter.",
+      "claim": "Shorts engaged views grew by over 20% in Q1.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "GOOG-FY2025Q1-029",
+      "turn_index": 23,
+      "speaker_id": "anat-ashkenazi",
+      "verbatim_quote": "consolidated revenues of $90.2 billion, increased by 12% or 14% in constant currency.",
+      "claim": "Consolidated revenues were $90.2 billion, up 12% (14% constant currency) in Q1.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "GOOG-FY2025Q1-030",
+      "turn_index": 24,
+      "speaker_id": "anat-ashkenazi",
+      "verbatim_quote": "Total cost of revenue was $36.4 billion, up 8%.",
+      "claim": "Total cost of revenue was $36.4 billion, up 8% in Q1.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "GOOG-FY2025Q1-031",
+      "turn_index": 24,
+      "speaker_id": "anat-ashkenazi",
+      "verbatim_quote": "Total operating expenses increased 9% to $23.3 billion.",
+      "claim": "Total operating expenses increased 9% to $23.3 billion in Q1.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "GOOG-FY2025Q1-032",
+      "turn_index": 25,
+      "speaker_id": "anat-ashkenazi",
+      "verbatim_quote": "Operating income increased 20% this quarter to $31 billion, and operating margin increased to 33.9%",
+      "claim": "Operating income was $31 billion (up 20%) and operating margin was 33.9% in Q1.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "GOOG-FY2025Q1-033",
+      "turn_index": 25,
+      "speaker_id": "anat-ashkenazi",
+      "verbatim_quote": "Net income increased 46% to $34.5 billion, and earnings per share increased 49% to $2.81.",
+      "claim": "Net income was $34.5 billion (up 46%) and EPS was $2.81 (up 49%) in Q1.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "GOOG-FY2025Q1-034",
+      "turn_index": 25,
+      "speaker_id": "anat-ashkenazi",
+      "verbatim_quote": "We delivered free cash flow of $19 billion in the first quarter and $74.9 billion for the trailing 12 months.",
+      "claim": "Free cash flow was $19 billion in Q1 and $74.9 billion for the trailing 12 months.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "GOOG-FY2025Q1-035",
+      "turn_index": 25,
+      "speaker_id": "anat-ashkenazi",
+      "verbatim_quote": "We ended the quarter with $95 billion in cash and marketable securities.",
+      "claim": "Cash and marketable securities were $95 billion at end of Q1.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "GOOG-FY2025Q1-036",
+      "turn_index": 26,
+      "speaker_id": "anat-ashkenazi",
+      "verbatim_quote": "Google Services revenues increased 10% to $77.3 billion",
+      "claim": "Google Services revenues were $77.3 billion, up 10% in Q1.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "GOOG-FY2025Q1-037",
+      "turn_index": 26,
+      "speaker_id": "anat-ashkenazi",
+      "verbatim_quote": "Google Search and other advertising revenues increased by 10% to $50.7 billion.",
+      "claim": "Google Search and other advertising revenues were $50.7 billion, up 10% in Q1.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "GOOG-FY2025Q1-038",
+      "turn_index": 26,
+      "speaker_id": "anat-ashkenazi",
+      "verbatim_quote": "YouTube advertising revenues increased 10% to $8.9 billion",
+      "claim": "YouTube advertising revenues were $8.9 billion, up 10% in Q1.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "GOOG-FY2025Q1-039",
+      "turn_index": 26,
+      "speaker_id": "anat-ashkenazi",
+      "verbatim_quote": "Subscription platforms and device revenues increased 19% to $10.4 billion",
+      "claim": "Subscription platforms and device revenues were $10.4 billion, up 19% in Q1.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "GOOG-FY2025Q1-040",
+      "turn_index": 26,
+      "speaker_id": "anat-ashkenazi",
+      "verbatim_quote": "Google Services operating income increased 17% to $32.7 billion, and operating margin increased from 39.6% to 42.3%.",
+      "claim": "Google Services operating income was $32.7 billion (up 17%) and margin was 42.3% in Q1.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "GOOG-FY2025Q1-041",
+      "turn_index": 27,
+      "speaker_id": "anat-ashkenazi",
+      "verbatim_quote": "Google Cloud segment... revenue increased by 28% to $12.3 billion in the first quarter",
+      "claim": "Google Cloud revenue was $12.3 billion, up 28% in Q1.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "GOOG-FY2025Q1-042",
+      "turn_index": 27,
+      "speaker_id": "anat-ashkenazi",
+      "verbatim_quote": "Google Cloud operating income increased to $2.2 billion, and operating margin increased from 9.4% to 17.8%.",
+      "claim": "Google Cloud operating income was $2.2 billion and margin was 17.8% in Q1.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "GOOG-FY2025Q1-043",
+      "turn_index": 27,
+      "speaker_id": "anat-ashkenazi",
+      "verbatim_quote": "As to other bets, for the first quarter, revenues were $450 million, and operating loss was $1.2 billion.",
+      "claim": "Other Bets revenues were $450 million and operating loss was $1.2 billion in Q1.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "GOOG-FY2025Q1-044",
+      "turn_index": 28,
+      "speaker_id": "anat-ashkenazi",
+      "verbatim_quote": "our reported CapEx in the first quarter was $17.2 billion",
+      "claim": "Reported CapEx was $17.2 billion in Q1.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "GOOG-FY2025Q1-045",
+      "turn_index": 28,
+      "speaker_id": "anat-ashkenazi",
+      "verbatim_quote": "In Q1, we returned value to shareholders in the form of $15.1 billion in share purchases and $2.4 billion in dividend payments.",
+      "claim": "Shareholder returns were $15.1 billion in share purchases and $2.4 billion in dividends in Q1.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "GOOG-FY2025Q1-046",
+      "turn_index": 28,
+      "speaker_id": "anat-ashkenazi",
+      "verbatim_quote": "our board of directors declared a 5% increase in our quarterly dividend and also approved a new $70 billion share purchase authorization.",
+      "claim": "Board declared 5% increase in quarterly dividend and approved $70 billion share purchase authorization.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "GOOG-FY2025Q1-047",
+      "turn_index": 30,
+      "speaker_id": "anat-ashkenazi",
+      "verbatim_quote": "we still expect to invest approximately $75 billion in CapEx this year.",
+      "claim": "Alphabet expects to invest approximately $75 billion in CapEx in FY2025.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "GOOG-FY2025Q1-048",
+      "turn_index": 30,
+      "speaker_id": "anat-ashkenazi",
+      "verbatim_quote": "In the first quarter, we saw 31% year-on-year growth in depreciation from the increase in technical infrastructure assets placed in service.",
+      "claim": "Depreciation grew 31% year-over-year in Q1.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "GOOG-FY2025Q1-049",
+      "turn_index": 30,
+      "speaker_id": "anat-ashkenazi",
+      "verbatim_quote": "Given the increase in CapEx investments over the past few years, we expect the growth rate in depreciation to accelerate throughout 2025.",
+      "claim": "Depreciation growth rate is expected to accelerate throughout 2025.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "GOOG-FY2025Q1-050",
+      "turn_index": 32,
+      "speaker_id": "anat-ashkenazi",
+      "verbatim_quote": "YouTube and Cloud exited 2024 at a combined annual run rate of $110 billion.",
+      "claim": "YouTube and Cloud exited 2024 at a combined annual run rate of $110 billion.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "GOOG-FY2025Q1-051",
+      "turn_index": 66,
+      "speaker_id": "sundar-pichai",
+      "verbatim_quote": "That number is well over 30% now.",
+      "claim": "Over 30% of code checked in at Google involves accepting AI-suggested solutions.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "GOOG-FY2025Q1-052",
+      "turn_index": 77,
+      "speaker_id": "sundar-pichai",
+      "verbatim_quote": "We look forward to offering the first paid rides in Atlanta via Uber later this year.",
+      "claim": "Waymo will offer first paid rides in Atlanta via Uber later this year.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    }
+  ]
 }

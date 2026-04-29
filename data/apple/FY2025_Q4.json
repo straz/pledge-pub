@@ -903,5 +903,1056 @@
       "text": "This does conclude today's conference. We do appreciate your participation."
     }
   ],
-  "statements": []
+  "statements": [
+    {
+      "id": "AAPL-FY2025Q4-001",
+      "turn_index": 2,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "Apple is proud to report $102.5 billion in revenue, up 8% from a year ago and a September quarter record.",
+      "claim": "Apple reported Q4 FY2025 revenue of $102.5 billion, an 8% year-over-year increase.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q4-002",
+      "turn_index": 2,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "Services achieved an all-time revenue record of $28.8 billion, growing 15% from a year ago.",
+      "claim": "Apple reported Q4 FY2025 Services revenue of $28.8 billion, a 15% year-over-year increase.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q4-003",
+      "turn_index": 2,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "EPS came in at $1.85, setting a September quarter record.",
+      "claim": "Apple reported Q4 FY2025 diluted EPS of $1.85.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q4-004",
+      "turn_index": 2,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "we achieved an all-time revenue record of $416 billion for the fiscal year.",
+      "claim": "Apple reported FY2025 total revenue of $416 billion.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q4-005",
+      "turn_index": 3,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "we expect the December quarter's revenue to be the best ever for the company and the best ever for iPhone.",
+      "claim": "Apple expects Q1 FY2026 (December quarter) total company and iPhone revenue to set all-time records.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q4-006",
+      "turn_index": 6,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "we expect to release it next year.",
+      "claim": "Apple expects to release a more personalized Siri in FY2026.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q4-007",
+      "turn_index": 7,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "iPhone set a revenue record for the September quarter at $49 billion, up 6% from a year ago",
+      "claim": "Apple reported Q4 FY2025 iPhone revenue of $49 billion, a 6% year-over-year increase.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q4-008",
+      "turn_index": 8,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "In Mac, we had a strong September quarter with revenue of $8.7 billion, up 13% year-over-year",
+      "claim": "Apple reported Q4 FY2025 Mac revenue of $8.7 billion, a 13% year-over-year increase.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q4-009",
+      "turn_index": 8,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "Turning to iPad, revenue was $7 billion for the September quarter.",
+      "claim": "Apple reported Q4 FY2025 iPad revenue of $7 billion.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q4-010",
+      "turn_index": 9,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "In wearables, home and accessories, revenue was $9 billion.",
+      "claim": "Apple reported Q4 FY2025 Wearables, Home, and Accessories revenue of $9 billion.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q4-011",
+      "turn_index": 10,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "we expect to notify more than a million users of this life-threatening condition.",
+      "claim": "Apple expects to notify more than one million users of hypertension via Apple Watch features.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q4-012",
+      "turn_index": 11,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "Turning to services, as I mentioned earlier, revenue was $28.8 billion for the September quarter, 15% higher year-over-year and an all-time record.",
+      "claim": "Apple reported Q4 FY2025 Services revenue of $28.8 billion, a 15% year-over-year increase.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q4-013",
+      "turn_index": 12,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "starting next year, Apple TV will be the place for subscribers to follow every twist and turn of the new season.",
+      "claim": "Apple TV will broadcast Formula One races in the U.S. starting in FY2026.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q4-014",
+      "turn_index": 12,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "F1: The Movie, one of the year's biggest blockbusters, will be coming to Apple TV on December 12th.",
+      "claim": "F1: The Movie will be released on Apple TV on December 12, 2025.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q4-015",
+      "turn_index": 14,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "we're committed to invest $600 billion over the next four years with a focus on innovation in strategic areas like advanced manufacturing, silicon engineering, and artificial intelligence.",
+      "claim": "Apple commits to investing $600 billion in the U.S. over the next four years.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "long-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q4-016",
+      "turn_index": 14,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "These commitments build on our longstanding investments in America while supporting more than 450,000 jobs with thousands of suppliers across all 50 states.",
+      "claim": "Apple's U.S. investments support more than 450,000 jobs.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q4-017",
+      "turn_index": 15,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "We built a new factory in Houston for advanced AI service, for example, which just started shipping its first products off the line",
+      "claim": "Apple's new Houston AI service factory has started shipping products.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q4-018",
+      "turn_index": 16,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "Our revenue of $102.5 billion was up 8% year-over-year and is a new September quarter record.",
+      "claim": "Apple reported Q4 FY2025 revenue of $102.5 billion, an 8% year-over-year increase.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q4-019",
+      "turn_index": 16,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "Products revenue was $73.7 billion, up 5% year-over-year",
+      "claim": "Apple reported Q4 FY2025 Products revenue of $73.7 billion, a 5% year-over-year increase.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q4-020",
+      "turn_index": 17,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "Company gross margin was 47.2%, above the high end of our guidance range and up 70 basis points sequentially",
+      "claim": "Apple reported Q4 FY2025 gross margin of 47.2%, up 70 basis points sequentially.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q4-021",
+      "turn_index": 17,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "This includes approximately $1.1 billion of tariff-related costs, which is in line with what we had estimated on our last call.",
+      "claim": "Apple incurred approximately $1.1 billion in tariff-related costs in Q4 FY2025.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q4-022",
+      "turn_index": 17,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "Products gross margin was 36.2%, up 170 basis points sequentially",
+      "claim": "Apple reported Q4 FY2025 Products gross margin of 36.2%, up 170 basis points sequentially.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q4-023",
+      "turn_index": 17,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "Services gross margin was 75.3%, down 30 basis points sequentially.",
+      "claim": "Apple reported Q4 FY2025 Services gross margin of 75.3%, down 30 basis points sequentially.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q4-024",
+      "turn_index": 17,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "Operating expenses landed at $15.9 billion, up 11% year-over-year",
+      "claim": "Apple reported Q4 FY2025 operating expenses of $15.9 billion, an 11% year-over-year increase.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q4-025",
+      "turn_index": 17,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "Net income was $27.5 billion.",
+      "claim": "Apple reported Q4 FY2025 net income of $27.5 billion.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q4-026",
+      "turn_index": 17,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "Diluted earnings per share was $1.85, up 13% year-over-year on an adjusted basis",
+      "claim": "Apple reported Q4 FY2025 adjusted diluted EPS of $1.85, a 13% year-over-year increase.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q4-027",
+      "turn_index": 17,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "Operating cash flow was also a September quarter record at $29.7 billion.",
+      "claim": "Apple reported Q4 FY2025 operating cash flow of $29.7 billion.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q4-028",
+      "turn_index": 21,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "This strong momentum in the September quarter drove our total fiscal year services revenue to surpass $100 billion, up 14% year-over-year and our best ever.",
+      "claim": "Apple reported FY2025 total Services revenue surpassing $100 billion, a 14% year-over-year increase.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q4-029",
+      "turn_index": 22,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "We ended the quarter with $132 billion in cash and marketable securities.",
+      "claim": "Apple ended Q4 FY2025 with $132 billion in cash and marketable securities.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q4-030",
+      "turn_index": 22,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "resulting in $99 billion in total debt.",
+      "claim": "Apple ended Q4 FY2025 with $99 billion in total debt.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q4-031",
+      "turn_index": 22,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "Therefore, at the end of the quarter, net cash was $34 billion.",
+      "claim": "Apple ended Q4 FY2025 with $34 billion in net cash.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q4-032",
+      "turn_index": 22,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "During the quarter, we returned $24 billion to shareholders. This included $3.9 billion in dividends and equivalents and $20 billion through open market repurchases of 89 million Apple shares.",
+      "claim": "Apple returned $24 billion to shareholders in Q4 FY2025, including $3.9 billion in dividends and $20 billion in share repurchases.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q4-033",
+      "turn_index": 24,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "We expect our December quarter total company revenue to grow by 10%-12% year-over-year, which would be our best quarter ever.",
+      "claim": "Apple expects Q1 FY2026 total company revenue to grow 10%-12% year-over-year.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q4-034",
+      "turn_index": 24,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "We expect iPhone revenue to grow double digits year-over-year, which would be our best iPhone quarter ever.",
+      "claim": "Apple expects Q1 FY2026 iPhone revenue to grow double digits year-over-year.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q4-035",
+      "turn_index": 24,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "We expect services revenue to grow at a year-over-year rate similar to what we reported in the fiscal year 2025.",
+      "claim": "Apple expects Q1 FY2026 Services revenue to grow at a rate similar to FY2025 (14%).",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q4-036",
+      "turn_index": 25,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "We expect gross margin to be between 47% and 48%, which includes an estimated impact of $1.4 billion of tariff-related costs.",
+      "claim": "Apple expects Q1 FY2026 gross margin to be between 47% and 48%, including $1.4 billion in tariff costs.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q4-037",
+      "turn_index": 25,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "For the December quarter, we expect operating expenses to be between $18.1 billion and $18.5 billion.",
+      "claim": "Apple expects Q1 FY2026 operating expenses to be between $18.1 billion and $18.5 billion.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q4-038",
+      "turn_index": 25,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "We expect OI&E to be around $150 million, excluding any potential impact from the mark-to-market of minority investments",
+      "claim": "Apple expects Q1 FY2026 Other Income/Expense to be around $150 million.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q4-039",
+      "turn_index": 25,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "and our tax rate to be around 17%.",
+      "claim": "Apple expects Q1 FY2026 tax rate to be around 17%.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q4-040",
+      "turn_index": 25,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "Today our board of directors has declared a cash dividend of $0.26 per share of common stock payable on November 13, 2025, to shareholders of record as of November 10, 2025.",
+      "claim": "Apple declared a Q1 FY2026 cash dividend of $0.26 per share.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q4-041",
+      "turn_index": 39,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "We do believe that we'll return to growth in Q1",
+      "claim": "Apple expects to return to revenue growth in China in Q1 FY2026.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q4-042",
+      "turn_index": 50,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "For complete transparency and clarity, we're constrained today on several models of the iPhone 17.",
+      "claim": "Apple is currently supply-constrained on several iPhone 17 models.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q4-043",
+      "turn_index": 58,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "The Greater China revenue was down 4% year-over-year in the September quarter.",
+      "claim": "Apple reported Q4 FY2025 Greater China revenue down 4% year-over-year.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q4-044",
+      "turn_index": 58,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "We expect to return to growth this quarter.",
+      "claim": "Apple expects to return to revenue growth in China in Q1 FY2026.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q4-045",
+      "turn_index": 77,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "It goes from $1.1 billion to a projection of $1.4 billion.",
+      "claim": "Apple projects Q1 FY2026 tariff-related costs to be $1.4 billion, up from $1.1 billion in Q4.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q4-046",
+      "turn_index": 96,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "the manufacturing plant that makes the servers used for Apple Intelligence just started manufacturing in Houston a few weeks ago, and we've got a ramp planned there for use in our data centers.",
+      "claim": "Apple's Houston server manufacturing plant for Apple Intelligence has started production with a planned ramp.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q4-047",
+      "turn_index": 97,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "in 2025, we did have CapEx costs associated with building out our Private Cloud Compute environment in our first-party data centers.",
+      "claim": "Apple incurred CapEx costs in FY2025 for building out its Private Cloud Compute environment.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q4-048",
+      "turn_index": 105,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "We also continually surveil the market on M&A and are open to pursuing M&A if we think that it will advance our roadmap.",
+      "claim": "Apple is open to pursuing M&A opportunities that advance its roadmap.",
+      "categorizations": [
+        "strategic_direction_claim"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "heavily_hedged",
+      "override_window": "indefinite",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q4-049",
+      "turn_index": 113,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "we are expecting increases in our CapEx spending related to AI investments.",
+      "claim": "Apple expects to increase CapEx spending related to AI investments.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q4-050",
+      "turn_index": 113,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "I don't see us moving away from this hybrid model where we leverage both first-party capacity as well as leverage third-party capacity.",
+      "claim": "Apple intends to maintain its hybrid data center model using both first-party and third-party capacity.",
+      "categorizations": [
+        "strategic_direction_claim"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    }
+  ]
 }

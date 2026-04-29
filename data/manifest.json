@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T01:41:26.262Z",
+  "generated_at": "2026-04-29T16:01:48.837Z",
   "companies": [
     {
       "id": "alphabet",
@@ -10,11 +10,23 @@
           "period": "FY2025_Q4",
           "title": "Alphabet Q4 2025 Earnings Call Transcript",
           "datetime": "2026-02-05T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 55,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "unhedged": 52,
+              "softly_hedged": 3
+            },
+            "by_category": {
+              "revenue_trajectory_specific": 13,
+              "operational_metric_specific": 30,
+              "financial_structure_or_capital_action": 9,
+              "geographic_or_regional_rollout": 1,
+              "margin_trajectory_specific": 2
+            },
+            "by_resolution": {
+              "validated": 52,
+              "unresolved": 3
+            }
           },
           "fiscal_label": "Q4 2025"
         },
@@ -22,11 +34,26 @@
           "period": "FY2025_Q3",
           "title": "Alphabet Q3 2025 Earnings Call Transcript",
           "datetime": "2025-10-30T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 60,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "unhedged": 53,
+              "softly_hedged": 5,
+              "heavily_hedged": 2
+            },
+            "by_category": {
+              "revenue_trajectory_specific": 9,
+              "operational_metric_specific": 22,
+              "capacity_or_capability_delivery": 6,
+              "geographic_or_regional_rollout": 5,
+              "segment_growth_specific": 4,
+              "margin_trajectory_specific": 8,
+              "financial_structure_or_capital_action": 6
+            },
+            "by_resolution": {
+              "validated": 50,
+              "unresolved": 10
+            }
           },
           "fiscal_label": "Q3 2025"
         },
@@ -34,11 +61,26 @@
           "period": "FY2025_Q2",
           "title": "Alphabet Q2 2025 Earnings Call Transcript",
           "datetime": "2025-07-23T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 50,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "unhedged": 42,
+              "softly_hedged": 8
+            },
+            "by_category": {
+              "operational_metric_specific": 22,
+              "segment_growth_specific": 3,
+              "revenue_trajectory_specific": 9,
+              "geographic_or_regional_rollout": 2,
+              "competitive_or_market_position_claim": 1,
+              "margin_trajectory_specific": 5,
+              "financial_structure_or_capital_action": 6,
+              "strategic_direction_claim": 2
+            },
+            "by_resolution": {
+              "validated": 40,
+              "unresolved": 10
+            }
           },
           "fiscal_label": "Q2 2025"
         },
@@ -46,11 +88,25 @@
           "period": "FY2025_Q1",
           "title": "Alphabet Q1 2025 Earnings Call Transcript",
           "datetime": "2025-04-24T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 52,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "unhedged": 50,
+              "softly_hedged": 2
+            },
+            "by_category": {
+              "operational_metric_specific": 16,
+              "capacity_or_capability_delivery": 6,
+              "financial_structure_or_capital_action": 7,
+              "geographic_or_regional_rollout": 5,
+              "revenue_trajectory_specific": 9,
+              "margin_trajectory_specific": 8,
+              "segment_growth_specific": 1
+            },
+            "by_resolution": {
+              "validated": 44,
+              "unresolved": 8
+            }
           },
           "fiscal_label": "Q1 2025"
         },
@@ -58,11 +114,25 @@
           "period": "FY2024_Q4",
           "title": "Alphabet Q4 2024 Earnings Call Transcript",
           "datetime": "2025-02-04T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 55,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "unhedged": 45,
+              "softly_hedged": 10
+            },
+            "by_category": {
+              "geographic_or_regional_rollout": 4,
+              "operational_metric_specific": 18,
+              "revenue_trajectory_specific": 11,
+              "capacity_or_capability_delivery": 9,
+              "competitive_or_market_position_claim": 2,
+              "margin_trajectory_specific": 5,
+              "financial_structure_or_capital_action": 6
+            },
+            "by_resolution": {
+              "validated": 46,
+              "unresolved": 9
+            }
           },
           "fiscal_label": "Q4 2024"
         },
@@ -70,11 +140,24 @@
           "period": "FY2024_Q3",
           "title": "Alphabet Q3 2024 Earnings Call Transcript",
           "datetime": "2024-10-29T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 50,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "unhedged": 47,
+              "softly_hedged": 3
+            },
+            "by_category": {
+              "capacity_or_capability_delivery": 3,
+              "operational_metric_specific": 16,
+              "geographic_or_regional_rollout": 5,
+              "revenue_trajectory_specific": 12,
+              "margin_trajectory_specific": 7,
+              "financial_structure_or_capital_action": 9
+            },
+            "by_resolution": {
+              "unresolved": 9,
+              "validated": 41
+            }
           },
           "fiscal_label": "Q3 2024"
         },
@@ -82,11 +165,26 @@
           "period": "FY2024_Q2",
           "title": "Alphabet Q2 2024 Earnings Call Transcript",
           "datetime": "2024-07-23T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 49,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "unhedged": 41,
+              "softly_hedged": 8
+            },
+            "by_category": {
+              "revenue_trajectory_specific": 10,
+              "margin_trajectory_specific": 7,
+              "operational_metric_specific": 17,
+              "competitive_or_market_position_claim": 2,
+              "capacity_or_capability_delivery": 6,
+              "geographic_or_regional_rollout": 4,
+              "strategic_direction_claim": 2,
+              "financial_structure_or_capital_action": 4
+            },
+            "by_resolution": {
+              "validated": 41,
+              "unresolved": 8
+            }
           },
           "fiscal_label": "Q2 2024"
         }
@@ -137,11 +235,28 @@
           "period": "FY2025_Q1",
           "title": "Amazon.com Q1 2025 Earnings Call Transcript",
           "datetime": "2025-05-01T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 28,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "unhedged": 18,
+              "softly_hedged": 9,
+              "heavily_hedged": 1
+            },
+            "by_category": {
+              "revenue_trajectory_specific": 4,
+              "margin_trajectory_specific": 5,
+              "financial_structure_or_capital_action": 3,
+              "operational_metric_specific": 4,
+              "segment_growth_specific": 6,
+              "capacity_or_capability_delivery": 4,
+              "geographic_or_regional_rollout": 1,
+              "strategic_direction_claim": 1
+            },
+            "by_resolution": {
+              "validated": 14,
+              "unverifiable": 3,
+              "unresolved": 11
+            }
           },
           "fiscal_label": "Q1 2025"
         },
@@ -149,11 +264,27 @@
           "period": "FY2024_Q4",
           "title": "Amazon.com Q4 2024 Earnings Call Transcript",
           "datetime": "2025-02-06T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 29,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "unhedged": 17,
+              "softly_hedged": 12
+            },
+            "by_category": {
+              "revenue_trajectory_specific": 3,
+              "margin_trajectory_specific": 6,
+              "financial_structure_or_capital_action": 4,
+              "operational_metric_specific": 6,
+              "competitive_or_market_position_claim": 3,
+              "segment_growth_specific": 3,
+              "capacity_or_capability_delivery": 3,
+              "geographic_or_regional_rollout": 1
+            },
+            "by_resolution": {
+              "validated": 17,
+              "unresolved": 10,
+              "unverifiable": 2
+            }
           },
           "fiscal_label": "Q4 2024"
         },
@@ -161,11 +292,28 @@
           "period": "FY2024_Q3",
           "title": "Amazon.com Q3 2024 Earnings Call Transcript",
           "datetime": "2024-10-31T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 31,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "unhedged": 23,
+              "softly_hedged": 7,
+              "heavily_hedged": 1
+            },
+            "by_category": {
+              "revenue_trajectory_specific": 4,
+              "margin_trajectory_specific": 7,
+              "financial_structure_or_capital_action": 3,
+              "operational_metric_specific": 8,
+              "segment_growth_specific": 4,
+              "competitive_or_market_position_claim": 1,
+              "capacity_or_capability_delivery": 3,
+              "geographic_or_regional_rollout": 1
+            },
+            "by_resolution": {
+              "validated": 25,
+              "unverifiable": 4,
+              "unresolved": 2
+            }
           },
           "fiscal_label": "Q3 2024"
         },
@@ -173,11 +321,25 @@
           "period": "FY2024_Q2",
           "title": "Amazon.com Q2 2024 Earnings Call Transcript",
           "datetime": "2024-08-01T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 20,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "unhedged": 17,
+              "softly_hedged": 3
+            },
+            "by_category": {
+              "revenue_trajectory_specific": 3,
+              "margin_trajectory_specific": 6,
+              "financial_structure_or_capital_action": 3,
+              "segment_growth_specific": 4,
+              "operational_metric_specific": 1,
+              "strategic_direction_claim": 1,
+              "capacity_or_capability_delivery": 2
+            },
+            "by_resolution": {
+              "validated": 18,
+              "unverifiable": 2
+            }
           },
           "fiscal_label": "Q2 2024"
         },
@@ -185,11 +347,27 @@
           "period": "FY2024_Q1",
           "title": "Amazon.com Q1 2024 Earnings Call Transcript",
           "datetime": "2024-04-30T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 28,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "unhedged": 18,
+              "softly_hedged": 10
+            },
+            "by_category": {
+              "revenue_trajectory_specific": 2,
+              "margin_trajectory_specific": 6,
+              "financial_structure_or_capital_action": 5,
+              "operational_metric_specific": 5,
+              "segment_growth_specific": 4,
+              "capacity_or_capability_delivery": 2,
+              "geographic_or_regional_rollout": 3,
+              "strategic_direction_claim": 1
+            },
+            "by_resolution": {
+              "validated": 22,
+              "unverifiable": 5,
+              "partially_validated": 1
+            }
           },
           "fiscal_label": "Q1 2024"
         }
@@ -204,11 +382,27 @@
           "period": "FY2026_Q1",
           "title": "Apple Q1 2026 Earnings Call Transcript",
           "datetime": "2026-01-29T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 55,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "unhedged": 43,
+              "softly_hedged": 11,
+              "heavily_hedged": 1
+            },
+            "by_category": {
+              "revenue_trajectory_specific": 3,
+              "segment_growth_specific": 10,
+              "operational_metric_specific": 13,
+              "geographic_or_regional_rollout": 2,
+              "capacity_or_capability_delivery": 8,
+              "financial_structure_or_capital_action": 12,
+              "margin_trajectory_specific": 5,
+              "competitive_or_market_position_claim": 4
+            },
+            "by_resolution": {
+              "validated": 38,
+              "unresolved": 17
+            }
           },
           "fiscal_label": "Q1 2026"
         },
@@ -216,11 +410,27 @@
           "period": "FY2025_Q4",
           "title": "Apple Q4 2025 Earnings Call Transcript",
           "datetime": "2025-10-30T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 50,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "unhedged": 34,
+              "softly_hedged": 15,
+              "heavily_hedged": 1
+            },
+            "by_category": {
+              "revenue_trajectory_specific": 5,
+              "segment_growth_specific": 10,
+              "financial_structure_or_capital_action": 14,
+              "capacity_or_capability_delivery": 4,
+              "operational_metric_specific": 3,
+              "geographic_or_regional_rollout": 4,
+              "margin_trajectory_specific": 8,
+              "strategic_direction_claim": 2
+            },
+            "by_resolution": {
+              "validated": 27,
+              "unresolved": 23
+            }
           },
           "fiscal_label": "Q4 2025"
         },
@@ -228,11 +438,26 @@
           "period": "FY2025_Q3",
           "title": "Apple Q3 2025 Earnings Call Transcript",
           "datetime": "2025-07-31T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 55,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "unhedged": 36,
+              "softly_hedged": 18,
+              "heavily_hedged": 1
+            },
+            "by_category": {
+              "revenue_trajectory_specific": 8,
+              "segment_growth_specific": 12,
+              "capacity_or_capability_delivery": 7,
+              "operational_metric_specific": 4,
+              "geographic_or_regional_rollout": 4,
+              "financial_structure_or_capital_action": 10,
+              "margin_trajectory_specific": 10
+            },
+            "by_resolution": {
+              "validated": 38,
+              "unresolved": 17
+            }
           },
           "fiscal_label": "Q3 2025"
         },
@@ -240,11 +465,27 @@
           "period": "FY2025_Q2",
           "title": "Apple Q2 2025 Earnings Call Transcript",
           "datetime": "2025-05-01T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 52,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "unhedged": 38,
+              "softly_hedged": 13,
+              "heavily_hedged": 1
+            },
+            "by_category": {
+              "revenue_trajectory_specific": 4,
+              "financial_structure_or_capital_action": 15,
+              "segment_growth_specific": 8,
+              "capacity_or_capability_delivery": 2,
+              "operational_metric_specific": 14,
+              "geographic_or_regional_rollout": 1,
+              "margin_trajectory_specific": 7,
+              "competitive_or_market_position_claim": 1
+            },
+            "by_resolution": {
+              "validated": 36,
+              "unresolved": 16
+            }
           },
           "fiscal_label": "Q2 2025"
         },
@@ -252,11 +493,26 @@
           "period": "FY2025_Q1",
           "title": "Apple Q1 2025 Earnings Call Transcript",
           "datetime": "2025-01-30T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 50,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "unhedged": 39,
+              "softly_hedged": 11
+            },
+            "by_category": {
+              "revenue_trajectory_specific": 5,
+              "operational_metric_specific": 11,
+              "geographic_or_regional_rollout": 8,
+              "capacity_or_capability_delivery": 1,
+              "segment_growth_specific": 12,
+              "margin_trajectory_specific": 6,
+              "financial_structure_or_capital_action": 7,
+              "competitive_or_market_position_claim": 1
+            },
+            "by_resolution": {
+              "validated": 38,
+              "unresolved": 12
+            }
           },
           "fiscal_label": "Q1 2025"
         },
@@ -264,11 +520,25 @@
           "period": "FY2024_Q4",
           "title": "Apple Q4 2024 Earnings Call Transcript",
           "datetime": "2024-10-31T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 60,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "unhedged": 44,
+              "softly_hedged": 16
+            },
+            "by_category": {
+              "revenue_trajectory_specific": 4,
+              "segment_growth_specific": 10,
+              "geographic_or_regional_rollout": 7,
+              "capacity_or_capability_delivery": 9,
+              "operational_metric_specific": 11,
+              "margin_trajectory_specific": 5,
+              "financial_structure_or_capital_action": 14
+            },
+            "by_resolution": {
+              "validated": 45,
+              "unresolved": 15
+            }
           },
           "fiscal_label": "Q4 2024"
         },
@@ -276,11 +546,26 @@
           "period": "FY2024_Q3",
           "title": "Apple Q3 2024 Earnings Call Transcript",
           "datetime": "2024-08-01T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 52,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "unhedged": 40,
+              "softly_hedged": 12
+            },
+            "by_category": {
+              "revenue_trajectory_specific": 8,
+              "geographic_or_regional_rollout": 5,
+              "segment_growth_specific": 10,
+              "operational_metric_specific": 12,
+              "margin_trajectory_specific": 4,
+              "financial_structure_or_capital_action": 5,
+              "competitive_or_market_position_claim": 1,
+              "capacity_or_capability_delivery": 7
+            },
+            "by_resolution": {
+              "validated": 37,
+              "unresolved": 15
+            }
           },
           "fiscal_label": "Q3 2024"
         },
@@ -288,11 +573,25 @@
           "period": "FY2024_Q2",
           "title": "Apple Q2 2024 Earnings Call Transcript",
           "datetime": "2024-05-02T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 52,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "unhedged": 39,
+              "softly_hedged": 13
+            },
+            "by_category": {
+              "revenue_trajectory_specific": 5,
+              "segment_growth_specific": 11,
+              "capacity_or_capability_delivery": 1,
+              "financial_structure_or_capital_action": 9,
+              "operational_metric_specific": 18,
+              "margin_trajectory_specific": 5,
+              "geographic_or_regional_rollout": 3
+            },
+            "by_resolution": {
+              "validated": 42,
+              "unresolved": 10
+            }
           },
           "fiscal_label": "Q2 2024"
         }
@@ -592,11 +891,26 @@
           "period": "FY2026_Q4",
           "title": "NVIDIA Q4 2026 Earnings Call Transcript",
           "datetime": "2026-02-25T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 45,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "unhedged": 30,
+              "softly_hedged": 15
+            },
+            "by_category": {
+              "revenue_trajectory_specific": 6,
+              "segment_growth_specific": 14,
+              "capacity_or_capability_delivery": 4,
+              "operational_metric_specific": 12,
+              "margin_trajectory_specific": 3,
+              "financial_structure_or_capital_action": 4,
+              "strategic_direction_claim": 1,
+              "competitive_or_market_position_claim": 1
+            },
+            "by_resolution": {
+              "validated": 24,
+              "unresolved": 21
+            }
           },
           "fiscal_label": "Q4 2026"
         },
@@ -604,11 +918,27 @@
           "period": "FY2026_Q3",
           "title": "NVIDIA Q3 2026 Earnings Call Transcript",
           "datetime": "2025-11-19T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 50,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "softly_hedged": 14,
+              "unhedged": 32,
+              "heavily_hedged": 4
+            },
+            "by_category": {
+              "revenue_trajectory_specific": 5,
+              "segment_growth_specific": 11,
+              "capacity_or_capability_delivery": 14,
+              "operational_metric_specific": 10,
+              "margin_trajectory_specific": 5,
+              "financial_structure_or_capital_action": 3,
+              "geographic_or_regional_rollout": 1,
+              "competitive_or_market_position_claim": 1
+            },
+            "by_resolution": {
+              "unresolved": 29,
+              "validated": 21
+            }
           },
           "fiscal_label": "Q3 2026"
         },
@@ -616,11 +946,27 @@
           "period": "FY2026_Q2",
           "title": "NVIDIA Q2 2026 Earnings Call Transcript",
           "datetime": "2025-08-27T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 49,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "unhedged": 24,
+              "softly_hedged": 23,
+              "heavily_hedged": 2
+            },
+            "by_category": {
+              "revenue_trajectory_specific": 10,
+              "segment_growth_specific": 9,
+              "capacity_or_capability_delivery": 11,
+              "operational_metric_specific": 8,
+              "geographic_or_regional_rollout": 2,
+              "margin_trajectory_specific": 4,
+              "financial_structure_or_capital_action": 2,
+              "competitive_or_market_position_claim": 3
+            },
+            "by_resolution": {
+              "validated": 24,
+              "unresolved": 25
+            }
           },
           "fiscal_label": "Q2 2026"
         },
@@ -628,11 +974,27 @@
           "period": "FY2026_Q1",
           "title": "NVIDIA Q1 2026 Earnings Call Transcript",
           "datetime": "2025-05-28T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 55,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "unhedged": 36,
+              "softly_hedged": 19
+            },
+            "by_category": {
+              "revenue_trajectory_specific": 6,
+              "segment_growth_specific": 10,
+              "financial_structure_or_capital_action": 7,
+              "operational_metric_specific": 5,
+              "capacity_or_capability_delivery": 16,
+              "geographic_or_regional_rollout": 5,
+              "margin_trajectory_specific": 4,
+              "strategic_direction_claim": 1,
+              "competitive_or_market_position_claim": 1
+            },
+            "by_resolution": {
+              "validated": 29,
+              "unresolved": 26
+            }
           },
           "fiscal_label": "Q1 2026"
         },
@@ -640,11 +1002,27 @@
           "period": "FY2025_Q4",
           "title": "NVIDIA Q4 2025 Earnings Call Transcript",
           "datetime": "2025-02-26T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 55,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "unhedged": 36,
+              "softly_hedged": 18,
+              "heavily_hedged": 1
+            },
+            "by_category": {
+              "revenue_trajectory_specific": 4,
+              "segment_growth_specific": 22,
+              "margin_trajectory_specific": 6,
+              "operational_metric_specific": 8,
+              "financial_structure_or_capital_action": 3,
+              "capacity_or_capability_delivery": 9,
+              "geographic_or_regional_rollout": 2,
+              "strategic_direction_claim": 1
+            },
+            "by_resolution": {
+              "validated": 23,
+              "unresolved": 32
+            }
           },
           "fiscal_label": "Q4 2025"
         },
@@ -652,11 +1030,27 @@
           "period": "FY2025_Q3",
           "title": "NVIDIA Q3 2025 Earnings Call Transcript",
           "datetime": "2024-11-20T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 50,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "unhedged": 27,
+              "softly_hedged": 22,
+              "heavily_hedged": 1
+            },
+            "by_category": {
+              "revenue_trajectory_specific": 4,
+              "segment_growth_specific": 13,
+              "capacity_or_capability_delivery": 8,
+              "operational_metric_specific": 5,
+              "geographic_or_regional_rollout": 4,
+              "margin_trajectory_specific": 8,
+              "financial_structure_or_capital_action": 4,
+              "strategic_direction_claim": 4
+            },
+            "by_resolution": {
+              "validated": 15,
+              "unresolved": 35
+            }
           },
           "fiscal_label": "Q3 2025"
         },
@@ -664,11 +1058,25 @@
           "period": "FY2025_Q2",
           "title": "NVIDIA Q2 2025 Earnings Call Transcript",
           "datetime": "2024-08-28T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 51,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "unhedged": 26,
+              "softly_hedged": 25
+            },
+            "by_category": {
+              "revenue_trajectory_specific": 8,
+              "segment_growth_specific": 16,
+              "capacity_or_capability_delivery": 12,
+              "competitive_or_market_position_claim": 1,
+              "operational_metric_specific": 2,
+              "margin_trajectory_specific": 7,
+              "financial_structure_or_capital_action": 5
+            },
+            "by_resolution": {
+              "validated": 21,
+              "unresolved": 30
+            }
           },
           "fiscal_label": "Q2 2025"
         },
@@ -676,11 +1084,29 @@
           "period": "FY2025_Q1",
           "title": "NVIDIA Q1 2025 Earnings Call Transcript",
           "datetime": "2024-05-22T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 55,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "unhedged": 30,
+              "softly_hedged": 24,
+              "heavily_hedged": 1
+            },
+            "by_category": {
+              "revenue_trajectory_specific": 4,
+              "segment_growth_specific": 9,
+              "operational_metric_specific": 7,
+              "capacity_or_capability_delivery": 17,
+              "margin_trajectory_specific": 7,
+              "financial_structure_or_capital_action": 3,
+              "strategic_direction_claim": 4,
+              "geographic_or_regional_rollout": 3,
+              "competitive_or_market_position_claim": 1
+            },
+            "by_resolution": {
+              "validated": 21,
+              "unresolved": 33,
+              "unverifiable": 1
+            }
           },
           "fiscal_label": "Q1 2025"
         }

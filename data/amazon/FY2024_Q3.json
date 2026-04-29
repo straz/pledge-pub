@@ -780,5 +780,657 @@
       "text": "Thanks for joining us on the call today and for your questions. A replay will be available on our investor relations website for at least three months. We appreciate your interest in Amazon and look forward to talking with you again next quarter."
     }
   ],
-  "statements": []
+  "statements": [
+    {
+      "id": "AMZN-FY2024Q3-001",
+      "turn_index": 6,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "Today we're reporting $158.9 billion in revenue, up 11% year over year, excluding the impact from foreign exchange rates.",
+      "claim": "Amazon reported Q3 2024 revenue of $158.9 billion, up 11% year-over-year excluding FX.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2024Q3-002",
+      "turn_index": 6,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "Operating income was $17.4 billion, up 56% year over year.",
+      "claim": "Amazon reported Q3 2024 operating income of $17.4 billion, up 56% year-over-year, the highest quarterly operating income ever at the time.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2024Q3-003",
+      "turn_index": 6,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "trailing 12-month free cash flow adjusted for equipment finance leases was $46.1 billion, up 128%, or $25.9 billion year over year.",
+      "claim": "Amazon's trailing twelve-month free cash flow (adjusted for equipment finance leases) was $46.1 billion as of Q3 2024, up 128% or $25.9 billion year-over-year.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2024Q3-004",
+      "turn_index": 10,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "In the last few months, we've made hundreds of changes to our U.S. inbound network and opened more than 15 inbound buildings.",
+      "claim": "Amazon opened more than 15 new inbound fulfillment buildings and made hundreds of changes to its U.S. inbound network in the months preceding Q3 2024.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2024Q3-005",
+      "turn_index": 11,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "we've already improved our ability to spread inventory across our fulfillment centers by 25% year over year",
+      "claim": "Amazon's ability to spread inventory across fulfillment centers improved 25% year-over-year by Q3 2024 due to inbound network re-architecture.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2024Q3-006",
+      "turn_index": 12,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "Over 40 million customers this past quarter have had their orders delivered for free with same-day delivery, an increase of more than 25% year over year.",
+      "claim": "Over 40 million Amazon customers received free same-day delivery in Q3 2024, an increase of more than 25% year-over-year.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2024Q3-007",
+      "turn_index": 14,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "this new design reduces fulfillment processing time by up to 25%, increases the number of items we can offer for same-day or next-day delivery, and is expected to drive a 25% improvement in our cost to serve during peak within this next-generation facility.",
+      "claim": "Amazon's 12th-generation fulfillment center design reduces processing time by up to 25% and is expected to drive a 25% improvement in cost-to-serve during peak.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unverifiable"
+      }
+    },
+    {
+      "id": "AMZN-FY2024Q3-008",
+      "turn_index": 14,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "In advertising, we remain pleased with our progress, generating $14.3 billion of revenue in the quarter, 18.8% year-over-year growth.",
+      "claim": "Amazon advertising revenue was $14.3 billion in Q3 2024, up 18.8% year-over-year.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2024Q3-009",
+      "turn_index": 17,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "AWS grew 19.1% year over year and now stands at a $110 billion annualized run rate.",
+      "claim": "AWS grew 19.1% year-over-year in Q3 2024 and reached a $110 billion annualized revenue run rate.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2024Q3-010",
+      "turn_index": 19,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "our custom Graviton4 CPU instances, which provide up to nearly 40% better price performance versus other leading x86 processors.",
+      "claim": "Amazon's Graviton4 CPU instances provide up to approximately 40% better price performance than other leading x86 processors.",
+      "categorizations": [
+        "competitive_or_market_position_claim"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2024Q3-011",
+      "turn_index": 28,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "Q Transform saved Amazon's teams $260 million in 4,500 developer years in migrating over 30,000 applications to new versions of the Java JDK",
+      "claim": "Amazon Q Transform saved Amazon's internal teams $260 million and 4,500 developer-years by migrating over 30,000 applications to new Java JDK versions.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2024Q3-012",
+      "turn_index": 31,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "We continue to re-architect the brain of Alexa with a new set of foundational models that we'll share with customers in the near future.",
+      "claim": "Amazon will share a new Alexa experience powered by re-architected foundational models with customers in the near future.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unverifiable"
+      }
+    },
+    {
+      "id": "AMZN-FY2024Q3-013",
+      "turn_index": 33,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "We now have over 20 billion average monthly pages read on Kindle devices worldwide.",
+      "claim": "Amazon Kindle devices worldwide had over 20 billion average monthly pages read as of Q3 2024.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2024Q3-014",
+      "turn_index": 34,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "Today, we can deliver to 95% of first-time Amazon Pharmacy customers in the U.S. within two business days, and to 20% of U.S. Prime members within 24 hours.",
+      "claim": "Amazon Pharmacy can deliver to 95% of first-time U.S. customers within two business days and to 20% of U.S. Prime members within 24 hours as of Q3 2024.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2024Q3-015",
+      "turn_index": 35,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "Next year, we plan to launch operations in 20 new cities, so nearly half the U.S. will have the ability to have their medications delivered to their door within hours.",
+      "claim": "Amazon plans to launch Amazon Pharmacy same-day delivery operations in 20 new U.S. cities in 2025, reaching nearly half the U.S. population.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AMZN-FY2024Q3-016",
+      "turn_index": 38,
+      "speaker_id": "brian-olsavsky",
+      "verbatim_quote": "In the third quarter, North America segment revenue was $95.5 billion, an increase of 9% year over year. International segment revenue was $35.9 billion, an increase of 12% year over year.",
+      "claim": "North America revenue was $95.5 billion (+9% YoY) and international revenue was $35.9 billion (+12% YoY) in Q3 2024.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2024Q3-017",
+      "turn_index": 38,
+      "speaker_id": "brian-olsavsky",
+      "verbatim_quote": "Worldwide paid units accelerated to 12% growth year over year.",
+      "claim": "Amazon worldwide paid unit volume accelerated to 12% year-over-year growth in Q3 2024.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2024Q3-018",
+      "turn_index": 40,
+      "speaker_id": "brian-olsavsky",
+      "verbatim_quote": "our North America and international segments each delivered their seventh consecutive quarter of year-over-year operating margin improvement. North America segment operating income was $5.7 billion, an increase of $1.4 billion year over year.",
+      "claim": "Both North America and International segments delivered their seventh consecutive quarter of year-over-year operating margin improvement in Q3 2024; NA operating income was $5.7 billion.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2024Q3-019",
+      "turn_index": 41,
+      "speaker_id": "brian-olsavsky",
+      "verbatim_quote": "North America operating margin was 5.9%, up 100 basis points year over year. In the international segment, operating income was $1.3 billion, an improvement of $1.4 billion year over year. International operating margin was 3.6%, up 390 basis points year over year.",
+      "claim": "North America operating margin was 5.9% (+100bps YoY) and International operating income was $1.3 billion with a 3.6% margin (+390bps YoY) in Q3 2024.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2024Q3-020",
+      "turn_index": 42,
+      "speaker_id": "brian-olsavsky",
+      "verbatim_quote": "So far this year, we've generated operating profit in each of the three quarters for the international segment and totals $2.5 billion year to date.",
+      "claim": "Amazon International segment generated operating profit in all three quarters of 2024 year-to-date, totaling $2.5 billion through Q3 2024.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2024Q3-021",
+      "turn_index": 44,
+      "speaker_id": "brian-olsavsky",
+      "verbatim_quote": "Moving next to our AWS segment, revenue was $27.5 billion, an increase of 19.1% year over year, excluding the impact of foreign exchange. AWS now has an annualized revenue run rate of $110 billion.",
+      "claim": "AWS revenue was $27.5 billion in Q3 2024, up 19.1% year-over-year, with a $110 billion annualized run rate.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2024Q3-022",
+      "turn_index": 44,
+      "speaker_id": "brian-olsavsky",
+      "verbatim_quote": "AWS operating income was $10.4 billion, an increase of $3.5 billion year over year.",
+      "claim": "AWS operating income was $10.4 billion in Q3 2024, up $3.5 billion year-over-year.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2024Q3-023",
+      "turn_index": 46,
+      "speaker_id": "brian-olsavsky",
+      "verbatim_quote": "Year to date, capital investments were $51.9 billion. We expect to spend approximately $75 billion in CapEx in 2024.",
+      "claim": "Amazon's year-to-date 2024 capital investments were $51.9 billion through Q3, and the company expects to spend approximately $75 billion in full-year 2024 CapEx.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2024Q3-024",
+      "turn_index": 54,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "we expect to spend about $75 billion in 2024. I suspect we'll spend more than that in 2025. And the majority of it is for AWS, and specifically, the increased bumps here are really driven by generative AI.",
+      "claim": "Amazon expects capital expenditures in 2025 to exceed the approximately $75 billion spent in 2024, driven primarily by AWS and generative AI.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2024Q3-025",
+      "turn_index": 55,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "our AI business is a multi-billion dollar business that's growing triple-digit percentages year over year and is growing three times faster at its stage of evolution than AWS did itself.",
+      "claim": "Amazon's AWS AI business is growing at triple-digit year-over-year percentage rates and is growing three times faster at its stage of development than AWS itself did at a comparable stage.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "unverifiable"
+      }
+    },
+    {
+      "id": "AMZN-FY2024Q3-026",
+      "turn_index": 87,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "the percent of paid units was 60% in Q3.",
+      "claim": "Third-party sellers accounted for 60% of Amazon's paid units in Q3 2024.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2024Q3-027",
+      "turn_index": 95,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "the second version of Trainium, Trainium2, will start to ramp up in the next few weeks.",
+      "claim": "Amazon Trainium2 will begin ramping up in the weeks following the Q3 2024 earnings call (late October/November 2024).",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unverifiable"
+      }
+    },
+    {
+      "id": "AMZN-FY2024Q3-028",
+      "turn_index": 37,
+      "speaker_id": "brian-olsavsky",
+      "verbatim_quote": "Worldwide operating income increased 56% year over year to $17.4 billion, our highest quarterly operating income ever, and was $2.4 billion above the high end of our guidance range.",
+      "claim": "Amazon's Q3 2024 worldwide operating income of $17.4 billion was its highest quarterly operating income ever and exceeded the high end of guidance by $2.4 billion.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2024Q3-029",
+      "turn_index": 37,
+      "speaker_id": "brian-olsavsky",
+      "verbatim_quote": "Worldwide revenue was $158.9 billion, an 11% increase year over year.",
+      "claim": "Amazon Q3 2024 worldwide revenue of $158.9 billion exceeded the high end of guidance, with a favorable FX impact versus the 90 basis point headwind assumed in guidance.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2024Q3-030",
+      "turn_index": 72,
+      "speaker_id": "brian-olsavsky",
+      "verbatim_quote": "We intend, over the fullness of time, that we're going to aim for North America margins, which are not static themselves.",
+      "claim": "Amazon intends for its international segment operating margins to eventually reach North America-level margins over time.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "heavily_hedged",
+      "override_window": "long-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AMZN-FY2024Q3-031",
+      "turn_index": 96,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "We have gone back to our manufacturing partners a couple of times now to produce a lot more Trainium than we anticipated.",
+      "claim": "Amazon increased its Trainium production orders with manufacturing partners multiple times due to demand exceeding initial forecasts.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    }
+  ]
 }

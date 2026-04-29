@@ -1057,5 +1057,1057 @@
       "text": "All right. Thanks, Ben. I guess that's it. A replay of today's call will be available for two weeks on Apple Podcasts or as a webcast on apple.com/investor and via telephone. The number for the telephone replay is 866-583-1035. Please enter confirmation code 7398532 followed by the pound sign. These replays will be available by approximately 5:00 P.M. Pacific Time today. Members of the press with additional questions can contact Josh Rosenstock at 408-862-1142. And financial analysts can contact me, Suhasini Chandramouli, with additional questions at 408-974-3123. Thanks again for joining us here today."
     }
   ],
-  "statements": []
+  "statements": [
+    {
+      "id": "AAPL-FY2025Q1-001",
+      "turn_index": 2,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "Today, Apple is reporting revenue of $124.3 billion for the December quarter, up 4% from a year ago and an all-time record.",
+      "claim": "Apple reported Q1 FY2025 revenue of $124.3 billion, a 4% year-over-year increase.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q1-002",
+      "turn_index": 2,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "EPS also set an all-time record of $2.40, 10% higher year-over-year.",
+      "claim": "Apple reported Q1 FY2025 diluted EPS of $2.40, a 10% year-over-year increase.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q1-003",
+      "turn_index": 3,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "I'm also pleased to announce that we reached a new record for our installed base, with over 2.35 billion active devices.",
+      "claim": "Apple's active device installed base reached over 2.35 billion.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q1-004",
+      "turn_index": 4,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "In April, we're bringing Apple Intelligence to more languages, including French, German, Italian, Portuguese, Spanish, Japanese, Korean, and Simplified Chinese, as well as localized English to Singapore and India.",
+      "claim": "Apple will expand Apple Intelligence to French, German, Italian, Portuguese, Spanish, Japanese, Korean, Simplified Chinese, and localized English in Singapore and India in April.",
+      "categorizations": [
+        "geographic_or_regional_rollout",
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q1-005",
+      "turn_index": 5,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "iPhone revenue came in at $69.1 billion, reaching all-time iPhone revenue records in dozens of markets and regions.",
+      "claim": "Apple reported Q1 FY2025 iPhone revenue of $69.1 billion.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q1-006",
+      "turn_index": 6,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "In Mac, revenue was $9 billion for the December quarter, 16% higher year-over-year",
+      "claim": "Apple reported Q1 FY2025 Mac revenue of $9 billion, a 16% year-over-year increase.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q1-007",
+      "turn_index": 7,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "iPad revenue was $8.1 billion, up 15% from a year ago",
+      "claim": "Apple reported Q1 FY2025 iPad revenue of $8.1 billion, a 15% year-over-year increase.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q1-008",
+      "turn_index": 8,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "Wearables, home, and accessories revenue came in at $11.7 billion.",
+      "claim": "Apple reported Q1 FY2025 Wearables, Home, and Accessories revenue of $11.7 billion.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q1-009",
+      "turn_index": 9,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "Turning to services, we set an all-time revenue record of $26.3 billion for the December quarter, growing 14% from a year ago.",
+      "claim": "Apple reported Q1 FY2025 Services revenue of $26.3 billion, a 14% year-over-year increase.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q1-010",
+      "turn_index": 11,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "We were excited to announce plans to connect with even more customers this year by adding a fifth store in the UAE and bringing our online store to Saudi Arabia this summer.",
+      "claim": "Apple will open a fifth store in the UAE and launch its online store in Saudi Arabia in summer 2025.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q1-011",
+      "turn_index": 11,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "We can't wait to welcome customers to the first of several flagship store locations in Saudi Arabia that we're opening beginning in 2026.",
+      "claim": "Apple will open its first flagship store in Saudi Arabia beginning in 2026.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q1-012",
+      "turn_index": 15,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "Company gross margin was 46.9% at the high end of our guidance range and up 70 basis points sequentially",
+      "claim": "Apple reported Q1 FY2025 company gross margin of 46.9%.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q1-013",
+      "turn_index": 15,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "Products gross margin was 39.3%, up 300 basis points sequentially",
+      "claim": "Apple reported Q1 FY2025 Products gross margin of 39.3%.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q1-014",
+      "turn_index": 15,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "Services gross margin was 75%, up 100 basis points sequentially",
+      "claim": "Apple reported Q1 FY2025 Services gross margin of 75%.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q1-015",
+      "turn_index": 16,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "Operating expenses of $15.4 billion landed at the midpoint of our guidance range and up 7% year-over-year.",
+      "claim": "Apple reported Q1 FY2025 operating expenses of $15.4 billion.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q1-016",
+      "turn_index": 16,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "This strong business performance resulted in all-time records for both net income at $36.3 billion and diluted earnings per share of $2.40",
+      "claim": "Apple reported Q1 FY2025 net income of $36.3 billion.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q1-017",
+      "turn_index": 16,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "Operating cash flow was also strong at $29.9 billion",
+      "claim": "Apple reported Q1 FY2025 operating cash flow of $29.9 billion.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q1-018",
+      "turn_index": 21,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "We ended the quarter with $141 billion in cash and marketable securities.",
+      "claim": "Apple ended Q1 FY2025 with $141 billion in cash and marketable securities.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q1-019",
+      "turn_index": 21,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "We repaid $1 billion in maturing debt and decreased commercial paper by $8 billion, resulting in $97 billion in total debt.",
+      "claim": "Apple ended Q1 FY2025 with $97 billion in total debt.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q1-020",
+      "turn_index": 21,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "During the quarter, we returned over $30 billion to shareholders. This included $3.9 billion in dividends and equivalents and $23.3 billion through open market repurchases of 100 million Apple shares.",
+      "claim": "Apple returned over $30 billion to shareholders in Q1 FY2025, including $3.9 billion in dividends and $23.3 billion in share repurchases.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q1-021",
+      "turn_index": 22,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "As the dollar has strengthened significantly, we expect foreign exchange to be a headwind and to have a negative impact on revenue of about 2.5 percentage points on a year-over-year basis.",
+      "claim": "Apple expects foreign exchange to negatively impact Q2 FY2025 revenue by approximately 2.5 percentage points year-over-year.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q1-022",
+      "turn_index": 22,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "Despite that headwind, we expect our March quarter total company revenue to grow low to mid-single digits year-over-year.",
+      "claim": "Apple expects Q2 FY2025 total company revenue to grow low to mid-single digits year-over-year.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q1-023",
+      "turn_index": 22,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "We expect services revenue to grow low double digits year-over-year.",
+      "claim": "Apple expects Q2 FY2025 services revenue to grow low double digits year-over-year.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q1-024",
+      "turn_index": 23,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "We expect gross margin to be between 46.5% and 47.5%.",
+      "claim": "Apple expects Q2 FY2025 gross margin to be between 46.5% and 47.5%.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q1-025",
+      "turn_index": 23,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "We expect operating expenses to be between $15.1 billion and $15.3 billion.",
+      "claim": "Apple expects Q2 FY2025 operating expenses to be between $15.1 billion and $15.3 billion.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q1-026",
+      "turn_index": 23,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "We expect OI&E to be around negative $300 million, excluding any potential impact from the mark-to-market of minority investments",
+      "claim": "Apple expects Q2 FY2025 other income and expense to be around negative $300 million, excluding mark-to-market impacts.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q1-027",
+      "turn_index": 23,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "and our tax rate to be around 16%.",
+      "claim": "Apple expects Q2 FY2025 tax rate to be around 16%.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q1-028",
+      "turn_index": 23,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "Finally, today, our board of directors has declared a cash dividend of $0.25 per share of common stock payable on February 13th, 2025, to shareholders of record as of February 10th, 2025.",
+      "claim": "Apple declared a Q2 FY2025 cash dividend of $0.25 per share, payable February 13, 2025.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q1-029",
+      "turn_index": 34,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "If you look at our Greater China revenue for the quarter, we were down 11% year-over-year.",
+      "claim": "Apple reported Q1 FY2025 Greater China revenue down 11% year-over-year.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q1-030",
+      "turn_index": 34,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "And over half of the decline that we experienced was driven by change in channel inventory from the beginning to the end of the quarter.",
+      "claim": "Over half of the Q1 FY2025 Greater China revenue decline was driven by channel inventory changes.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q1-031",
+      "turn_index": 64,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "India set a December quarter record during the quarter, and we're opening more stores there. We've announced that we're going to open four new stores there.",
+      "claim": "Apple announced it will open four new stores in India.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q1-032",
+      "turn_index": 64,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "The iPhone was the top-selling model in India for the quarter.",
+      "claim": "iPhone was the top-selling smartphone model in India in Q1 FY2025.",
+      "categorizations": [
+        "competitive_or_market_position_claim"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q1-033",
+      "turn_index": 66,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "in emerging markets, we're also seeing double-digit growth on the install base, both in total and for the iPhone as well.",
+      "claim": "Apple saw double-digit growth in the install base in emerging markets in Q1 FY2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q1-034",
+      "turn_index": 52,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "If you look at iPhone, we did set an all-time record for upgraders, so we've never seen a higher level of upgraders before.",
+      "claim": "Apple set an all-time record for iPhone upgraders in Q1 FY2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q1-035",
+      "turn_index": 53,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "And if you look at the 16 compared to the 15 from launch, which occurred, as you know, in September, so this is across now two quarters, from September to the end of the December fiscal quarter, the 16 outperformed the 15.",
+      "claim": "iPhone 16 outperformed iPhone 15 from launch through the end of Q1 FY2025.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q1-036",
+      "turn_index": 58,
+      "speaker_id": "tim-cook",
+      "verbatim_quote": "And probably what is most important is that over half of the sales in the December quarter went to customers who were new to the iPad.",
+      "claim": "Over half of iPad sales in Q1 FY2025 were to customers new to the product.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q1-037",
+      "turn_index": 19,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "Both transacting and paid accounts reached new all-time highs, with paid accounts growing double digits year-over-year.",
+      "claim": "Apple's paid accounts grew double digits year-over-year in Q1 FY2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q1-038",
+      "turn_index": 19,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "We have well over a billion paid subscriptions across the services on our platform.",
+      "claim": "Apple has well over one billion paid subscriptions across its services platform.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q1-039",
+      "turn_index": 20,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "Tap to Pay, now live in 20 markets.",
+      "claim": "Apple's Tap to Pay feature is live in 20 markets.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q1-040",
+      "turn_index": 17,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "Mac generated $9 billion in revenue, up 16% year-over-year... with double-digit growth in every geographic segment.",
+      "claim": "Mac revenue grew double digits in every geographic segment in Q1 FY2025.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q1-041",
+      "turn_index": 17,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "The Mac install base reached an all-time high, and we saw double-digit growth for both upgraders and customers new to the Mac.",
+      "claim": "Mac upgraders and new customers grew double digits in Q1 FY2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q1-042",
+      "turn_index": 18,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "The iPad install base reached another all-time high, and over half of the customers who purchased an iPad during the quarter were new to the product.",
+      "claim": "iPad install base reached an all-time high in Q1 FY2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q1-043",
+      "turn_index": 19,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "the Apple Watch install base reached a new all-time high, with over half of customers purchasing an Apple Watch during the quarter being new to the product.",
+      "claim": "Apple Watch install base reached a new all-time high in Q1 FY2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q1-044",
+      "turn_index": 16,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "iPhone revenue was $69.1 billion, roughly flat to the prior year.",
+      "claim": "iPhone revenue was roughly flat year-over-year in Q1 FY2025.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q1-045",
+      "turn_index": 18,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "Wearables, home, and accessories revenue was $11.7 billion, down 2% year over year.",
+      "claim": "Wearables, Home, and Accessories revenue was down 2% year-over-year in Q1 FY2025.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q1-046",
+      "turn_index": 15,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "Products revenue was $98 billion, up 2% year-over-year",
+      "claim": "Products revenue was $98 billion, up 2% year-over-year in Q1 FY2025.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q1-047",
+      "turn_index": 15,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "Services revenue reached an all-time record of $26.3 billion, up 14% year-over-year.",
+      "claim": "Services revenue reached an all-time record of $26.3 billion, up 14% year-over-year in Q1 FY2025.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q1-048",
+      "turn_index": 16,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "We grew in the vast majority of markets we track.",
+      "claim": "Apple grew revenue in the vast majority of tracked markets in Q1 FY2025.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q1-049",
+      "turn_index": 16,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "We achieved all-time revenue records in the Americas, Europe, Japan, and rest of Asia-Pacific",
+      "claim": "Apple achieved all-time revenue records in the Americas, Europe, Japan, and Rest of Asia-Pacific in Q1 FY2025.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AAPL-FY2025Q1-050",
+      "turn_index": 16,
+      "speaker_id": "kevan-parekh",
+      "verbatim_quote": "We also set an all-time record for upgraders.",
+      "claim": "Apple set an all-time record for iPhone upgraders in Q1 FY2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    }
+  ]
 }
