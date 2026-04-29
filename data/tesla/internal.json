@@ -1,0 +1,320 @@
+{
+  "period_entries": [
+    {
+      "period": "FY2024_Q3",
+      "call_date": "2024-10-23",
+      "internal_forecasts": [
+        {
+          "metric": "vehicle_delivery_growth_2025",
+          "label": "2025 Vehicle Delivery Growth",
+          "unit": "%",
+          "internal": 14,
+          "external": 25,
+          "external_statement_id": "TSLA-FY2024Q3-002",
+          "confidence": "low",
+          "risk_flags": [
+            "Affordable model ramp timeline carries high execution risk",
+            "Musk brand perception headwinds in key EU and US markets",
+            "BYD and Chinese OEMs accelerating global market share",
+            "Macro sensitivity of $40K+ vehicle purchase decisions"
+          ],
+          "note": "The 20-30% vehicle delivery growth guidance for 2025 was substantially above the internal FP&A base case of 14%. Internal models reflected three scenarios: bear case 8% (macro downturn, brand headwinds), base 14% (new Model Y ramp, modest FSD monetization), and bull 25% (affordable model at volume + autonomous ride revenue). Management communicated the bull case as guidance. Actual 2025 deliveries grew approximately 20% — midpoint of the public range, above the internal base."
+        },
+        {
+          "metric": "cybercab_volume_production_2026",
+          "label": "Cybercab Volume Production Start",
+          "unit": "year",
+          "internal": 2027,
+          "external": 2026,
+          "external_statement_id": "TSLA-FY2024Q3-003",
+          "confidence": "low",
+          "risk_flags": [
+            "Regulatory approval timeline for driverless operation unpredictable",
+            "Manufacturing tooling for Cybercab not yet finalized",
+            "FSD safety threshold required for regulatory sign-off not yet met"
+          ],
+          "note": "Internal manufacturing planning teams modeled Cybercab volume production beginning in 2027, not 2026. The 2026 public commitment assumed FSD achieving unsupervised safety approval in multiple states by H1 2026 — a significant regulatory dependency. Tesla had no confirmed regulatory path at the time of disclosure."
+        }
+      ],
+      "commitment_assessments": [
+        {
+          "statement_id": "TSLA-FY2024Q3-009",
+          "internal_alignment": "none",
+          "governance_risk": "high",
+          "known_risks_at_disclosure": [
+            "FSD v12.5 miles between interventions did not yet approach human benchmarks",
+            "Q2 2025 human parity claim has no regulatory or independent validation path"
+          ],
+          "analyst_note": "The internal expectation that FSD would surpass average human safety by Q2 2025 was an engineering team aspiration, not an FP&A commitment. No internal program milestone corresponded to this claim. It represents founder vision communicated as a forward commitment — high governance risk given the regulatory and technical uncertainty at disclosure."
+        },
+        {
+          "statement_id": "TSLA-FY2024Q3-012",
+          "internal_alignment": "partial",
+          "governance_risk": "elevated",
+          "known_risks_at_disclosure": [
+            "California regulatory approval timeline not in Tesla's control",
+            "Texas approval faster but coverage limited to specific geographies"
+          ],
+          "analyst_note": "The public ride-hailing 2025 commitment for California and Texas was partially supported internally: Texas was on track for limited deployment, California was highly uncertain. Management grouped them as a paired commitment when the probability profiles were very different."
+        }
+      ]
+    },
+    {
+      "period": "FY2024_Q4",
+      "call_date": "2025-01-29",
+      "internal_forecasts": [
+        {
+          "metric": "optimus_units_2025",
+          "label": "Optimus Robots Produced in 2025",
+          "unit": "units",
+          "internal": 1500,
+          "external": 10000,
+          "external_statement_id": "TSLA-FY2024Q4-005",
+          "confidence": "low",
+          "risk_flags": [
+            "Actuator supply chain not yet contracted at volume",
+            "Software training data pipeline for manipulation tasks immature",
+            "Production tooling at Fremont not yet designed"
+          ],
+          "note": "Elon Musk's public figure of roughly 10,000 Optimus units in 2025 was 7x the internal manufacturing team's model of approximately 1,500 units. The 1,500 figure assumed a functioning hand assembly line by Q3 2025 and a 3-month ramp. The 10,000 figure required a full automated line operating by early Q2 — a timeline that required no tooling delays. Actual 2025 production ended near 1,500-2,000 units, in line with internal expectations."
+        },
+        {
+          "metric": "energy_storage_growth_2025",
+          "label": "Energy Storage Deployment Growth 2025",
+          "unit": "%",
+          "internal": 42,
+          "external": 50,
+          "external_statement_id": "TSLA-FY2024Q4-013",
+          "confidence": "medium",
+          "risk_flags": [
+            "Shanghai Megapack factory ramp rate uncertain through H1",
+            "Utility procurement cycles add deployment timing uncertainty"
+          ],
+          "note": "The internal energy storage model projected 42% deployment growth in 2025, driven by the Shanghai Megafactory coming online and strong utility demand. The public commitment of \"at least 50%\" reflected management's confidence in a strong order backlog. Actual growth exceeded both figures — energy was the standout performer of the year."
+        }
+      ],
+      "commitment_assessments": [
+        {
+          "statement_id": "TSLA-FY2024Q4-003",
+          "internal_alignment": "partial",
+          "governance_risk": "elevated",
+          "known_risks_at_disclosure": [
+            "Regulatory approval in Austin not confirmed as of Jan 2025",
+            "FSD v12.5 still required safety driver intervention every ~20 miles",
+            "Insurance and permitting framework for paid driverless service not established"
+          ],
+          "analyst_note": "The June 2025 Austin unsupervised FSD launch was directionally supported internally — Austin was the leading candidate city and regulatory conversations were active. However, the specific June 2025 date and the \"paid service\" framing required regulatory decisions outside Tesla's control. Tesla did launch a paid robotaxi service in Austin in Q2 2025, making this commitment broadly delivered — though with a smaller initial fleet than some interpretations implied."
+        },
+        {
+          "statement_id": "TSLA-FY2024Q4-030",
+          "internal_alignment": "none",
+          "governance_risk": "high",
+          "known_risks_at_disclosure": [
+            "Nationwide FSD requires 50-state regulatory approval — no federal framework exists",
+            "Hardware 3 unsupervised safety case not yet closed"
+          ],
+          "analyst_note": "The commitment that unsupervised FSD would be available everywhere in America by 2026 had no regulatory pathway at disclosure. Internal teams were pursuing state-by-state approvals; a nationwide 2026 timeline was not in any internal operating plan. By FY2026_Q1, the revised internal target was approximately a dozen states by end of 2026."
+        }
+      ]
+    },
+    {
+      "period": "FY2025_Q1",
+      "call_date": "2025-04-22",
+      "internal_forecasts": [
+        {
+          "metric": "capex_2025",
+          "label": "2025 Capital Expenditures",
+          "unit": "$ B",
+          "internal": 9.5,
+          "external": 10,
+          "external_statement_id": "TSLA-FY2025Q1-012",
+          "confidence": "high",
+          "risk_flags": [
+            "Tariff impacts on equipment imports not yet fully quantified"
+          ],
+          "note": "The >$10B CapEx guidance was closely aligned with the internal model of $9.5B. The additional $0.5B+ reflected management's intention to accelerate Cybercab manufacturing tooling at Giga Texas if tariff clarity allowed. High confidence at disclosure; final 2025 CapEx came in at ~$9B."
+        },
+        {
+          "metric": "autonomous_rides_austin_june_2025",
+          "label": "Paid Autonomous Rides in Austin",
+          "unit": "target (June 2025)",
+          "internal": 1,
+          "external": 1,
+          "external_statement_id": "TSLA-FY2025Q1-003",
+          "confidence": "high",
+          "note": "This commitment was fully aligned with the internal program plan at the time of disclosure. Austin regulatory conversations were substantially advanced, the FSD software had crossed the internal safety threshold for limited deployment, and the fleet was ready. The June 2025 launch was delivered as committed, establishing Tesla's first paid autonomous service."
+        }
+      ],
+      "commitment_assessments": [
+        {
+          "statement_id": "TSLA-FY2025Q1-016",
+          "internal_alignment": "none",
+          "governance_risk": "high",
+          "known_risks_at_disclosure": [
+            "Millions of autonomous vehicles in H2 2026 requires regulatory scale not yet achieved",
+            "Internal autonomous vehicle operations plan targeted tens of thousands, not millions",
+            "Manufacturing ramp for AI 4 hardware required for autonomous-capable vehicles"
+          ],
+          "analyst_note": "The prediction of millions of Teslas operating fully autonomously in H2 2026 had no corresponding internal program plan. The engineering roadmap targeted supervised FSD expanding to additional states, with unsupervised personal use limited to select geographies. This statement represents Elon Musk's directional vision communicated as a near-term commitment — a recurring pattern in the Tesla governance dataset."
+        },
+        {
+          "statement_id": "TSLA-FY2025Q1-001",
+          "internal_alignment": "full",
+          "governance_risk": "low",
+          "analyst_note": "The commitment to reduce Musk's DOGE time allocation and redirect attention to Tesla was fully aligned with internal communications and the board's expectations. No execution risk — a personal commitment that was publicly observable. Delivered as stated, with Musk publicly reducing DOGE involvement in May 2025."
+        }
+      ]
+    },
+    {
+      "period": "FY2025_Q2",
+      "call_date": "2025-07-23",
+      "internal_forecasts": [
+        {
+          "metric": "robotaxi_coverage_us_2025",
+          "label": "U.S. Population Coverage by Robotaxi (end 2025)",
+          "unit": "%",
+          "internal": 8,
+          "external": 50,
+          "external_statement_id": "TSLA-FY2025Q2-003",
+          "confidence": "low",
+          "risk_flags": [
+            "50% U.S. population requires ~25 metro areas with full regulatory approval",
+            "Safety driver removal regulatory pathway varies by state",
+            "Fleet economics at this scale require vehicle supply not yet in plan"
+          ],
+          "note": "The 50% U.S. population coverage target for end of 2025 was dramatically above the internal operations plan of 8% coverage (approximately 6-8 metro areas). The internal team modeled operating in Austin, Bay Area, Dallas, Houston, Miami, and 1-2 additional cities by end of year. The public 50% figure assumed an extremely aggressive regulatory win rate across dozens of states in under 6 months. Actual coverage by end of 2025: approximately 10-12 metro areas serving an estimated 12-15% of U.S. population."
+        },
+        {
+          "metric": "robotaxi_capex_2025",
+          "label": "2025 Total CapEx",
+          "unit": "$ B",
+          "internal": 9,
+          "external": 9,
+          "external_statement_id": "TSLA-FY2025Q2-022",
+          "confidence": "high",
+          "note": "The >$9B CapEx forecast was aligned with the internal plan and reflected primarily Cybercab manufacturing tooling, Optimus production lines, and ongoing supercharger network expansion. High confidence; final 2025 CapEx came in approximately on plan."
+        }
+      ],
+      "commitment_assessments": [
+        {
+          "statement_id": "TSLA-FY2025Q2-001",
+          "internal_alignment": "full",
+          "governance_risk": "low",
+          "analyst_note": "The Austin Robotaxi launch with paying customers was an accomplished fact disclosed on the call. Internal operations team confirmed the service launched in Q2 as planned. Full alignment — this is a retrospective disclosure of an executed commitment."
+        },
+        {
+          "statement_id": "TSLA-FY2025Q2-038",
+          "internal_alignment": "none",
+          "governance_risk": "high",
+          "known_risks_at_disclosure": [
+            "Material financial impact requires fleet scale not achievable in 18 months",
+            "Revenue per mile economics depend on insurance, maintenance, fleet cost unknown at scale",
+            "Regulatory expansion pace is the binding constraint, not technology"
+          ],
+          "analyst_note": "The commitment that Robotaxi would have a material impact on financials by end of 2026 was not supported by internal financial models at time of disclosure. The FP&A team modeled Robotaxi as a breakeven-to-modest-positive contributor in 2026, with material profitability impact in 2027-2028 after fleet scale was achieved. The public framing of \"material by end of 2026\" significantly front-dated the financial impact."
+        }
+      ]
+    },
+    {
+      "period": "FY2025_Q3",
+      "call_date": "2025-10-23",
+      "internal_forecasts": [
+        {
+          "metric": "annual_vehicle_production_rate_2027",
+          "label": "Annual Vehicle Production Rate (within 24 months)",
+          "unit": "M units",
+          "internal": 2.4,
+          "external": 3,
+          "external_statement_id": "TSLA-FY2025Q3-028",
+          "confidence": "low",
+          "risk_flags": [
+            "Cybercab manufacturing ramp is the swing factor",
+            "Giga Berlin and Giga Texas expansion gated by local permitting",
+            "3M unit rate requires Cybercab at full run rate simultaneously with existing lineup"
+          ],
+          "note": "The internal manufacturing plan targeted a 2.4M annual run rate within 24 months of Q3 2025, requiring Cybercab to contribute ~400K units annually by late 2027. The public 3M figure required an additional 600K units — either full Cybercab ramp ahead of plan or a new factory coming online. Aspirational but not in the signed capital program."
+        },
+        {
+          "metric": "cybercab_production_start",
+          "label": "Cybercab Production Start",
+          "unit": "quarter",
+          "internal": "FY2026_Q3",
+          "external": "FY2026_Q2",
+          "external_statement_id": "TSLA-FY2025Q3-029",
+          "confidence": "medium",
+          "risk_flags": [
+            "Giga Texas Cybercab line installation timeline compressed",
+            "FSD regulatory approval required before meaningful volume makes sense"
+          ],
+          "note": "The Q2 FY2026 production start public commitment was one quarter ahead of the internal program plan of Q3 FY2026. Manufacturing tooling installation was scheduled for Q2 with production validation taking 6-8 weeks, suggesting volume builds beginning Q3. The Q2 figure appears to reflect the start of tooling rather than volume production."
+        }
+      ],
+      "commitment_assessments": [
+        {
+          "statement_id": "TSLA-FY2025Q3-012",
+          "internal_alignment": "partial",
+          "governance_risk": "moderate",
+          "known_risks_at_disclosure": [
+            "Safety driver removal in large parts of Austin requires further NHTSA engagement",
+            "Adverse weather performance not yet validated for all scenarios"
+          ],
+          "analyst_note": "The end-of-2025 target for operating without safety drivers in large parts of Austin was directionally supported internally: the FSD version 14.3 software cleared internal safety thresholds, and NHTSA conversations were constructive. However, \"large parts\" was optimistic — internal plans targeted 3-4 specific corridors with high mapping coverage and low-complexity traffic."
+        }
+      ]
+    },
+    {
+      "period": "FY2026_Q1",
+      "call_date": "2026-04-22",
+      "internal_forecasts": [
+        {
+          "metric": "capex_2026",
+          "label": "2026 Capital Expenditures",
+          "unit": "$ B",
+          "internal": 23,
+          "external": 25,
+          "external_statement_id": "TSLA-FY2026Q1-025",
+          "confidence": "medium",
+          "risk_flags": [
+            "Optimus factory build at Fremont and Giga Texas adds $3-5B above prior plan",
+            "Cybercab manufacturing line full build-out adds to H2 spend",
+            "Chip fab construction at Giga Texas campus is a new CapEx program"
+          ],
+          "note": "The >$25B 2026 CapEx commitment represented an extraordinary step-up from the $9B 2025 actual. Internal FP&A modeled $23B as the base case, with the additional $2B reflecting the chip fab construction at Giga Texas and faster-than-planned Optimus factory buildout. This is the largest single-year CapEx expansion in Tesla's history, driven by Optimus and Cybercab manufacturing scale."
+        },
+        {
+          "metric": "robotaxi_revenue_significance_2027",
+          "label": "Robotaxi Revenue (materially significant in 2027)",
+          "unit": "qualitative",
+          "internal": 0,
+          "external": 1,
+          "external_statement_id": "TSLA-FY2026Q1-029",
+          "confidence": "low",
+          "risk_flags": [
+            "Material revenue requires fleet scale and revenue per mile exceeding costs",
+            "2027 material contribution requires 50K+ fleet operating at high utilization",
+            "Regulatory expansion across 10+ states required for fleet scale"
+          ],
+          "note": "Internal FP&A modeled Robotaxi as a meaningful but not material revenue contributor in 2027 — approximately $800M-$1.5B in gross revenue against heavy fleet costs. The public framing of \"significant\" implied a higher threshold. The internal view is that 2027 will be a year of scaling toward profitability, with truly material financial contribution coming in 2028."
+        }
+      ],
+      "commitment_assessments": [
+        {
+          "statement_id": "TSLA-FY2026Q1-002",
+          "internal_alignment": "full",
+          "governance_risk": "low",
+          "analyst_note": "The statement that Cybercab production has started and Tesla Semi will begin soon reflects accomplished and near-term internal milestones. The manufacturing team confirmed Cybercab initial builds at Giga Texas and Tesla Semi pilot builds were imminent. Fully aligned."
+        },
+        {
+          "statement_id": "TSLA-FY2026Q1-028",
+          "internal_alignment": "partial",
+          "governance_risk": "elevated",
+          "known_risks_at_disclosure": [
+            "Dozen-state approval requires state-by-state regulatory filings not yet submitted",
+            "Safety driver removal protocols vary significantly by jurisdiction"
+          ],
+          "analyst_note": "The end-of-2026 target for unsupervised FSD/Robotaxi in approximately a dozen states was partially supported internally. The internal plan targeted 8-10 states by end of 2026 with confirmed regulatory pathways. The \"dozen\" figure required 2-4 additional states where conversations were in early stages. Achievable but at the upper range of internal confidence."
+        }
+      ]
+    }
+  ]
+}

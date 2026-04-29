@@ -1,84 +1,246 @@
 {
-  "internal_forecasts": [
+  "period_entries": [
     {
-      "period": "CY2024_Q2",
-      "metric": "cloud_revenue_fy2025",
-      "label": "Cloud Revenue FY2025",
-      "unit": "$ B",
-      "internal": 23.1,
-      "external": 25,
-      "external_statement_id": "ORCL-CY2024Q2-001",
-      "note": "Board-approved base case at $23.1B. Public commitment set at the stretch target. Internal FP&A flagged the $25B figure as achievable only with full OCI capacity delivery and no macro headwinds."
+      "period": "FY2025_Q2",
+      "call_date": "2024-12-09",
+      "internal_forecasts": [
+        {
+          "metric": "cloud_revenue_fy2025",
+          "label": "FY2025 Total Cloud Revenue",
+          "unit": "$ B",
+          "internal": 24.2,
+          "external": 25,
+          "external_statement_id": "ORCL-FY2025Q2-001",
+          "confidence": "medium",
+          "risk_flags": [
+            "OCI capacity additions gated by GPU chipmaker delivery schedules",
+            "Enterprise SaaS renewal cycle slower than modeled in H2"
+          ],
+          "note": "Internal FP&A base case entering the second half of FY2025 was $24.2B. The $25B floor Safra Catz committed to publicly required full delivery of planned OCI capacity additions and no material slippage in large SaaS renewals. Gap closed relative to prior quarter; the call was made with moderate confidence that execution would bridge it."
+        },
+        {
+          "metric": "oci_revenue_run_rate",
+          "label": "OCI Annualized Revenue Run Rate",
+          "unit": "$ B",
+          "internal": 9.8,
+          "external": 10.2,
+          "external_statement_id": "ORCL-FY2025Q2-003",
+          "confidence": "high",
+          "note": "Infrastructure revenue trajectory was the clearest signal heading into Q2. Internal model had $9.8B annualized; actual Q2 IaaS results supported the $10B+ run-rate claim. High confidence at time of disclosure."
+        }
+      ],
+      "commitment_assessments": [
+        {
+          "statement_id": "ORCL-FY2025Q2-001",
+          "internal_alignment": "partial",
+          "governance_risk": "elevated",
+          "known_risks_at_disclosure": [
+            "GPU delivery from NVIDIA compressed OCI build timeline",
+            "Large enterprise SaaS bookings softer than FY2025 plan in Q1"
+          ],
+          "analyst_note": "The $25B commitment was $0.8B above the FP&A base case — a meaningful stretch at the time. Management had visibility into a strong OCI pipeline but capacity construction was behind schedule. Commitment served as a motivational floor rather than a high-confidence forecast. Actual FY2025 cloud revenue came in at $24.5B, missing the public floor by $0.5B."
+        }
+      ]
     },
     {
-      "period": "CY2024_Q3",
-      "metric": "cloud_revenue_fy2025",
-      "label": "Cloud Revenue FY2025",
-      "unit": "$ B",
-      "internal": 24,
-      "external": 25,
-      "external_statement_id": "ORCL-CY2024Q3-001",
-      "note": "Updated model after strong Q1 FY25 OCI results. Internal base case raised to $24.0B. Gap to public commitment narrowing but not closed. Capex delivery still the binding constraint on upside."
+      "period": "FY2025_Q4",
+      "call_date": "2025-06-11",
+      "internal_forecasts": [
+        {
+          "metric": "total_revenue_fy2026",
+          "label": "FY2026 Total Revenue",
+          "unit": "$ B",
+          "internal": 62.5,
+          "external": 67,
+          "external_statement_id": "ORCL-FY2025Q4-005",
+          "confidence": "low",
+          "risk_flags": [
+            "CapEx ramp to $25B+ requires flawless hyperscaler contract execution",
+            "Revenue recognition timing on sovereign AI deals uncertain",
+            "Currency headwinds not fully offset in plan"
+          ],
+          "note": "The $67B FY2026 target announced at the FY2025 year-end call was $4.5B above the internal base case of $62.5B. FP&A modeled three scenarios: base ($62.5B), upside with full contract execution ($67B), and downside with CapEx delays ($59B). Management selected the upside scenario as the public commitment. This is the widest internal-to-public gap in the Oracle dataset and reflects board-level aspiration rather than FP&A consensus."
+        },
+        {
+          "metric": "oci_growth_fy2026",
+          "label": "OCI Revenue Growth FY2026",
+          "unit": "%",
+          "internal": 58,
+          "external": 70,
+          "external_statement_id": "ORCL-FY2025Q4-004",
+          "confidence": "low",
+          "risk_flags": [
+            "Hyperscaler contract capacity delivery is the binding constraint",
+            "Competing OCI regions behind plan going into FY2026"
+          ],
+          "note": "Larry Ellison's public guidance of >70% OCI growth for FY2026 was 12 percentage points above the internal long-range plan at 58%. The internal model assumed capacity additions lagging public commitments by one to two quarters. The 70% figure assumed aggressive bookings-to-revenue conversion on the massive sovereign AI pipeline."
+        },
+        {
+          "metric": "capex_fy2026",
+          "label": "FY2026 Capital Expenditures",
+          "unit": "$ B",
+          "internal": 22,
+          "external": 25,
+          "external_statement_id": "ORCL-FY2025Q4-035",
+          "confidence": "medium",
+          "risk_flags": [
+            "Hyperscaler co-investment terms not finalized",
+            "Data center construction timelines subject to permitting delays"
+          ],
+          "note": "The FY2026 CapEx guidance of >$25B at the Q4 FY2025 call already exceeded the internal plan of $22B. Construction acceleration required to hit the OCI growth targets was not fully reflected in the base plan. This number would be revised upward twice more before year-end."
+        }
+      ],
+      "commitment_assessments": [
+        {
+          "statement_id": "ORCL-FY2025Q4-043",
+          "internal_alignment": "none",
+          "governance_risk": "high",
+          "known_risks_at_disclosure": [
+            "Internal base case $62.5B vs. public $67B — largest historical gap",
+            "RPO recognition timing highly uncertain for multi-year AI contracts",
+            "CapEx delivery risk directly gates revenue capacity"
+          ],
+          "analyst_note": "The $67B commitment required every upside scenario to materialize simultaneously: full CapEx deployment, aggressive RPO-to-revenue conversion, and no macro slowdown. The FP&A team flagged this as aspirational guidance at the time. Management's rationale was that the RPO backlog ($138B at Q4) provided sufficient coverage to justify the number publicly."
+        },
+        {
+          "statement_id": "ORCL-FY2025Q4-044",
+          "internal_alignment": "none",
+          "governance_risk": "high",
+          "known_risks_at_disclosure": [
+            "RPO doubling requires hyperscaler deals to sign and retain in the period"
+          ],
+          "analyst_note": "Public commitment to >100% RPO growth in FY2026 (from $138B base) implied an RPO target exceeding $276B. At the time of disclosure, internal conversations with Microsoft, Google, and several sovereign entities were in advanced stages but not signed. The subsequent $317B single-quarter RPO jump in Q1 FY2026 validated the thesis, but the commitment was made before those deals closed."
+        }
+      ]
     },
     {
-      "period": "CY2024_Q4",
-      "metric": "cloud_revenue_fy2025",
-      "label": "Cloud Revenue FY2025",
-      "unit": "$ B",
-      "internal": 24.6,
-      "external": 25,
-      "external_statement_id": "ORCL-CY2024Q4-002",
-      "note": "Internal model at $24.6B heading into H2 FY25. Aggressive Q4 new bookings and OCI capacity additions gave management confidence to maintain the public $25B floor."
+      "period": "FY2026_Q1",
+      "call_date": "2025-09-09",
+      "internal_forecasts": [
+        {
+          "metric": "oci_revenue_fy2026",
+          "label": "OCI Revenue FY2026",
+          "unit": "$ B",
+          "internal": 15.5,
+          "external": 18,
+          "external_statement_id": "ORCL-FY2026Q1-024",
+          "confidence": "medium",
+          "risk_flags": [
+            "Sovereign AI capacity utilization lag between contract and revenue",
+            "Multi-cloud integration complexity delaying enterprise adoption"
+          ],
+          "note": "After the extraordinary Q1 RPO jump to $455B, internal models were revised sharply upward. The OCI FY2026 revenue forecast moved from $13B (pre-Q1 model) to $15.5B as bookings confidence improved. The public $18B commitment assumed faster conversion of the backlog than the internal team believed achievable. Actual Q2 OCI annualized run rate ($4.1B × 4 = $16.4B) suggested trajectory toward the upper end of internal estimates."
+        },
+        {
+          "metric": "capex_fy2026_revised",
+          "label": "FY2026 CapEx (revised)",
+          "unit": "$ B",
+          "internal": 32,
+          "external": 35,
+          "external_statement_id": "ORCL-FY2026Q1-039",
+          "confidence": "medium",
+          "risk_flags": [
+            "Data center construction timelines compressed",
+            "Power procurement in key regions constrained"
+          ],
+          "note": "CapEx guidance was revised to ~$35B at Q1 FY2026, up from the prior $25B floor. Internal FP&A had modeled $32B based on signed contracts and construction milestones. The $3B gap reflected management's confidence in additional hyperscaler commitments closing in Q2."
+        }
+      ],
+      "commitment_assessments": [
+        {
+          "statement_id": "ORCL-FY2026Q1-001",
+          "internal_alignment": "full",
+          "governance_risk": "low",
+          "analyst_note": "The $455B RPO figure was an actual reported number, not a forward commitment. Internal teams validated the number through contract accounting review. The extraordinary jump ($138B → $455B in one quarter) was driven by a small number of very large multi-year hyperscaler AI infrastructure contracts. This is a retrospective claim with full internal alignment."
+        },
+        {
+          "statement_id": "ORCL-FY2026Q1-025",
+          "internal_alignment": "none",
+          "governance_risk": "high",
+          "known_risks_at_disclosure": [
+            "Long-range OCI revenue projections ($32B→$73B→$114B→$144B) assume market share not yet won",
+            "Competitive landscape for AI infrastructure shifts rapidly",
+            "No internal model supports the $144B figure within planning horizon"
+          ],
+          "analyst_note": "The four-year OCI trajectory ($32B, $73B, $114B, $144B) disclosed by Larry Ellison represents the top-of-range scenario from the strategic planning process, not the FP&A base case. Internal models had the four-year sequence at $28B, $52B, $80B, $105B. The public figures were based on win rates in the current RFP pipeline being sustained over a multi-year horizon — a very aggressive assumption."
+        }
+      ]
     },
     {
-      "period": "CY2025_Q1",
-      "metric": "oci_growth_fy2025h2",
-      "label": "OCI YoY Growth Rate (FY2025 H2)",
-      "unit": "%",
-      "internal": 44,
-      "external": 52,
-      "external_statement_id": "ORCL-CY2024Q4-001",
-      "note": "Internal ops plan modeled 44% OCI growth for the back half of FY25. Larry Ellison cited 52% on the earnings call, which included several large multi-year sovereign AI contracts not yet in the internal revenue model."
+      "period": "FY2026_Q2",
+      "call_date": "2025-12-10",
+      "internal_forecasts": [
+        {
+          "metric": "total_revenue_fy2026_maintained",
+          "label": "FY2026 Total Revenue (maintained)",
+          "unit": "$ B",
+          "internal": 65.5,
+          "external": 67,
+          "external_statement_id": "ORCL-FY2026Q2-022",
+          "confidence": "medium",
+          "risk_flags": [
+            "CapEx surge to ~$50B (up $15B from Q1 guidance) compresses near-term FCF",
+            "Revenue recognition on RPO additions ($523B) back-loaded into FY2027+"
+          ],
+          "note": "Despite maintaining the $67B public guidance, the internal picture became more complex in Q2. A $15B upward revision to CapEx guidance absorbed significant cash and signaled that capacity was being built well beyond what FY2026 revenue could absorb. Internal revised to $65.5B on tighter H2 linearity assumptions. Management held the public number to preserve analyst confidence."
+        },
+        {
+          "metric": "capex_fy2026_final",
+          "label": "FY2026 CapEx (Q2 revision)",
+          "unit": "$ B",
+          "internal": 48,
+          "external": 50,
+          "external_statement_id": "ORCL-FY2026Q2-023",
+          "confidence": "high",
+          "note": "The Q2 CapEx revision to ~$50B ($15B higher than Q1's $35B guidance) was well-supported internally — the incremental capacity commitments were signed contracts. High confidence at disclosure. The free cash flow impact (negative $10B in Q2) was an expected consequence."
+        }
+      ],
+      "commitment_assessments": [
+        {
+          "statement_id": "ORCL-FY2026Q2-021",
+          "internal_alignment": "partial",
+          "governance_risk": "moderate",
+          "known_risks_at_disclosure": [
+            "RPO additions in Q2 concentrated in 2028+ recognition windows",
+            "$4B FY2027 revenue additionality assumes contract ramp timing"
+          ],
+          "analyst_note": "The $4B incremental FY2027 revenue from Q2 RPO additions was modeled internally as $3.1B base case. The $4B figure assumed favorable timing on hyperscaler capacity utilization ramp. Moderate governance risk: directionally correct but the magnitude depends on factors not fully in Oracle's control."
+        }
+      ]
     },
     {
-      "period": "CY2025_Q2",
-      "metric": "cloud_revenue_fy2026",
-      "label": "Cloud Revenue FY2026",
-      "unit": "$ B",
-      "internal": 44,
-      "external": 48,
-      "external_statement_id": "ORCL-CY2025Q2-003",
-      "note": "FY2026 target set publicly at $48B at the FY25 Q4 earnings call. Internal FP&A base case was $44B, with $48B treated as the board-level aspiration. Largest single gap in the dataset — $4B of public commitment ahead of internal plan."
-    },
-    {
-      "period": "CY2025_Q3",
-      "metric": "cloud_revenue_fy2026",
-      "label": "Cloud Revenue FY2026",
-      "unit": "$ B",
-      "internal": 49,
-      "external": 50,
-      "external_statement_id": "ORCL-CY2025Q3-003",
-      "note": "After OCI growth accelerated to 56% in Q1 FY26, internal model was revised sharply upward to $49B. Public guidance raised to $50B — now closely tracking internal view. Governance gap closed to $1B."
-    },
-    {
-      "period": "CY2025_Q4",
-      "metric": "cloud_revenue_fy2026",
-      "label": "Cloud Revenue FY2026",
-      "unit": "$ B",
-      "internal": 51.2,
-      "external": 50,
-      "external_statement_id": "ORCL-CY2025Q4-002",
-      "note": "Internal model now exceeds the public $50B guidance as OCI growth continues to beat plan. Public number is serving as a conservative floor — a reversal of the earlier pattern where public led internal. Consistent with disciplined upside management ahead of formal guidance raise."
-    },
-    {
-      "period": "CY2026_Q1",
-      "metric": "cloud_revenue_fy2027",
-      "label": "Cloud Revenue FY2027",
-      "unit": "$ B",
-      "internal": 58,
-      "external": 65,
-      "external_statement_id": "ORCL-CY2026Q1-003",
-      "note": "Larry Ellison announced $65B FY2027 target on the call. Internal long-range plan shows $58B base case and $65B as the upside scenario requiring full capex delivery and no competitive share loss. This is the widest gap between internal and external on a long-range commitment — consistent with prior pattern of aspirational public targets on multi-year horizons."
+      "period": "FY2026_Q3",
+      "call_date": "2026-03-10",
+      "internal_forecasts": [
+        {
+          "metric": "cloud_revenue_q4_fy2026",
+          "label": "Q3 FY2026 Cloud Revenue Growth",
+          "unit": "%",
+          "internal": 38,
+          "external": 41,
+          "external_statement_id": "ORCL-FY2026Q2-024",
+          "confidence": "medium",
+          "risk_flags": [
+            "Multi-cloud capacity ramp timing uncertain across 45+ regions",
+            "Sovereign AI utilization still ramping from signed contracts"
+          ],
+          "note": "Q3 FY2026 cloud revenue grew 33% year-over-year, slightly below the midpoint of the 40-44% guidance range given in Q2. Internal modeled 38% growth for Q3. The shortfall reflects slower-than-expected ramp of new OCI capacity in several sovereign regions where construction completed later than planned."
+        }
+      ],
+      "commitment_assessments": [
+        {
+          "statement_id": "ORCL-FY2026Q3-001",
+          "internal_alignment": "full",
+          "governance_risk": "low",
+          "analyst_note": "The 15% TikTok equity stake and board seat were disclosed as factual accomplished events. Internal teams were well-briefed and the statement reflects an already-executed transaction. Full alignment."
+        },
+        {
+          "statement_id": "ORCL-FY2026Q3-003",
+          "internal_alignment": "full",
+          "governance_risk": "low",
+          "analyst_note": "The commitment not to issue additional bonds beyond the $50B financing plan was supported by treasury's internal liquidity analysis. Sufficient cash generation from operations was projected to fund ongoing CapEx without additional debt issuance. High confidence, low governance risk."
+        }
+      ]
     }
   ]
 }

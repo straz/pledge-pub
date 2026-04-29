@@ -1,0 +1,1590 @@
+{
+  "company_id": "oracle",
+  "title": "Oracle Q1 2025 Earnings Call Transcript",
+  "datetime": "2024-09-09T22:00:00Z",
+  "period": "FY2025_Q1",
+  "location": "Austin, TX",
+  "url": "https://www.marketbeat.com/earnings/reports/2024-9-9-oracle-co-stock/",
+  "people": [
+    {
+      "id": "operator",
+      "name": "Operator",
+      "role": ""
+    },
+    {
+      "id": "ken-bond",
+      "name": "Ken Bond",
+      "role": "Head of Investor Relations at Oracle"
+    },
+    {
+      "id": "safra-catz",
+      "name": "Safra Catz",
+      "role": "CEO at Oracle"
+    },
+    {
+      "id": "larry-ellison",
+      "name": "Larry Ellison",
+      "role": "Chairman and CTO at Oracle"
+    },
+    {
+      "id": "john-difucci",
+      "name": "John DiFucci",
+      "role": "Senior Managing Director and Senior Research Analyst at Guggenheim Securities"
+    },
+    {
+      "id": "mark-murphy",
+      "name": "Mark Murphy",
+      "role": "Head of U.S. Enterprise Software Research at JPMorgan"
+    },
+    {
+      "id": "raimo-lenschow",
+      "name": "Raimo Lenschow",
+      "role": "Managing Director and Senior Equity Research Analyst at Barclays"
+    },
+    {
+      "id": "mark-moerdler",
+      "name": "Mark Moerdler",
+      "role": "Senior Analyst at Bernstein"
+    },
+    {
+      "id": "derrick-wood",
+      "name": "Derrick Wood",
+      "role": "Managing Director and TMT â€“ Software Research Analyst at TD Cowen"
+    },
+    {
+      "id": "brad-zelnick",
+      "name": "Brad Zelnick",
+      "role": "Managing Director and Senior US Software Analyst at Deutsche Bank"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:00:00",
+      "text": "Hello, and welcome to the Oracle Corporation Q1 Fiscal Year 2025 Earnings Call. All lines have been placed on mute to prevent any background noise. After the speaker's remarks, there will be a question and answer session, and if you would like to ask a question during this time, please press star one on your telephone keypad. I would now like to turn the conference over to Ken Bond, Head of Investor Relations. You may begin."
+    },
+    {
+      "speaker_id": "ken-bond",
+      "speaker_name": "Ken Bond",
+      "speaker_role": "Head of Investor Relations at Oracle",
+      "timestamp": "00:00:25",
+      "text": "Thank you, Sarah, and good afternoon, everyone, and welcome to Oracle's first quarter fiscal year 2025 earnings conference call. A copy of the press release and financial tables, which includes a GAAP to non-GAAP reconciliation and other supplemental financial information, can be viewed and downloaded from our investor relations website. Additionally, a list of many customers who purchased Oracle Cloud Services or went live on Oracle Cloud recently will be available from the investor relations website. On the call today are Chairman and Chief Technology Officer, Larry Ellison, and Chief Executive Officer, Safra Catz. As a reminder, today's discussion will include forward-looking statements, including predictions, expectations, estimates, or other information that might be considered forward-looking. Throughout today's discussion, we will present some important factors relating to our business, which may potentially affect these forward-looking statements."
+    },
+    {
+      "speaker_id": "ken-bond",
+      "speaker_name": "Ken Bond",
+      "speaker_role": "Head of Investor Relations at Oracle",
+      "timestamp": "00:01:20",
+      "text": "These forward-looking statements are also subject to risks and uncertainties that may cause actual results to differ materially from statements being made today. As a result, we caution you against placing undue reliance on these forward-looking statements, and we encourage you to review our most recent reports, including our 10-K and our 10-Q, and any applicable amendments for a complete discussion of these factors and other risks that may affect our future results or the market price of our stock. And finally, we are not obligating ourselves to revise our results or these forward-looking statements in light of new information or future events. Before taking questions, we'll begin with a few prepared remarks, and with that, I'd like to turn the call over to Safra."
+    },
+    {
+      "speaker_id": "safra-catz",
+      "speaker_name": "Safra Catz",
+      "speaker_role": "CEO at Oracle",
+      "timestamp": "00:02:04",
+      "text": "Thanks, Ken, and good afternoon, everyone. Before I go to our Q1 numbers, I thought I'd take only a moment to review some of the things that you'll be hearing about over the next couple of days from Oracle. We are at CloudWorld in Las Vegas, and CloudWorld is where we come together with our customers and partners to share experiences and showcase our latest products and services. Our customers are our best spokespeople when they share how our technologies transform their enterprises. The innovations from our labs and research centers, in combination with feedback from our customers, have helped us build superior products and services. You'll hear about new cutting-edge features within OCI, Database, Analytics, Fusion, NetSuite, and our industry applications."
+    },
+    {
+      "speaker_id": "safra-catz",
+      "speaker_name": "Safra Catz",
+      "speaker_role": "CEO at Oracle",
+      "timestamp": "00:03:05",
+      "text": "We will also be showing new capabilities that we've been working on for a while, including embedded AI agents in Fusion, and those drive productivity and efficiencies for our customers when they're rolled out. And as an Oracle Fusion customer myself, I take great pride once again in my team's ability to have us announce earnings and give guidance nine days after the quarter ended. Many, many of our customers ask us how to replicate our results, and at CloudWorld, we will be having a lot of Oracle playbook conversations this week. You've already seen today's announcement of our partnership with Amazon Web Services, which has now joined Microsoft Azure and Google Cloud in making OCI and Oracle available in their respective clouds. Needless to say, we think our multi-cloud strategy will expand the ubiquity and popularity of our differentiated technologies, especially the Oracle Database."
+    },
+    {
+      "speaker_id": "safra-catz",
+      "speaker_name": "Safra Catz",
+      "speaker_role": "CEO at Oracle",
+      "timestamp": "00:04:20",
+      "text": "Larry will share more details in just a moment. But now to Q1, which was clearly another outstanding quarter, with total revenue at the high end of my guidance and earnings per share $0.04 above the high end of guidance. Currency was essentially in line with my guidance, and as usual, I'll be discussing our financials using constant currency growth rates as this is how we manage the business. Total cloud revenue, that's SaaS and IaaS, was up 22% at $5.6 billion, with SaaS revenue of $3.5 billion, up 10%, and IaaS revenue of $2.2 billion, up 46%, on top of the 64% growth reported last year. As a reminder, we exited the advertising business last quarter, which had the effect of lowering the total cloud applications revenue by 2% this quarter."
+    },
+    {
+      "speaker_id": "safra-catz",
+      "speaker_name": "Safra Catz",
+      "speaker_role": "CEO at Oracle",
+      "timestamp": "00:05:26",
+      "text": "Total cloud services and license support for the quarter was $10.5 billion, up 11%, driven again by our strategic cloud applications, Autonomous Database, and OCI. Application subscription revenues, which includes product support, were $4.8 billion and up 7%. Our strategic back office SaaS applications now have annualized revenues of $8.2 billion, and we're up 18%. Infrastructure subscription revenues, which includes license support, were $5.8 billion and up 14%. Infrastructure cloud services revenue was up 46% and up 49% when you are excluding our legacy hosting services. Our infrastructure cloud services now have an annualized revenue of $8.6 billion. OCI consumption revenue was up 56%, and demand continued to outstrip supply. Cloud database services, which were up 23% and now have annualized revenues of $2.1 billion."
+    },
+    {
+      "speaker_id": "safra-catz",
+      "speaker_name": "Safra Catz",
+      "speaker_role": "CEO at Oracle",
+      "timestamp": "00:06:52",
+      "text": "Very importantly, as on-premise databases migrate to the cloud on OCI directly or through our Database@ cloud services with Azure, Google, and AWS, we expect those cloud database revenues collectively will be the third leg of revenue growth alongside OCI and strategic SaaS. Database subscription revenues, which includes database license support, were up 4%. Software license revenues were up 8% to $870 million, including Java, which saw excellent growth. So all in, total revenue for the quarter were $13.3 billion, up 8% from last year. Shifting to gross profit and operating income, the gross profit dollars of cloud services and license support grew 9% in Q1. As our cloud businesses continue to scale, the gross margins of both cloud applications and cloud infrastructure have each been climbing higher."
+    },
+    {
+      "speaker_id": "safra-catz",
+      "speaker_name": "Safra Catz",
+      "speaker_role": "CEO at Oracle",
+      "timestamp": "00:08:11",
+      "text": "We continue to display operating expense discipline with Q1 operating income growing 14%, and the operating margin was 43%. The non-GAAP tax rate for the quarter was 18.9%, with non-GAAP EPS at $1.39 in US dollars, up 17% in USD, up 18% in constant currency. The GAAP EPS was $1.03 in US dollars, up 20% in USD, and up 22% in constant currency. Including in my guidance at the beginning of the quarter, was the expected completion of an assessment of the useful lives of our servers and networking equipment, including an increase of the estimated lives from five years to six years, effective at the beginning of this fiscal year. This change in accounting estimate reduced Q1 operating expenses by about $197 million."
+    },
+    {
+      "speaker_id": "safra-catz",
+      "speaker_name": "Safra Catz",
+      "speaker_role": "CEO at Oracle",
+      "timestamp": "00:09:22",
+      "text": "At quarter end, we had nearly $11 billion in cash and marketable securities. The short-term deferred revenue balance was $11.5 billion, up 2%. Operating cash flow for Q1 was $7.4 billion, while free cash flow was $5.1 billion. On a trailing 12-month basis, operating cash flow was $19.1 billion, and free cash flow was $11.3 billion. Our remaining performance obligations, or RPO, is now $99 billion, up 52% in constant currency. Now, while we typically see a seasonal decline of RPO in Q1, we signed several large deals this past quarter, resulting in a sequential increase in RPO compared to the big decline that we typically see based on our experience over the previous five years. Further, our cloud RPO grew more than 80% and now represents nearly three-fourths of total RPO."
+    },
+    {
+      "speaker_id": "safra-catz",
+      "speaker_name": "Safra Catz",
+      "speaker_role": "CEO at Oracle",
+      "timestamp": "00:10:41",
+      "text": "Approximately 38% of total RPO is expected to be recognized as revenue over the next 12 months, which reflects the growing trend of customers wanting larger and longer contracts as they see firsthand how Oracle Cloud Services are benefiting their businesses. We spent $2.3 billion on CapEx this quarter. Given the demand that you see in our RPO growth and the additional demand we have and see in our pipeline, I expect the fiscal year 2025 CapEx will be double what it was in fiscal 2024. As always, we remain careful to pace our investments appropriately and in line with booking trends. We now have 85 cloud regions live, another 77 planned, with more to follow."
+    },
+    {
+      "speaker_id": "safra-catz",
+      "speaker_name": "Safra Catz",
+      "speaker_role": "CEO at Oracle",
+      "timestamp": "00:11:39",
+      "text": "We have public cloud regions, we have dedicated cloud customer regions, we have national security regions, we have sovereign regions, we have Oracle Alloy regions with our partners, and we have multi-cloud regions with Azure and Google Cloud, and now shortly with AWS as well. This sizing, flexibility, and deployment optionality of our cloud regions continue to be significant advantages for us in the marketplace. As we've said before, we're committed to returning value to our shareholders through technical innovation, strategic acquisitions, stock repurchases, prudent use of debt, and a dividend. This quarter, we repurchased 1.1 million shares for a total of $150 million. In addition, we paid out dividends of $4.4 billion over the last 12 months, and the board of directors again declared a quarterly dividend of $0.40 per share."
+    },
+    {
+      "speaker_id": "safra-catz",
+      "speaker_name": "Safra Catz",
+      "speaker_role": "CEO at Oracle",
+      "timestamp": "00:12:43",
+      "text": "Before I dive into specific Q2 guidance, I'd like to share some overarching thoughts and the benefits that I expect they will bring over the coming years. First, the Oracle Database is thriving, and the multi-cloud agreements we now have with Microsoft, Google and AWS make it easier for our customers to run their Oracle Databases in the cloud. Second, we are rapidly expanding our OCI capacity to meet the demand that you see in our 52% RPO cloud growth. Third, while much attention is focused on our GPU-related businesses, our non-GPU infrastructure business continues to grow much faster than our competitors. And finally, our strategic SaaS apps continue to grow while we are starting to see more and more of our industry-based cloud apps come online. All these trends point to revenue growth going higher."
+    },
+    {
+      "speaker_id": "safra-catz",
+      "speaker_name": "Safra Catz",
+      "speaker_role": "CEO at Oracle",
+      "timestamp": "00:13:49",
+      "text": "We will discuss the implications of these positive trends at our financial analyst meeting on Thursday. For fiscal 2025, we remain very confident and committed to full year total revenue growth growing double digits and full year total cloud infrastructure revenue growing faster than last year. Let me now turn to my guidance for Q2, which I'll review on a non-GAAP basis. If currency exchange rates remain the same as they are now, currency should have about a 1% positive effect on total revenue and as much as a $0.03 positive effect on EPS. Hard to know for sure. However, the actual currency impact may be different. Total revenues are expected to grow from 7% to 9% in constant currency and are expected to grow between 8% and 10% in USD at today's exchange rate."
+    },
+    {
+      "speaker_id": "safra-catz",
+      "speaker_name": "Safra Catz",
+      "speaker_role": "CEO at Oracle",
+      "timestamp": "00:14:57",
+      "text": "Total cloud revenue is expected to grow 23%-25% in constant currency, and 24%-26% in USD. Non-GAAP EPS is expected to grow 6%-10% and be between $1.42-$1.46 in constant currency, and non-GAAP EPS is expected to grow 8%-12% and be between $1.45-$1.49 in USD. My EPS guidance for Q2 assumes a base tax rate of 19%. However, one-time tax events could cause actual tax rates to vary, and with that, sorry, it was so long, and with that, I'll turn it over to Larry for his comments."
+    },
+    {
+      "speaker_id": "larry-ellison",
+      "speaker_name": "Larry Ellison",
+      "speaker_role": "Chairman and CTO at Oracle",
+      "timestamp": "00:15:48",
+      "text": "Thank you, Safra. Today, Oracle has 162 cloud data centers, live and under construction throughout the world. The largest of these data centers is 800 megawatts, and it will contain acres of NVIDIA GPU clusters able to train the world's largest AI models. That's what's required to stay competitive in the race to build one, just one, of the most powerful artificial neural networks in the world. The stakes are high and the race goes on. Soon, Oracle will begin construction of data centers that are more than a gigawatt. Building giant data centers with ultra-high performance RDMA networks and huge 32,000-node NVIDIA GPU clusters is something that Oracle has proven to be very good at. It's the reason we're doing so well in the AI training business."
+    },
+    {
+      "speaker_id": "larry-ellison",
+      "speaker_name": "Larry Ellison",
+      "speaker_role": "Chairman and CTO at Oracle",
+      "timestamp": "00:16:51",
+      "text": "It's important to remember that we first developed those high-performance RDMA networks to interconnect our Exadata CPU cluster hardware that powers our Exadata Database Cloud Service. The Oracle Database Cloud Service, running on Exadata and Exascale RDMA clusters, provide an order of magnitude, better performance, better scalability, better reliability, and better security than other databases, and it's still the world's only autonomous, fully self-driving database. Our large and loyal customer base understand and appreciate the many technical advantages of using the Oracle Database. And those customers wanted us to find a way to make the very latest and best Oracle technology available on other clouds in addition to OCI. We found a way."
+    },
+    {
+      "speaker_id": "larry-ellison",
+      "speaker_name": "Larry Ellison",
+      "speaker_role": "Chairman and CTO at Oracle",
+      "timestamp": "00:18:00",
+      "text": "With today's AWS announcement, our customers will be able to use Oracle's latest Exadata and Exascale RDMA clusters with the latest versions of our database software, from within the Microsoft Azure cloud, from within the Google Cloud, and from within the AWS cloud. This will enable customers to use the Oracle Database anywhere and everywhere. That has always worked well for our customers and for our database business. We believe our cloud partnerships with AWS and Microsoft and Google will turbocharge the growth of our database business for years to come. Back to you."
+    },
+    {
+      "speaker_id": "ken-bond",
+      "speaker_name": "Ken Bond",
+      "speaker_role": "Head of Investor Relations at Oracle",
+      "timestamp": "00:18:50",
+      "text": "Thank you, Larry. Sarah, if you could please poll the audience for questions."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:18:55",
+      "text": "Thank you. If you would like to ask a question, please press star one on your telephone keypad. If you would like to withdraw your question, simply press star one again. Please ensure that your phone is not on mute when called upon. Thank you. Your first question comes from the line of John DiFucci with Guggenheim Securities. Your line is open."
+    },
+    {
+      "speaker_id": "john-difucci",
+      "speaker_name": "John DiFucci",
+      "speaker_role": "Senior Managing Director and Senior Research Analyst at Guggenheim Securities",
+      "timestamp": "00:19:17",
+      "text": "Thank you. Larry and Safra, I mean, there's a lot of good stuff here, but I'd like to ask a question on, on margins. You keep putting up strong cloud numbers, especially the OCI numbers, that look, when you give the guidance and you look at what you have to do to hit them, they look really difficult to do, to say the least. We also assume that upside RPO, and you pointed out, Safra, the sequential increase. I think the last time there was a sequential increase is because you bought Cerner, and it just added RPO because of that. It, I assume a big part of that's OCI, too. You mentioned it's cloud, three-quarters of it. So that indicates there's more to come, right?"
+    },
+    {
+      "speaker_id": "john-difucci",
+      "speaker_name": "John DiFucci",
+      "speaker_role": "Senior Managing Director and Senior Research Analyst at Guggenheim Securities",
+      "timestamp": "00:19:59",
+      "text": "So given the mix of business continuing to lean into that lower-margin OCI, and I know you have, that's changing over time, but it's still lower-margin today, how should we think of overall margins versus profit for the entire company going forward?"
+    },
+    {
+      "speaker_id": "safra-catz",
+      "speaker_name": "Safra Catz",
+      "speaker_role": "CEO at Oracle",
+      "timestamp": "00:20:17",
+      "text": "Okay, let me start with this, and maybe then Larry can add on. So first of all, I want to remind you that... Remember that third leg of the stool I mentioned, which is our Database and Autonomous Database?"
+    },
+    {
+      "speaker_id": "john-difucci",
+      "speaker_name": "John DiFucci",
+      "speaker_role": "Senior Managing Director and Senior Research Analyst at Guggenheim Securities",
+      "timestamp": "00:20:32",
+      "text": "Yep."
+    },
+    {
+      "speaker_id": "safra-catz",
+      "speaker_name": "Safra Catz",
+      "speaker_role": "CEO at Oracle",
+      "timestamp": "00:20:32",
+      "text": "That is also part of OCI, and that is beginning to really expand, and our multi-cloud agreements, again, will help OCI gross margin. So that you know, gross margins, even this quarter, as a percentage, increased regardless of the fact that we have a lot more OCI. And so our business is really only now starting to get real scale, and we have built OCI in a way, and Larry can really expand on it, where it is extremely automated, the management of it is very automated, and our whole rollout, as it grows, we make more money. And as much as percentages are great, and again, our operating margin percentages continue to increase, and OCI includes not only base storage and compute and GPUs, but it also includes a lot of other capabilities, including the database, which have excellent margins, too."
+    },
+    {
+      "speaker_id": "safra-catz",
+      "speaker_name": "Safra Catz",
+      "speaker_role": "CEO at Oracle",
+      "timestamp": "00:21:52",
+      "text": "And of course, as you mentioned, our SaaS business, again, an excellent and at-scale business, even that business benefits from our expansion in OCI, and once again, even at its high margins, continue to improve this past quarter. Larry, I don't know if you wanna add to that."
+    },
+    {
+      "speaker_id": "larry-ellison",
+      "speaker_name": "Larry Ellison",
+      "speaker_role": "Chairman and CTO at Oracle",
+      "timestamp": "00:22:17",
+      "text": "I'd like to."
+    },
+    {
+      "speaker_id": "safra-catz",
+      "speaker_name": "Safra Catz",
+      "speaker_role": "CEO at Oracle",
+      "timestamp": "00:22:19",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "larry-ellison",
+      "speaker_name": "Larry Ellison",
+      "speaker_role": "Chairman and CTO at Oracle",
+      "timestamp": "00:22:19",
+      "text": "So let's start with SaaS. As we go to Autonomous Database, we get tremendous efficiencies. We're moving Fusion and NetSuite to Autonomous Database as we speak. We've decided everything needs to move to Autonomous Database for two reasons, really. First reason, when you have a completely Autonomous Database, there is no DBA. The database administrator is a robot. There is no human labor associated with managing the Oracle Autonomous Database. Now, okay, that's obviously a cost savings, but more importantly, with no human labor, there's no human error. It's a huge security advantage we have over our competitors. There's no mistakes to be made. There's no human labor. It's all automated, and the potential when you have everything completely automated, that and it's also truly elastic."
+    },
+    {
+      "speaker_id": "larry-ellison",
+      "speaker_name": "Larry Ellison",
+      "speaker_role": "Chairman and CTO at Oracle",
+      "timestamp": "00:23:12",
+      "text": "I'm not gonna go into exactly what that means, but it means that if you got a job running that suddenly needs 500 microprocessors, you get those 500 for the 3 minutes you need it, and then you return them to the pool. So that's very different than how other databases work, which they may call, you know, the cloud itself may be elastic in places, but their databases are typically not elastic. Autonomous is. So we use a lot less hardware. We, it's a lot faster, it's a lot more efficient, it's fully automated, no human labor, much more secure, and the margins for the Autonomous Database business are much higher than the traditional Oracle business."
+    },
+    {
+      "speaker_id": "larry-ellison",
+      "speaker_name": "Larry Ellison",
+      "speaker_role": "Chairman and CTO at Oracle",
+      "timestamp": "00:23:56",
+      "text": "I think, you know, those margins are. I mean, they, they're stunningly high, around the same margins as SaaS, which are also stunningly high margins because SaaS runs primarily on that Autonomous Database. So we use hardware very efficiently. We use labor sparingly because labor is a security risk. When people are actually doing things manually, it's a security risk, and it slows down our ability to expand. Every Oracle data center, from the largest to the smallest, are identical in features and functions. They only vary by scale. That means we have one suite of automation software that automates all of this. Nobody else does this. No one has that level of automation, that level of autonomy. It allows us to get much better margins in our Database business and our SaaS business, and the rest of our cloud business."
+    },
+    {
+      "speaker_id": "larry-ellison",
+      "speaker_name": "Larry Ellison",
+      "speaker_role": "Chairman and CTO at Oracle",
+      "timestamp": "00:24:49",
+      "text": "Our clouds are more automated, so we have very low labor costs. Our networks are much more efficient. The RDMA networks run so much faster. If you run twice as fast, you know, our costs go down by half, and our networks are much faster than the other clouds. So we think, our potential as we scale, our potential to deliver much better margins than we're currently delivering are very real."
+    },
+    {
+      "speaker_id": "john-difucci",
+      "speaker_name": "John DiFucci",
+      "speaker_role": "Senior Managing Director and Senior Research Analyst at Guggenheim Securities",
+      "timestamp": "00:25:21",
+      "text": "Is it safe for me to assume that then the upside you keep putting up, and you hopefully will continue to do, will add profit, and that profit will actually increase as a percentage, the margins will also increase over time?"
+    },
+    {
+      "speaker_id": "larry-ellison",
+      "speaker_name": "Larry Ellison",
+      "speaker_role": "Chairman and CTO at Oracle",
+      "timestamp": "00:25:39",
+      "text": "I believe, I believe so, and I believe, for example, you know, I mean, I think you'd find different, differing points of view from different engineers as we move Fusion to Autonomous Database. You know, I think the cost savings, our costs, our cloud cost savings will be around 50%. That's what I believe. Now, it might be 40%, might be 35%, but there will be huge cost savings from where we are now, and that's across the entire base of Fusion customers, and that's just one example of how we're using faster networks, faster databases, more automation to make our products more secure. I keep emphasizing, the security is really the primary goal, but as a second order of fact, we also end up spending a lot less money to run those data centers."
+    },
+    {
+      "speaker_id": "john-difucci",
+      "speaker_name": "John DiFucci",
+      "speaker_role": "Senior Managing Director and Senior Research Analyst at Guggenheim Securities",
+      "timestamp": "00:26:31",
+      "text": "Great. Great. Thank you, Larry. Thank you, Safra."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:26:36",
+      "text": "Your next question comes from the line of Mark Murphy with JP Morgan. Your line is open."
+    },
+    {
+      "speaker_id": "mark-murphy",
+      "speaker_name": "Mark Murphy",
+      "speaker_role": "Head of U.S. Enterprise Software Research at JPMorgan",
+      "timestamp": "00:26:43",
+      "text": "Oh, thank you very much, and congrats on a great performance. Larry, how do you envision the market transitioning from the AI training phase to the AI inferencing phase? There's some debate out there on whether we have an imbalance or a bubble on the front end of the curve, because training is so compute intensive, and then perhaps it recalibrates differently somehow for the inferencing stage, which might be less intensive. Or do you see the potential for high growth kind of all the way through both of these phases?"
+    },
+    {
+      "speaker_id": "larry-ellison",
+      "speaker_name": "Larry Ellison",
+      "speaker_role": "Chairman and CTO at Oracle",
+      "timestamp": "00:27:17",
+      "text": "A lot of people think that, \"My God, I send a kid to college, and then I'm done. The training is over. I got four years of training, and then I can put the kid to work, and they'll be doing inferencing.\" And that's not true. This race goes on forever to build a better and better neural network. And the cost of that training gets to be astronomical. When I talk about building gigawatt or multi-gigawatt data centers, I mean, these frontier models are gonna. The entry price for a real frontier model from someone who wants to compete in that area is around $100 billion. Let me repeat, around $100 billion. That's over the next four or five years, for anyone who wants to play in that game."
+    },
+    {
+      "speaker_id": "larry-ellison",
+      "speaker_name": "Larry Ellison",
+      "speaker_role": "Chairman and CTO at Oracle",
+      "timestamp": "00:28:08",
+      "text": "That's a lot of money, and it doesn't get easier. So there are not gonna be a lot of those. I mean, you know, this is not the place to list who can actually build one of these frontier models. But in addition to that, there are gonna be a lot of very, very specialized models. I can tell you things that I'm personally involved in, which are using computers to look at biopsies of slides or CAT scans to discover cancer. Also, there are blood tests we're doing for, you know, for discovering cancer. Those tend to be very specialized models."
+    },
+    {
+      "speaker_id": "larry-ellison",
+      "speaker_name": "Larry Ellison",
+      "speaker_role": "Chairman and CTO at Oracle",
+      "timestamp": "00:28:43",
+      "text": "Those tend not necessarily to use the foundational models, you know, the Groks and the OpenAI, and the ChatGPTs and the Llamas and the Geminis. They tend to be highly specialized models trained on image recognition and on certain data. I mean, literally millions of biopsy slides, for example. Not much other training data is helpful. So that goes on, and we'll see more and more applications like that."
+    },
+    {
+      "speaker_id": "larry-ellison",
+      "speaker_name": "Larry Ellison",
+      "speaker_role": "Chairman and CTO at Oracle",
+      "timestamp": "00:29:17",
+      "text": "If your horizon is over the next five years, maybe even the next 10 years, I wouldn't worry about, \"Hey, we've now trained all the models we need, and all we need to do is inferencing.\" I think this is an ongoing battle for technical supremacy that will be fought by a handful of companies and maybe one nation-state over the next five years at least, but probably more like 10, so this business is just growing larger and larger and larger. There's no slowdown or shift coming."
+    },
+    {
+      "speaker_id": "mark-murphy",
+      "speaker_name": "Mark Murphy",
+      "speaker_role": "Head of U.S. Enterprise Software Research at JPMorgan",
+      "timestamp": "00:29:59",
+      "text": "Thank you very much."
+    },
+    {
+      "speaker_id": "larry-ellison",
+      "speaker_name": "Larry Ellison",
+      "speaker_role": "Chairman and CTO at Oracle",
+      "timestamp": "00:30:01",
+      "text": "Let me say something that's gonna sound really bizarre. You'd probably say, \"Well, he says bizarre things all the time, so why is he announcing this one? It must be really bizarre.\" We're in the middle of designing a data center that's north of a gigawatt. But we've found the location and the power plant. We've looked at it. They've already got building permits for three nuclear reactors. These are the small modular nuclear reactors to power the data center. This is how crazy it's getting. This is what's going on."
+    },
+    {
+      "speaker_id": "mark-murphy",
+      "speaker_name": "Mark Murphy",
+      "speaker_role": "Head of U.S. Enterprise Software Research at JPMorgan",
+      "timestamp": "00:30:39",
+      "text": "Incredible."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:30:45",
+      "text": "Your next question comes from the line of Raimo Lenschow with Barclays. Your line is open."
+    },
+    {
+      "speaker_id": "raimo-lenschow",
+      "speaker_name": "Raimo Lenschow",
+      "speaker_role": "Managing Director and Senior Equity Research Analyst at Barclays",
+      "timestamp": "00:30:51",
+      "text": "Hey, thank you. Just a question more on the database side, on the agreements that you just announced today or that you have in place and now added with AWS. So now that we have all the hyperscaler agreements in place, how do you think about that migration movement from database workloads that are, at the moment, running on-premise or on cloud customer to the public cloud? I mean, how should we think about that momentum? Thank you."
+    },
+    {
+      "speaker_id": "safra-catz",
+      "speaker_name": "Safra Catz",
+      "speaker_role": "CEO at Oracle",
+      "timestamp": "00:31:20",
+      "text": "We think it's going to accelerate, basically. No, you go ahead, Larry."
+    },
+    {
+      "speaker_id": "larry-ellison",
+      "speaker_name": "Larry Ellison",
+      "speaker_role": "Chairman and CTO at Oracle",
+      "timestamp": "00:31:25",
+      "text": "No, no, no. I think you're right. Well, there's two things. You know, public cloud is very interesting, and it's very important. I mean, Oracle became very successful in the database business a long time ago because one of our watch words was portability. We ran on IBM mainframes. We ran on Microsoft PCs. We ran on, you know, Hewlett-Packard machines, and if you remember them, digital equipment machines and all sorts of computers, but, you know, we ran everywhere."
+    },
+    {
+      "speaker_id": "larry-ellison",
+      "speaker_name": "Larry Ellison",
+      "speaker_role": "Chairman and CTO at Oracle",
+      "timestamp": "00:31:57",
+      "text": "Ubiquitous. That was very important, so our customers could run the Oracle Database in any environment, and it's obviously and we had to find a way to actually make our, the best versions of our database, the Exadata, Exascale versions of our database, available in other people's clouds. And that, and what we were able to do was basically get OCI small enough that we could embed an OCI data center within Microsoft Azure or an OCI data center within Google or AWS or wherever we had to put it, where it could be fully autonomous, where, you know, we could use Exadata and Exascale clusters. We actually were able to do that. It was not technically easy, but we did it."
+    },
+    {
+      "speaker_id": "larry-ellison",
+      "speaker_name": "Larry Ellison",
+      "speaker_role": "Chairman and CTO at Oracle",
+      "timestamp": "00:32:44",
+      "text": "In doing that, in miniaturizing our Oracle data centers, one is, I mentioned earlier that all of our data centers are the same, except in scale. The biggest one's 800 GW right now, bordering, getting close to 800 MW, excuse me, bordering, getting close to one gigawatt. The smallest are about a 150 kW, and we're gonna get down to 50 kW. What that means is we'll have a lot of companies, even, you know, medium, large-sized companies, that will decide to have an Oracle private cloud. I mean, it's still the, the, there's no difference between our private cloud and the public cloud. They're, they are identical. They're absolutely identical, and a bunch of people have Oracle private clouds, a bunch of industrial companies."
+    },
+    {
+      "speaker_id": "larry-ellison",
+      "speaker_name": "Larry Ellison",
+      "speaker_role": "Chairman and CTO at Oracle",
+      "timestamp": "00:33:32",
+      "text": "Vodafone has six, you know, Oracle private clouds, for example, to run their workloads. But they're becoming so inexpensive that anyone can decide, \"Okay, I wanna move to the cloud. I want all the advantages of the cloud, but I wanna make sure that I'm the only one in the cloud. I don't want any neighbors, or I want only approved neighbors. I don't want someone with a credit card moving in. I'm just paranoid about security, or I've got government regulations I have to adhere to.\" So we think that obviously moving, you know, with Oracle Database available on AWS, Microsoft, and Google is incredibly important, and Safra said it right. I mean, it will absolutely accelerate database growth in the public cloud."
+    },
+    {
+      "speaker_id": "larry-ellison",
+      "speaker_name": "Larry Ellison",
+      "speaker_role": "Chairman and CTO at Oracle",
+      "timestamp": "00:34:18",
+      "text": "But we expect that private clouds will greatly outnumber public clouds as companies decide they don't want. They want the Oracle Cloud behind their firewall, in their data center, with no neighbors. And we, because we've gotten our data centers are so automated, and they're scalable, and they're all identical in terms of function, we're organized so we can actually, we have 162 data centers now. I expect we will have 1,000 or 2,000 or more data centers, Oracle Cloud data centers around the world, and a lot of them will be dedicated to individual banks or telecommunications companies or technology companies or what have you or nation-states, sovereign clouds, all of this other stuff."
+    },
+    {
+      "speaker_id": "larry-ellison",
+      "speaker_name": "Larry Ellison",
+      "speaker_role": "Chairman and CTO at Oracle",
+      "timestamp": "00:35:19",
+      "text": "So we think it's hard for me to predict whether the private clouds or the public cloud which is gonna be bigger? I don't know. But the good news is we win either way."
+    },
+    {
+      "speaker_id": "raimo-lenschow",
+      "speaker_name": "Raimo Lenschow",
+      "speaker_role": "Managing Director and Senior Equity Research Analyst at Barclays",
+      "timestamp": "00:35:35",
+      "text": "Okay, interesting. Very interesting."
+    },
+    {
+      "speaker_id": "ken-bond",
+      "speaker_name": "Ken Bond",
+      "speaker_role": "Head of Investor Relations at Oracle",
+      "timestamp": "00:35:39",
+      "text": "Next question, Sarah."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:35:41",
+      "text": "Thank you. Your next question comes from the line of Mark Moerdler with Bernstein. Your line is open."
+    },
+    {
+      "speaker_id": "mark-moerdler",
+      "speaker_name": "Mark Moerdler",
+      "speaker_role": "Senior Analyst at Bernstein",
+      "timestamp": "00:35:49",
+      "text": "Thank you so much, and congratulations on the quarter. Very impressive, both the quarter and the guide. We've seen a lot of focus on the model training side, but less on applications and inferencing and the rest. You guys have a lot of expertise in the market and in the industry. You already have traditional AI sprinkled throughout all the Oracle products and capabilities, but where do you see the monetizable value of GenAI on the app side? How long do you think it's gonna take for GenAI to be a meaningful revenue on, not just for Oracle, but software in general, on the app side, not on the training side? Thank you."
+    },
+    {
+      "speaker_id": "larry-ellison",
+      "speaker_name": "Larry Ellison",
+      "speaker_role": "Chairman and CTO at Oracle",
+      "timestamp": "00:36:29",
+      "text": "Let me. I'm sorry. I'm monopolizing these answers. I apologize. But let me start with healthcare, from everything from us helping doctors diagnose, you know, different diseases. When someone goes in to get a sonogram, and I've seen the nurses and the technicians and the doctors actually measure the baby's skull and measure the baby's spinal cord to see how the baby. It's utterly ridiculous. The computer should do all of that. And if there's an umbilical cord wrapped around the fetus's neck, the computer should discover all of that, and that should all be recorded. The doctor should get assistance from a computer doing all of this stuff. Looking at the plaque in coronary arteries, all should be done that way."
+    },
+    {
+      "speaker_id": "larry-ellison",
+      "speaker_name": "Larry Ellison",
+      "speaker_role": "Chairman and CTO at Oracle",
+      "timestamp": "00:37:22",
+      "text": "Already we've delivered, when a doctor gets ready to visit a patient, we prepare a summary for the doctor. We use AI to look at the electronic health records, the latest labs that might have been finished just a few hours ago, and let the doctor know whether there's stability or disease progression, or whatever the doctor needs to know prior to the consultation with the patient. That summary is created by AI, you know, human readable summary. Then AI listens to the consultation between the doctor and the patient. This is already delivered. This is already out there. They'll deliver. They'll listen to the consultation between the doctor and the patient."
+    },
+    {
+      "speaker_id": "larry-ellison",
+      "speaker_name": "Larry Ellison",
+      "speaker_role": "Chairman and CTO at Oracle",
+      "timestamp": "00:38:03",
+      "text": "If the doctor orders a prescription, the AI checks to make sure the prescription is accurate and enters the prescription. The AI updates the electronic health records. The AI transcribes and distributes the doctor's orders, all from listening to the conversation. The doctor then gets a draft at the end of the conversation, that the doctor can quickly review and approve, and then the prescriptions are filled, and the orders are executed, and the electronic health records are updated. We're already doing all of that, but I can go on. You know, in healthcare, we need so many things, from reading of X-ray, reading of X-rays to just the user interface. Our user interface is so different than Epic's."
+    },
+    {
+      "speaker_id": "larry-ellison",
+      "speaker_name": "Larry Ellison",
+      "speaker_role": "Chairman and CTO at Oracle",
+      "timestamp": "00:38:52",
+      "text": "I was at Stanford with my son at one time, and it took three people, three different physicians, to actually be able to find his X-rays. This is how you find the X-rays for Larry Ellison. You say, \"Oracle, please show me Larry Ellison's latest X-rays.\" It's a voice interface. You just ask for them. You don't worry about, how do you log on? Well, you look at the computer, and it recognizes your face, and it recognizes your voice. It knows you're the doctor, and you're authorized to look at that. Also, all the authorization is done with AI. You know, when are we gonna start monetizing it? Well, all of Cerner is the monetization."
+    },
+    {
+      "speaker_id": "larry-ellison",
+      "speaker_name": "Larry Ellison",
+      "speaker_role": "Chairman and CTO at Oracle",
+      "timestamp": "00:39:33",
+      "text": "All you know, the fact that we can dramatically expand our health business is because it's based on AI. It is. AI is just. I don't know how to describe it. Let me see the best way to describe it. It's not something you sell separately. It is the diagnostic system. It's the electronic health record system. It is the pharmacy system, the prescription system, the user authentication, the login system. It's all AI. And I know people think it's a separate thing that, oh, my God, and I hear a bunch of applications come and say, \"Oh, we got AI agents we'll charge for separately.\" I mean, it's our applications are going to be primarily AI applications, everything."
+    },
+    {
+      "speaker_id": "larry-ellison",
+      "speaker_name": "Larry Ellison",
+      "speaker_role": "Chairman and CTO at Oracle",
+      "timestamp": "00:40:30",
+      "text": "How do you charge separately for everything? I really don't. I find it bewildering when I listen to them talk. I don't understand what they're saying. I wonder... I'll stop there."
+    },
+    {
+      "speaker_id": "mark-moerdler",
+      "speaker_name": "Mark Moerdler",
+      "speaker_role": "Senior Analyst at Bernstein",
+      "timestamp": "00:40:43",
+      "text": "Larry, I think you're the first person to explain it that way. Thank you. It makes a lot of sense."
+    },
+    {
+      "speaker_id": "larry-ellison",
+      "speaker_name": "Larry Ellison",
+      "speaker_role": "Chairman and CTO at Oracle",
+      "timestamp": "00:40:49",
+      "text": "Thank you, Mark."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:40:49",
+      "text": "You're-"
+    },
+    {
+      "speaker_id": "ken-bond",
+      "speaker_name": "Ken Bond",
+      "speaker_role": "Head of Investor Relations at Oracle",
+      "timestamp": "00:40:50",
+      "text": "Sarah? Go ahead, Sarah."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:40:51",
+      "text": "Thank you. Your next question comes from the line of Derek Wood with TD Cowen. Your line is open."
+    },
+    {
+      "speaker_id": "derrick-wood",
+      "speaker_name": "Derrick Wood",
+      "speaker_role": "Managing Director and TMT â€“ Software Research Analyst at TD Cowen",
+      "timestamp": "00:40:59",
+      "text": "Great. Thanks, and I'll echo my congratulations. Safra, Larry, you guys have had this big inflection in RPO growth over the last few quarters. Can you update us on how you're feeling about supply availability and your ability to stand up data center infrastructure in a time-efficient manner in order to move from contract signings to consumption and convert backlog into revenue? and I guess, are you doing anything different today than, say, a year ago, to try and help accelerate these timelines?"
+    },
+    {
+      "speaker_id": "safra-catz",
+      "speaker_name": "Safra Catz",
+      "speaker_role": "CEO at Oracle",
+      "timestamp": "00:41:30",
+      "text": "Okay, I'm gonna start, and Larry can finish. So we have enormous demand. That is absolutely true. And I will say that demand is still outstripping supply, but I can live with that because we are laying out a lot of supply, as you can see in the revenues, and you can see that in the guidance and my commitment for this next year, and we'll be talking about beyond on Thursday at Financial Analyst Day. We have made a number of changes, including what Larry mentioned earlier, which is the automation of the setting up and laying down our data centers. However, there are, you know, because demand is so large, we do have to get in different places."
+    },
+    {
+      "speaker_id": "safra-catz",
+      "speaker_name": "Safra Catz",
+      "speaker_role": "CEO at Oracle",
+      "timestamp": "00:42:23",
+      "text": "As I told you, I don't know, a couple of quarters ago, we made the decision, instead of picking up small pieces, to actually wait in some cases to pick up larger locations, and that is really playing out very, very well for us.... but we are really moving and growing in so many places, because it's not only public cloud rollouts, but it is also private clouds, which are in immense demand, national security regions, immense demand. And really, we are moving as fast as we can, and automation is the thing that has helped us lay this out. And the fact that it is we have an everything, everywhere means nothing's unique, everything's the same, and that cannot be said by our competitors, and that helps us in our rollouts."
+    },
+    {
+      "speaker_id": "larry-ellison",
+      "speaker_name": "Larry Ellison",
+      "speaker_role": "Chairman and CTO at Oracle",
+      "timestamp": "00:43:27",
+      "text": "Yeah, I just wanna emphasize what Safra just said. Our private clouds are identical to our public clouds, except for the fact they might only have one tenant, and it might be in a building that you own. Besides that, they're identical. We own the hardware, we manage the hardware for you. It just happens to be in a building you own, and you're the only one that can get in. So that's a very different situation than all of our competitors, and it's fully automated. So we're prepared to manage thousands of data centers. By the way, I would compare that to, you know, Elon Musk's Starlink, where he's got, I think, close to 7000 satellites in the sky now, 8000, seven... Yeah, 6800, I think. How do you manage these satellites that constantly maneuver."
+    },
+    {
+      "speaker_id": "larry-ellison",
+      "speaker_name": "Larry Ellison",
+      "speaker_role": "Chairman and CTO at Oracle",
+      "timestamp": "00:44:12",
+      "text": "They don't. They're not geosynchronous satellites. They're low Earth-orbiting satellites, so they're constantly flying around and changing location. How do you manage 7000 spacecraft, you know, flying around? Well, let me tell you, computers, it's got to be fully automated or it's not gonna work. You can't have thousands, even hundreds, I would say, data centers, but you certainly can't have thousands of data centers unless they're fully automated. And the only way you can automate something is to make them all the same. You can't automate 25 different things, so, you know, that's one thing. The other thing I'll point out, and I kind think it's interesting about Oracle, that some of the most senior people in our management team are experts in building buildings, building electric power plants, and electric transmission systems."
+    },
+    {
+      "speaker_id": "larry-ellison",
+      "speaker_name": "Larry Ellison",
+      "speaker_role": "Chairman and CTO at Oracle",
+      "timestamp": "00:45:05",
+      "text": "Because building these data centers is just that. You can't just build a data center, you also have to account for the energy and the transmission of the energy from where it's generated to the data center. And of course, the most efficient way to do this is actually build the power generation plant right next to the data center, so you transmit over the shortest distance. And we actually have very senior people who actually come from the utilities industry, as strange as that sounds, that are expert in doing this and helping us build these gigantic projects. Again, I'll harken to Elon Musk."
+    },
+    {
+      "speaker_id": "larry-ellison",
+      "speaker_name": "Larry Ellison",
+      "speaker_role": "Chairman and CTO at Oracle",
+      "timestamp": "00:45:53",
+      "text": "One of the hardest jobs he had in building Tesla was when he built the Austin plant. He had to build the largest building ever been built by humankind, anywhere, at any time. And you wanna know the largest building ever built? It's certainly not the Pentagon. It's not, you know. It's not the NASA building for the space shuttle. Largest building is the Tesla plant, and so you have to be the contractor of that plant. You have to be able to build those things and then fill it with robots that then build your cars. So you got a build the building, get the power, build all the automation systems, which is the hardest part about building the cloud or the automation system."
+    },
+    {
+      "speaker_id": "larry-ellison",
+      "speaker_name": "Larry Ellison",
+      "speaker_role": "Chairman and CTO at Oracle",
+      "timestamp": "00:46:37",
+      "text": "Build all the automation systems so it works efficiently, and reliably, and cost-effectively. That is, and we have some really interesting people here with a very different experience base than we had even five years ago."
+    },
+    {
+      "speaker_id": "derrick-wood",
+      "speaker_name": "Derrick Wood",
+      "speaker_role": "Managing Director and TMT â€“ Software Research Analyst at TD Cowen",
+      "timestamp": "00:46:55",
+      "text": "Thank you very much."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:47:00",
+      "text": "Your final question comes from the line of Brad Zelnick of Deutsche Bank. Your line is open."
+    },
+    {
+      "speaker_id": "brad-zelnick",
+      "speaker_name": "Brad Zelnick",
+      "speaker_role": "Managing Director and Senior US Software Analyst at Deutsche Bank",
+      "timestamp": "00:47:07",
+      "text": "Great. Thanks so much for fitting me in. And I'll just start by saying I can't remember a Q1 ever being this exciting. Larry, we've talked about a lot of the reasons why you win in cloud infrastructure, especially by addressing areas of the market where your competitors can't even reach. But in light of many high-profile cyber incidents lately, can you talk about how being more secure, not just in being so highly automated, as you've already discussed, but how is being more secure helping to win some of these very large OCI deals, especially in the U.S. and other governments around the world? Thank you."
+    },
+    {
+      "speaker_id": "larry-ellison",
+      "speaker_name": "Larry Ellison",
+      "speaker_role": "Chairman and CTO at Oracle",
+      "timestamp": "00:47:42",
+      "text": "Well, I couldn't thank you more for the question because I have two things I'm talking about at CloudWorld on Tuesday. One is multi-cloud, and the other is security. And let me announce right here, we're done with passwords. The idea is utterly ridiculous. They're easily hacked. The more difficult they are to remember, the more likely you are to write them down, the more likely they are to be stolen. Everything done to make passwords better has made them worse. It's a terrible idea, so we're getting rid of passwords entirely. This is the way logon is gonna work. I'm gonna type in larry.ellison@oracle.com. The computer is gonna look at me and say, \"Okay, hi, Larry.\" We're done. Why would I type in a... Okay, Safra can recognize me, you know, my kids can recognize me."
+    },
+    {
+      "speaker_id": "larry-ellison",
+      "speaker_name": "Larry Ellison",
+      "speaker_role": "Chairman and CTO at Oracle",
+      "timestamp": "00:48:31",
+      "text": "You're telling me a computer can't recognize me and log me in? This is ridiculous. We're not-- no more passwords. Those have got to go. There are other things we can do to secure network communications. We have this new technology. It actually goes live in our cloud this week, called ZPR. It's called Zero Trust Packet Routing that I'll be talking about. It guarantees biometric authentication will guarantee that you are who you say you are when you log in, so we'll know. Users, you know, fraudulent users will find it very difficult to infiltrate our systems with biometric authentication. By the way, you know, there are keys on the keyboard that will look at your fingerprints."
+    },
+    {
+      "speaker_id": "larry-ellison",
+      "speaker_name": "Larry Ellison",
+      "speaker_role": "Chairman and CTO at Oracle",
+      "timestamp": "00:49:21",
+      "text": "It depends on how. If you want, if you want facial recognition plus fingerprints, all voluntary, you don't have to do it if you don't want to. But I certainly, a whole bunch of people prefer biometric authentication. That's why Google Pay is popular and Apple Pay is popular. So it's, it's for my convenience. I don't want to remember passwords. Look at me and recognize me and log me in. Don't ask me to type in some stupid seventeen-letter password that someone can steal. There's that. The Zero Trust Packet Routing actually authenticates you from the user all the way to the data. And, we've greatly simplified network security by separating it from network configuration. That's another thing I'm going to talk about. But by the way, let me go back to automation."
+    },
+    {
+      "speaker_id": "larry-ellison",
+      "speaker_name": "Larry Ellison",
+      "speaker_role": "Chairman and CTO at Oracle",
+      "timestamp": "00:50:10",
+      "text": "Automation is more of a security issue than it is an efficiency issue. Automated cars, self-driving cars, will kill a lot fewer people every year than human drivers. They don't get drunk. They don't go a 135 miles an hour. Automation is a safety issue and a security issue. Almost all cyberattacks begin the same way: with human error. If there is no Oracle database administrator, as there isn't with the Autonomous Database, the data, the DBA cannot make a configuration mistake that exposes your data. You can't have a human being involved if you want to make your data secure. Autonomy is a huge portion of it. And the fourth piece of security that I'll talk about is code generation. When you generate a computer program rather than handwrite it in Java."
+    },
+    {
+      "speaker_id": "larry-ellison",
+      "speaker_name": "Larry Ellison",
+      "speaker_role": "Chairman and CTO at Oracle",
+      "timestamp": "00:51:06",
+      "text": "Hey, we're the owners of Java, or I don't know, maybe the Supreme Court said we're not the owners of Java. I'm not sure. I'm not sure what it even means. I'm not a lawyer. But if a computer generates the program rather than a human being writing it, the computer will not generate security vulnerabilities. They will not generate something called state, which means your application can't fail over automatically in case, you know, your data center loses power or burns down or something like that. Code generation is a huge portion of next-generation security. You know, Zero Trust Packet Routing is another important one. Biometric authentication and automation are the four key attributes to winning the cyber wars."
+    },
+    {
+      "speaker_id": "larry-ellison",
+      "speaker_name": "Larry Ellison",
+      "speaker_role": "Chairman and CTO at Oracle",
+      "timestamp": "00:51:58",
+      "text": "It's going to be our defensive robots against their robots, and we have to have better technology on the defensive side than they currently have on the offensive side, because they are winning. I mean, every year there are more successful cyberattacks, and you know what the FBI says? \"When you're attacked, pay the ransom. There's nothing we can do about it.\" Well, that's not very encouraging. I have an idea. Let's keep the ransom money, but implement, you know, next-generation technology that makes it much harder for cybercriminals, and by the way, and it's not so bad with cybercriminals now, compared to what state actors have the ability to do, so we have to harden our computer systems. We have to make them more secure."
+    },
+    {
+      "speaker_id": "larry-ellison",
+      "speaker_name": "Larry Ellison",
+      "speaker_role": "Chairman and CTO at Oracle",
+      "timestamp": "00:52:44",
+      "text": "The good news is there is a whole new generation of AI-based security systems, like biometric authentication, like Zero Trust Packet Routing, that we can use to stop these attacks, but we have to actually deploy the technology."
+    },
+    {
+      "speaker_id": "brad-zelnick",
+      "speaker_name": "Brad Zelnick",
+      "speaker_role": "Managing Director and Senior US Software Analyst at Deutsche Bank",
+      "timestamp": "00:53:02",
+      "text": "Amazing, Larry. Look forward to learning more this week in Vegas."
+    },
+    {
+      "speaker_id": "ken-bond",
+      "speaker_name": "Ken Bond",
+      "speaker_role": "Head of Investor Relations at Oracle",
+      "timestamp": "00:53:06",
+      "text": "Thank you, Brad. Thank you, Larry. A telephonic replay of this conference call will be available for 24 hours on our investor relations website. Thank you for joining us today, and with that, I'll turn the call back to Sarah for closing."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:53:19",
+      "text": "Thank you. This concludes today's conference call. We thank you for joining. You may now disconnect your lines."
+    }
+  ],
+  "statements": [
+    {
+      "id": "ORCL-FY2025Q1-001",
+      "turn_index": 5,
+      "speaker_id": "safra-catz",
+      "verbatim_quote": "Total cloud revenue, that's SaaS and IaaS, was up 22% at $5.6 billion, with SaaS revenue of $3.5 billion, up 10%, and IaaS revenue of $2.2 billion, up 46%",
+      "claim": "Oracle reported Q1 FY2025 total cloud revenue of $5.6 billion, up 22%, comprising $3.5 billion in SaaS and $2.2 billion in IaaS.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "ORCL-FY2025Q1-002",
+      "turn_index": 6,
+      "speaker_id": "safra-catz",
+      "verbatim_quote": "Our strategic back office SaaS applications now have annualized revenues of $8.2 billion, and we're up 18%.",
+      "claim": "Oracle's strategic back office SaaS applications have annualized revenues of $8.2 billion, representing 18% growth.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "ORCL-FY2025Q1-003",
+      "turn_index": 6,
+      "speaker_id": "safra-catz",
+      "verbatim_quote": "Infrastructure cloud services revenue was up 46% and up 49% when you are excluding our legacy hosting services. Our infrastructure cloud services now have an annualized revenue of $8.6 billion.",
+      "claim": "Oracle's infrastructure cloud services have annualized revenue of $8.6 billion, up 46% (49% excluding legacy hosting).",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "ORCL-FY2025Q1-004",
+      "turn_index": 6,
+      "speaker_id": "safra-catz",
+      "verbatim_quote": "OCI consumption revenue was up 56%, and demand continued to outstrip supply.",
+      "claim": "Oracle Cloud Infrastructure (OCI) consumption revenue grew 56% in Q1 FY2025.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "ORCL-FY2025Q1-005",
+      "turn_index": 6,
+      "speaker_id": "safra-catz",
+      "verbatim_quote": "Cloud database services, which were up 23% and now have annualized revenues of $2.1 billion.",
+      "claim": "Oracle's cloud database services have annualized revenues of $2.1 billion, up 23%.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "ORCL-FY2025Q1-006",
+      "turn_index": 7,
+      "speaker_id": "safra-catz",
+      "verbatim_quote": "So all in, total revenue for the quarter were $13.3 billion, up 8% from last year.",
+      "claim": "Oracle reported total revenue of $13.3 billion for Q1 FY2025, an 8% increase year-over-year.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "ORCL-FY2025Q1-007",
+      "turn_index": 8,
+      "speaker_id": "safra-catz",
+      "verbatim_quote": "We continue to display operating expense discipline with Q1 operating income growing 14%, and the operating margin was 43%.",
+      "claim": "Oracle reported Q1 FY2025 operating income growth of 14% and an operating margin of 43%.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "ORCL-FY2025Q1-008",
+      "turn_index": 8,
+      "speaker_id": "safra-catz",
+      "verbatim_quote": "The non-GAAP tax rate for the quarter was 18.9%, with non-GAAP EPS at $1.39 in US dollars, up 17% in USD, up 18% in constant currency.",
+      "claim": "Oracle reported Q1 FY2025 non-GAAP EPS of $1.39, up 17% in USD, with a non-GAAP tax rate of 18.9%.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "ORCL-FY2025Q1-009",
+      "turn_index": 8,
+      "speaker_id": "safra-catz",
+      "verbatim_quote": "The GAAP EPS was $1.03 in US dollars, up 20% in USD, and up 22% in constant currency.",
+      "claim": "Oracle reported Q1 FY2025 GAAP EPS of $1.03, up 20% in USD.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "ORCL-FY2025Q1-010",
+      "turn_index": 8,
+      "speaker_id": "safra-catz",
+      "verbatim_quote": "This change in accounting estimate reduced Q1 operating expenses by about $197 million.",
+      "claim": "The change in accounting estimate for server useful lives reduced Q1 FY2025 operating expenses by approximately $197 million.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "ORCL-FY2025Q1-011",
+      "turn_index": 9,
+      "speaker_id": "safra-catz",
+      "verbatim_quote": "At quarter end, we had nearly $11 billion in cash and marketable securities.",
+      "claim": "Oracle held nearly $11 billion in cash and marketable securities at the end of Q1 FY2025.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "ORCL-FY2025Q1-012",
+      "turn_index": 9,
+      "speaker_id": "safra-catz",
+      "verbatim_quote": "The short-term deferred revenue balance was $11.5 billion, up 2%.",
+      "claim": "Oracle's short-term deferred revenue balance was $11.5 billion at the end of Q1 FY2025, up 2%.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "ORCL-FY2025Q1-013",
+      "turn_index": 9,
+      "speaker_id": "safra-catz",
+      "verbatim_quote": "Operating cash flow for Q1 was $7.4 billion, while free cash flow was $5.1 billion.",
+      "claim": "Oracle reported Q1 FY2025 operating cash flow of $7.4 billion and free cash flow of $5.1 billion.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "ORCL-FY2025Q1-014",
+      "turn_index": 9,
+      "speaker_id": "safra-catz",
+      "verbatim_quote": "On a trailing 12-month basis, operating cash flow was $19.1 billion, and free cash flow was $11.3 billion.",
+      "claim": "Oracle's trailing 12-month operating cash flow was $19.1 billion and free cash flow was $11.3 billion as of Q1 FY2025.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "ORCL-FY2025Q1-015",
+      "turn_index": 9,
+      "speaker_id": "safra-catz",
+      "verbatim_quote": "Our remaining performance obligations, or RPO, is now $99 billion, up 52% in constant currency.",
+      "claim": "Oracle's remaining performance obligations (RPO) were $99 billion at the end of Q1 FY2025, up 52% in constant currency.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "ORCL-FY2025Q1-016",
+      "turn_index": 9,
+      "speaker_id": "safra-catz",
+      "verbatim_quote": "Further, our cloud RPO grew more than 80% and now represents nearly three-fourths of total RPO.",
+      "claim": "Oracle's cloud RPO grew more than 80% and represents nearly 75% of total RPO as of Q1 FY2025.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "ORCL-FY2025Q1-017",
+      "turn_index": 10,
+      "speaker_id": "safra-catz",
+      "verbatim_quote": "Approximately 38% of total RPO is expected to be recognized as revenue over the next 12 months",
+      "claim": "Oracle expects approximately 38% of its total RPO to be recognized as revenue over the next 12 months.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "ORCL-FY2025Q1-018",
+      "turn_index": 10,
+      "speaker_id": "safra-catz",
+      "verbatim_quote": "We spent $2.3 billion on CapEx this quarter.",
+      "claim": "Oracle spent $2.3 billion on capital expenditures in Q1 FY2025.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "ORCL-FY2025Q1-019",
+      "turn_index": 10,
+      "speaker_id": "safra-catz",
+      "verbatim_quote": "I expect the fiscal year 2025 CapEx will be double what it was in fiscal 2024.",
+      "claim": "Oracle expects FY2025 capital expenditures to be double the amount spent in FY2024.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "ORCL-FY2025Q1-020",
+      "turn_index": 10,
+      "speaker_id": "safra-catz",
+      "verbatim_quote": "We now have 85 cloud regions live, another 77 planned, with more to follow.",
+      "claim": "Oracle has 85 live cloud regions and 77 planned cloud regions as of Q1 FY2025.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "ORCL-FY2025Q1-021",
+      "turn_index": 11,
+      "speaker_id": "safra-catz",
+      "verbatim_quote": "This quarter, we repurchased 1.1 million shares for a total of $150 million.",
+      "claim": "Oracle repurchased 1.1 million shares for $150 million in Q1 FY2025.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "ORCL-FY2025Q1-022",
+      "turn_index": 11,
+      "speaker_id": "safra-catz",
+      "verbatim_quote": "In addition, we paid out dividends of $4.4 billion over the last 12 months, and the board of directors again declared a quarterly dividend of $0.40 per share.",
+      "claim": "Oracle paid $4.4 billion in dividends over the trailing 12 months and declared a quarterly dividend of $0.40 per share.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "ORCL-FY2025Q1-023",
+      "turn_index": 13,
+      "speaker_id": "safra-catz",
+      "verbatim_quote": "For fiscal 2025, we remain very confident and committed to full year total revenue growth growing double digits and full year total cloud infrastructure revenue growing faster than last year.",
+      "claim": "Oracle is committed to double-digit full-year total revenue growth and faster-than-last-year cloud infrastructure revenue growth for FY2025.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "ORCL-FY2025Q1-024",
+      "turn_index": 13,
+      "speaker_id": "safra-catz",
+      "verbatim_quote": "If currency exchange rates remain the same as they are now, currency should have about a 1% positive effect on total revenue and as much as a $0.03 positive effect on EPS.",
+      "claim": "Oracle expects currency to have a ~1% positive effect on total revenue and up to $0.03 positive effect on EPS for Q2 FY2025, assuming current exchange rates.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "heavily_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "ORCL-FY2025Q1-025",
+      "turn_index": 13,
+      "speaker_id": "safra-catz",
+      "verbatim_quote": "Total revenues are expected to grow from 7% to 9% in constant currency and are expected to grow between 8% and 10% in USD at today's exchange rate.",
+      "claim": "Oracle expects Q2 FY2025 total revenue to grow 7-9% in constant currency and 8-10% in USD.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "ORCL-FY2025Q1-026",
+      "turn_index": 14,
+      "speaker_id": "safra-catz",
+      "verbatim_quote": "Total cloud revenue is expected to grow 23%-25% in constant currency, and 24%-26% in USD.",
+      "claim": "Oracle expects Q2 FY2025 total cloud revenue to grow 23-25% in constant currency and 24-26% in USD.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "ORCL-FY2025Q1-027",
+      "turn_index": 14,
+      "speaker_id": "safra-catz",
+      "verbatim_quote": "Non-GAAP EPS is expected to grow 6%-10% and be between $1.42-$1.46 in constant currency, and non-GAAP EPS is expected to grow 8%-12% and be between $1.45-$1.49 in USD.",
+      "claim": "Oracle expects Q2 FY2025 non-GAAP EPS to be $1.42-$1.46 in constant currency and $1.45-$1.49 in USD.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "ORCL-FY2025Q1-028",
+      "turn_index": 14,
+      "speaker_id": "safra-catz",
+      "verbatim_quote": "My EPS guidance for Q2 assumes a base tax rate of 19%.",
+      "claim": "Oracle's Q2 FY2025 EPS guidance assumes a base tax rate of 19%.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "ORCL-FY2025Q1-029",
+      "turn_index": 15,
+      "speaker_id": "larry-ellison",
+      "verbatim_quote": "Today, Oracle has 162 cloud data centers, live and under construction throughout the world.",
+      "claim": "Oracle has 162 cloud data centers live and under construction globally as of the call date.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "ORCL-FY2025Q1-030",
+      "turn_index": 15,
+      "speaker_id": "larry-ellison",
+      "verbatim_quote": "The largest of these data centers is 800 megawatts, and it will contain acres of NVIDIA GPU clusters able to train the world's largest AI models.",
+      "claim": "Oracle's largest data center is 800 megawatts and will contain NVIDIA GPU clusters for training large AI models.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "ORCL-FY2025Q1-031",
+      "turn_index": 15,
+      "speaker_id": "larry-ellison",
+      "verbatim_quote": "Soon, Oracle will begin construction of data centers that are more than a gigawatt.",
+      "claim": "Oracle will soon begin construction of data centers exceeding one gigawatt in capacity.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "ORCL-FY2025Q1-032",
+      "turn_index": 17,
+      "speaker_id": "larry-ellison",
+      "verbatim_quote": "With today's AWS announcement, our customers will be able to use Oracle's latest Exadata and Exascale RDMA clusters with the latest versions of our database software, from within the Microsoft Azure cloud, from within the Google Cloud, and from within the AWS cloud.",
+      "claim": "Oracle customers can now use Oracle Exadata and Exascale RDMA clusters within Microsoft Azure, Google Cloud, and AWS.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "ORCL-FY2025Q1-033",
+      "turn_index": 24,
+      "speaker_id": "safra-catz",
+      "verbatim_quote": "So that you know, gross margins, even this quarter, as a percentage, increased regardless of the fact that we have a lot more OCI.",
+      "claim": "Oracle's gross margins increased as a percentage in Q1 FY2025 despite higher OCI mix.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "ORCL-FY2025Q1-034",
+      "turn_index": 24,
+      "speaker_id": "safra-catz",
+      "verbatim_quote": "And as much as percentages are great, and again, our operating margin percentages continue to increase",
+      "claim": "Oracle's operating margin percentages continued to increase in Q1 FY2025.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "ORCL-FY2025Q1-035",
+      "turn_index": 28,
+      "speaker_id": "larry-ellison",
+      "verbatim_quote": "We're moving Fusion and NetSuite to Autonomous Database as we speak.",
+      "claim": "Oracle is currently migrating Fusion and NetSuite applications to the Autonomous Database.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "ORCL-FY2025Q1-036",
+      "turn_index": 29,
+      "speaker_id": "larry-ellison",
+      "verbatim_quote": "the margins for the Autonomous Database business are much higher than the traditional Oracle business.",
+      "claim": "The margins for Oracle's Autonomous Database business are significantly higher than those of the traditional Oracle business.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "indefinite",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "ORCL-FY2025Q1-037",
+      "turn_index": 30,
+      "speaker_id": "larry-ellison",
+      "verbatim_quote": "So we use hardware very efficiently. We use labor sparingly because labor is a security risk.",
+      "claim": "Oracle uses hardware very efficiently and labor sparingly in its cloud operations due to security and efficiency goals.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "indefinite",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "ORCL-FY2025Q1-038",
+      "turn_index": 31,
+      "speaker_id": "larry-ellison",
+      "verbatim_quote": "Our networks are much more efficient. The RDMA networks run so much faster. If you run twice as fast, you know, our costs go down by half",
+      "claim": "Oracle's RDMA networks are significantly faster and more efficient than competitors', reducing costs proportionally to speed increases.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "indefinite",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "ORCL-FY2025Q1-039",
+      "turn_index": 33,
+      "speaker_id": "larry-ellison",
+      "verbatim_quote": "I think the cost savings, our costs, our cloud cost savings will be around 50%. That's what I believe. Now, it might be 40%, might be 35%, but there will be huge cost savings from where we are now",
+      "claim": "Oracle expects cloud cost savings of approximately 35-50% from migrating Fusion to Autonomous Database.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "heavily_hedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "ORCL-FY2025Q1-040",
+      "turn_index": 37,
+      "speaker_id": "larry-ellison",
+      "verbatim_quote": "The entry price for a real frontier model from someone who wants to compete in that area is around $100 billion. Let me repeat, around $100 billion. That's over the next four or five years",
+      "claim": "The entry cost to build a competitive frontier AI model is approximately $100 billion over the next 4-5 years.",
+      "categorizations": [
+        "competitive_or_market_position_claim"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "long-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "ORCL-FY2025Q1-041",
+      "turn_index": 42,
+      "speaker_id": "larry-ellison",
+      "verbatim_quote": "We're in the middle of designing a data center that's north of a gigawatt. But we've found the location and the power plant. We've looked at it. They've already got building permits for three nuclear reactors.",
+      "claim": "Oracle is designing a >1GW data center with a secured location and power plant featuring permits for three small modular nuclear reactors.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "ORCL-FY2025Q1-042",
+      "turn_index": 46,
+      "speaker_id": "safra-catz",
+      "verbatim_quote": "We think it's going to accelerate, basically.",
+      "claim": "Oracle expects the migration of database workloads from on-premise/private cloud to public cloud to accelerate following hyperscaler agreements.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "ORCL-FY2025Q1-043",
+      "turn_index": 49,
+      "speaker_id": "larry-ellison",
+      "verbatim_quote": "The smallest are about a 150 kW, and we're gonna get down to 50 kW.",
+      "claim": "Oracle is scaling down its smallest private cloud data centers from 150 kW to 50 kW.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    }
+  ]
+}
