@@ -521,5 +521,889 @@
       "text": "Tim has helped shape Netflix into the company that it is today. Many thanks to Tim, and thank you very much for joining us."
     }
   ],
-  "statements": []
+  "statements": [
+    {
+      "id": "NFLX-FY2025Q1-001",
+      "turn_index": 2,
+      "speaker_id": "greg-peters",
+      "verbatim_quote": "over $40 billion in revenue. We've got over 300 million paid households.",
+      "claim": "Netflix reports annual revenue exceeding $40 billion and over 300 million paid households.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NFLX-FY2025Q1-002",
+      "turn_index": 2,
+      "speaker_id": "greg-peters",
+      "verbatim_quote": "we're less than 10% of TV hours.",
+      "claim": "Netflix accounts for less than 10% of total TV viewing hours.",
+      "categorizations": [
+        "competitive_or_market_position_claim"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NFLX-FY2025Q1-003",
+      "turn_index": 3,
+      "speaker_id": "greg-peters",
+      "verbatim_quote": "we're about 6% of consumer spend and ad revenue in the countries we serve",
+      "claim": "Netflix represents approximately 6% of consumer spend and ad revenue in served markets.",
+      "categorizations": [
+        "competitive_or_market_position_claim"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NFLX-FY2025Q1-004",
+      "turn_index": 5,
+      "speaker_id": "greg-peters",
+      "verbatim_quote": "retention that's stable and strong. We haven't seen any significant changes in plan mix or plan take rate",
+      "claim": "Member retention remains stable and strong with no significant changes in plan mix or take rates.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NFLX-FY2025Q1-005",
+      "turn_index": 6,
+      "speaker_id": "greg-peters",
+      "verbatim_quote": "starting at $7.99 in the U.S. and Canada with the ads plan.",
+      "claim": "The ad-supported plan starts at $7.99 in the U.S. and Canada.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NFLX-FY2025Q1-006",
+      "turn_index": 7,
+      "speaker_id": "ted-sarandos",
+      "verbatim_quote": "we produce original content in 50 countries around the world.",
+      "claim": "Netflix produces original content in 50 countries globally.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NFLX-FY2025Q1-007",
+      "turn_index": 8,
+      "speaker_id": "ted-sarandos",
+      "verbatim_quote": "we also recently announced a $1 billion commitment to production in Mexico.",
+      "claim": "Netflix has committed $1 billion to production in Mexico.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NFLX-FY2025Q1-008",
+      "turn_index": 8,
+      "speaker_id": "ted-sarandos",
+      "verbatim_quote": "In 2023, we announced we were $2.5 billion and committed to Korean content in Korea.",
+      "claim": "Netflix committed $2.5 billion to Korean content production in 2023.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NFLX-FY2025Q1-009",
+      "turn_index": 13,
+      "speaker_id": "ted-sarandos",
+      "verbatim_quote": "those three big events were still a minority, a small minority of our net ads in Q4.",
+      "claim": "The three major Q4 events (Tyson fight, NFL, Squid Game) constituted a small minority of Q4 net additions.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NFLX-FY2025Q1-010",
+      "turn_index": 16,
+      "speaker_id": "ted-sarandos",
+      "verbatim_quote": "we're still forecasting 29%, 29% full-year margin, operating margin for the year.",
+      "claim": "Netflix forecasts a 29% full-year operating margin for FY2025.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NFLX-FY2025Q1-011",
+      "turn_index": 16,
+      "speaker_id": "ted-sarandos",
+      "verbatim_quote": "Content expense, we expect it'll grow and ramp in Q3 and Q4 on a year-over-year basis",
+      "claim": "Content expenses are expected to grow and ramp in Q3 and Q4 2025 year-over-year.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NFLX-FY2025Q1-012",
+      "turn_index": 17,
+      "speaker_id": "ted-sarandos",
+      "verbatim_quote": "sales and marketing expenses that we expect would ramp in the second half of the year",
+      "claim": "Sales and marketing expenses are expected to ramp in the second half of 2025.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NFLX-FY2025Q1-013",
+      "turn_index": 20,
+      "speaker_id": "greg-peters",
+      "verbatim_quote": "We've rolled that out in Canada, the U.S. We've got our remaining 10 markets coming.",
+      "claim": "Netflix has rolled out its proprietary ad tech suite in Canada and the U.S., with 10 remaining markets pending.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NFLX-FY2025Q1-014",
+      "turn_index": 21,
+      "speaker_id": "greg-peters",
+      "verbatim_quote": "we continue to expect that we will roughly double our advertising revenue in 2025",
+      "claim": "Netflix expects to roughly double its advertising revenue in 2025.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NFLX-FY2025Q1-015",
+      "turn_index": 23,
+      "speaker_id": "greg-peters",
+      "verbatim_quote": "We will roll out across the remaining 10 ads markets in a few stages over the coming months.",
+      "claim": "Netflix will roll out its ad tech suite across the remaining 10 ad markets in stages over the coming months.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NFLX-FY2025Q1-016",
+      "turn_index": 28,
+      "speaker_id": "greg-peters",
+      "verbatim_quote": "Looking ahead, in 2026, we'll do more of that, more data targeting capabilities. We'll move more of that globally.",
+      "claim": "Netflix plans to expand data targeting capabilities and move them globally in 2026.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NFLX-FY2025Q1-017",
+      "turn_index": 29,
+      "speaker_id": "greg-peters",
+      "verbatim_quote": "In 2027, when we get to look to specific focused investments at a higher order in data capabilities such as ML-based optimizations",
+      "claim": "Netflix plans to invest in higher-order data capabilities like ML-based optimizations in 2027.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NFLX-FY2025Q1-018",
+      "turn_index": 36,
+      "speaker_id": "ted-sarandos",
+      "verbatim_quote": "We have about 200 billion view hours",
+      "claim": "Netflix has approximately 200 billion view hours.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NFLX-FY2025Q1-019",
+      "turn_index": 37,
+      "speaker_id": "ted-sarandos",
+      "verbatim_quote": "We have the Taylor Serrano fight in July.",
+      "claim": "Netflix will host the Taylor Serrano fight in July 2025.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NFLX-FY2025Q1-020",
+      "turn_index": 37,
+      "speaker_id": "ted-sarandos",
+      "verbatim_quote": "We opted into the second NFL game for Christmas Day. We'll be presenting all-day football again on December 25, 2025.",
+      "claim": "Netflix will present all-day football, including a second NFL game, on December 25, 2025.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NFLX-FY2025Q1-021",
+      "turn_index": 37,
+      "speaker_id": "ted-sarandos",
+      "verbatim_quote": "we intend to grow the capability to do it around the world in the years ahead.",
+      "claim": "Netflix intends to grow its live event capabilities globally in the coming years.",
+      "categorizations": [
+        "strategic_direction_claim"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "heavily_hedged",
+      "override_window": "long-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NFLX-FY2025Q1-022",
+      "turn_index": 41,
+      "speaker_id": "ted-sarandos",
+      "verbatim_quote": "In 2024, nine out of the top 10 most-streamed movies were animated features.",
+      "claim": "Nine of the top 10 most-streamed movies in 2024 were animated features.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NFLX-FY2025Q1-023",
+      "turn_index": 42,
+      "speaker_id": "ted-sarandos",
+      "verbatim_quote": "We get to that now through output deals with Universal Illumination and with Sony.",
+      "claim": "Netflix has output deals with Universal Illumination and Sony for animation.",
+      "categorizations": [
+        "strategic_direction_claim"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NFLX-FY2025Q1-024",
+      "turn_index": 42,
+      "speaker_id": "ted-sarandos",
+      "verbatim_quote": "they're working really hard on a very promising slate of exclusive originals they're going to roll out through 2027",
+      "claim": "Netflix's animation team is rolling out a slate of exclusive originals through 2027.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NFLX-FY2025Q1-025",
+      "turn_index": 42,
+      "speaker_id": "ted-sarandos",
+      "verbatim_quote": "including one called In Your Dreams coming out in Q4",
+      "claim": "Netflix will release the animated film \"In Your Dreams\" in Q4 2025.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NFLX-FY2025Q1-026",
+      "turn_index": 44,
+      "speaker_id": "greg-peters",
+      "verbatim_quote": "the biggest opportunity we've got is actually going after the roughly 80% share of TV time that neither Netflix nor YouTube have today.",
+      "claim": "Netflix identifies the roughly 80% of TV time not held by Netflix or YouTube as its biggest opportunity.",
+      "categorizations": [
+        "competitive_or_market_position_claim"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "long-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NFLX-FY2025Q1-027",
+      "turn_index": 46,
+      "speaker_id": "ted-sarandos",
+      "verbatim_quote": "Look at folks like Ms. Rachel. She's been in the top 10 every week since she launched on Netflix.",
+      "claim": "Ms. Rachel has been in the top 10 most-watched titles every week since launching on Netflix.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NFLX-FY2025Q1-028",
+      "turn_index": 46,
+      "speaker_id": "ted-sarandos",
+      "verbatim_quote": "We just launched Pop the Balloon.",
+      "claim": "Netflix has launched the show \"Pop the Balloon\".",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NFLX-FY2025Q1-029",
+      "turn_index": 50,
+      "speaker_id": "ted-sarandos",
+      "verbatim_quote": "Rodrigo's directing his first feature film for us, Pedro PÃ¡ramo in Mexico.",
+      "claim": "Netflix is producing Rodrigo Prieto's first feature film, \"Pedro Páramo\", in Mexico.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NFLX-FY2025Q1-030",
+      "turn_index": 53,
+      "speaker_id": "greg-peters",
+      "verbatim_quote": "even our most popular, most buzzy titles... still drive less than 1% of viewing.",
+      "claim": "Even Netflix's most popular titles drive less than 1% of total viewing.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NFLX-FY2025Q1-031",
+      "turn_index": 54,
+      "speaker_id": "greg-peters",
+      "verbatim_quote": "We plan on rolling that out later this year.",
+      "claim": "Netflix plans to roll out its new, simpler TV homepage later in 2025.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NFLX-FY2025Q1-032",
+      "turn_index": 54,
+      "speaker_id": "greg-peters",
+      "verbatim_quote": "We're also building out new capabilities. An example would be interactive search that's based on generative technologies.",
+      "claim": "Netflix is building interactive search capabilities based on generative technologies.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NFLX-FY2025Q1-033",
+      "turn_index": 56,
+      "speaker_id": "greg-peters",
+      "verbatim_quote": "extra member is not a major driver for our business, and we expect it will remain relatively small in the foreseeable future.",
+      "claim": "Netflix expects the extra member feature to remain a relatively small part of the business.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "long-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NFLX-FY2025Q1-034",
+      "turn_index": 60,
+      "speaker_id": "greg-peters",
+      "verbatim_quote": "We will have an update for that game with the latest season of Squid Game that's coming.",
+      "claim": "Netflix will release an update for the Squid Game Unleashed game coinciding with the latest season of Squid Game.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NFLX-FY2025Q1-035",
+      "turn_index": 61,
+      "speaker_id": "greg-peters",
+      "verbatim_quote": "We just announced Peppa Pig, Peppa Pig Game, which is coming soon.",
+      "claim": "Netflix has announced the Peppa Pig Game, which is coming soon.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NFLX-FY2025Q1-036",
+      "turn_index": 63,
+      "speaker_id": "greg-peters",
+      "verbatim_quote": "The long-term opportunity is large. It's about $140 billion in consumer spend ex-China, ex-Russia, not including ad revenue.",
+      "claim": "The long-term consumer spend opportunity for gaming is approximately $140 billion ex-China and ex-Russia.",
+      "categorizations": [
+        "competitive_or_market_position_claim"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "long-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NFLX-FY2025Q1-037",
+      "turn_index": 66,
+      "speaker_id": "ted-sarandos",
+      "verbatim_quote": "our UCAN revenue growth was 9% year-over-year in Q1.",
+      "claim": "Netflix's UCAN revenue growth was 9% year-over-year in Q1 2025.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NFLX-FY2025Q1-038",
+      "turn_index": 66,
+      "speaker_id": "ted-sarandos",
+      "verbatim_quote": "Think of it as we plan to re-accelerate again in Q2",
+      "claim": "Netflix plans for UCAN revenue growth to re-accelerate in Q2 2025.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NFLX-FY2025Q1-039",
+      "turn_index": 67,
+      "speaker_id": "spencer-wang",
+      "verbatim_quote": "you've been guiding to $8 billion of free cash flow in 2025",
+      "claim": "Netflix is guiding to $8 billion of free cash flow in 2025.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NFLX-FY2025Q1-040",
+      "turn_index": 68,
+      "speaker_id": "ted-sarandos",
+      "verbatim_quote": "we would expect that our growing free cash flow will be redeployed to share repurchase.",
+      "claim": "Netflix expects to redeploy growing free cash flow to share repurchases in the absence of meaningful M&A.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NFLX-FY2025Q1-041",
+      "turn_index": 68,
+      "speaker_id": "ted-sarandos",
+      "verbatim_quote": "We return excess cash to shareholders through share repurchase beyond, you know, several billion dollars of minimum cash that we keep on the balance sheet.",
+      "claim": "Netflix maintains several billion dollars of minimum cash on the balance sheet before returning excess cash via buybacks.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NFLX-FY2025Q1-042",
+      "turn_index": 69,
+      "speaker_id": "spencer-wang",
+      "verbatim_quote": "Tim Haley for, after more than 27 years on our board of directors, he has elected to not stand for reelection.",
+      "claim": "Tim Haley has elected not to stand for reelection to the Netflix board after more than 27 years.",
+      "categorizations": [
+        "strategic_direction_claim"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "validated"
+      }
+    }
+  ]
 }

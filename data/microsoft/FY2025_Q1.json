@@ -839,5 +839,1141 @@
       "text": "Thank you. This concludes today's conference. You may disconnect your lines at this time. Enjoy the rest of your day."
     }
   ],
-  "statements": []
+  "statements": [
+    {
+      "id": "MSFT-FY2025Q1-001",
+      "turn_index": 5,
+      "speaker_id": "satya-nadella",
+      "verbatim_quote": "All up, our AI business is on track to surpass an annual revenue run rate of $10 billion next quarter, which will make it the fastest business in our history to reach this milestone.",
+      "claim": "Microsoft's AI business is expected to exceed an annual revenue run rate of $10 billion in Q2 FY2025.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "MSFT-FY2025Q1-002",
+      "turn_index": 5,
+      "speaker_id": "satya-nadella",
+      "verbatim_quote": "Azure Arc now has over 39,000 customers across every industry... up more than 80% year over year.",
+      "claim": "Azure Arc customer count exceeded 39,000 in Q1 FY2025, representing over 80% year-over-year growth.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2025Q1-003",
+      "turn_index": 6,
+      "speaker_id": "satya-nadella",
+      "verbatim_quote": "We now have data centers in over 60 regions around the world",
+      "claim": "Microsoft operated data centers in more than 60 global regions as of Q1 FY2025.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2025Q1-004",
+      "turn_index": 6,
+      "speaker_id": "satya-nadella",
+      "verbatim_quote": "this quarter, we announced new cloud and AI infrastructure investments in Brazil, Italy, Mexico, and Sweden",
+      "claim": "Microsoft announced new cloud and AI infrastructure investments in Brazil, Italy, Mexico, and Sweden during Q1 FY2025.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2025Q1-005",
+      "turn_index": 6,
+      "speaker_id": "satya-nadella",
+      "verbatim_quote": "we are the first cloud to bring up NVIDIA's Blackwell system with GB200-powered AI servers.",
+      "claim": "Microsoft was the first cloud provider to deploy NVIDIA's Blackwell system with GB200-powered AI servers.",
+      "categorizations": [
+        "competitive_or_market_position_claim"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2025Q1-006",
+      "turn_index": 7,
+      "speaker_id": "satya-nadella",
+      "verbatim_quote": "Azure OpenAI usage more than doubled over the past six months",
+      "claim": "Azure OpenAI usage increased by more than 100% over the six months preceding Q1 FY2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2025Q1-007",
+      "turn_index": 8,
+      "speaker_id": "satya-nadella",
+      "verbatim_quote": "We now have over 16,000 paid Fabric customers, over 70% of the Fortune 500.",
+      "claim": "Microsoft had over 16,000 paid Microsoft Fabric customers, representing over 70% of the Fortune 500, as of Q1 FY2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2025Q1-008",
+      "turn_index": 9,
+      "speaker_id": "satya-nadella",
+      "verbatim_quote": "Copilot Enterprise customers increased 55% quarter over quarter",
+      "claim": "GitHub Copilot Enterprise customers grew by 55% quarter-over-quarter in Q1 FY2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2025Q1-009",
+      "turn_index": 10,
+      "speaker_id": "satya-nadella",
+      "verbatim_quote": "To date, nearly 600,000 organizations have used AI-powered capabilities in Power Platform, up 4X year over year.",
+      "claim": "Nearly 600,000 organizations used AI-powered capabilities in Power Platform as of Q1 FY2025, a 4x year-over-year increase.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2025Q1-010",
+      "turn_index": 11,
+      "speaker_id": "satya-nadella",
+      "verbatim_quote": "the number of people using Microsoft 365 daily more than doubled quarter over quarter.",
+      "claim": "Daily active users of Microsoft 365 more than doubled quarter-over-quarter in Q1 FY2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2025Q1-011",
+      "turn_index": 11,
+      "speaker_id": "satya-nadella",
+      "verbatim_quote": "nearly 70% of the Fortune 500 now use Microsoft 365 Copilot",
+      "claim": "Nearly 70% of the Fortune 500 companies use Microsoft 365 Copilot as of Q1 FY2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2025Q1-012",
+      "turn_index": 12,
+      "speaker_id": "satya-nadella",
+      "verbatim_quote": "More than 100,000 organizations... have used Copilot Studio to date, up over 2X quarter over quarter.",
+      "claim": "Over 100,000 organizations used Copilot Studio as of Q1 FY2025, representing over 2x quarter-over-quarter growth.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2025Q1-013",
+      "turn_index": 12,
+      "speaker_id": "satya-nadella",
+      "verbatim_quote": "monthly active users of Copilot across our CRM and ERP portfolio increased over 60% quarter over quarter.",
+      "claim": "Monthly active users of Copilot in Dynamics 365 (CRM/ERP) increased over 60% quarter-over-quarter in Q1 FY2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2025Q1-014",
+      "turn_index": 13,
+      "speaker_id": "satya-nadella",
+      "verbatim_quote": "DAX Copilot is now documenting over 1.3 million physician-patient encounters each month at over 500 healthcare organizations",
+      "claim": "DAX Copilot documented over 1.3 million physician-patient encounters monthly at over 500 healthcare organizations as of Q1 FY2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2025Q1-015",
+      "turn_index": 14,
+      "speaker_id": "satya-nadella",
+      "verbatim_quote": "Nearly 75% of our Teams enterprise customers now buy premium phone or rooms.",
+      "claim": "Nearly 75% of Microsoft Teams enterprise customers purchased premium phone or rooms licenses as of Q1 FY2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2025Q1-016",
+      "turn_index": 15,
+      "speaker_id": "satya-nadella",
+      "verbatim_quote": "we have dedicated the equivalent of 34,000 full-time engineers to address the highest priority security tasks.",
+      "claim": "Microsoft dedicated the equivalent of 34,000 full-time engineers to security tasks as part of the Secure Future Initiative.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2025Q1-017",
+      "turn_index": 15,
+      "speaker_id": "satya-nadella",
+      "verbatim_quote": "Customers have used Defender to discover and secure more than 750,000 GenAI app instances",
+      "claim": "Customers used Microsoft Defender to discover and secure more than 750,000 GenAI app instances as of Q1 FY2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2025Q1-018",
+      "turn_index": 16,
+      "speaker_id": "satya-nadella",
+      "verbatim_quote": "Weekly immersive video views increase 6X quarter over quarter, and total video viewership on LinkedIn is up 36% year over year.",
+      "claim": "LinkedIn weekly immersive video views increased 6x quarter-over-quarter, and total video viewership rose 36% year-over-year in Q1 FY2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2025Q1-019",
+      "turn_index": 18,
+      "speaker_id": "satya-nadella",
+      "verbatim_quote": "Game Pass also set a new Q1 record for total revenue and average revenue per subscriber.",
+      "claim": "Game Pass achieved record Q1 FY2025 total revenue and average revenue per subscriber.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2025Q1-020",
+      "turn_index": 19,
+      "speaker_id": "satya-nadella",
+      "verbatim_quote": "Last week's launch of Black Ops 6 was the biggest Call of Duty release ever, setting a record for day one players as well as Game Pass subscriber adds on launch day.",
+      "claim": "The launch of Call of Duty: Black Ops 6 set records for day-one players and Game Pass subscriber adds.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2025Q1-021",
+      "turn_index": 19,
+      "speaker_id": "satya-nadella",
+      "verbatim_quote": "Unit sales on PlayStation and Steam were also up over 60% year over year.",
+      "claim": "Call of Duty: Black Ops 6 unit sales on PlayStation and Steam increased over 60% year-over-year.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2025Q1-022",
+      "turn_index": 20,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "This quarter, revenue was $65.6 billion, up 16%, and earnings per share was $3.30, an increase of 10%.",
+      "claim": "Microsoft reported Q1 FY2025 revenue of $65.6 billion (up 16%) and EPS of $3.30 (up 10%).",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2025Q1-023",
+      "turn_index": 20,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "Commercial bookings were ahead of expectations and increased 30% and 23% in constant currency.",
+      "claim": "Commercial bookings increased 30% (reported) and 23% (constant currency) in Q1 FY2025.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2025Q1-024",
+      "turn_index": 20,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "Commercial remaining performance obligation increased 22% and 21% in constant currency to $259 billion.",
+      "claim": "Commercial remaining performance obligation reached $259 billion, up 22% (reported) and 21% (constant currency) in Q1 FY2025.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2025Q1-025",
+      "turn_index": 21,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "Roughly 40% will be recognized in revenue in the next 12 months, up 17% year over year.",
+      "claim": "Roughly 40% of the commercial remaining performance obligation will be recognized in revenue in the next 12 months, up 17% year-over-year.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "MSFT-FY2025Q1-026",
+      "turn_index": 21,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "Activision contributed a net impact of approximately three points to revenue growth, was a two-point drag on operating income growth, and had a negative 5% impact to earnings per share.",
+      "claim": "Activision contributed ~3 points to revenue growth, dragged operating income growth by 2 points, and impacted EPS by -5% in Q1 FY2025.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2025Q1-027",
+      "turn_index": 22,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "Microsoft Cloud revenue was $38.9 billion and grew 22%... Microsoft Cloud gross margin percentage decreased 2.0% year over year to 71%.",
+      "claim": "Microsoft Cloud revenue was $38.9 billion (up 22%) with a gross margin of 71% (down 2.0% YoY) in Q1 FY2025.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2025Q1-028",
+      "turn_index": 22,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "Company gross margin dollars increased 13% and 14% in constant currency, and gross margin percentage was 69%, down 2.0% year over year",
+      "claim": "Company gross margin dollars increased 13-14% (CC), and gross margin percentage was 69% (down 2.0% YoY) in Q1 FY2025.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2025Q1-029",
+      "turn_index": 23,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "Operating income increased 14%, and operating margins were 47%, down 1.0% year over year.",
+      "claim": "Operating income increased 14% and operating margins were 47% (down 1.0% YoY) in Q1 FY2025.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2025Q1-030",
+      "turn_index": 23,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "Revenue from productivity and business processes was $28.3 billion and grew 12% and 13% in constant currency",
+      "claim": "Productivity and Business Processes revenue was $28.3 billion, up 12% (reported) and 13% (CC) in Q1 FY2025.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2025Q1-031",
+      "turn_index": 24,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "M365 commercial cloud revenue increased 15% and 16% in constant currency... Paid M365 commercial seats grew 8% year over year",
+      "claim": "M365 commercial cloud revenue increased 15-16% (CC) and paid seats grew 8% YoY in Q1 FY2025.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2025Q1-032",
+      "turn_index": 25,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "M365 consumer subscriptions, which grew 10% to 84.4 million.",
+      "claim": "M365 consumer subscriptions grew 10% to 84.4 million in Q1 FY2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2025Q1-033",
+      "turn_index": 25,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "LinkedIn revenue increased 10% and 9% in constant currency... Dynamics revenue grew 14%, driven by Dynamics 365, which grew 18% and 19% in constant currency",
+      "claim": "LinkedIn revenue increased 10% (reported)/9% (CC) and Dynamics 365 revenue grew 18-19% (CC) in Q1 FY2025.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2025Q1-034",
+      "turn_index": 26,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "Revenue was $24.1 billion, increasing 20% and 21% in constant currency... Azure and other cloud services revenue grew 33% and 34% in constant currency",
+      "claim": "Intelligent Cloud revenue was $24.1 billion (up 20-21% CC) and Azure revenue grew 33-34% (CC) in Q1 FY2025.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2025Q1-035",
+      "turn_index": 27,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "Revenue was $13.2 billion, increasing 17%... Search and news advertising revenue ex-TAC increased 18% and 19% in constant currency... gaming, revenue increased 43% and 44% in constant currency",
+      "claim": "More Personal Computing revenue was $13.2 billion (up 17%), Search ex-TAC up 18-19% (CC), and Gaming up 43-44% (CC) in Q1 FY2025.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2025Q1-036",
+      "turn_index": 29,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "Capital expenditures, including finance leases, were $20 billion... cash paid for PP&E was $14.9 billion.",
+      "claim": "Capital expenditures were $20 billion and cash paid for PP&E was $14.9 billion in Q1 FY2025.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2025Q1-037",
+      "turn_index": 30,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "Cash flow from operations was $34.2 billion, up 12%... Free cash flow was $19.3 billion, down 7% year over year",
+      "claim": "Cash flow from operations was $34.2 billion (up 12%) and free cash flow was $19.3 billion (down 7% YoY) in Q1 FY2025.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2025Q1-038",
+      "turn_index": 30,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "we returned $9 billion to shareholders through dividends and share repurchases.",
+      "claim": "Microsoft returned $9 billion to shareholders via dividends and share repurchases in Q1 FY2025.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2025Q1-039",
+      "turn_index": 31,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "we expect FX to increase total revenue and segment-level revenue growth by less than one point.",
+      "claim": "Microsoft expects FX to increase total and segment revenue growth by less than one point in Q2 FY2025.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "MSFT-FY2025Q1-040",
+      "turn_index": 31,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "Microsoft Cloud gross margin percentage should be roughly 70%, down year over year",
+      "claim": "Microsoft Cloud gross margin percentage is expected to be roughly 70% in Q2 FY2025.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "MSFT-FY2025Q1-041",
+      "turn_index": 31,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "We expect CapEx to increase on a sequential basis, given our cloud and AI demand signals.",
+      "claim": "Microsoft expects capital expenditures to increase sequentially in Q2 FY2025.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "MSFT-FY2025Q1-042",
+      "turn_index": 32,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "we expect revenue in productivity and business processes to grow between 10%-11% in constant currency or $28.7 billion-$29 billion.",
+      "claim": "Productivity and Business Processes revenue is expected to grow 10-11% (CC) or $28.7-$29 billion in Q2 FY2025.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "MSFT-FY2025Q1-043",
+      "turn_index": 32,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "M365 commercial cloud revenue growth should be approximately 14% in constant currency",
+      "claim": "M365 commercial cloud revenue growth is expected to be approximately 14% (CC) in Q2 FY2025.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "MSFT-FY2025Q1-044",
+      "turn_index": 33,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "For LinkedIn, we expect revenue growth of approximately 10%... In Dynamics 365, we expect revenue growth to be in the mid to high teens",
+      "claim": "LinkedIn revenue growth is expected to be ~10% and Dynamics 365 growth mid-to-high teens in Q2 FY2025.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "MSFT-FY2025Q1-045",
+      "turn_index": 34,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "we expect revenue and intelligent cloud to grow between 18% and 20% in constant currency or $25.55-$25.85 billion.",
+      "claim": "Intelligent Cloud revenue is expected to grow 18-20% (CC) or $25.55-$25.85 billion in Q2 FY2025.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "MSFT-FY2025Q1-046",
+      "turn_index": 34,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "In Azure, we expect Q2 revenue growth to be 31%-32% in constant currency",
+      "claim": "Azure revenue growth is expected to be 31-32% (CC) in Q2 FY2025.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "MSFT-FY2025Q1-047",
+      "turn_index": 34,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "we expect to add more sequential dollars to Azure than any other quarter in history.",
+      "claim": "Microsoft expects to add more sequential dollar revenue to Azure in Q2 FY2025 than any previous quarter.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "MSFT-FY2025Q1-048",
+      "turn_index": 35,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "In H2, we still expect Azure growth to accelerate from H1",
+      "claim": "Microsoft expects Azure growth to accelerate in H2 FY2025 compared to H1.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "MSFT-FY2025Q1-049",
+      "turn_index": 35,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "We expect revenue in More Personal Computing to be $13.85 billion-$14.25 billion.",
+      "claim": "More Personal Computing revenue is expected to be $13.85-$14.25 billion in Q2 FY2025.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "MSFT-FY2025Q1-050",
+      "turn_index": 36,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "Search and news advertising ex-TAC revenue growth should be in the high teens... gaming, we expect revenue to decline in the high single digits due to hardware.",
+      "claim": "Search ex-TAC revenue growth is expected to be in the high teens and gaming revenue to decline in the high single digits in Q2 FY2025.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "MSFT-FY2025Q1-051",
+      "turn_index": 37,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "We expect COGS to grow between 11% and 13% in constant currency or to be between $21.9-$22.1 billion, and operating expense to grow approximately 7% in constant currency or to be between $16.4-$16.5 billion.",
+      "claim": "COGS is expected to grow 11-13% (CC) or $21.9-$22.1 billion, and OpEx to grow ~7% (CC) or $16.4-$16.5 billion in Q2 FY2025.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "MSFT-FY2025Q1-052",
+      "turn_index": 37,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "This should result in another quarter of operating margin expansion.",
+      "claim": "Microsoft expects operating margin expansion in Q2 FY2025.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "MSFT-FY2025Q1-053",
+      "turn_index": 38,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "Other income and expense is expected to be roughly negative $1.5 billion, primarily driven by our share of the expected loss from OpenAI",
+      "claim": "Other income/expense is expected to be roughly -$1.5 billion in Q2 FY2025, driven by OpenAI losses.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "MSFT-FY2025Q1-054",
+      "turn_index": 38,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "we expect our Q2 effective tax rate to be approximately 19%.",
+      "claim": "Microsoft expects an effective tax rate of approximately 19% in Q2 FY2025.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    }
+  ]
 }

@@ -746,5 +746,1035 @@
       "text": "This concludes today's conference call. Thank you for your participation, and you may now disconnect."
     }
   ],
-  "statements": []
+  "statements": [
+    {
+      "id": "META-FY2024Q2-001",
+      "turn_index": 3,
+      "speaker_id": "mark-zuckerberg",
+      "verbatim_quote": "We estimate that there are now more than 3.2 billion people using at least one of our apps each day.",
+      "claim": "Meta estimates daily active users across its apps exceeded 3.2 billion in Q2 2024.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2024Q2-002",
+      "turn_index": 3,
+      "speaker_id": "mark-zuckerberg",
+      "verbatim_quote": "WhatsApp now serves more than 100 million monthly actives in the U.S.",
+      "claim": "WhatsApp monthly active users in the U.S. exceeded 100 million in Q2 2024.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2024Q2-003",
+      "turn_index": 4,
+      "speaker_id": "mark-zuckerberg",
+      "verbatim_quote": "Threads, which is about to hit 200 million monthly actives.",
+      "claim": "Threads monthly active users were approaching 200 million in Q2 2024.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2024Q2-004",
+      "turn_index": 7,
+      "speaker_id": "mark-zuckerberg",
+      "verbatim_quote": "it is on track to achieve our goal of becoming the most used AI assistant by the end of the year.",
+      "claim": "Meta AI is on track to become the most used AI assistant by the end of 2024.",
+      "categorizations": [
+        "competitive_or_market_position_claim"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "META-FY2024Q2-005",
+      "turn_index": 10,
+      "speaker_id": "mark-zuckerberg",
+      "verbatim_quote": "this quarter, we released Llama 3.1, which includes the first frontier-level open-source model",
+      "claim": "Meta released Llama 3.1, described as the first frontier-level open-source model, in Q2 2024.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2024Q2-006",
+      "turn_index": 13,
+      "speaker_id": "mark-zuckerberg",
+      "verbatim_quote": "we're already starting to work on Llama 4, which we're aiming to be the most advanced in the industry next year.",
+      "claim": "Meta aims for Llama 4 to be the most advanced model in the industry in 2025.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "META-FY2024Q2-007",
+      "turn_index": 13,
+      "speaker_id": "mark-zuckerberg",
+      "verbatim_quote": "The amount of compute needed to train Llama 4 will likely be almost 10x more than what we used to train Llama 3",
+      "claim": "Training Llama 4 will require approximately 10 times the compute used for Llama 3.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "META-FY2024Q2-008",
+      "turn_index": 18,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "Q2 total revenue was $39.1 billion, up 22% or 23% on a constant currency basis.",
+      "claim": "Q2 2024 total revenue was $39.1 billion, representing 22% YoY growth (23% constant currency).",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2024Q2-009",
+      "turn_index": 18,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "Q2 total expenses were $24.2 billion, up 7% compared to last year.",
+      "claim": "Q2 2024 total expenses were $24.2 billion, up 7% YoY.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2024Q2-010",
+      "turn_index": 18,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "Second quarter operating income was $14.8 billion, representing a 38% operating margin.",
+      "claim": "Q2 2024 operating income was $14.8 billion, with a 38% operating margin.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2024Q2-011",
+      "turn_index": 18,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "Net income was $13.5 billion, or $5.16 per share.",
+      "claim": "Q2 2024 net income was $13.5 billion ($5.16 per share).",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2024Q2-012",
+      "turn_index": 19,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "Capital expenditures, including principal payments on financed leases, were $8.5 billion",
+      "claim": "Q2 2024 capital expenditures were $8.5 billion.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2024Q2-013",
+      "turn_index": 19,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "Free cash flow was $10.9 billion.",
+      "claim": "Q2 2024 free cash flow was $10.9 billion.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2024Q2-014",
+      "turn_index": 19,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "We repurchased $6.3 billion of our Class A common stock and paid $1.3 billion in dividends to shareholders",
+      "claim": "Meta repurchased $6.3 billion in stock and paid $1.3 billion in dividends in Q2 2024.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2024Q2-015",
+      "turn_index": 19,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "ending the quarter with $58.1 billion in cash and marketable securities and $18.4 billion in debt.",
+      "claim": "Meta ended Q2 2024 with $58.1 billion in cash/securities and $18.4 billion in debt.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2024Q2-016",
+      "turn_index": 19,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "approximately 3.27 billion people using at least one of our Family of Apps on a daily basis in June.",
+      "claim": "Family of Apps daily active users were approximately 3.27 billion in June 2024.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2024Q2-017",
+      "turn_index": 19,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "Q2 total Family of Apps revenue was $38.7 billion, up 22% year-over-year.",
+      "claim": "Q2 2024 Family of Apps revenue was $38.7 billion, up 22% YoY.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2024Q2-018",
+      "turn_index": 20,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "ad revenue growth was strongest in Rest of World and Europe at 33% and 26%, respectively. Asia-Pacific grew 20%, and North America grew 17%.",
+      "claim": "Q2 2024 ad revenue growth by geography: Rest of World 33%, Europe 26%, Asia-Pacific 20%, North America 17%.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2024Q2-019",
+      "turn_index": 20,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "In Q2, the total number of ad impressions served across our services and the average price per ad both increased 10%.",
+      "claim": "Q2 2024 ad impressions and average price per ad both increased 10%.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2024Q2-020",
+      "turn_index": 21,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "Family of Apps other revenue was $389 million, up 73%",
+      "claim": "Q2 2024 Family of Apps other revenue was $389 million, up 73% YoY.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2024Q2-021",
+      "turn_index": 21,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "Family of Apps operating income was $19.3 billion, representing a 50% operating margin.",
+      "claim": "Q2 2024 Family of Apps operating income was $19.3 billion (50% margin).",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2024Q2-022",
+      "turn_index": 21,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "Within our Reality Labs segment, Q2 was $353 million, up 28%",
+      "claim": "Q2 2024 Reality Labs revenue was $353 million, up 28% YoY.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2024Q2-023",
+      "turn_index": 21,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "Reality Labs operating loss was $4.5 billion.",
+      "claim": "Q2 2024 Reality Labs operating loss was $4.5 billion.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2024Q2-024",
+      "turn_index": 22,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "Now, more than half of recommendations in the U.S. come from original posts.",
+      "claim": "More than 50% of Instagram recommendations in the U.S. come from original posts in Q2 2024.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2024Q2-025",
+      "turn_index": 23,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "People have used Meta AI for billions of queries since we first introduced it.",
+      "claim": "Meta AI has processed billions of queries since its introduction.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2024Q2-026",
+      "turn_index": 23,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "You can now use Meta AI in over 20 countries and 8 languages",
+      "claim": "Meta AI was available in over 20 countries and 8 languages in Q2 2024.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2024Q2-027",
+      "turn_index": 26,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "a study conducted this year demonstrating 22% higher return on ad spend for U.S. advertisers after they adopted Advantage+ shopping campaigns.",
+      "claim": "A study showed 22% higher ROAS for U.S. advertisers using Advantage+ shopping campaigns.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2024Q2-028",
+      "turn_index": 28,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "more than 1 million advertisers using at least one of these solutions in the past month.",
+      "claim": "Over 1 million advertisers used generative AI ad features in the month prior to Q2 2024.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2024Q2-029",
+      "turn_index": 31,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "we expect third quarter 2024 total revenue to be in the range of $38.5 billion-$41 billion.",
+      "claim": "Q3 2024 total revenue is guided to be between $38.5 billion and $41 billion.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "META-FY2024Q2-030",
+      "turn_index": 31,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "Our guidance assumes foreign currency is a 2% headwind to year-over-year total revenue growth based on current exchange rates.",
+      "claim": "Q3 2024 revenue guidance assumes a 2% FX headwind.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "META-FY2024Q2-031",
+      "turn_index": 31,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "we expect full year 2024 total expenses to be in the range of $96 billion-$99 billion.",
+      "claim": "Full year 2024 total expenses are guided to be between $96 billion and $99 billion.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "META-FY2024Q2-032",
+      "turn_index": 32,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "we anticipate our full year 2024 capital expenditures will be in the range of $37 billion-$40 billion",
+      "claim": "Full year 2024 capital expenditures are guided to be between $37 billion and $40 billion.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "META-FY2024Q2-033",
+      "turn_index": 32,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "we currently expect significant CapEx growth in 2025",
+      "claim": "Meta expects significant capital expenditure growth in 2025.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "META-FY2024Q2-034",
+      "turn_index": 32,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "we expect our full year 2024 tax rate to be in the mid-teens.",
+      "claim": "Full year 2024 tax rate is expected to be in the mid-teens.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "META-FY2024Q2-035",
+      "turn_index": 39,
+      "speaker_id": "mark-zuckerberg",
+      "verbatim_quote": "I think we are on track to achieve our goal of being the most used AI assistant by the end of this year.",
+      "claim": "Meta AI is on track to be the most used AI assistant by the end of 2024.",
+      "categorizations": [
+        "competitive_or_market_position_claim"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "META-FY2024Q2-036",
+      "turn_index": 42,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "We don't expect our GenAI products to be a meaningful driver of revenue in 2024",
+      "claim": "Generative AI products are not expected to be a meaningful revenue driver in 2024.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "META-FY2024Q2-037",
+      "turn_index": 43,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "While we do expect that we are going to grow CapEx significantly in 2025",
+      "claim": "Meta expects significant capital expenditure growth in 2025.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "META-FY2024Q2-038",
+      "turn_index": 47,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "We do expect year-over-year growth to slow in Q3 as we are lapping strong growth from China-based advertisers as well as strong Reels impression growth from a year ago.",
+      "claim": "Q3 2024 YoY revenue growth is expected to slow due to tough comps from China advertisers and Reels impressions.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "META-FY2024Q2-039",
+      "turn_index": 47,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "We also expect modestly larger FX headwinds in Q3 based on current rates.",
+      "claim": "Q3 2024 is expected to have modestly larger FX headwinds than Q2.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "META-FY2024Q2-040",
+      "turn_index": 54,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "We really expect that video is going to remain a source of impression growth for us in the second half.",
+      "claim": "Video is expected to remain a source of impression growth in H2 2024.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "META-FY2024Q2-041",
+      "turn_index": 54,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "On Instagram, we expect Reels to continue to drive growth",
+      "claim": "Instagram Reels is expected to continue driving growth in H2 2024.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "META-FY2024Q2-042",
+      "turn_index": 54,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "on Facebook, we expect to grow overall video time while increasing the mix of short-form video",
+      "claim": "Facebook is expected to grow overall video time and increase the mix of short-form video in H2 2024.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "META-FY2024Q2-043",
+      "turn_index": 63,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "We've seen healthy growth in young adult app usage in the U.S. and Canada for the past several quarters.",
+      "claim": "Young adult app usage in the U.S. and Canada has grown healthily over the past several quarters.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2024Q2-044",
+      "turn_index": 63,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "Posting to Groups in the U.S. and Canada has been growing. That's been boosted mainly by young adults.",
+      "claim": "Posting to Groups in the U.S. and Canada has been growing, driven mainly by young adults.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2024Q2-045",
+      "turn_index": 67,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "Shops ads revenue is growing at a strong year-over-year pace.",
+      "claim": "Shops ads revenue is growing at a strong YoY pace.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2024Q2-046",
+      "turn_index": 68,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "I do expect that we will end 2024 with in-seat reported headcount that is meaningfully higher than where we ended 2023.",
+      "claim": "Meta expects to end 2024 with headcount meaningfully higher than the end of 2023.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "META-FY2024Q2-047",
+      "turn_index": 73,
+      "speaker_id": "mark-zuckerberg",
+      "verbatim_quote": "We are now on the second generation of the Ray-Ban Meta glasses.",
+      "claim": "Meta is currently on the second generation of Ray-Ban Meta glasses.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2024Q2-048",
+      "turn_index": 85,
+      "speaker_id": "ross-sandler",
+      "verbatim_quote": "You guys said that Llama 3, the 3.1, was trained on 16,000 H100s.",
+      "claim": "Llama 3.1 was trained on 16,000 H100 GPUs.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2024Q2-049",
+      "turn_index": 85,
+      "speaker_id": "ross-sandler",
+      "verbatim_quote": "You've also said that you're going to have 600,000 available by year-end.",
+      "claim": "Meta expects to have 600,000 GPUs available by the end of 2024.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    }
+  ]
 }

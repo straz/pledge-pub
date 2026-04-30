@@ -727,5 +727,1060 @@
       "text": "Thank you all."
     }
   ],
-  "statements": []
+  "statements": [
+    {
+      "id": "MSFT-FY2024Q4-001",
+      "turn_index": 4,
+      "speaker_id": "satya-nadella",
+      "verbatim_quote": "All up, annual revenue was more than $245 billion, up 15% year-over-year, and Microsoft Cloud revenue surpassed $135 billion, up 23%.",
+      "claim": "Microsoft reported FY2024 annual revenue of over $245 billion (up 15% YoY) and Microsoft Cloud revenue of over $135 billion (up 23% YoY).",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2024Q4-002",
+      "turn_index": 5,
+      "speaker_id": "satya-nadella",
+      "verbatim_quote": "We now have 36,000 Arc customers, up 90% year-over-year.",
+      "claim": "Microsoft has 36,000 Azure Arc customers, representing 90% year-over-year growth.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2024Q4-003",
+      "turn_index": 6,
+      "speaker_id": "satya-nadella",
+      "verbatim_quote": "All up, we now have over 60,000 Azure AI customers, up nearly 60% year-over-year, and average spend per customer continues to grow.",
+      "claim": "Microsoft has over 60,000 Azure AI customers, up nearly 60% YoY, with growing average spend per customer.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2024Q4-004",
+      "turn_index": 7,
+      "speaker_id": "satya-nadella",
+      "verbatim_quote": "Microsoft Fabric, our AI-powered next-generation data platform, now has over 14,000 paid customers, including leaders in every industry, from Accenture and Kroger to Rockwell Automation and Zeiss, up 20% quarter-over-quarter.",
+      "claim": "Microsoft Fabric has over 14,000 paid customers, up 20% quarter-over-quarter.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2024Q4-005",
+      "turn_index": 8,
+      "speaker_id": "satya-nadella",
+      "verbatim_quote": "Just over two years since its general availability, more than 77,000 organizations, from BBVA, FedEx, and H&M, to Infosys and Paytm, have adopted Copilot, up 180% year-over-year.",
+      "claim": "More than 77,000 organizations have adopted GitHub Copilot, up 180% year-over-year.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2024Q4-006",
+      "turn_index": 8,
+      "speaker_id": "satya-nadella",
+      "verbatim_quote": "GitHub's annual revenue run rate is now $2 billion. Copilot accounted for over 40% of GitHub revenue growth this year and is already a larger business than all of GitHub was when we acquired it.",
+      "claim": "GitHub's annual revenue run rate is $2 billion, with Copilot accounting for over 40% of revenue growth.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2024Q4-007",
+      "turn_index": 9,
+      "speaker_id": "satya-nadella",
+      "verbatim_quote": "To date, over 480,000 organizations have used AI-powered capabilities in Power Platform, up 45% quarter-over-quarter. In total, we now have 48 million monthly active users of Power Platform, up 40% year-over-year.",
+      "claim": "Over 480,000 organizations have used AI in Power Platform (up 45% QoQ), and there are 48 million monthly active users (up 40% YoY).",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2024Q4-008",
+      "turn_index": 9,
+      "speaker_id": "satya-nadella",
+      "verbatim_quote": "The number of people who use Copilot daily at work nearly doubled quarter-over-quarter as they use it to complete tasks faster, hold more effective meetings, and automate business workflows and processes. Copilot customers increased more than 60% quarter-over-quarter.",
+      "claim": "Daily Copilot users nearly doubled QoQ, and Copilot customers increased more than 60% QoQ.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2024Q4-009",
+      "turn_index": 10,
+      "speaker_id": "satya-nadella",
+      "verbatim_quote": "All up, the number of customers with more than 10,000 seats more than doubled quarter-over-quarter, including Capital Group, Disney, Dow, Kyndryl, Novartis, and EY alone will deploy Copilot to 150,000 of its employees.",
+      "claim": "The number of customers with >10,000 Copilot seats more than doubled QoQ; EY will deploy to 150,000 employees.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "MSFT-FY2024Q4-010",
+      "turn_index": 10,
+      "speaker_id": "satya-nadella",
+      "verbatim_quote": "To date, 50,000 organizations, from Carnival Corporation, Cognizant, and Eaton, to KPMG, Majesco, and McKinsey, have used Copilot Studio, up over 70% quarter-over-quarter.",
+      "claim": "50,000 organizations have used Copilot Studio, up over 70% quarter-over-quarter.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2024Q4-011",
+      "turn_index": 11,
+      "speaker_id": "satya-nadella",
+      "verbatim_quote": "More than 400 healthcare organizations, including Community Health Network, Intermountain Health, Northwestern Memorial HealthCare, and Ohio State University Wexner Medical Center, have purchased DAX Copilot to date, up 40% quarter-over-quarter, and the number of AI-generated clinical reports more than tripled.",
+      "claim": "More than 400 healthcare organizations have purchased DAX Copilot (up 40% QoQ), and AI-generated clinical reports more than tripled.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2024Q4-012",
+      "turn_index": 11,
+      "speaker_id": "satya-nadella",
+      "verbatim_quote": "Dynamics 365 Business Central is now trusted by over 40,000 organizations for core ERP.",
+      "claim": "Dynamics 365 Business Central is used by over 40,000 organizations.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2024Q4-013",
+      "turn_index": 12,
+      "speaker_id": "satya-nadella",
+      "verbatim_quote": "Teams Premium has surpassed 3 million seats, up nearly 400% year-over-year as organizations like Dentsu, Eli Lilly, and Ford chose it for advanced features like end-to-end encryption and real-time translation.",
+      "claim": "Teams Premium has surpassed 3 million seats, up nearly 400% year-over-year.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2024Q4-014",
+      "turn_index": 12,
+      "speaker_id": "satya-nadella",
+      "verbatim_quote": "More broadly, Windows 11 active devices increased 50% year-over-year, and we are seeing accelerated adoption of Windows 11 by companies like Carlsberg, E.ON, National Australia Bank.",
+      "claim": "Windows 11 active devices increased 50% year-over-year.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2024Q4-015",
+      "turn_index": 13,
+      "speaker_id": "satya-nadella",
+      "verbatim_quote": "Over 1,000 paid customers used Copilot for Security, including Alaska Airlines, Oregon State University, Petrofac, Wipro, WTW, and we are also securing customers' AI deployments with updates to Defender and Purview. All up, we now have 1.2 million security customers, over 800,000, including Dell Technologies, Deutsche Telekom, and TomTom use four or more workloads, up 25% year-over-year.",
+      "claim": "Over 1,000 paid customers used Copilot for Security; total security customers reached 1.2 million (up 25% YoY), with over 800,000 using four or more workloads.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2024Q4-016",
+      "turn_index": 13,
+      "speaker_id": "satya-nadella",
+      "verbatim_quote": "And Defender for Cloud, our cloud security solution, surpassed $1 billion in revenue over the past 12 months as we protect customer workloads across multi-cloud and hybrid environments.",
+      "claim": "Defender for Cloud surpassed $1 billion in revenue over the past 12 months.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2024Q4-017",
+      "turn_index": 14,
+      "speaker_id": "satya-nadella",
+      "verbatim_quote": "LinkedIn continues to see accelerated member growth and record engagement. 1.5 million pieces of content are shared every minute on the platform, and video is now the fastest-growing format on LinkedIn, with uploads up 34% year-over-year.",
+      "claim": "LinkedIn sees 1.5 million pieces of content shared per minute, and video uploads are up 34% year-over-year.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2024Q4-018",
+      "turn_index": 14,
+      "speaker_id": "satya-nadella",
+      "verbatim_quote": "When it comes to our subscription businesses, premium sign-ups increased 51% this fiscal year, and we are adding even more value to our members and customers with new AI tools.",
+      "claim": "LinkedIn Premium sign-ups increased 51% in FY2024.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2024Q4-019",
+      "turn_index": 15,
+      "speaker_id": "satya-nadella",
+      "verbatim_quote": "Our overall revenue ex-TAC increased 19% year-over-year, and we again took share across Bing and Edge.",
+      "claim": "Bing and Edge revenue ex-TAC increased 19% year-over-year.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2024Q4-020",
+      "turn_index": 15,
+      "speaker_id": "satya-nadella",
+      "verbatim_quote": "Consumers have used Copilot to create over 12 billion images and conduct 13 billion chats to date, up 150% since the start of the calendar year.",
+      "claim": "Consumers created over 12 billion images and conducted 13 billion chats with Copilot, up 150% since the start of the calendar year.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2024Q4-021",
+      "turn_index": 15,
+      "speaker_id": "satya-nadella",
+      "verbatim_quote": "Thousands of news and entertainment publishers trust us to reach new audiences with Microsoft Start, and in fact, we have paid them $1 billion over the last five years.",
+      "claim": "Microsoft has paid $1 billion to news and entertainment publishers over the last five years.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2024Q4-022",
+      "turn_index": 16,
+      "speaker_id": "satya-nadella",
+      "verbatim_quote": "We now have over 500 million monthly active users across platforms and devices, and our content pipeline has never been stronger. We previewed a record 30 new titles at our showcase this quarter. 18 of them, such as Call of Duty: Black Ops 6, will be available on Game Pass.",
+      "claim": "Microsoft has over 500 million monthly active gaming users; 18 of 30 previewed titles will be on Game Pass.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "MSFT-FY2024Q4-023",
+      "turn_index": 16,
+      "speaker_id": "satya-nadella",
+      "verbatim_quote": "Game Pass Ultimate subscribers can now stream games directly on devices they already have, including, as of last month, Amazon Fire TVs.",
+      "claim": "Game Pass Ultimate streaming is available on Amazon Fire TVs.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2024Q4-024",
+      "turn_index": 17,
+      "speaker_id": "satya-nadella",
+      "verbatim_quote": "Finally, we are bringing our IP to new audiences. Fallout, for example, made its debut as a TV show on Amazon Prime this quarter. It was the second most-watched title on the platform ever, and hours played on Game Pass for the Fallout franchise increased nearly 5x quarter-over-quarter.",
+      "claim": "Fallout TV show debuted on Amazon Prime; Game Pass hours for Fallout franchise increased nearly 5x QoQ.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2024Q4-025",
+      "turn_index": 18,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "This quarter, revenue was $64.7 billion, up 15% and 16% in constant currency. Earnings per share was $2.95 and increased 10% and 11% in constant currency.",
+      "claim": "Q4 FY2024 revenue was $64.7 billion (up 15% YoY), and EPS was $2.95 (up 10% YoY).",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2024Q4-026",
+      "turn_index": 18,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "Commercial bookings were significantly ahead of expectations and increased 17% and 19% in constant currency.",
+      "claim": "Commercial bookings increased 17% YoY (19% constant currency).",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2024Q4-027",
+      "turn_index": 19,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "Commercial remaining performance obligation increased 20% and 21% in constant currency to $269 billion. Roughly 40% will be recognized in revenue in the next 12 months, up 18% year-over-year.",
+      "claim": "Commercial RPO increased to $269 billion (up 20% YoY); 40% to be recognized in next 12 months (up 18% YoY).",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2024Q4-028",
+      "turn_index": 19,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "At a company level, Activision contributed a net impact of approximately 3 points to revenue growth, was a 2-point drag on operating income growth, and had a negative $0.06 impact to earnings per share.",
+      "claim": "Activision contributed ~3 points to revenue growth, dragged operating income by 2 points, and impacted EPS by -$0.06.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2024Q4-029",
+      "turn_index": 20,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "Microsoft Cloud revenue was $36.8 billion and grew 21% and 22% in constant currency, roughly in line with expectations. Microsoft Cloud gross margin percentage decreased roughly 2 points year-over-year to 69%, in line with expectations.",
+      "claim": "Microsoft Cloud revenue was $36.8 billion (up 21% YoY); Cloud gross margin was 69% (down ~2 pts YoY).",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2024Q4-030",
+      "turn_index": 21,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "Company gross margin dollars increased 14% and 15% in constant currency, and gross margin percentage decreased slightly year-over-year to 70%. ... Operating income increased 15% and 16% in constant currency, and operating margins were 43%, relatively unchanged year-over-year.",
+      "claim": "Company gross margin was 70% (slightly down YoY); Operating income increased 15% YoY; Operating margin was 43% (unchanged YoY).",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2024Q4-031",
+      "turn_index": 22,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "Revenue from productivity and business processes was $20.3 billion and grew 11% and 12% in constant currency... Office 365 commercial revenue increased 13% and 14% in constant currency... Paid Office 365 commercial seats grew 7% year-over-year... Microsoft 365 subscriptions, which grew 10% to 82.5 million.",
+      "claim": "Productivity & Business Processes revenue was $20.3B (up 11% YoY); O365 commercial revenue up 13%; M365 subs grew to 82.5M (up 10%).",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2024Q4-032",
+      "turn_index": 23,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "LinkedIn revenue increased 10% and 9% in constant currency... Dynamics revenue grew 16%, driven by Dynamics 365, which grew 19% and 20% in constant currency. Dynamics 365 now represents roughly 90% of total Dynamics revenue.",
+      "claim": "LinkedIn revenue up 10% YoY; Dynamics revenue up 16% (D365 up 19%); D365 is ~90% of Dynamics revenue.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2024Q4-033",
+      "turn_index": 23,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "Revenue was $28.5 billion, increasing 19% and 20% in constant currency... Azure and other cloud services revenue grew 29% and 30% in constant currency... Azure growth included 8 points from AI services...",
+      "claim": "Intelligent Cloud revenue was $28.5B (up 19% YoY); Azure revenue grew 29% YoY, including 8 points from AI.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2024Q4-034",
+      "turn_index": 24,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "In our per-user business, the enterprise mobility and security installed base grew 10% to over 281 million seats... In our on-premises server business, revenue increased 2% and 3% in constant currency.",
+      "claim": "EMS installed base grew to 281M seats (up 10%); On-premises server revenue increased 2% YoY.",
+      "categorizations": [
+        "operational_metric_specific",
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2024Q4-035",
+      "turn_index": 25,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "Revenue was $15.9 billion, increasing 14% and 15% in constant currency, with 12 points of net impact from the Activision acquisition... Windows OEM revenue increased 4% year-over-year... Search and news advertising revenue ex-tax increased 19%... gaming, revenue increased 44% with 48 points of net impact from the Activision acquisition.",
+      "claim": "More Personal Computing revenue was $15.9B (up 14% YoY); Windows OEM up 4%; Search/News ex-tax up 19%; Gaming revenue up 44%.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2024Q4-036",
+      "turn_index": 26,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "Xbox content and services revenue increased 61%, slightly ahead of expectations, with 58 points of net impact from the Activision acquisition... Xbox hardware revenue decreased 42% and 41% in constant currency.",
+      "claim": "Xbox content/services revenue increased 61% YoY; Xbox hardware revenue decreased 42% YoY.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2024Q4-037",
+      "turn_index": 27,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "Capital expenditures, including finance leases, were $19 billion, in line with expectations, and cash paid for PP&E was $13.9 billion. Cloud and AI-related spend represents nearly all of our total capital expenditures.",
+      "claim": "Q4 CapEx was $19 billion; cash paid for PP&E was $13.9 billion.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2024Q4-038",
+      "turn_index": 28,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "Cash flow from operations was $37.2 billion, up 29%... Free cash flow was $23.3 billion, up 18% year-over-year... For the full year, cash flow from operations surpassed $100 billion for the first time, reaching $119 billion.",
+      "claim": "Q4 CFO was $37.2B (up 29%); FCF was $23.3B (up 18%); FY CFO reached $119B.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2024Q4-039",
+      "turn_index": 28,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "And finally, we returned $8.4 billion to shareholders through dividends and share repurchases, bringing our total cash return to shareholders to over $34 billion for the full fiscal year.",
+      "claim": "Q4 shareholder returns were $8.4B; FY total returns were over $34B.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "MSFT-FY2024Q4-040",
+      "turn_index": 29,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "Next, we continue to expect double-digit revenue and operating income growth as we focus on delivering differentiated value for our customers. To meet the growing demand signal for our AI and cloud products, we will scale our infrastructure investments with FY 2025 capital expenditures expected to be higher than FY 2024.",
+      "claim": "Microsoft expects double-digit revenue and operating income growth in FY2025; FY2025 CapEx will be higher than FY2024.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "MSFT-FY2024Q4-041",
+      "turn_index": 30,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "Therefore, we expect FY 2025 OpEx growth to be in the single digits. Given our focused commitment to managing at the operating margin level, we still expect FY 2025 operating margins to be down only about 1 point year-over-year. Finally, we expect our FY 2025 effective tax rate to be around 19%.",
+      "claim": "Microsoft expects FY2025 OpEx growth in single digits; operating margins down ~1 pt YoY; effective tax rate ~19%.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "MSFT-FY2024Q4-042",
+      "turn_index": 31,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "In Productivity and Business Processes, we expect revenue to grow between 10%-11% in constant currency, or $20.3 billion-$20.6 billion... We expect Office 365 revenue growth to be approximately 14% in constant currency.",
+      "claim": "Q1 FY2025 Productivity & Business Processes revenue expected to grow 10-11% CC ($20.3B-$20.6B); O365 revenue growth ~14% CC.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "MSFT-FY2024Q4-043",
+      "turn_index": 31,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "In our on-premises business, we expect revenue to decline in the mid to high teens. In office consumer, we expect revenue growth in the low to mid single digits... For LinkedIn, we expect revenue growth in the high single digits... In Dynamics, we expect revenue growth in the low to mid teens...",
+      "claim": "Q1 FY2025 On-premises revenue expected to decline mid-high teens; Office Consumer low-mid single digits; LinkedIn high single digits; Dynamics low-mid teens.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "MSFT-FY2024Q4-044",
+      "turn_index": 32,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "For intelligent cloud, we expect revenue to grow between 18% and 20% in constant currency, or $28.6 billion-$28.9 billion... In Azure, we expect Q1 revenue growth to be 28%-29% in constant currency.",
+      "claim": "Q1 FY2025 Intelligent Cloud revenue expected to grow 18-20% CC ($28.6B-$28.9B); Azure revenue growth 28-29% CC.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "MSFT-FY2024Q4-045",
+      "turn_index": 33,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "In H2, we expect Azure growth to accelerate as our capital investments create an increase in available AI capacity to serve more of the growing demand.",
+      "claim": "Microsoft expects Azure growth to accelerate in H2 FY2025 due to increased AI capacity.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "MSFT-FY2024Q4-046",
+      "turn_index": 34,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "In More Personal Computing, we expect revenue to grow between 9% and 12% in constant currency, or $14.9 billion-$15.3 billion... Windows OEM revenue growth should be relatively flat... Search and news advertising ex-tax revenue growth should be in the mid to high teens... gaming, we expect revenue growth in the mid-30s...",
+      "claim": "Q1 FY2025 More Personal Computing revenue expected to grow 9-12% CC ($14.9B-$15.3B); Windows OEM flat; Search/News ex-tax mid-high teens; Gaming mid-30s.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "MSFT-FY2024Q4-047",
+      "turn_index": 35,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "We expect COGS between $19.95 billion-$20.15 billion... We expect operating expense of $15.2 billion-$15.3 billion... Other income and expense should be roughly negative $650 million... We expect our Q1 effective tax rate to be approximately 19%.",
+      "claim": "Q1 FY2025 COGS expected $19.95B-$20.15B; OpEx $15.2B-$15.3B; Other income/expense ~-$650M; Tax rate ~19%.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "MSFT-FY2024Q4-048",
+      "turn_index": 31,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "Microsoft Cloud gross margin percentage should be roughly 70%, down year-over-year, driven by the impact of scaling our AI infrastructure.",
+      "claim": "Q1 FY2025 Microsoft Cloud gross margin expected to be roughly 70%, down YoY.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "MSFT-FY2024Q4-049",
+      "turn_index": 31,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "We expect capital expenditures to increase on a sequential basis, given our cloud and AI demand, as well as existing AI capacity constraints.",
+      "claim": "Q1 FY2025 CapEx expected to increase sequentially.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "MSFT-FY2024Q4-050",
+      "turn_index": 70,
+      "speaker_id": "amy-hood",
+      "verbatim_quote": "Capacity constraints, particularly on AI and Azure, will remain in Q4 and will remain in H1.",
+      "claim": "AI and Azure capacity constraints will remain in Q4 FY2024 and H1 FY2025.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    }
+  ]
 }

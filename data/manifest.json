@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T03:58:41.415Z",
+  "generated_at": "2026-04-30T12:03:19.010Z",
   "companies": [
     {
       "id": "alphabet",
@@ -655,11 +655,25 @@
           "period": "FY2025_Q4",
           "title": "Meta Platforms Q4 2025 Earnings Call Transcript",
           "datetime": "2026-01-28T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 49,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "softly_hedged": 16,
+              "unhedged": 33
+            },
+            "by_category": {
+              "capacity_or_capability_delivery": 5,
+              "segment_growth_specific": 2,
+              "operational_metric_specific": 17,
+              "revenue_trajectory_specific": 8,
+              "margin_trajectory_specific": 7,
+              "financial_structure_or_capital_action": 5,
+              "geographic_or_regional_rollout": 5
+            },
+            "by_resolution": {
+              "unresolved": 19,
+              "validated": 30
+            }
           },
           "fiscal_label": "Q4 2025"
         },
@@ -667,11 +681,24 @@
           "period": "FY2025_Q3",
           "title": "Meta Platforms Q3 2025 Earnings Call Transcript",
           "datetime": "2025-10-29T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 48,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "unhedged": 39,
+              "softly_hedged": 9
+            },
+            "by_category": {
+              "operational_metric_specific": 22,
+              "revenue_trajectory_specific": 8,
+              "segment_growth_specific": 2,
+              "margin_trajectory_specific": 7,
+              "financial_structure_or_capital_action": 7,
+              "geographic_or_regional_rollout": 2
+            },
+            "by_resolution": {
+              "validated": 39,
+              "unresolved": 9
+            }
           },
           "fiscal_label": "Q3 2025"
         },
@@ -679,11 +706,26 @@
           "period": "FY2025_Q2",
           "title": "Meta Platforms Q2 2025 Earnings Call Transcript",
           "datetime": "2025-07-30T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 53,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "softly_hedged": 13,
+              "unhedged": 40
+            },
+            "by_category": {
+              "capacity_or_capability_delivery": 3,
+              "operational_metric_specific": 16,
+              "strategic_direction_claim": 2,
+              "revenue_trajectory_specific": 7,
+              "margin_trajectory_specific": 5,
+              "financial_structure_or_capital_action": 11,
+              "segment_growth_specific": 7,
+              "geographic_or_regional_rollout": 2
+            },
+            "by_resolution": {
+              "unresolved": 18,
+              "validated": 35
+            }
           },
           "fiscal_label": "Q2 2025"
         },
@@ -691,11 +733,26 @@
           "period": "FY2025_Q1",
           "title": "Meta Platforms Q1 2025 Earnings Call Transcript",
           "datetime": "2025-04-30T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 46,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "unhedged": 32,
+              "softly_hedged": 13,
+              "heavily_hedged": 1
+            },
+            "by_category": {
+              "operational_metric_specific": 11,
+              "segment_growth_specific": 6,
+              "capacity_or_capability_delivery": 12,
+              "revenue_trajectory_specific": 5,
+              "margin_trajectory_specific": 5,
+              "financial_structure_or_capital_action": 6,
+              "geographic_or_regional_rollout": 1
+            },
+            "by_resolution": {
+              "validated": 37,
+              "unresolved": 9
+            }
           },
           "fiscal_label": "Q1 2025"
         },
@@ -703,11 +760,28 @@
           "period": "FY2024_Q4",
           "title": "Meta Platforms Q4 2024 Earnings Call Transcript",
           "datetime": "2025-01-29T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 55,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "softly_hedged": 24,
+              "unhedged": 28,
+              "heavily_hedged": 3
+            },
+            "by_category": {
+              "operational_metric_specific": 11,
+              "capacity_or_capability_delivery": 14,
+              "revenue_trajectory_specific": 7,
+              "margin_trajectory_specific": 5,
+              "financial_structure_or_capital_action": 9,
+              "segment_growth_specific": 3,
+              "geographic_or_regional_rollout": 1,
+              "strategic_direction_claim": 4,
+              "competitive_or_market_position_claim": 1
+            },
+            "by_resolution": {
+              "unresolved": 37,
+              "validated": 18
+            }
           },
           "fiscal_label": "Q4 2024"
         },
@@ -715,11 +789,25 @@
           "period": "FY2024_Q3",
           "title": "Meta Platforms Q3 2024 Earnings Call Transcript",
           "datetime": "2024-10-30T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 41,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "softly_hedged": 14,
+              "unhedged": 27
+            },
+            "by_category": {
+              "operational_metric_specific": 11,
+              "capacity_or_capability_delivery": 5,
+              "revenue_trajectory_specific": 3,
+              "margin_trajectory_specific": 5,
+              "financial_structure_or_capital_action": 8,
+              "segment_growth_specific": 8,
+              "competitive_or_market_position_claim": 1
+            },
+            "by_resolution": {
+              "validated": 29,
+              "unresolved": 12
+            }
           },
           "fiscal_label": "Q3 2024"
         },
@@ -727,11 +815,26 @@
           "period": "FY2024_Q2",
           "title": "Meta Platforms Q2 2024 Earnings Call Transcript",
           "datetime": "2024-07-31T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 49,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "softly_hedged": 25,
+              "unhedged": 24
+            },
+            "by_category": {
+              "operational_metric_specific": 14,
+              "competitive_or_market_position_claim": 2,
+              "capacity_or_capability_delivery": 6,
+              "revenue_trajectory_specific": 6,
+              "margin_trajectory_specific": 5,
+              "financial_structure_or_capital_action": 7,
+              "segment_growth_specific": 8,
+              "geographic_or_regional_rollout": 1
+            },
+            "by_resolution": {
+              "validated": 30,
+              "unresolved": 19
+            }
           },
           "fiscal_label": "Q2 2024"
         }
@@ -746,11 +849,25 @@
           "period": "FY2026_Q2",
           "title": "Microsoft Q2 2026 Earnings Call Transcript",
           "datetime": "2026-01-28T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 58,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "unhedged": 35,
+              "softly_hedged": 23
+            },
+            "by_category": {
+              "revenue_trajectory_specific": 7,
+              "operational_metric_specific": 18,
+              "capacity_or_capability_delivery": 4,
+              "geographic_or_regional_rollout": 1,
+              "segment_growth_specific": 16,
+              "financial_structure_or_capital_action": 5,
+              "margin_trajectory_specific": 7
+            },
+            "by_resolution": {
+              "validated": 39,
+              "unresolved": 19
+            }
           },
           "fiscal_label": "Q2 2026"
         },
@@ -758,11 +875,26 @@
           "period": "FY2026_Q1",
           "title": "Microsoft Q1 2026 Earnings Call Transcript",
           "datetime": "2025-10-29T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 55,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "unhedged": 38,
+              "softly_hedged": 17
+            },
+            "by_category": {
+              "revenue_trajectory_specific": 5,
+              "financial_structure_or_capital_action": 8,
+              "strategic_direction_claim": 2,
+              "capacity_or_capability_delivery": 5,
+              "operational_metric_specific": 12,
+              "geographic_or_regional_rollout": 1,
+              "segment_growth_specific": 17,
+              "margin_trajectory_specific": 5
+            },
+            "by_resolution": {
+              "validated": 34,
+              "unresolved": 21
+            }
           },
           "fiscal_label": "Q1 2026"
         },
@@ -770,11 +902,26 @@
           "period": "FY2025_Q4",
           "title": "Microsoft Q4 2025 Earnings Call Transcript",
           "datetime": "2025-07-30T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 55,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "unhedged": 40,
+              "softly_hedged": 15
+            },
+            "by_category": {
+              "revenue_trajectory_specific": 11,
+              "capacity_or_capability_delivery": 4,
+              "geographic_or_regional_rollout": 1,
+              "operational_metric_specific": 11,
+              "segment_growth_specific": 12,
+              "competitive_or_market_position_claim": 2,
+              "margin_trajectory_specific": 9,
+              "financial_structure_or_capital_action": 8
+            },
+            "by_resolution": {
+              "validated": 32,
+              "unresolved": 23
+            }
           },
           "fiscal_label": "Q4 2025"
         },
@@ -782,11 +929,23 @@
           "period": "FY2025_Q3",
           "title": "Microsoft Q3 2025 Earnings Call Transcript",
           "datetime": "2025-04-30T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 55,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "unhedged": 39,
+              "softly_hedged": 16
+            },
+            "by_category": {
+              "revenue_trajectory_specific": 12,
+              "capacity_or_capability_delivery": 2,
+              "operational_metric_specific": 27,
+              "financial_structure_or_capital_action": 7,
+              "margin_trajectory_specific": 7
+            },
+            "by_resolution": {
+              "validated": 42,
+              "unresolved": 13
+            }
           },
           "fiscal_label": "Q3 2025"
         },
@@ -794,11 +953,25 @@
           "period": "FY2025_Q2",
           "title": "Microsoft Q2 2025 Earnings Call Transcript",
           "datetime": "2025-01-29T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 82,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "unhedged": 52,
+              "softly_hedged": 30
+            },
+            "by_category": {
+              "revenue_trajectory_specific": 12,
+              "capacity_or_capability_delivery": 2,
+              "segment_growth_specific": 34,
+              "operational_metric_specific": 16,
+              "competitive_or_market_position_claim": 3,
+              "margin_trajectory_specific": 11,
+              "financial_structure_or_capital_action": 8
+            },
+            "by_resolution": {
+              "validated": 51,
+              "unresolved": 31
+            }
           },
           "fiscal_label": "Q2 2025"
         },
@@ -806,11 +979,26 @@
           "period": "FY2025_Q1",
           "title": "Microsoft Q1 2025 Earnings Call Transcript",
           "datetime": "2024-10-30T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 54,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "softly_hedged": 19,
+              "unhedged": 35
+            },
+            "by_category": {
+              "revenue_trajectory_specific": 10,
+              "operational_metric_specific": 16,
+              "capacity_or_capability_delivery": 1,
+              "geographic_or_regional_rollout": 1,
+              "competitive_or_market_position_claim": 1,
+              "segment_growth_specific": 14,
+              "margin_trajectory_specific": 6,
+              "financial_structure_or_capital_action": 6
+            },
+            "by_resolution": {
+              "unresolved": 18,
+              "validated": 36
+            }
           },
           "fiscal_label": "Q1 2025"
         },
@@ -818,11 +1006,24 @@
           "period": "FY2024_Q4",
           "title": "Microsoft Q4 2024 Earnings Call Transcript",
           "datetime": "2024-07-30T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 50,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "unhedged": 36,
+              "softly_hedged": 14
+            },
+            "by_category": {
+              "revenue_trajectory_specific": 20,
+              "operational_metric_specific": 20,
+              "financial_structure_or_capital_action": 6,
+              "capacity_or_capability_delivery": 2,
+              "segment_growth_specific": 1,
+              "margin_trajectory_specific": 5
+            },
+            "by_resolution": {
+              "validated": 37,
+              "unresolved": 13
+            }
           },
           "fiscal_label": "Q4 2024"
         }
@@ -885,11 +1086,28 @@
           "period": "FY2025_Q1",
           "title": "Netflix Q1 2025 Earnings Call Transcript",
           "datetime": "2025-04-17T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 42,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "unhedged": 24,
+              "softly_hedged": 17,
+              "heavily_hedged": 1
+            },
+            "by_category": {
+              "revenue_trajectory_specific": 4,
+              "operational_metric_specific": 8,
+              "competitive_or_market_position_claim": 4,
+              "geographic_or_regional_rollout": 2,
+              "financial_structure_or_capital_action": 5,
+              "margin_trajectory_specific": 3,
+              "capacity_or_capability_delivery": 13,
+              "strategic_direction_claim": 3,
+              "segment_growth_specific": 1
+            },
+            "by_resolution": {
+              "validated": 17,
+              "unresolved": 25
+            }
           },
           "fiscal_label": "Q1 2025"
         },
@@ -897,11 +1115,27 @@
           "period": "FY2024_Q4",
           "title": "Netflix Q4 2024 Earnings Call Transcript",
           "datetime": "2025-01-21T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 55,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "softly_hedged": 37,
+              "unhedged": 18
+            },
+            "by_category": {
+              "operational_metric_specific": 15,
+              "segment_growth_specific": 2,
+              "revenue_trajectory_specific": 7,
+              "capacity_or_capability_delivery": 7,
+              "geographic_or_regional_rollout": 1,
+              "strategic_direction_claim": 9,
+              "competitive_or_market_position_claim": 3,
+              "financial_structure_or_capital_action": 8,
+              "margin_trajectory_specific": 4
+            },
+            "by_resolution": {
+              "unresolved": 37,
+              "validated": 18
+            }
           },
           "fiscal_label": "Q4 2024"
         },
@@ -909,11 +1143,27 @@
           "period": "FY2024_Q3",
           "title": "Netflix Q3 2024 Earnings Call Transcript",
           "datetime": "2024-10-17T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 55,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "softly_hedged": 22,
+              "unhedged": 33
+            },
+            "by_category": {
+              "revenue_trajectory_specific": 8,
+              "margin_trajectory_specific": 3,
+              "operational_metric_specific": 10,
+              "segment_growth_specific": 10,
+              "capacity_or_capability_delivery": 12,
+              "strategic_direction_claim": 4,
+              "financial_structure_or_capital_action": 5,
+              "competitive_or_market_position_claim": 3,
+              "geographic_or_regional_rollout": 1
+            },
+            "by_resolution": {
+              "validated": 29,
+              "unresolved": 26
+            }
           },
           "fiscal_label": "Q3 2024"
         },
@@ -921,11 +1171,27 @@
           "period": "FY2024_Q2",
           "title": "Netflix Q2 2024 Earnings Call Transcript",
           "datetime": "2024-07-18T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 50,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "unhedged": 37,
+              "softly_hedged": 12,
+              "heavily_hedged": 1
+            },
+            "by_category": {
+              "revenue_trajectory_specific": 1,
+              "margin_trajectory_specific": 6,
+              "financial_structure_or_capital_action": 2,
+              "segment_growth_specific": 5,
+              "capacity_or_capability_delivery": 24,
+              "operational_metric_specific": 10,
+              "competitive_or_market_position_claim": 2,
+              "geographic_or_regional_rollout": 1
+            },
+            "by_resolution": {
+              "validated": 18,
+              "unresolved": 32
+            }
           },
           "fiscal_label": "Q2 2024"
         }

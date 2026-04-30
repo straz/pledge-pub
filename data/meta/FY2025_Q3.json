@@ -730,5 +730,1014 @@
       "text": "This concludes today's conference call. Thank you for your participation, and you may now disconnect."
     }
   ],
-  "statements": []
+  "statements": [
+    {
+      "id": "META-FY2025Q3-001",
+      "turn_index": 2,
+      "speaker_id": "mark-zuckerberg",
+      "verbatim_quote": "Instagram hit a major milestone with 3 billion monthly actives",
+      "claim": "Instagram reached 3 billion monthly active users in Q3 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2025Q3-002",
+      "turn_index": 2,
+      "speaker_id": "mark-zuckerberg",
+      "verbatim_quote": "Threads, which recently passed 150 million daily actives",
+      "claim": "Threads surpassed 150 million daily active users prior to Q3 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2025Q3-003",
+      "turn_index": 4,
+      "speaker_id": "mark-zuckerberg",
+      "verbatim_quote": "5% more time spent on Facebook in Q3",
+      "claim": "Time spent on Facebook increased by 5% year-over-year in Q3 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2025Q3-004",
+      "turn_index": 4,
+      "speaker_id": "mark-zuckerberg",
+      "verbatim_quote": "10% on Threads",
+      "claim": "Time spent on Threads increased by 10% year-over-year in Q3 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2025Q3-005",
+      "turn_index": 4,
+      "speaker_id": "mark-zuckerberg",
+      "verbatim_quote": "video time spent on Instagram up more than 30% since last year",
+      "claim": "Video time spent on Instagram increased by more than 30% year-over-year in Q3 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2025Q3-006",
+      "turn_index": 5,
+      "speaker_id": "mark-zuckerberg",
+      "verbatim_quote": "Reels now has an annual run rate of over $50 billion",
+      "claim": "Reels advertising revenue has an annual run rate exceeding $50 billion as of Q3 2025.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2025Q3-007",
+      "turn_index": 6,
+      "speaker_id": "mark-zuckerberg",
+      "verbatim_quote": "the annual run rate going through our completely end-to-end AI-powered ad tools has passed $60 billion",
+      "claim": "Revenue from end-to-end AI-powered ad tools has an annual run rate exceeding $60 billion as of Q3 2025.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2025Q3-008",
+      "turn_index": 7,
+      "speaker_id": "mark-zuckerberg",
+      "verbatim_quote": "More than a billion monthly actives already use Meta AI",
+      "claim": "Meta AI has more than 1 billion monthly active users as of Q3 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2025Q3-009",
+      "turn_index": 8,
+      "speaker_id": "mark-zuckerberg",
+      "verbatim_quote": "They sold out in almost every store within 48 hours",
+      "claim": "Meta Ray-Ban display glasses sold out in almost every store within 48 hours of launch.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2025Q3-010",
+      "turn_index": 11,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "we estimate more than 3.5 billion people used at least one of our family of apps on a daily basis in September",
+      "claim": "Meta family of apps had more than 3.5 billion daily active users in September 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2025Q3-011",
+      "turn_index": 11,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "Q3 total family of apps revenue was $50.8 billion, up 26% year-over-year",
+      "claim": "Q3 2025 family of apps revenue was $50.8 billion, representing 26% year-over-year growth.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2025Q3-012",
+      "turn_index": 11,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "Q3 family of apps ad revenue was $50.1 billion, up 26%",
+      "claim": "Q3 2025 family of apps ad revenue was $50.1 billion, representing 26% year-over-year growth.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2025Q3-013",
+      "turn_index": 11,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "the total number of ad impressions served across our services increased 14%",
+      "claim": "Total ad impressions served across Meta services increased by 14% year-over-year in Q3 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2025Q3-014",
+      "turn_index": 11,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "The average price per ad increased 10% year-over-year",
+      "claim": "Average price per ad increased by 10% year-over-year in Q3 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2025Q3-015",
+      "turn_index": 12,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "Family of apps other revenue was $690 million, up 59%",
+      "claim": "Family of apps other revenue was $690 million in Q3 2025, up 59% year-over-year.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2025Q3-016",
+      "turn_index": 12,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "Within our reality lab segment, Q3 revenue was $470 million, up 74% year-over-year",
+      "claim": "Reality Labs revenue was $470 million in Q3 2025, up 74% year-over-year.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2025Q3-017",
+      "turn_index": 12,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "Q3 total revenue was $51.2 billion, up 26%",
+      "claim": "Total revenue was $51.2 billion in Q3 2025, up 26% year-over-year.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2025Q3-018",
+      "turn_index": 12,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "Q3 total expenses were $30.7 billion, up 32% compared to last year",
+      "claim": "Total expenses were $30.7 billion in Q3 2025, up 32% year-over-year.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2025Q3-019",
+      "turn_index": 13,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "We ended Q3 with over 78,400 employees, up 8% year-over-year",
+      "claim": "Meta had over 78,400 employees at the end of Q3 2025, up 8% year-over-year.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2025Q3-020",
+      "turn_index": 13,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "Third quarter operating income was $20.5 billion, representing a 40% operating margin",
+      "claim": "Q3 2025 operating income was $20.5 billion, representing a 40% operating margin.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2025Q3-021",
+      "turn_index": 14,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "Our tax rate for the quarter was 87%",
+      "claim": "The effective tax rate for Q3 2025 was 87%.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2025Q3-022",
+      "turn_index": 14,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "Net income was $2.7 billion, or $1.05 per share",
+      "claim": "Q3 2025 net income was $2.7 billion, or $1.05 per share.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2025Q3-023",
+      "turn_index": 15,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "Capital expenditures, including principal payments on finance leases, were $19.4 billion",
+      "claim": "Q3 2025 capital expenditures, including principal payments on finance leases, were $19.4 billion.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2025Q3-024",
+      "turn_index": 15,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "Free cash flow was $10.6 billion",
+      "claim": "Q3 2025 free cash flow was $10.6 billion.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2025Q3-025",
+      "turn_index": 15,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "We repurchased $3.2 billion of our Class A common stock and paid $1.3 billion in dividends to shareholders",
+      "claim": "Meta repurchased $3.2 billion of Class A common stock and paid $1.3 billion in dividends in Q3 2025.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2025Q3-026",
+      "turn_index": 15,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "We ended the quarter with $44.4 billion in cash and marketable securities and $28.8 billion in debt",
+      "claim": "Meta ended Q3 2025 with $44.4 billion in cash and marketable securities and $28.8 billion in debt.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2025Q3-027",
+      "turn_index": 16,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "On Facebook, our systems are now surfacing twice as many Reels published that day than at the start of the year",
+      "claim": "Facebook systems are surfacing twice as many same-day Reels as at the start of 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2025Q3-028",
+      "turn_index": 18,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "People have created over 20 billion images using our products",
+      "claim": "Users have created over 20 billion images using Meta products as of Q3 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2025Q3-029",
+      "turn_index": 18,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "media generation in the app increase more than tenfold",
+      "claim": "Media generation in Meta AI increased more than tenfold since launching Vibes in September 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2025Q3-030",
+      "turn_index": 18,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "The ranking optimizations we made in Q3 alone drove a 10% increase in time spent on Threads",
+      "claim": "Q3 2025 ranking optimizations drove a 10% increase in time spent on Threads.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2025Q3-031",
+      "turn_index": 19,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "we expect to complete the rollout next year",
+      "claim": "Meta expects to complete the rollout of ads in WhatsApp Status in 2026.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "META-FY2025Q3-032",
+      "turn_index": 20,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "In Q3, we rolled out Lattice to app ads, which drove a nearly 3% gain in conversions for that objective",
+      "claim": "Rolling out Lattice to app ads in Q3 2025 drove a nearly 3% gain in conversions.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2025Q3-033",
+      "turn_index": 20,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "we have now cut the number of ads ranking and recommendation models by approximately 100",
+      "claim": "Meta has reduced the number of ads ranking and recommendation models by approximately 100 since 2023.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2025Q3-034",
+      "turn_index": 20,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "we expect to drive additional gains as we consolidate another 200 models over the coming years",
+      "claim": "Meta expects to consolidate another 200 ads ranking models over the coming years.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "long-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "META-FY2025Q3-035",
+      "turn_index": 21,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "In testing, we've seen this new model drive a more than 2% lift in conversions on Instagram",
+      "claim": "A new runtime ads ranking model drove a more than 2% lift in conversions on Instagram in testing.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2025Q3-036",
+      "turn_index": 21,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "driving a 14% increase in ads quality on Facebook services",
+      "claim": "Improvements to Andromeda drove a 14% increase in ads quality on Facebook services in Q3 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2025Q3-037",
+      "turn_index": 22,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "The annual run rate of revenue running through our end-to-end automated solutions has now reached $60 billion",
+      "claim": "The annual run rate of revenue from end-to-end automated solutions reached $60 billion in Q3 2025.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2025Q3-038",
+      "turn_index": 22,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "the number of advertisers using at least one of our video generation features was up 20% versus the prior quarter",
+      "claim": "The number of advertisers using at least one video generation feature in Advantage+ Creative Suite increased 20% quarter-over-quarter in Q3 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2025Q3-039",
+      "turn_index": 23,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "click-to-WhatsApp ads, which grew revenue 60% year-over-year in Q3",
+      "claim": "Click-to-WhatsApp ads revenue grew 60% year-over-year in Q3 2025.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2025Q3-040",
+      "turn_index": 23,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "This month, we expanded availability within WhatsApp and Messenger to all eligible businesses in Mexico and the Philippines, respectively",
+      "claim": "Meta expanded business AI availability to all eligible businesses in Mexico and the Philippines in October 2025.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2025Q3-041",
+      "turn_index": 25,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "we expect Q4 2025 total revenue to be in the range of $56 billion-$59 billion",
+      "claim": "Meta expects Q4 2025 total revenue to be between $56 billion and $59 billion.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "META-FY2025Q3-042",
+      "turn_index": 26,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "We expect full-year 2025 total expenses to be in the range of $116 billion-$118 billion",
+      "claim": "Meta expects full-year 2025 total expenses to be between $116 billion and $118 billion.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "META-FY2025Q3-043",
+      "turn_index": 26,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "We currently expect 2025 capital expenditures, including principal payments on finance leases, to be in the range of $70 billion-$72 billion",
+      "claim": "Meta expects full-year 2025 capital expenditures, including principal payments on finance leases, to be between $70 billion and $72 billion.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "META-FY2025Q3-044",
+      "turn_index": 26,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "we expect our Q4 2025 tax rate to be 12%-15%",
+      "claim": "Meta expects the Q4 2025 tax rate to be between 12% and 15%.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "META-FY2025Q3-045",
+      "turn_index": 28,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "our current expectation is that CapEx dollar growth will be notably larger in 2026 than 2025",
+      "claim": "Meta expects capital expenditure dollar growth to be notably larger in 2026 than in 2025.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "META-FY2025Q3-046",
+      "turn_index": 28,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "we also anticipate total expenses will grow at a significantly faster percentage rate in 2026 than 2025",
+      "claim": "Meta anticipates total expenses will grow at a significantly faster percentage rate in 2026 than in 2025.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "META-FY2025Q3-047",
+      "turn_index": 76,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "Advertisers who run lead campaigns using Advantage+ are seeing a 14% lower cost per lead on average than those who are not",
+      "claim": "Advertisers using Advantage+ for lead campaigns see a 14% lower cost per lead on average compared to those who do not.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2025Q3-048",
+      "turn_index": 84,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "we will contribute 20% of the remaining construction costs required, which is in line with our ownership stake",
+      "claim": "Meta will contribute 20% of the remaining construction costs for the Blue Owl joint venture data center.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    }
+  ]
 }
