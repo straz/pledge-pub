@@ -555,5 +555,930 @@
       "text": "All right. Thank you. Thank you, everyone, for joining. As always, please stay connected by visiting expworldholdings.com for the latest updates on eXp news, results, and events. Additionally, you'll find a recording of this call and our latest investor presentation on the investors' section of the site. This concludes the eXp World Holdings First Quarter 2025 earnings."
     }
   ],
-  "statements": []
+  "statements": [
+    {
+      "id": "EXPI-FY2025Q1-001",
+      "turn_index": 8,
+      "speaker_id": "felix-bravo",
+      "verbatim_quote": "Our long-term objective is to reach 50,000 agents across 50 countries by 2030.",
+      "claim": "eXp World Holdings aims to have 50,000 agents in 50 countries by 2030.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "long-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q1-002",
+      "turn_index": 8,
+      "speaker_id": "felix-bravo",
+      "verbatim_quote": "We launched operations in Peru and Turkey, and we're currently preparing launches in Egypt.",
+      "claim": "eXp World Holdings launched operations in Peru and Turkey and is preparing to launch in Egypt.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q1-003",
+      "turn_index": 9,
+      "speaker_id": "felix-bravo",
+      "verbatim_quote": "We officially launched on March 21, and it was our largest international launch to date. We had over 600 agents attend our kickoff events in Lima.",
+      "claim": "eXp World Holdings launched in Peru on March 21 with over 600 agents attending kickoff events.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q1-004",
+      "turn_index": 9,
+      "speaker_id": "felix-bravo",
+      "verbatim_quote": "In just the first 30 days, more than 100 agents onboarded with transactions already flowing in eXp Peru.",
+      "claim": "More than 100 agents onboarded in eXp Peru within the first 30 days of launch.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q1-005",
+      "turn_index": 9,
+      "speaker_id": "felix-bravo",
+      "verbatim_quote": "Next up was Turkey. We launched on April 17, and this was another strategic success.",
+      "claim": "eXp World Holdings launched operations in Turkey on April 17.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q1-006",
+      "turn_index": 10,
+      "speaker_id": "felix-bravo",
+      "verbatim_quote": "We're actively preparing to launch in not just Japan, but also Ecuador, with more markets under evaluation.",
+      "claim": "eXp World Holdings is actively preparing to launch in Japan and Ecuador.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q1-007",
+      "turn_index": 12,
+      "speaker_id": "leo-pareja",
+      "verbatim_quote": "On April 10th, we made a press release of our partnership with Zillow, where we announced our commitment to transparency in real estate, and we will be launching all of our eXp listings on the first day of advertising.",
+      "claim": "eXp Realty will launch all listings on the first day of advertising as part of its partnership with Zillow.",
+      "categorizations": [
+        "strategic_direction_claim"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q1-008",
+      "turn_index": 13,
+      "speaker_id": "leo-pareja",
+      "verbatim_quote": "Just like last summer, we decided to create our own form. It is one page. It is in simple English. It is really easy to understand. We have made it available to any market participant that wants it.",
+      "claim": "eXp Realty created and made available a one-page, simple English disclosure form for market participants.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q1-009",
+      "turn_index": 15,
+      "speaker_id": "leo-pareja",
+      "verbatim_quote": "The co-sponsorship program was built on a basic framework. Let's enable more leaders to support and attract agents beyond their direct organization... Co-sponsors earn level one revenue share and the 50% fast start bonus",
+      "claim": "eXp Realty launched a co-sponsorship program effective May 1 where co-sponsors earn level one revenue share and a 50% fast start bonus.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q1-010",
+      "turn_index": 16,
+      "speaker_id": "wendy-forsythe",
+      "verbatim_quote": "Q1 started off with great excitement as we were named the number one company in the country by transactions for the third straight year in a row.",
+      "claim": "eXp Realty was named the number one company in the U.S. by transactions for the third consecutive year.",
+      "categorizations": [
+        "competitive_or_market_position_claim"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q1-011",
+      "turn_index": 17,
+      "speaker_id": "wendy-forsythe",
+      "verbatim_quote": "We were also named for the first time on a very distinguished list by the USA Today's Top Workplaces... We were ranked number 18 on this list.",
+      "claim": "eXp Realty was ranked number 18 on USA Today's Top Workplaces list.",
+      "categorizations": [
+        "competitive_or_market_position_claim"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q1-012",
+      "turn_index": 22,
+      "speaker_id": "wendy-forsythe",
+      "verbatim_quote": "Going into Q1, we averaged just under 3,500 unique designs per day. We saw just over 4,700, almost 4,800 designs per day, either published, shared, or downloaded by our agents.",
+      "claim": "eXp agents averaged nearly 4,800 Canva designs per day in Q1 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q1-013",
+      "turn_index": 23,
+      "speaker_id": "wendy-forsythe",
+      "verbatim_quote": "In fact, we saw a 118% increase in attendees and views of eXp University trainings Q1 year over year.",
+      "claim": "eXp University training attendees and views increased 118% year-over-year in Q1.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q1-014",
+      "turn_index": 23,
+      "speaker_id": "wendy-forsythe",
+      "verbatim_quote": "We saw a 36% increase in eXp Luxury revenue quarter over quarter.",
+      "claim": "eXp Luxury revenue increased 36% quarter-over-quarter.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q1-015",
+      "turn_index": 23,
+      "speaker_id": "wendy-forsythe",
+      "verbatim_quote": "Through our various lead generation programs offered through eXp Revenos and eXp Solutions, we've seen our referral teams facilitate 70% more closed deals year over year Q1 from 2024 to 2025.",
+      "claim": "eXp referral teams facilitated 70% more closed deals year-over-year in Q1 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q1-016",
+      "turn_index": 25,
+      "speaker_id": "wendy-forsythe",
+      "verbatim_quote": "Last up, we successfully executed in Q1 our first of our three major eXpCon events for 2025. That was eXpCon in Montreal... It happened the 1st of April",
+      "claim": "eXp World Holdings held eXpCon Montreal on April 1, 2025.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q1-017",
+      "turn_index": 26,
+      "speaker_id": "wendy-forsythe",
+      "verbatim_quote": "We are now into planning our eXpCon Barcelona and eXpCon Miami events for this year",
+      "claim": "eXp World Holdings is planning eXpCon events in Barcelona and Miami for 2025.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q1-018",
+      "turn_index": 27,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "Starting with revenue, we generated $954.9 million in the first quarter",
+      "claim": "eXp World Holdings generated $954.9 million in revenue in Q1 2025.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q1-019",
+      "turn_index": 27,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "Real estate sales volume was up 4% in the first quarter",
+      "claim": "Real estate sales volume increased 4% in Q1 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q1-020",
+      "turn_index": 27,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "We did see a lower agent count at 81,904.",
+      "claim": "eXp World Holdings had an agent count of 81,904 in Q1 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q1-021",
+      "turn_index": 28,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "Our Non-GAAP gross margin... was 13%. This was 70 basis points down from prior year.",
+      "claim": "eXp World Holdings' Non-GAAP gross margin was 13% in Q1 2025, down 70 basis points year-over-year.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q1-022",
+      "turn_index": 28,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "Our GAAP gross margin was 8%, which is 30 basis points down from prior year.",
+      "claim": "eXp World Holdings' GAAP gross margin was 8% in Q1 2025, down 30 basis points year-over-year.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q1-023",
+      "turn_index": 29,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "Our adjusted EBITDA was $2.2 million, which continues to be positive but was down year over year",
+      "claim": "eXp World Holdings' adjusted EBITDA was $2.2 million in Q1 2025, down year-over-year.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q1-024",
+      "turn_index": 30,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "Cash continued to be strong. We ended the quarter up 6% year over year with $115.7 million in cash.",
+      "claim": "eXp World Holdings ended Q1 2025 with $115.7 million in cash, up 6% year-over-year.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q1-025",
+      "turn_index": 30,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "North America revenue was $923 million for Q1 with adjusted EBITDA of $7.7 million.",
+      "claim": "eXp Realty North America generated $923 million in revenue and $7.7 million in adjusted EBITDA in Q1 2025.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q1-026",
+      "turn_index": 31,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "Revenue was up 103% year over year, and we significantly narrowed our adjusted EBITDA loss, which improved 52% year over year.",
+      "claim": "eXp International revenue increased 103% year-over-year and adjusted EBITDA loss improved 52% year-over-year.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q1-027",
+      "turn_index": 31,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "Now in 26 markets and growing",
+      "claim": "eXp World Holdings operates in 26 international markets.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q1-028",
+      "turn_index": 32,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "Our other affiliated services segment, which is primarily Success, contributed modest revenue growth and an adjusted EBITDA loss of $1.5 million.",
+      "claim": "eXp Success Enterprises reported an adjusted EBITDA loss of $1.5 million in Q1 2025.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q1-029",
+      "turn_index": 33,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "You can see that the majority of our departing agents are in the lowest producing cohort, with 77% of agent attrition having zero to two sales.",
+      "claim": "77% of agent attrition in Q1 2025 came from agents with zero to two sales.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q1-030",
+      "turn_index": 33,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "Our most productive agent base, 21 plus sales, was only 2% of our attrition in Q1.",
+      "claim": "Agents with 21+ sales accounted for only 2% of attrition in Q1 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q1-031",
+      "turn_index": 33,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "We actually saw this metric materially improve this quarter. It improved 22% year over year.",
+      "claim": "Agent attrition improved 22% year-over-year in Q1 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q1-032",
+      "turn_index": 34,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "Our agent NPS actually hit a record for Q1. Highest all-time Q1 NPS at 78 versus 73 in prior year.",
+      "claim": "eXp World Holdings achieved a record Q1 agent NPS of 78, up from 73 in the prior year.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q1-033",
+      "turn_index": 34,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "Sales volume per transaction was up 6% year over year, driven by a 4% increase in volume and 2% increase in agent productivity.",
+      "claim": "Sales volume per transaction increased 6% year-over-year in Q1 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q1-034",
+      "turn_index": 37,
+      "speaker_id": "glenn-sanford",
+      "verbatim_quote": "We did an enterprise deal with OpenAI about a year ago.",
+      "claim": "eXp World Holdings entered into an enterprise deal with OpenAI approximately one year ago.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q1-035",
+      "turn_index": 39,
+      "speaker_id": "glenn-sanford",
+      "verbatim_quote": "We actually rebuilt the Peru website in a matter of hours with our non-technical teams.",
+      "claim": "eXp World Holdings rebuilt the Peru website in hours using non-technical teams.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q1-036",
+      "turn_index": 39,
+      "speaker_id": "glenn-sanford",
+      "verbatim_quote": "We have taken that approach now from Peru to Turkey. Now we are rolling it out really in each country where they are going to actually be responsible for building out their own tech stacks",
+      "claim": "eXp World Holdings is rolling out a model where international country teams build their own tech stacks, starting with Peru and Turkey.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q1-037",
+      "turn_index": 41,
+      "speaker_id": "glenn-sanford",
+      "verbatim_quote": "We're already seeing that just in Q1 was really the first time where we were able to create true citizen developers, subject matter experts, and give them the tools that would actually allow them to be full-blown software developers.",
+      "claim": "eXp World Holdings enabled subject matter experts to act as citizen developers in Q1 2025.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q1-038",
+      "turn_index": 47,
+      "speaker_id": "leo-pareja",
+      "verbatim_quote": "41% of our agents were on teams in Q1.",
+      "claim": "41% of eXp agents were on teams in Q1 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q1-039",
+      "turn_index": 47,
+      "speaker_id": "leo-pareja",
+      "verbatim_quote": "This quarter, agent attrition improved 22% for the fourth quarter, so quarter over quarter, not year over year.",
+      "claim": "Agent attrition improved 22% quarter-over-quarter in Q1 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q1-040",
+      "turn_index": 48,
+      "speaker_id": "leo-pareja",
+      "verbatim_quote": "On Friday, the ERS Real Estate Group out of Nebraska joined us with 60 agents coming to us from Keller Williams",
+      "claim": "ERS Real Estate Group joined eXp Realty with 60 agents from Keller Williams.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q1-041",
+      "turn_index": 48,
+      "speaker_id": "leo-pareja",
+      "verbatim_quote": "As of yesterday, we had the Neil team out of San Antonio join us, who was the number one team at Keller Williams, Texas, and number two in units in the entire company with 914 homes sold in 2024.",
+      "claim": "The Neil team from San Antonio joined eXp Realty, having sold 914 homes in 2024.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q1-042",
+      "turn_index": 56,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "we just closed 90,000 transactions in Q1.",
+      "claim": "eXp World Holdings closed 90,000 transactions in Q1 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q1-043",
+      "turn_index": 57,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "I would say the AI layering of expenses that we're putting in on the front end now should result in synergies in the back half of 2025.",
+      "claim": "eXp World Holdings expects AI investments to result in synergies in the back half of 2025.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q1-044",
+      "turn_index": 63,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "I think all of the investment that we are building into the back end of the business is going to provide some opportunity in the back half of 2025 here where we can have some stronger unit economics on the SG&A there.",
+      "claim": "eXp World Holdings anticipates stronger SG&A unit economics in the back half of 2025 due to backend investments.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    }
+  ]
 }

@@ -657,5 +657,1140 @@
       "text": "Great. Thank you. That concludes our question portion of the call. Thank you, everyone, for joining. Please stay connected by visiting us at eXpWorldHoldings.com for the latest updates on eXp news, results, and events. Additionally, you'll find a recording of this call and our latest investor presentation on the investor section of the site. This concludes the second quarter 2025 earnings fireside chat."
     }
   ],
-  "statements": []
+  "statements": [
+    {
+      "id": "EXPI-FY2025Q2-001",
+      "turn_index": 3,
+      "speaker_id": "speaker-5",
+      "verbatim_quote": "Sales transactions per agent are up 4% year over year.",
+      "claim": "Sales transactions per agent increased by 4% year-over-year in Q2 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q2-002",
+      "turn_index": 3,
+      "speaker_id": "speaker-5",
+      "verbatim_quote": "The number of ICON agents is up 9% year over year",
+      "claim": "The number of ICON agents increased by 9% year-over-year in Q2 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q2-003",
+      "turn_index": 3,
+      "speaker_id": "speaker-5",
+      "verbatim_quote": "we've had 22% fewer agents leave in Q2 this year versus last year.",
+      "claim": "Agent attrition was 22% lower in Q2 2025 compared to Q2 2024.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q2-004",
+      "turn_index": 3,
+      "speaker_id": "speaker-5",
+      "verbatim_quote": "57% of non-productive agents that left eXp left the industry in Q2.",
+      "claim": "57% of non-productive agents who left eXp in Q2 2025 left the real estate industry entirely.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q2-005",
+      "turn_index": 4,
+      "speaker_id": "speaker-5",
+      "verbatim_quote": "Nearly half, at 41% of new agents to eXp, were members of teams in the second quarter.",
+      "claim": "41% of new agents joining eXp in Q2 2025 were members of teams.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q2-006",
+      "turn_index": 4,
+      "speaker_id": "speaker-5",
+      "verbatim_quote": "Agents on teams are 79% more productive than individual agents.",
+      "claim": "Agents on teams are 79% more productive than individual agents.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q2-007",
+      "turn_index": 4,
+      "speaker_id": "speaker-5",
+      "verbatim_quote": "We had 31% fewer agents leave eXp versus a year ago, a quarter in the U.S.",
+      "claim": "U.S. agent attrition was 31% lower in Q2 2025 compared to Q2 2024.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q2-008",
+      "turn_index": 8,
+      "speaker_id": "speaker-6",
+      "verbatim_quote": "Since launching the program, we have seen co-sponsors happen across 22 countries globally",
+      "claim": "Co-sponsorships occurred in 22 countries globally since the program launch.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q2-009",
+      "turn_index": 10,
+      "speaker_id": "speaker-6",
+      "verbatim_quote": "since our launch in April, we've had over 100 agents join the Land and Ranch division",
+      "claim": "Over 100 agents joined the Land and Ranch division since its launch in April 2025.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q2-010",
+      "turn_index": 10,
+      "speaker_id": "speaker-6",
+      "verbatim_quote": "You published over 500,000 designs at the end of Q2 2025",
+      "claim": "Agents published over 500,000 designs using Canva by the end of Q2 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q2-011",
+      "turn_index": 10,
+      "speaker_id": "speaker-6",
+      "verbatim_quote": "decreasing your time to create a design from 24 minutes down to nine minutes.",
+      "claim": "The average time to create a design decreased from 24 minutes to 9 minutes.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q2-012",
+      "turn_index": 12,
+      "speaker_id": "speaker-6",
+      "verbatim_quote": "We had over 4,000 agents attend events across the country in 19 different locations",
+      "claim": "Over 4,000 agents attended regional rallies in 19 locations during Q2 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q2-013",
+      "turn_index": 13,
+      "speaker_id": "speaker-6",
+      "verbatim_quote": "This event doubled in size year over year. We had over 550 eXp agents from over 18 different countries in attendance",
+      "claim": "eXpCon Barcelona doubled in size year-over-year with over 550 agents from 18 countries attending.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q2-014",
+      "turn_index": 15,
+      "speaker_id": "speaker-5",
+      "verbatim_quote": "Peru and Turkey both opened up in Q1, and most recently, Ecuador launched in Q2.",
+      "claim": "Operations launched in Peru and Turkey in Q1 2025 and Ecuador in Q2 2025.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q2-015",
+      "turn_index": 15,
+      "speaker_id": "speaker-5",
+      "verbatim_quote": "Peru onboarded over 100 agents in their first 14 days of open.",
+      "claim": "Peru onboarded over 100 agents in the first 14 days of its launch.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q2-016",
+      "turn_index": 15,
+      "speaker_id": "speaker-5",
+      "verbatim_quote": "Ecuador onboarded over 100 agents before the actual launch event",
+      "claim": "Ecuador onboarded over 100 agents prior to its official launch event.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q2-017",
+      "turn_index": 15,
+      "speaker_id": "speaker-5",
+      "verbatim_quote": "Turkey had over 30 agents just days after launch.",
+      "claim": "Turkey had over 30 agents within days of its launch.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q2-018",
+      "turn_index": 16,
+      "speaker_id": "speaker-5",
+      "verbatim_quote": "Our roadmap for the second half of 2025 includes planned entries into Egypt and Japan... We also recently announced... South Korea.",
+      "claim": "eXp plans to enter Egypt, Japan, and South Korea in the second half of 2025.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q2-019",
+      "turn_index": 16,
+      "speaker_id": "speaker-5",
+      "verbatim_quote": "We delivered 59% year-over-year revenue growth.",
+      "claim": "International revenue grew 59% year-over-year in Q2 2025.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q2-020",
+      "turn_index": 16,
+      "speaker_id": "speaker-5",
+      "verbatim_quote": "This was driven by a 9% increase in agents globally",
+      "claim": "Global agent count increased by 9% year-over-year in Q2 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q2-021",
+      "turn_index": 17,
+      "speaker_id": "speaker-5",
+      "verbatim_quote": "eXpCon Barcelona... saw a 175% increase in registrants year over year.",
+      "claim": "eXpCon Barcelona registrants increased by 175% year-over-year.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q2-022",
+      "turn_index": 18,
+      "speaker_id": "speaker-5",
+      "verbatim_quote": "Our long-term goal is to grow our agent base to 50,000 agents across 50 countries by 2030.",
+      "claim": "eXp aims to reach 50,000 agents across 50 countries by 2030.",
+      "categorizations": [
+        "strategic_direction_claim"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "long-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q2-023",
+      "turn_index": 20,
+      "speaker_id": "speaker-7",
+      "verbatim_quote": "we generated $1.3 billion in the second quarter",
+      "claim": "Consolidated revenue was $1.3 billion in Q2 2025.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q2-024",
+      "turn_index": 20,
+      "speaker_id": "speaker-7",
+      "verbatim_quote": "Real estate sales volume was up 1% year over year in the second quarter",
+      "claim": "Real estate sales volume increased 1% year-over-year in Q2 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q2-025",
+      "turn_index": 20,
+      "speaker_id": "speaker-7",
+      "verbatim_quote": "Agent count was 82,704, a 5% year-over-year decrease",
+      "claim": "Total agent count was 82,704, representing a 5% year-over-year decrease.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q2-026",
+      "turn_index": 21,
+      "speaker_id": "speaker-7",
+      "verbatim_quote": "Our non-GAAP gross margin... was 12%, while our GAAP gross margin was 7.1%",
+      "claim": "Non-GAAP gross margin was 12% and GAAP gross margin was 7.1% in Q2 2025.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q2-027",
+      "turn_index": 21,
+      "speaker_id": "speaker-7",
+      "verbatim_quote": "Adjusted EBITDA of $11.2 million continues to be positive",
+      "claim": "Adjusted EBITDA was $11.2 million in Q2 2025.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q2-028",
+      "turn_index": 21,
+      "speaker_id": "speaker-7",
+      "verbatim_quote": "We ended the quarter with $94.6 million in cash.",
+      "claim": "Cash balance was $94.6 million at the end of Q2 2025.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q2-029",
+      "turn_index": 21,
+      "speaker_id": "speaker-7",
+      "verbatim_quote": "This reflects our first payment of $17 million related to the $34 million antitrust litigation settlement",
+      "claim": "eXp made a $17 million payment toward the $34 million NAR antitrust settlement in Q2 2025.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q2-030",
+      "turn_index": 21,
+      "speaker_id": "speaker-7",
+      "verbatim_quote": "We expect to make our second and final payment of $17 million in Q2 of 2026, subject to final court approval.",
+      "claim": "eXp expects to pay the remaining $17 million of the NAR settlement in Q2 2026, subject to court approval.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "heavily_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q2-031",
+      "turn_index": 22,
+      "speaker_id": "speaker-7",
+      "verbatim_quote": "North America revenue was $1.3 billion for the quarter, with adjusted EBITDA of $19.8 million.",
+      "claim": "North America Realty segment revenue was $1.3 billion with adjusted EBITDA of $19.8 million in Q2 2025.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q2-032",
+      "turn_index": 22,
+      "speaker_id": "speaker-7",
+      "verbatim_quote": "North America operating income was $7.1 million",
+      "claim": "North America operating income was $7.1 million in Q2 2025.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q2-033",
+      "turn_index": 22,
+      "speaker_id": "speaker-7",
+      "verbatim_quote": "we expect to have more efficient operations in the back half of 2025.",
+      "claim": "eXp expects improved operational efficiency in the second half of 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q2-034",
+      "turn_index": 23,
+      "speaker_id": "speaker-7",
+      "verbatim_quote": "Other affiliated services... contributed modest revenue and adjusted EBITDA loss of $2.3 million.",
+      "claim": "Other Affiliated Services segment reported an adjusted EBITDA loss of $2.3 million in Q2 2025.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q2-035",
+      "turn_index": 24,
+      "speaker_id": "speaker-7",
+      "verbatim_quote": "Excluding that payment, we target to maintain cash reserves around that level [$100 million]",
+      "claim": "eXp targets maintaining cash reserves around $100 million, excluding the NAR settlement payment.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "indefinite",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q2-036",
+      "turn_index": 25,
+      "speaker_id": "speaker-7",
+      "verbatim_quote": "Internally, we're leveraging AI applications... to write approximately 50% of our code today.",
+      "claim": "AI applications are used to write approximately 50% of eXp's code.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q2-037",
+      "turn_index": 26,
+      "speaker_id": "speaker-7",
+      "verbatim_quote": "The recently introduced Co-Sponsor program is now running at close to 100% automation",
+      "claim": "The Co-Sponsor program operates at close to 100% automation.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q2-038",
+      "turn_index": 31,
+      "speaker_id": "operator",
+      "verbatim_quote": "Over the next 90 days... observe the things that we're going to be doing over the next 90 days.",
+      "claim": "Success Plus will deploy new features and initiatives over the 90 days following the call.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q2-039",
+      "turn_index": 34,
+      "speaker_id": "operator",
+      "verbatim_quote": "All of our agents get four free. It's included with their eXp",
+      "claim": "All eXp agents receive four free Success Plus memberships included with their affiliation.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q2-040",
+      "turn_index": 35,
+      "speaker_id": "operator",
+      "verbatim_quote": "I think it's a 16 lesson, 16 modules on real estate training by John Cheplak. There's like 133 lessons in this.",
+      "claim": "Success Plus includes a 16-module, 133-lesson real estate training course by John Cheplak.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q2-041",
+      "turn_index": 36,
+      "speaker_id": "operator",
+      "verbatim_quote": "We've just launched our first GPT into that community.",
+      "claim": "eXp launched its first GPT into the Success Plus community.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q2-042",
+      "turn_index": 39,
+      "speaker_id": "speaker-5",
+      "verbatim_quote": "I think we'd all call it a win if we were flat year over year as a country from a transaction count",
+      "claim": "eXp considers flat year-over-year transaction counts a positive outcome for the U.S. market.",
+      "categorizations": [
+        "strategic_direction_claim"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q2-043",
+      "turn_index": 40,
+      "speaker_id": "speaker-5",
+      "verbatim_quote": "Brett Zurinsky... 90 members in his brokerage did $750 million in sales on 370 units for 2024.",
+      "claim": "Brett Zurinsky's brokerage generated $750 million in sales on 370 units in 2024.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q2-044",
+      "turn_index": 44,
+      "speaker_id": "speaker-6",
+      "verbatim_quote": "68% of them actually ended up joining us as agents.",
+      "claim": "68% of guests who attended eXp events in 2024 joined as agents.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q2-045",
+      "turn_index": 47,
+      "speaker_id": "speaker-5",
+      "verbatim_quote": "We have implemented two-year minimum requirements to join internationally.",
+      "claim": "eXp requires a minimum of two years of experience for agents joining internationally.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q2-046",
+      "turn_index": 48,
+      "speaker_id": "speaker-5",
+      "verbatim_quote": "this week we've officially onboarded our first cohort of agents in Japan",
+      "claim": "eXp onboarded its first cohort of agents in Japan during the week of the call.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q2-047",
+      "turn_index": 55,
+      "speaker_id": "speaker-7",
+      "verbatim_quote": "we incurred approximately $6 million in expenses related to strategic investments and some severance",
+      "claim": "eXp incurred approximately $6 million in one-time expenses for strategic investments and severance in Q2 2025.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q2-048",
+      "turn_index": 56,
+      "speaker_id": "speaker-7",
+      "verbatim_quote": "we do expect favorable operating expenses in the back half of the year",
+      "claim": "eXp expects favorable operating expenses in the second half of 2025.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q2-049",
+      "turn_index": 71,
+      "speaker_id": "speaker-5",
+      "verbatim_quote": "International right now is at approximately 5,000 agents",
+      "claim": "International agent count is approximately 5,000.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q2-050",
+      "turn_index": 76,
+      "speaker_id": "operator",
+      "verbatim_quote": "we don't think about international getting to a scale where it shows net profitability for probably two or three years minimum.",
+      "claim": "eXp does not expect the International segment to show net profitability for at least two to three years.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q2-051",
+      "turn_index": 79,
+      "speaker_id": "speaker-7",
+      "verbatim_quote": "I think that's generally a safe bet... We expect to trend in a similar pattern [low 7% GAAP gross margin]",
+      "claim": "eXp expects GAAP gross margins to remain in the low 7% range in the second half of 2025.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q2-052",
+      "turn_index": 83,
+      "speaker_id": "operator",
+      "verbatim_quote": "Success Plus is $25 per month",
+      "claim": "Success Plus subscription costs $25 per month.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q2-053",
+      "turn_index": 84,
+      "speaker_id": "operator",
+      "verbatim_quote": "if we can grow that community itself to 50,000 members... that's about a $12 million a year run rate business.",
+      "claim": "A Success Plus community of 50,000 members represents a $12 million annual run rate.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "long-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q2-054",
+      "turn_index": 87,
+      "speaker_id": "speaker-6",
+      "verbatim_quote": "generally speaking, between $2,000 and $2,500... to get started [Land and Ranch]",
+      "claim": "The cost to join the eXp Land and Ranch program is generally between $2,000 and $2,500.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    }
+  ]
 }

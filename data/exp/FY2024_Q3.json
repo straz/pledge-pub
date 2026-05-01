@@ -536,5 +536,1161 @@
       "text": "Great. Okay. All right. Well, this concludes our earnings call for the third quarter. Thank you, everyone, for joining. As always, please stay connected by visiting eXp World Holdings for the latest updates on eXp news, results, and events. Additionally, you'll find a recording of this call and our latest investor presentation on the investor section of the site. This concludes the eXp World Holdings third quarter 2024 earnings fireside chat. Thank you."
     }
   ],
-  "statements": []
+  "statements": [
+    {
+      "id": "EXPI-FY2024Q3-001",
+      "turn_index": 6,
+      "speaker_id": "glenn-sanford",
+      "verbatim_quote": "Just in the last 12 months, we've grown it by 63%.",
+      "claim": "International revenue grew by 63% in the trailing twelve months.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q3-002",
+      "turn_index": 6,
+      "speaker_id": "glenn-sanford",
+      "verbatim_quote": "We now have three countries that we're going to be opening up in early 2025.",
+      "claim": "eXp will open operations in three new countries in early 2025.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q3-003",
+      "turn_index": 7,
+      "speaker_id": "glenn-sanford",
+      "verbatim_quote": "We've made great progress on TÃ¼rkiye, Peru, and now Egypt",
+      "claim": "eXp has made significant progress in establishing operations in Turkey, Peru, and Egypt.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q3-004",
+      "turn_index": 9,
+      "speaker_id": "glenn-sanford",
+      "verbatim_quote": "Hopefully, before the end of the year, we'll have at least one, if not more, countries that we'll be announcing",
+      "claim": "eXp expects to announce at least one new country expansion before the end of 2024.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "heavily_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q3-005",
+      "turn_index": 12,
+      "speaker_id": "leo-pareja",
+      "verbatim_quote": "in Q3 alone, we paid over $5 million to agents who are part of this initiative.",
+      "claim": "eXp paid over $5 million in Fast Start Attraction Bonuses to agents in Q3 2024.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q3-006",
+      "turn_index": 12,
+      "speaker_id": "leo-pareja",
+      "verbatim_quote": "The ICON Incentive Program will credit ICON agents up to 30 frontline qualifying agents for 13 months",
+      "claim": "The ICON Incentive Program will credit agents for up to 30 frontline qualifying agents for 13 months.",
+      "categorizations": [
+        "strategic_direction_claim"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q3-007",
+      "turn_index": 12,
+      "speaker_id": "leo-pareja",
+      "verbatim_quote": "The Revenue Share Capping Incentive Program provides an additional revenue stream for agents that have capped by crediting them with 10 FLQA to maximize their earning potentials through levels five for 13 months.",
+      "claim": "The Revenue Share Capping Incentive Program will credit capped agents with 10 frontline qualifying agents for 13 months.",
+      "categorizations": [
+        "strategic_direction_claim"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q3-008",
+      "turn_index": 12,
+      "speaker_id": "leo-pareja",
+      "verbatim_quote": "Both of those programs will start on November 1st.",
+      "claim": "The ICON Incentive Program and Revenue Share Capping Incentive Program will begin on November 1, 2024.",
+      "categorizations": [
+        "strategic_direction_claim"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q3-009",
+      "turn_index": 13,
+      "speaker_id": "leo-pareja",
+      "verbatim_quote": "During the third quarter, we welcomed several independent brokerages with contributing hundreds of agents and represented hundreds of millions of volume at the same time.",
+      "claim": "eXp acquired several independent brokerages in Q3 2024, adding hundreds of agents and hundreds of millions in volume.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q3-010",
+      "turn_index": 13,
+      "speaker_id": "leo-pareja",
+      "verbatim_quote": "Brandon Brittingham and the Maryland Delaware Group sold 900 homes last year and joined our company last quarter.",
+      "claim": "Brandon Brittingham and the Maryland Delaware Group, which sold 900 homes in the prior year, joined eXp in Q3 2024.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q3-011",
+      "turn_index": 13,
+      "speaker_id": "leo-pareja",
+      "verbatim_quote": "Chantel Ray and CanZell Realty... came over as an entire company.",
+      "claim": "Chantel Ray and CanZell Realty joined eXp as an entire company in Q3 2024.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q3-012",
+      "turn_index": 13,
+      "speaker_id": "leo-pareja",
+      "verbatim_quote": "Michael Levy with the Grand Lux Realty team in New York came over with just over 200 agents.",
+      "claim": "Michael Levy and the Grand Lux Realty team joined eXp with over 200 agents in Q3 2024.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q3-013",
+      "turn_index": 16,
+      "speaker_id": "wendy-forsythe",
+      "verbatim_quote": "we've appeared in over 7,700 articles across major media outlets... These appearances have generated over 14.7 billion views and impressions",
+      "claim": "eXp secured over 7,700 media articles generating over 14.7 billion views and impressions.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q3-014",
+      "turn_index": 17,
+      "speaker_id": "wendy-forsythe",
+      "verbatim_quote": "compared to the third quarter 2023, we grew our agent membership by 94%.",
+      "claim": "eXp Luxury agent membership grew by 94% compared to Q3 2023.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q3-015",
+      "turn_index": 17,
+      "speaker_id": "wendy-forsythe",
+      "verbatim_quote": "on October 18th, eXp Realty acquired LuxVT, a marketing technology platform",
+      "claim": "eXp Realty acquired LuxVT on October 18, 2024.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q3-016",
+      "turn_index": 18,
+      "speaker_id": "wendy-forsythe",
+      "verbatim_quote": "This year's event was hosted for the first time in Miami and brought together 4,300 attendees.",
+      "claim": "EXPCON 2024 was held in Miami and had 4,300 attendees.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q3-017",
+      "turn_index": 19,
+      "speaker_id": "wendy-forsythe",
+      "verbatim_quote": "a global partnership with Canva... bringing powerful creative design tools to our agents",
+      "claim": "eXp established a global partnership with Canva to provide design tools to agents.",
+      "categorizations": [
+        "strategic_direction_claim"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q3-018",
+      "turn_index": 19,
+      "speaker_id": "wendy-forsythe",
+      "verbatim_quote": "the launch of a fully designed and reimagined eXpRealty.com and eXpRealty.ca websites",
+      "claim": "eXp launched redesigned eXpRealty.com and eXpRealty.ca websites.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q3-019",
+      "turn_index": 21,
+      "speaker_id": "seth-siegler",
+      "verbatim_quote": "With AI now integrated into our existing Expert Care Desk and the all-new Luna 2.0, we've really created an always-on support system",
+      "claim": "eXp integrated AI into the Expert Care Desk and launched Luna 2.0 as an always-on support system.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q3-020",
+      "turn_index": 23,
+      "speaker_id": "seth-siegler",
+      "verbatim_quote": "Hundreds of our staff members now have access to our enterprise OpenAI platform",
+      "claim": "Hundreds of eXp staff members have access to the enterprise OpenAI platform.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q3-021",
+      "turn_index": 24,
+      "speaker_id": "seth-siegler",
+      "verbatim_quote": "we're launching an ExpertGPT feature on our IR website.",
+      "claim": "eXp launched an ExpertGPT feature on its investor relations website.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q3-022",
+      "turn_index": 26,
+      "speaker_id": "kent-cheng",
+      "verbatim_quote": "This quarter, we achieved an aNPS of 76, which is a two-point improvement compared to the third quarter of last year.",
+      "claim": "eXp achieved an agent Net Promoter Score (aNPS) of 76 in Q3 2024, up 2 points from Q3 2023.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q3-023",
+      "turn_index": 26,
+      "speaker_id": "kent-cheng",
+      "verbatim_quote": "our agent count decreased 4% on a year-over-year basis",
+      "claim": "eXp's agent count decreased by 4% year-over-year in Q3 2024.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q3-024",
+      "turn_index": 27,
+      "speaker_id": "kent-cheng",
+      "verbatim_quote": "real estate sales transaction unit declined 1% year-over-year, while real estate sales volume increased by 5%.",
+      "claim": "Real estate sales transaction units declined 1% YoY, while sales volume increased 5% YoY in Q3 2024.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q3-025",
+      "turn_index": 27,
+      "speaker_id": "kent-cheng",
+      "verbatim_quote": "Realty costs per transaction decreased 1%",
+      "claim": "Realty costs per transaction decreased by 1% in Q3 2024.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q3-026",
+      "turn_index": 27,
+      "speaker_id": "kent-cheng",
+      "verbatim_quote": "Revenue for the third quarter was $1,231 million, a 2% increase year-over-year.",
+      "claim": "Q3 2024 revenue was $1,231 million, a 2% increase year-over-year.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q3-027",
+      "turn_index": 27,
+      "speaker_id": "kent-cheng",
+      "verbatim_quote": "Third quarter Adjusted EBITDA was $23.9 million, up 15% year-over-year",
+      "claim": "Q3 2024 Adjusted EBITDA was $23.9 million, up 15% year-over-year.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q3-028",
+      "turn_index": 28,
+      "speaker_id": "kent-cheng",
+      "verbatim_quote": "general and administrative expenses were $61.4 million, up 2% compared to the third quarter of 2023",
+      "claim": "Q3 2024 G&A expenses were $61.4 million, up 2% from Q3 2023.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q3-029",
+      "turn_index": 28,
+      "speaker_id": "kent-cheng",
+      "verbatim_quote": "We provided an additional $18 million antitrust lawsuit settlement contingency provision in Q3.",
+      "claim": "eXp provided an additional $18 million antitrust lawsuit settlement contingency provision in Q3 2024.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q3-030",
+      "turn_index": 28,
+      "speaker_id": "kent-cheng",
+      "verbatim_quote": "As of the end of Q3, we have provided a total of $34 million antitrust contingency provision",
+      "claim": "Total antitrust contingency provision reached $34 million by the end of Q3 2024.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q3-031",
+      "turn_index": 28,
+      "speaker_id": "kent-cheng",
+      "verbatim_quote": "Our GAAP net loss was $8.5 million",
+      "claim": "Q3 2024 GAAP net loss was $8.5 million.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q3-032",
+      "turn_index": 28,
+      "speaker_id": "kent-cheng",
+      "verbatim_quote": "Excluding this $18 million contingency provision, third quarter adjusted net income was $7.8 million compared to $2.3 million in 2023, a 239% increase year-over-year.",
+      "claim": "Q3 2024 adjusted net income was $7.8 million, a 239% increase from $2.3 million in Q3 2023.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q3-033",
+      "turn_index": 28,
+      "speaker_id": "kent-cheng",
+      "verbatim_quote": "Q3 adjusted operating cash flow was $65 million.",
+      "claim": "Q3 2024 adjusted operating cash flow was $65 million.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q3-034",
+      "turn_index": 29,
+      "speaker_id": "kent-cheng",
+      "verbatim_quote": "We repurchased $35 million of shares during the quarter.",
+      "claim": "eXp repurchased $35 million of shares in Q3 2024.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q3-035",
+      "turn_index": 29,
+      "speaker_id": "kent-cheng",
+      "verbatim_quote": "The number of shares repurchased in Q3 was more than the number of shares issued through our agent and employee stock compensation programs.",
+      "claim": "Shares repurchased in Q3 2024 exceeded shares issued via stock compensation programs.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q3-036",
+      "turn_index": 30,
+      "speaker_id": "kent-cheng",
+      "verbatim_quote": "Market conditions in the U.S. led to a lower agent base, which negatively impacted our revenue by approximately $75 million.",
+      "claim": "Lower agent base due to U.S. market conditions negatively impacted Q3 2024 revenue by approximately $75 million.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q3-037",
+      "turn_index": 30,
+      "speaker_id": "kent-cheng",
+      "verbatim_quote": "U.S. home sales in the third quarter 2024 declined 1.3% year-over-year",
+      "claim": "U.S. home sales declined 1.3% year-over-year in Q3 2024.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q3-038",
+      "turn_index": 30,
+      "speaker_id": "kent-cheng",
+      "verbatim_quote": "an increase in our agent productivity over prior year added $55 million of revenue.",
+      "claim": "Increased agent productivity added $55 million to Q3 2024 revenue.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q3-039",
+      "turn_index": 30,
+      "speaker_id": "kent-cheng",
+      "verbatim_quote": "Higher home sales prices contributed to incremental revenue of $32 million.",
+      "claim": "Higher home sales prices contributed $32 million to incremental Q3 2024 revenue.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q3-040",
+      "turn_index": 30,
+      "speaker_id": "kent-cheng",
+      "verbatim_quote": "our strategic focus on expanding our lease, referral, and other ancillary services brought in an $8 million top-line growth.",
+      "claim": "Expansion of lease, referral, and ancillary services contributed $8 million to Q3 2024 revenue growth.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q3-041",
+      "turn_index": 31,
+      "speaker_id": "kent-cheng",
+      "verbatim_quote": "segment revenue was $1,207 million, a slight decrease from prior year",
+      "claim": "North America Realty segment revenue was $1,207 million in Q3 2024, a slight decrease from the prior year.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q3-042",
+      "turn_index": 31,
+      "speaker_id": "kent-cheng",
+      "verbatim_quote": "Adjusted EBITDA was $28.9 million, a 6% increase year-over-year",
+      "claim": "North America Realty segment Adjusted EBITDA was $28.9 million, a 6% increase year-over-year.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q3-043",
+      "turn_index": 31,
+      "speaker_id": "kent-cheng",
+      "verbatim_quote": "International real estate segment revenue was $24.2 million, an increase of 63%",
+      "claim": "International real estate segment revenue was $24.2 million, a 63% increase year-over-year.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q3-044",
+      "turn_index": 31,
+      "speaker_id": "kent-cheng",
+      "verbatim_quote": "Adjusted EBITDA loss was $1.7 million, a 37% improvement from prior year",
+      "claim": "International segment Adjusted EBITDA loss was $1.7 million, a 37% improvement from the prior year.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q3-045",
+      "turn_index": 32,
+      "speaker_id": "kent-cheng",
+      "verbatim_quote": "Our gross margin percentage for the fourth quarter is expected to be generally consistent with our typical seasonal pattern and the last year's performance.",
+      "claim": "Q4 2024 gross margin percentage is expected to be consistent with typical seasonal patterns and last year's performance.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q3-046",
+      "turn_index": 32,
+      "speaker_id": "kent-cheng",
+      "verbatim_quote": "Our SG&A expenses will increase sequentially from Q3 due to the annual EXPCON event expenses to be recorded in Q4.",
+      "claim": "Q4 2024 SG&A expenses will increase sequentially from Q3 due to EXPCON event expenses.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q3-047",
+      "turn_index": 41,
+      "speaker_id": "leo-pareja",
+      "verbatim_quote": "62% of nonproductive agents that left eXp left the industry.",
+      "claim": "62% of nonproductive agents who left eXp in 2024 left the real estate industry entirely.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q3-048",
+      "turn_index": 41,
+      "speaker_id": "leo-pareja",
+      "verbatim_quote": "close to 77%-78% of the people who left us had zero to two sales.",
+      "claim": "Approximately 77-78% of agents who left eXp in 2024 had zero to two sales.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q3-049",
+      "turn_index": 41,
+      "speaker_id": "leo-pareja",
+      "verbatim_quote": "our retention on the more productive cohort of 21+ sales has actually decreased. So our retention has increased. So we're roughly 2% attrition in the more productive part of the cohort.",
+      "claim": "Attrition for the productive cohort (21+ sales) is roughly 2%, indicating increased retention.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q3-050",
+      "turn_index": 42,
+      "speaker_id": "leo-pareja",
+      "verbatim_quote": "Since we've launched the program, we've paid out $5 million. By the way, it has no EBITDA impact.",
+      "claim": "The Fast Start attraction bonus program has paid out $5 million with no EBITDA impact.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q3-051",
+      "turn_index": 43,
+      "speaker_id": "leo-pareja",
+      "verbatim_quote": "we're bullish that 2025 will have an increased transactional count over 2023 and 2024",
+      "claim": "eXp expects 2025 transaction counts to be higher than 2023 and 2024.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q3-052",
+      "turn_index": 65,
+      "speaker_id": "leo-pareja",
+      "verbatim_quote": "we could see about a 10% bump in total transaction count.",
+      "claim": "eXp predicts a 10% increase in total U.S. residential transaction count.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "heavily_hedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q3-053",
+      "turn_index": 66,
+      "speaker_id": "leo-pareja",
+      "verbatim_quote": "we could hopefully see somewhere in that 4.5 million transactional range for next year.",
+      "claim": "eXp hopes to see approximately 4.5 million total transactions in 2025.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "heavily_hedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q3-054",
+      "turn_index": 54,
+      "speaker_id": "glenn-sanford",
+      "verbatim_quote": "last night we launched, and it's very much in beta, but we launched our new eXp International website.",
+      "claim": "eXp launched its new International website in beta.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q3-055",
+      "turn_index": 55,
+      "speaker_id": "glenn-sanford",
+      "verbatim_quote": "I know last week at EXPCON, we announced that Canva is now available to all agents in all markets that eXp operates in. I think technically it's being rolled out here in December.",
+      "claim": "Canva integration is being rolled out to all eXp agents in December 2024.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    }
+  ]
 }

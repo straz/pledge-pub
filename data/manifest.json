@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T11:56:34.840Z",
+  "generated_at": "2026-05-01T12:32:15.561Z",
   "companies": [
     {
       "id": "alphabet",
@@ -2169,11 +2169,27 @@
           "period": "FY2025_Q2",
           "title": "Exp World Q2 2025 Earnings Call Transcript",
           "datetime": "2025-07-31T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 54,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "unhedged": 39,
+              "softly_hedged": 14,
+              "heavily_hedged": 1
+            },
+            "by_category": {
+              "operational_metric_specific": 24,
+              "geographic_or_regional_rollout": 4,
+              "segment_growth_specific": 4,
+              "strategic_direction_claim": 2,
+              "revenue_trajectory_specific": 4,
+              "margin_trajectory_specific": 6,
+              "financial_structure_or_capital_action": 5,
+              "capacity_or_capability_delivery": 5
+            },
+            "by_resolution": {
+              "validated": 43,
+              "unresolved": 11
+            }
           },
           "fiscal_label": "Q2 2025"
         },
@@ -2181,11 +2197,27 @@
           "period": "FY2025_Q1",
           "title": "Exp World Q1 2025 Earnings Call Transcript",
           "datetime": "2025-05-06T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 44,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "unhedged": 37,
+              "softly_hedged": 7
+            },
+            "by_category": {
+              "geographic_or_regional_rollout": 6,
+              "operational_metric_specific": 14,
+              "strategic_direction_claim": 1,
+              "capacity_or_capability_delivery": 8,
+              "competitive_or_market_position_claim": 2,
+              "segment_growth_specific": 6,
+              "revenue_trajectory_specific": 1,
+              "margin_trajectory_specific": 4,
+              "financial_structure_or_capital_action": 2
+            },
+            "by_resolution": {
+              "unresolved": 9,
+              "validated": 35
+            }
           },
           "fiscal_label": "Q1 2025"
         },
@@ -2221,11 +2253,27 @@
           "period": "FY2024_Q3",
           "title": "Exp World Q3 2024 Earnings Call Transcript",
           "datetime": "2024-11-07T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 55,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "unhedged": 42,
+              "softly_hedged": 10,
+              "heavily_hedged": 3
+            },
+            "by_category": {
+              "segment_growth_specific": 9,
+              "geographic_or_regional_rollout": 3,
+              "operational_metric_specific": 11,
+              "strategic_direction_claim": 4,
+              "financial_structure_or_capital_action": 6,
+              "capacity_or_capability_delivery": 6,
+              "revenue_trajectory_specific": 7,
+              "margin_trajectory_specific": 9
+            },
+            "by_resolution": {
+              "validated": 43,
+              "unresolved": 12
+            }
           },
           "fiscal_label": "Q3 2024"
         },
