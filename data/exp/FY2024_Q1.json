@@ -880,5 +880,955 @@
       "text": "Bye."
     }
   ],
-  "statements": []
+  "statements": [
+    {
+      "id": "EXPI-FY2024Q1-001",
+      "turn_index": 4,
+      "speaker_id": "glenn-sanford",
+      "verbatim_quote": "Starting this quarter, we're reporting technology and development expenses separately",
+      "claim": "eXp World Holdings will report technology and development expenses as a separate line item starting in Q1 2024.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q1-002",
+      "turn_index": 5,
+      "speaker_id": "glenn-sanford",
+      "verbatim_quote": "I'm also pleased to report a 5% increase in real estate transactions and 11% increase in overall volume or overall revenue.",
+      "claim": "eXp World Holdings reported a 5% increase in real estate transactions and an 11% increase in overall revenue in Q1 2024.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q1-003",
+      "turn_index": 6,
+      "speaker_id": "glenn-sanford",
+      "verbatim_quote": "revenue from international increasing 45% over the first quarter of 2023",
+      "claim": "International realty revenue increased 45% year-over-year in Q1 2024.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q1-004",
+      "turn_index": 9,
+      "speaker_id": "leo-pareja",
+      "verbatim_quote": "Home sale transactions in the U.S. were down nearly 3%. Despite that, eXp Realty was up 2%.",
+      "claim": "eXp Realty home sale transactions increased 2% year-over-year in Q1 2024, while the U.S. industry declined nearly 3%.",
+      "categorizations": [
+        "operational_metric_specific",
+        "competitive_or_market_position_claim"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q1-005",
+      "turn_index": 10,
+      "speaker_id": "leo-pareja",
+      "verbatim_quote": "Market share grew nearly 5%, increasing to 4.4% of all home sale transactions in the United States",
+      "claim": "eXp Realty's U.S. market share increased to 4.4% in Q1 2024, representing nearly 5% growth.",
+      "categorizations": [
+        "competitive_or_market_position_claim"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q1-006",
+      "turn_index": 11,
+      "speaker_id": "leo-pareja",
+      "verbatim_quote": "Transaction processes have also improved, with 87% of our agents rating the process a 9 or a 10 on a scale of 1 to 10.",
+      "claim": "87% of eXp agents rated the transaction process a 9 or 10 in Q1 2024.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q1-007",
+      "turn_index": 15,
+      "speaker_id": "glenn-sanford",
+      "verbatim_quote": "this last year, we paid out more than $230 million in a combination of REVenue Share and equity benefits to our agents and brokers.",
+      "claim": "eXp World Holdings paid out more than $230 million in REVenue Share and equity benefits in FY2023.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q1-008",
+      "turn_index": 16,
+      "speaker_id": "glenn-sanford",
+      "verbatim_quote": "we also have a Fast Start program that's going to be kicking in in July",
+      "claim": "eXp World Holdings will launch the Fast Start program in July 2024.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q1-009",
+      "turn_index": 24,
+      "speaker_id": "glenn-sanford",
+      "verbatim_quote": "we're actually almost ready to roll out what we're referring to as Luna 2.0... we're actually ready to roll out 28 separate AI agents",
+      "claim": "eXp World Holdings is ready to roll out Luna 2.0, consisting of 28 separate AI agents.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q1-010",
+      "turn_index": 29,
+      "speaker_id": "leo-pareja",
+      "verbatim_quote": "On an annualized basis, these initiatives that we put in place in Q1 will drive $27.3 million in incremental profit and cost savings per year.",
+      "claim": "Initiatives implemented in Q1 2024 are expected to drive $27.3 million in annualized incremental profit and cost savings.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q1-011",
+      "turn_index": 29,
+      "speaker_id": "leo-pareja",
+      "verbatim_quote": "With three quarters left in 2024, we expect to realize $6.8 million per quarter or $20.4 million this year.",
+      "claim": "eXp World Holdings expects to realize $20.4 million in profit improvement from the plan in FY2024.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q1-012",
+      "turn_index": 30,
+      "speaker_id": "leo-pareja",
+      "verbatim_quote": "During April, we hosted and impacted rallies in 20 locations.",
+      "claim": "eXp World Holdings hosted agent rallies in 20 locations in April 2024.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q1-013",
+      "turn_index": 32,
+      "speaker_id": "kent-cheng",
+      "verbatim_quote": "This quarter, we achieved an NPS of 73, which is a 3-point improvement compared to the first quarter of last year.",
+      "claim": "eXp World Holdings achieved an Agent Net Promoter Score (NPS) of 73 in Q1 2024, a 3-point increase year-over-year.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q1-014",
+      "turn_index": 32,
+      "speaker_id": "kent-cheng",
+      "verbatim_quote": "we saw a slight decrease of 2% in our agent count year-over-year.",
+      "claim": "eXp World Holdings agent count decreased 2% year-over-year in Q1 2024.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q1-015",
+      "turn_index": 33,
+      "speaker_id": "kent-cheng",
+      "verbatim_quote": "our real estate sales transaction units grew by 5% year-over-year.",
+      "claim": "eXp World Holdings real estate sales transaction units grew 5% year-over-year in Q1 2024.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q1-016",
+      "turn_index": 33,
+      "speaker_id": "kent-cheng",
+      "verbatim_quote": "our revenue for the first quarter was $943 million, 11% increase year-over-year.",
+      "claim": "eXp World Holdings revenue was $943 million in Q1 2024, an 11% increase year-over-year.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q1-017",
+      "turn_index": 34,
+      "speaker_id": "kent-cheng",
+      "verbatim_quote": "we generated $11 million in a very challenging market condition. The first quarter adjusted EBITDA was lower than the $14.6 million from the prior year's first quarter",
+      "claim": "eXp World Holdings generated $11 million in adjusted EBITDA in Q1 2024, down from $14.6 million in Q1 2023.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q1-018",
+      "turn_index": 34,
+      "speaker_id": "kent-cheng",
+      "verbatim_quote": "General and administrative expenses were $63 million, up 15% over the first quarter of 2023",
+      "claim": "General and administrative expenses were $63 million in Q1 2024, a 15% increase year-over-year.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q1-019",
+      "turn_index": 34,
+      "speaker_id": "kent-cheng",
+      "verbatim_quote": "This quarter, we recorded a provision of $16 million for the antitrust litigation contingency.",
+      "claim": "eXp World Holdings recorded a $16 million provision for antitrust litigation contingency in Q1 2024.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q1-020",
+      "turn_index": 35,
+      "speaker_id": "kent-cheng",
+      "verbatim_quote": "Our GAAP net loss for this quarter was $15.6 million",
+      "claim": "eXp World Holdings reported a GAAP net loss of $15.6 million in Q1 2024.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q1-021",
+      "turn_index": 35,
+      "speaker_id": "kent-cheng",
+      "verbatim_quote": "Excluding the antitrust contingency provision and the discontinued operation, our adjusted loss was $2.4 million, with an adjusted loss per diluted share of $0.02.",
+      "claim": "eXp World Holdings reported an adjusted loss of $2.4 million ($0.02 per diluted share) in Q1 2024, excluding antitrust and discontinued operations.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q1-022",
+      "turn_index": 35,
+      "speaker_id": "kent-cheng",
+      "verbatim_quote": "our adjusted operating cash flow was $29.4 million.",
+      "claim": "eXp World Holdings adjusted operating cash flow was $29.4 million in Q1 2024.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q1-023",
+      "turn_index": 35,
+      "speaker_id": "kent-cheng",
+      "verbatim_quote": "We have continued our commitment to shareholder return by repurchasing $33 million of shares during the quarter.",
+      "claim": "eXp World Holdings repurchased $33 million of shares in Q1 2024.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q1-024",
+      "turn_index": 37,
+      "speaker_id": "kent-cheng",
+      "verbatim_quote": "North America Realty segment... contributing an additional $90 million revenue growth.",
+      "claim": "The North America Realty segment contributed $90 million in revenue growth year-over-year in Q1 2024.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q1-025",
+      "turn_index": 37,
+      "speaker_id": "kent-cheng",
+      "verbatim_quote": "The international realty segment also saw a rise, contributing a $5 million revenue increase.",
+      "claim": "The International Realty segment contributed $5 million in revenue growth year-over-year in Q1 2024.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q1-026",
+      "turn_index": 38,
+      "speaker_id": "kent-cheng",
+      "verbatim_quote": "North America Realty segment... We reported an 11% increase in revenue... However, our EBITDA saw a 16% decline at $80 million.",
+      "claim": "North America Realty revenue increased 11% to an unspecified total, while EBITDA declined 16% to $80 million in Q1 2024.",
+      "categorizations": [
+        "segment_growth_specific",
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q1-027",
+      "turn_index": 39,
+      "speaker_id": "kent-cheng",
+      "verbatim_quote": "International Realty revenue was $60 million, an increase of 45%. Adjusted EBITDA loss was $3.4 million, which is 9% improvement from prior year.",
+      "claim": "International Realty revenue was $60 million (up 45% YoY) and adjusted EBITDA loss was $3.4 million (9% improvement) in Q1 2024.",
+      "categorizations": [
+        "segment_growth_specific",
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q1-028",
+      "turn_index": 43,
+      "speaker_id": "glenn-sanford",
+      "verbatim_quote": "starting in the U.S. and Canada, May 9, levels 1 through 3 are opened up for all agents in the company.",
+      "claim": "eXp World Holdings opened REVenue Share levels 1-3 to all agents in the U.S. and Canada starting May 9, 2024.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q1-029",
+      "turn_index": 43,
+      "speaker_id": "glenn-sanford",
+      "verbatim_quote": "Then levels 4, 5, and 6 are opened up with 5, 10, and 15 agents that they've personally brought in.",
+      "claim": "eXp World Holdings opened REVenue Share levels 4-6 to agents with 5, 10, and 15 personally recruited agents, respectively.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q1-030",
+      "turn_index": 45,
+      "speaker_id": "glenn-sanford",
+      "verbatim_quote": "we'll be rolling this out across the globe, but we launched it in the U.S. and Canada to start.",
+      "claim": "eXp World Holdings plans to roll out the new REVenue Share model globally after launching in the U.S. and Canada.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q1-031",
+      "turn_index": 50,
+      "speaker_id": "kent-cheng",
+      "verbatim_quote": "We estimate they will contribute about $30.3 million on annualized basis.",
+      "claim": "Profit-generating initiatives initiated in Q1 2024 are estimated to contribute $30.3 million on an annualized basis.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q1-032",
+      "turn_index": 51,
+      "speaker_id": "kent-cheng",
+      "verbatim_quote": "headcount reduction by estimate about $10.9 million in the realty business and $3 million in the Virbela business on the annualized basis.",
+      "claim": "Headcount reductions are estimated to generate $10.9 million in annualized savings in the realty business and $3 million in the Virbela business.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q1-033",
+      "turn_index": 51,
+      "speaker_id": "kent-cheng",
+      "verbatim_quote": "The combination of these two actions are possibly will generate about $13.9 million annualized cost savings.",
+      "claim": "Cost-saving actions are estimated to generate $13.9 million in annualized cost savings.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q1-034",
+      "turn_index": 51,
+      "speaker_id": "kent-cheng",
+      "verbatim_quote": "So overall, you add them together, we get about $27 million overall core profit improvement.",
+      "claim": "The combination of profit-generating and cost-saving initiatives results in approximately $27 million in overall core profit improvement on an annualized basis.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q1-035",
+      "turn_index": 67,
+      "speaker_id": "leo-pareja",
+      "verbatim_quote": "A couple weeks ago, we rolled out a one-page buyer representation agreement that becomes only binding for one property in basically one day.",
+      "claim": "eXp World Holdings rolled out a one-page buyer representation agreement that is binding for one property for one day.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q1-036",
+      "turn_index": 68,
+      "speaker_id": "leo-pareja",
+      "verbatim_quote": "According to RealTrends, last year, we did 355,000 sites. That's 40% more than number two.",
+      "claim": "eXp World Holdings completed 355,000 transactions in FY2023, which is 40% more than the second-largest brokerage.",
+      "categorizations": [
+        "competitive_or_market_position_claim"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q1-037",
+      "turn_index": 73,
+      "speaker_id": "leo-pareja",
+      "verbatim_quote": "quarter-over-quarter, it's looking like a flat year transactionally for the country. So I would venture to bet that, you know, what we saw in Q1 is probably a pretty representative Q2.",
+      "claim": "eXp Realty expects Q2 2024 transaction volume to be flat quarter-over-quarter, similar to Q1 2024.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "heavily_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q1-038",
+      "turn_index": 74,
+      "speaker_id": "kent-cheng",
+      "verbatim_quote": "When you get to Q2 spring season, I mean, just the seasonality, the revenue will pick up, right, in second quarter.",
+      "claim": "eXp World Holdings expects revenue to pick up in Q2 2024 due to seasonal trends.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q1-039",
+      "turn_index": 78,
+      "speaker_id": "glenn-sanford",
+      "verbatim_quote": "I think there's 10 suits that we're named to in the U.S.",
+      "claim": "eXp World Holdings is named in 10 antitrust lawsuits in the U.S.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q1-040",
+      "turn_index": 79,
+      "speaker_id": "glenn-sanford",
+      "verbatim_quote": "We're still trying to figure out whether there's consolidation... We're still fairly early on in our suits... We're presently not in a settlement discussion at the moment.",
+      "claim": "eXp World Holdings is not currently in settlement discussions for its antitrust lawsuits and is evaluating consolidation.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q1-041",
+      "turn_index": 83,
+      "speaker_id": "kent-cheng",
+      "verbatim_quote": "you can assume now Q1 SG&A is essentially is more like generate direction, what we're going to see in the future.",
+      "claim": "eXp World Holdings expects future SG&A levels to be directionally similar to Q1 2024 levels, barring unforeseen items.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q1-042",
+      "turn_index": 87,
+      "speaker_id": "kent-cheng",
+      "verbatim_quote": "Short answer, no change, right?",
+      "claim": "The changes to the REVenue Share model will not result in a change to company financials, particularly gross margins.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q1-043",
+      "turn_index": 105,
+      "speaker_id": "kent-cheng",
+      "verbatim_quote": "our home sale transaction increased 5%",
+      "claim": "eXp World Holdings home sale transactions increased 5% year-over-year in Q1 2024.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q1-044",
+      "turn_index": 107,
+      "speaker_id": "kent-cheng",
+      "verbatim_quote": "We are about 8.3%, that level.",
+      "claim": "eXp World Holdings gross margin is approximately 8.3% for the year.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2024Q1-045",
+      "turn_index": 109,
+      "speaker_id": "kent-cheng",
+      "verbatim_quote": "what you see actually in the summertime, our gross margin tend to be lower and then come back again in Q4.",
+      "claim": "eXp World Holdings gross margins tend to be lower in the summer and recover in Q4 due to seasonality.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    }
+  ]
 }

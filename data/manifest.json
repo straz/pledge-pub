@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T12:32:15.561Z",
+  "generated_at": "2026-05-01T12:35:36.615Z",
   "companies": [
     {
       "id": "alphabet",
@@ -2293,11 +2293,27 @@
           "period": "FY2024_Q1",
           "title": "Exp World Q1 2024 Earnings Call Transcript",
           "datetime": "2024-05-01T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 45,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "unhedged": 30,
+              "softly_hedged": 14,
+              "heavily_hedged": 1
+            },
+            "by_category": {
+              "operational_metric_specific": 10,
+              "revenue_trajectory_specific": 3,
+              "segment_growth_specific": 5,
+              "competitive_or_market_position_claim": 3,
+              "financial_structure_or_capital_action": 6,
+              "capacity_or_capability_delivery": 5,
+              "margin_trajectory_specific": 16,
+              "geographic_or_regional_rollout": 1
+            },
+            "by_resolution": {
+              "validated": 26,
+              "unresolved": 19
+            }
           },
           "fiscal_label": "Q1 2024"
         }
