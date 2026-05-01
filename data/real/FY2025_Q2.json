@@ -1,0 +1,1686 @@
+{
+  "company_id": "real",
+  "title": "Real Brokerage Q2 2025 Earnings Call Transcript",
+  "datetime": "2025-08-07T22:00:00Z",
+  "period": "FY2025_Q2",
+  "location": "Miami, FL",
+  "url": "https://www.marketbeat.com/earnings/reports/2025-8-7-the-real-brokerage-inc-stock/",
+  "people": [
+    {
+      "id": "speaker-6",
+      "name": "Speaker 6",
+      "role": ""
+    },
+    {
+      "id": "operator",
+      "name": "Operator",
+      "role": ""
+    },
+    {
+      "id": "speaker-3",
+      "name": "Speaker 3",
+      "role": ""
+    },
+    {
+      "id": "speaker-2",
+      "name": "Speaker 2",
+      "role": ""
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "speaker-6",
+      "speaker_name": "Speaker 6",
+      "speaker_role": "",
+      "timestamp": "00:00:00",
+      "text": "Good morning, ladies and gentlemen, and welcome to The Real Brokerage Inc. second quarter earnings call. At this time, all participants are placed on a listen-only mode, and we will open the floor for your questions and comments after the presentation. I will now turn the call over to Ms. Alexandra Lumpkin, Chief Legal Officer at The Real Brokerage Inc. Ma'am, the floor is yours."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:00:21",
+      "text": "Thanks, and good morning. Thank you for standing by, and welcome to The Real Brokerage Inc. conference call and webcast for the second quarter ended June 30, 2025. We appreciate everyone for joining us today. With me on the call today are Tamir Poleg, our Chairman and Chief Executive Officer, Jenna Rozenblat, our Chief Operating Officer, and Ravi Jani, our Chief Financial Officer. This morning, The Real Brokerage Inc. published an earnings press release, including results for the second quarter ended June 30, 2025. The press release, along with the unaudited consolidated financial statements and related management's discussion and analysis for the quarter, have been filed with the U.S. Securities and Exchange Commission on EDGAR and with the Canadian securities regulators on SEDAR."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:01:05",
+      "text": "Before we get started, I'd like to remind everyone that statements made in this conference call that are not historical facts, including statements about future time periods, may be deemed to constitute forward-looking statements. Our actual results may differ materially from these forward-looking statements, and the risk factors that could cause these differences are detailed in our Canadian Continuous Disclosure Documents and SEC reports. The Real Brokerage Inc. disclaims any intent or obligation to update these forward-looking statements except as expressly required by law. With that, I'd like to turn the call over to Chairman and Chief Executive Officer Tamir Poleg. Tamir, please proceed."
+    },
+    {
+      "speaker_id": "speaker-3",
+      "speaker_name": "Speaker 3",
+      "speaker_role": "",
+      "timestamp": "00:01:43",
+      "text": "Good morning, and thank you, Alex. I will start with an overview of our strategy and recent business highlights. Jenna will provide an update on actions we are taking to drive agent growth, improve agent experience, and enhance operational efficiency, and Ravi will provide a more in-depth discussion of our financial results. I'll then provide a few closing remarks before opening up the call for Q&A. To begin, The Real Brokerage Inc. is a real estate technology company that is fundamentally different in our industry. Unlike traditional real estate brokerage firms, we provide real estate agents with a compelling combination of financial incentives, a proprietary software-based technology platform, which eliminates the need for an agent's physical office space, and a collaborative culture that we believe is unique in our industry."
+    },
+    {
+      "speaker_id": "speaker-3",
+      "speaker_name": "Speaker 3",
+      "speaker_role": "",
+      "timestamp": "00:02:27",
+      "text": "Our vision is to simplify life's most complex transaction, that is, a purchase or sale of a home, by empowering agents with the tools, technology, and resources they need to grow both their businesses and as individuals, all while delivering a more seamless experience for clients. In the near term, this vision includes the rollout of a consumer-facing product, which streamlines the client experience and enhances attachment of our higher margin ancillary services. Long term, we envision our platform encompassing a holistic ecosystem of real estate services and financial technology products, providing agents with avenues to build long-term wealth. Our goal is to redefine the role of a real estate brokerage in the lives of our agents and in the broader housing industry. Importantly, just like our institutional investors, many of our agents are also shareholders in our company."
+    },
+    {
+      "speaker_id": "speaker-3",
+      "speaker_name": "Speaker 3",
+      "speaker_role": "",
+      "timestamp": "00:03:19",
+      "text": "That is why we will remain relentless in our focus on delivering long-term value for our agents, for their clients, and for all of our shareholders. Moving to the quarter, this morning, The Real Brokerage Inc. reported record second-quarter results. Revenue in the second quarter increased by 59% versus the prior year to $541 million, driven by a 62% increase in the number of transactions closed. This compares favorably to the total existing home sales market, where industry transactions declined by 1% during the quarter. Importantly, all of our growth continues to be organic. Gross profit in the second quarter increased 50% to $47.9 million and outpaced a 42% increase in operating expenses, which totaled $46.2 million. I'm proud to say that this resulted in our first-ever quarter of positive operating income, which was $1.7 million in the quarter, and positive net income of $1.6 million."
+    },
+    {
+      "speaker_id": "speaker-3",
+      "speaker_name": "Speaker 3",
+      "speaker_role": "",
+      "timestamp": "00:04:17",
+      "text": "Adjusted EBITDA was positive $20 million, a 43% improvement from $14 million in the second quarter of 2024, and contributed to strong cash flow from operating activities of $41 million. Now turning to our agent community, we ended the second quarter with 28,000 agents, marking a 43% increase versus the prior year, and as of this morning, our agent count exceeds 29,200. This sustained growth underscores the compelling strength of our value proposition. During the second quarter, we offboarded over 1,500 agents who had either not renewed their real estate licenses or had not paid mandatory association dues. The outcome of this is clear in our performance metrics, where we saw transactions per average agent increase by 7% year over year, significantly outpacing industry averages."
+    },
+    {
+      "speaker_id": "speaker-3",
+      "speaker_name": "Speaker 3",
+      "speaker_role": "",
+      "timestamp": "00:05:06",
+      "text": "Moreover, our revenue churn, which remains a key indicator of our ability to retain our most productive agents, held firm at what we believe represents a best-in-class 2% in the quarter. Beyond our core brokerage strengths, a significant part of our long-term strategy involves the growth and scalability of our ancillary business lines, which today include One Real Mortgage, One Real Title, and Real Wallet. These segments are particularly strategic as they typically generate gross margins that are five to eight times higher than our core brokerage, representing powerful future profit drivers. In the second quarter, our ancillary business lines grew by a combined 50%, contributing approximately 1% of total revenue and nearly 5% of our gross profit. One Real Mortgage saw exceptional revenue growth of 80% in the quarter, with performance driven by the continued expansion of our loan officer network and successful promotional offers."
+    },
+    {
+      "speaker_id": "speaker-3",
+      "speaker_name": "Speaker 3",
+      "speaker_role": "",
+      "timestamp": "00:06:00",
+      "text": "For One Real Title, revenue growth was 7%. This deceleration was anticipated and is primarily due to the strategic shift in our title strategy that we discussed last quarter. We are purposefully transitioning from less scalable team-based joint ventures to more robust and profitable state-based JVs. In Q2, we launched the first three of our new state joint ventures, and while the revenue contribution from these JVs was minimal in the quarter given the necessary ramp-up time, we are confident in this model's long-term scalability and profitability. Lastly, Real Wallet continues to demonstrate strong progress across both product development and adoption and generated Q2 revenue of $250,000. Its growth has been particularly impressive. In the U.S., approximately 3,600 agents now use Real Wallet business checking accounts. This includes 850 agents utilizing the new tax-focused business checking accounts, which are specifically designed to help them better plan for their tax liabilities."
+    },
+    {
+      "speaker_id": "speaker-3",
+      "speaker_name": "Speaker 3",
+      "speaker_role": "",
+      "timestamp": "00:07:04",
+      "text": "Total Real Wallet deposits now exceed $14 million, a nearly 70% increase since our last earnings call in May. In Canada, we've extended $4 million in lines of credit to over 250 agents through our production-based lending program. In the third quarter, we will begin piloting our U.S. lending product and also formally launching Real Wallet rewards points. Given our U.S. agent base is nearly 10 times larger than our Canadian agent base, we are incredibly excited for the potential to significantly increase the size and impact of the Real Wallet portfolio. Lastly, before turning it over to Jenna, I want to discuss a recent strategic move that we believe significantly accelerates our consumer roadmap: the acquisition of Flyhomes' AI-powered consumer home search portal and related technology assets, which we announced on July 1. We believe this is a major step towards delivering an end-to-end AI-driven home buying experience."
+    },
+    {
+      "speaker_id": "speaker-3",
+      "speaker_name": "Speaker 3",
+      "speaker_role": "",
+      "timestamp": "00:08:03",
+      "text": "Our vision has always been to leverage technology to enhance every facet of the real estate transaction. The Flyhomes platform, with its deep MLS integrations, real-time market insights, and user-friendly interface, is a perfect fit. It will be integrated into Leo for Clients, our upcoming consumer-facing product, allowing us to offer a more intelligent and personalized home search journey. This acquisition is not just about technology; it also brings a talented team of experienced engineers with deep real estate and AI expertise into Real's R&D organization, bolstering our in-house capabilities. In addition, our mortgage broker subsidiary, One Real Mortgage, is offering Flyhomes' innovative \"buy before you sell\" financing solutions to clients, providing another powerful tool for our agents and their clients in competitive markets."
+    },
+    {
+      "speaker_id": "speaker-3",
+      "speaker_name": "Speaker 3",
+      "speaker_role": "",
+      "timestamp": "00:08:51",
+      "text": "The acquisition and our minority equity investment in Flyhomes were funded with cash on hand, and we expect the ongoing operating expense impact to be approximately $2 million to $3 million annually. We view this as a highly strategic investment that significantly strengthens our competitive position and accelerates our technology roadmap. Now, for more detail on our operational performance, I'll turn it over to our Chief Operating Officer, Jenna Rozenblat, for an update on our growth and agent initiatives."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:09:23",
+      "text": "Thank you, Tamir. Good morning, everyone. It's a pleasure to join you today. As The Real Brokerage Inc.'s Chief Operating Officer, I'm excited to share our progress this quarter. I'll do this in a top-five format, showing you how we're directly investing in our agents and constantly improving how we operate. Number one: boosting agent support with AI. At The Real Brokerage Inc., our overarching goal is to make sure our agents have every tool they need to succeed, and that starts with great support. We're constantly asking ourselves, how can we make things easier, faster, and more seamless for our agents? This quarter was a real breakthrough as we fully integrated Leo Copilot, our proprietary AI assistant, to be the first point of contact for agent support."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:10:11",
+      "text": "This means when agents use the recent apps to call our support line, Leo steps in first, providing immediate answers to their questions. Because of this, Leo reduced the number of calls received by our human support team by 28% during the second quarter. That's a huge win. It means agents get answers and solutions faster than ever before, and it frees up our expert human teams to focus on the more complex issues, truly improving the quality of our service. Number two: streamlining operations with advanced automation. Our focus on efficiency extends beyond support and is woven into every part of how we run our business. This quarter, we reached a big milestone in transaction processing."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:11:02",
+      "text": "Thanks to our proprietary reason software and increased focus on automation, we have tested and proven out our ability to automate the closing and payment processing for almost 50% of our transactions with the oversight of only a handful of remote employees. To give you some context, for a traditional brokerage to handle the same volume of transactions, it would likely require hundreds of U.S.-based employees working in a physical office space. As we move into the second half of the year, we're doubling down on automation, and that means standing up The Real Brokerage Inc.'s very own in-house AI automation team. Their job is to look at every single process across all of our departments and find even smarter ways to use AI and technology to scale our business effectively and efficiently. Number three: investing in productivity for all agents."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:12:00",
+      "text": "Beyond our operational improvements, we're making a significant investment in the real estate agent community. This fall, we're launching Agent Breakthrough, a free 60-day virtual program designed to significantly boost agent productivity. It will cover high-impact marketing strategies, practical AI training, and so much more. It'll be kicked off by one of the industry's most renowned coaches and backed by top industry and internal experts. This program represents a strategic commitment to agent success across the industry, and we're making it available to all real estate agents, no matter which brokerage they're affiliated with. Number four: building community with our Further Together event series. We believe that we go further together. That's why we're focused on fostering real connections and shared learnings through the new Further Together program. Starting in Q3, our agents will be driving a series of in-person coaching events across the country."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:13:06",
+      "text": "These gatherings are designed to level up their skills and encourage deeper collaboration across teams, states, and regions. These events are agent-led and spearheaded by many of our top growth ambassadors and local market leaders, enabled with the full support of The Real Brokerage Inc. What makes Further Together unique is its focus: no fluff, no pitches. Just real strategies and playbooks used by our best agents, demonstrating what's actually working to sell more homes today. It's about agents helping agents win, and elevating our collective community. Number five: enhancing our economic model for agent success. To really strengthen our value proposition, starting this month, we are rewarding agents with our recently announced revenue share model changes, which will allow agents who cap, hit elite, and/or grow large networks to unlock more revenue share tiers even faster."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:14:08",
+      "text": "These changes are entirely focused on rewarding our most productive and ambitious agents and network builders. By making it possible for them to earn even more as they reach new milestones, we believe we are making The Real Brokerage Inc. an even more compelling and rewarding place to build a successful and lasting real estate career. This holistic approach, from AI technology and efficient operations to our robust educational and community initiatives, is designed to help our agents excel. This is the engine driving our financial performance, and for a closer look at the numbers, here's Ravi."
+    },
+    {
+      "speaker_id": "speaker-2",
+      "speaker_name": "Speaker 2",
+      "speaker_role": "",
+      "timestamp": "00:14:48",
+      "text": "Thank you, Jenna, and good morning, everyone. I'm pleased to report on our financial performance for the second quarter, particularly as we achieved an important milestone in our journey with our first-ever quarter of positive net income. Our top-line growth remained impressive, with revenue in the second quarter increasing 59% year over year to a record $541 million. This was primarily driven by our brokerage segment, which saw a 62% increase in the number of transactions closed, which exceeded 49,000 in the quarter. Revenue from our ancillary businesses totaled $3.3 million during the second quarter, an increase of 50% year over year, with growth led by One Real Mortgage and supplemented by One Real Title and Real Wallet. As Tamir mentioned, Real Wallet generated approximately $250,000 in its second full quarter, with an annualized run rate now above $1 million."
+    },
+    {
+      "speaker_id": "speaker-2",
+      "speaker_name": "Speaker 2",
+      "speaker_role": "",
+      "timestamp": "00:15:45",
+      "text": "Gross profit also showed strong performance, increasing 50% year over year to $47.9 million, up from $31.9 million in the second quarter of 2024. Gross margin of 8.9% in the second quarter compares to 9.4% in the prior year. This year-over-year change reflects the growing share of revenue generated by agents who had reached their annual cap. For context, at the end of Q2, approximately 14% of our total agent base had capped, up from 11% a year ago. These agents contributed roughly 60% of total commission revenue in the quarter, compared to approximately 54% in Q2 2024. As a reminder, once an agent caps, they stop paying the standard 15% commission split and instead pay a flat per transaction fee of $285, which results in a lower gross margin on those transactions. Looking ahead, we remain focused on driving gross margin expansion over time as our ancillary businesses scale."
+    },
+    {
+      "speaker_id": "speaker-2",
+      "speaker_name": "Speaker 2",
+      "speaker_role": "",
+      "timestamp": "00:16:51",
+      "text": "However, we do expect the trend of more revenue being generated by more productive capped agents to continue in the second half of 2025, with this mix shift partially offset by the model changes we announced earlier in the year. Our total operating expenses, which include G&A, marketing, and R&D expenses, totaled $46.2 million in the second quarter, a 42% increase from $32.5 million in the prior year. The largest component of this increase was revenue share expense, which rose 41% to $17.6 million, up from $12.5 million in the prior year period. The remaining increase reflects investments to support our rapid growth, including expanding our operations and R&D teams and enhancing our technology platform. Total OpEx is a percentage of revenue, with 8.5% in the second quarter of 2025, a 100 basis point improvement from 9.5% during the second quarter of 2024."
+    },
+    {
+      "speaker_id": "speaker-2",
+      "speaker_name": "Speaker 2",
+      "speaker_role": "",
+      "timestamp": "00:17:52",
+      "text": "While adjusted operating expense, which is a non-GAAP measure, was $22.6 million, or 4.2% of revenue, compared to 4.3% of revenue in the prior year period. On a per transaction basis, adjusted operating expense per transaction declined by 5% year over year to $459, demonstrating our ability to scale efficiently. Importantly, growth in gross profit outpaced growth in operating expenses, resulting in operating income of positive $1.7 million in the second quarter, an improvement from a loss of $0.6 million in the prior year. Net income was positive $1.6 million, an improvement from a net loss of $1.1 million in the prior year period. It's worth noting that our core brokerage segment generated $3 million in operating income in the quarter. However, this was partially offset by our ancillary business lines, where we are investing today to build profit drivers for the future."
+    },
+    {
+      "speaker_id": "speaker-2",
+      "speaker_name": "Speaker 2",
+      "speaker_role": "",
+      "timestamp": "00:18:56",
+      "text": "Adjusted EBITDA rose to $20 million, a 43% improvement from $14 million in the second quarter of 2024, driven by our strong revenue and gross profit growth, which outpaced growth in our ongoing cash operating expenses. Stock-based compensation was approximately $18 million in the quarter, broken down as follows: $12 million reflected in cost of sales related to the agent stock purchase program, $3.5 million in agent equity awards reported in marketing, and $2 million in employee-related stock compensation. During the quarter, The Real Brokerage Inc. generated cash from operating activities of $41 million, including $16 million in customer deposits, and allocated $2.7 million to share repurchases. We ended the quarter with unrestricted cash and investments at an all-time high of $55 million on our balance sheet, and we continue to have no debt."
+    },
+    {
+      "speaker_id": "speaker-2",
+      "speaker_name": "Speaker 2",
+      "speaker_role": "",
+      "timestamp": "00:19:52",
+      "text": "Given our strong cash position and confidence in our outlook, we expect to increase our pace of share repurchases in the second half of the year under our recently announced buyback authorization. To close, I'll recap a few KPIs we're commonly asked about. The total value of homes transacted over our platform increased to $20.1 billion in the second quarter, a 60% year-over-year increase. The median sale price of properties sold by our agents was $387,000, which represents a 1% year-over-year increase, and our headcount efficiency ratio, which we define as the number of full-time employees, excluding title and mortgage employees, divided by the number of agents on our platform, was 1 to 87 at the end of the second quarter. As we look ahead, while we don't provide formal guidance, it's important to provide some context for the second half of the year."
+    },
+    {
+      "speaker_id": "speaker-2",
+      "speaker_name": "Speaker 2",
+      "speaker_role": "",
+      "timestamp": "00:20:48",
+      "text": "Consistent with typical industry seasonality, we anticipate revenue in the third quarter to decline modestly from second-quarter levels, consistent with peer reports. This period also generally sees a higher mix of agents reaching their annual commission caps, which would lead to a sequentially lower gross margin percentage. From an OpEx perspective, we expect an increase in the third quarter relative to second-quarter levels, reflecting headcount additions across the business, expenses related to the acquisition of Flyhomes' consumer search portal, investments in AI automation efforts, and higher professional fees. As always, we will remain disciplined in managing OpEx, balancing near-term priorities with a focus on driving long-term value. More details on our results and key operating metrics can be found in the earnings press release and investor presentation that accompanied this call. I will now turn it back to Tamir."
+    },
+    {
+      "speaker_id": "speaker-3",
+      "speaker_name": "Speaker 3",
+      "speaker_role": "",
+      "timestamp": "00:21:44",
+      "text": "Thank you, Ravi and Jenna. I'm particularly proud of our performance this quarter, which should stand as powerful proof our model works. It's generating substantial cash flow and now profitability, even in the most challenging market environment seen in decades. We believe this should provide confidence in our future, knowing that we are still in the early innings of transforming this industry. It's evident that the housing market today faces headwinds. Agents across the board are battling volatile interest rates and fundamental changes in how business is conducted. It is precisely in this environment that The Real Brokerage Inc.'s unique model shines. Our platform was built not just to navigate these challenges, but to empower our agents to truly dominate."
+    },
+    {
+      "speaker_id": "speaker-3",
+      "speaker_name": "Speaker 3",
+      "speaker_role": "",
+      "timestamp": "00:22:25",
+      "text": "We are more convinced than ever that a significant majority of agents in this industry are leaving substantial income on the table by affiliating with any brokerage other than The Real Brokerage Inc. Crucially, with the investments we are making in powerful AI tools, next-generation technology, and unparalleled training, we believe those operating outside of The Real Brokerage Inc. are also soon to find themselves outskilled and outmaneuvered, as technology fundamentally reshapes the home buying and selling experience. We understand that in life and in business, cycles never work in a straight line. The old playbooks and strategies that worked in past cycles simply no longer apply. We know that because we're the ones rewriting them."
+    },
+    {
+      "speaker_id": "speaker-3",
+      "speaker_name": "Speaker 3",
+      "speaker_role": "",
+      "timestamp": "00:23:03",
+      "text": "We remain laser-focused on building something genuinely unique: a comprehensive platform for solo agents, large teams, and independent brokerages to build businesses that deliver long-term wealth, manage business finances, and provide clients with unparalleled service, certainty, and a seamless offering of real estate services to make the home buying and selling journey incredible. This company, and all its success, is a direct result of the hard work, dedication, and entrepreneurial spirit of every agent on our platform and employee on our team. We are confident that delivering on our mission can create significant enduring value for all of our stakeholders. We are excited about the opportunities ahead, and we look forward to updating you on our continued progress. Now, let's move to the Q&A session."
+    },
+    {
+      "speaker_id": "speaker-6",
+      "speaker_name": "Speaker 6",
+      "speaker_role": "",
+      "timestamp": "00:23:51",
+      "text": "Certainly. Ladies and gentlemen, the floor is now open for questions. If you have any questions or comments, please press *1 on your phone at this time. Your first question is coming from Stephen Sheldon from William Blair. Your line is live."
+    },
+    {
+      "speaker_id": "speaker-6",
+      "speaker_name": "Speaker 6",
+      "speaker_role": "",
+      "timestamp": "00:24:08",
+      "text": "Hey, good morning. Thanks for taking my question. First one here, just on the revenue share model enhancements. Just wanted to ask, how should investors be thinking about the potential financial impact from these changes? How could it change the financial model?"
+    },
+    {
+      "speaker_id": "speaker-3",
+      "speaker_name": "Speaker 3",
+      "speaker_role": "",
+      "timestamp": "00:24:24",
+      "text": "Hi, Steven. Good morning. As you may recall, revenue share is capped at 60% of our split, and those changes do not impact that, so there will be no financial impact on our financial statements. There will be some sort of a redistribution of revenue share internally within the agent community. The company will continue to pay the same amount in revenue share, but it's going to be distributed a little bit differently within the agent community."
+    },
+    {
+      "speaker_id": "speaker-3",
+      "speaker_name": "Speaker 3",
+      "speaker_role": "",
+      "timestamp": "00:24:56",
+      "text": "Okay, got it. Makes sense. On gross margins, I think, Ravi, you noted expecting a sequential decline 2Q to 3Q, just given as more revenue comes through capped agents. Should we be assuming, as we think about the second half of the year, as we think about year over year, would it be fair to think that gross margins are going to be down year over year in the second half?"
+    },
+    {
+      "speaker_id": "speaker-2",
+      "speaker_name": "Speaker 2",
+      "speaker_role": "",
+      "timestamp": "00:25:23",
+      "text": "Hey, Steven. Yeah, thanks for the question. I mean, I think given the dynamic you've seen in the first half of the year, where margins were down, you would expect that to continue. It's really the high-class problem of more revenue being generated by more productive agents on our platform. Now, in a more normalized market, when you have some of the less productive agents contributing more revenue, we would expect that mix shift to go the other way. I think it's a bit of a sign of the times, and you've seen that in other reports, that in the current market environment, the best agents are getting more of the market share, and that's what's leading to the margin trends you noted."
+    },
+    {
+      "speaker_id": "speaker-2",
+      "speaker_name": "Speaker 2",
+      "speaker_role": "",
+      "timestamp": "00:26:05",
+      "text": "Got it. Yeah, that makes sense. Maybe just the last one for me. It'd just be great to get an update on what you're seeing in the agent and team recruiting pipelines. How is that looking? Maybe just an update there."
+    },
+    {
+      "speaker_id": "speaker-3",
+      "speaker_name": "Speaker 3",
+      "speaker_role": "",
+      "timestamp": "00:26:23",
+      "text": "Sure. The pipeline is very strong, both with the solo agents and teams of various sizes. As you can see, we added around 1,200 agents since the beginning of the quarter, so in a period of about five weeks. That gives you an indication that growth is strong. I think that what happened in the second quarter was, or somewhat of a slowdown in the net agent count, was because of a significant offboarding of a large amount of agents that we indicated, more than 1,500 agents that were almost all of them were non-productive, were offboarded. That resulted in somewhat of a slowdown in agent count, at the same time, an improvement in the per agent productivity that rose 7%. We're back on track, and we added around 1,200 agents in the past five weeks. The pipeline is still very strong."
+    },
+    {
+      "speaker_id": "speaker-3",
+      "speaker_name": "Speaker 3",
+      "speaker_role": "",
+      "timestamp": "00:27:15",
+      "text": "Good to hear. Are you through that churn process, I guess, with the unproductive agents? Will there be more churn?"
+    },
+    {
+      "speaker_id": "speaker-3",
+      "speaker_name": "Speaker 3",
+      "speaker_role": "",
+      "timestamp": "00:27:23",
+      "text": "Yeah, this is very much market dependent. I think that we've seen that across the industry. I recently read some quote by the National Association of Realtors. They expect about 200,000 agents to leave between now and the same time next year. I think that the number of agents in the industry is going down, but we are retaining the agents that are actually closing deals. Obviously, we care deeply about agents, and we care about transactions, and we're very happy to retain the transactions. This is kind of a normal course of business in our industry. When the market is tough, agents leave the industry, and when the market is good, agents join the industry. At the same time, I think that we're pretty much the only company that is growing market share significantly at this point. We're taking market share from everybody else."
+    },
+    {
+      "speaker_id": "speaker-3",
+      "speaker_name": "Speaker 3",
+      "speaker_role": "",
+      "timestamp": "00:28:18",
+      "text": "Sounds good. All right. Thank you for taking my questions. Appreciate it."
+    },
+    {
+      "speaker_id": "speaker-3",
+      "speaker_name": "Speaker 3",
+      "speaker_role": "",
+      "timestamp": "00:28:21",
+      "text": "Thank you."
+    },
+    {
+      "speaker_id": "speaker-3",
+      "speaker_name": "Speaker 3",
+      "speaker_role": "",
+      "timestamp": "00:28:23",
+      "text": "Thanks, Steven."
+    },
+    {
+      "speaker_id": "speaker-6",
+      "speaker_name": "Speaker 6",
+      "speaker_role": "",
+      "timestamp": "00:28:23",
+      "text": "Thank you. Your next question is coming from Matthew Erdner from JonesTrading. Your line is live."
+    },
+    {
+      "speaker_id": "speaker-6",
+      "speaker_name": "Speaker 6",
+      "speaker_role": "",
+      "timestamp": "00:28:30",
+      "text": "Hey, good morning, guys. Thanks for taking the question, and congrats on the continued growth. Turning to the ancillary services that will drive further margin expansion, you guys have touched on the productive agents. What goals do you have internally to help those guys kind of cross-sell those other products as they complete a transaction?"
+    },
+    {
+      "speaker_id": "speaker-3",
+      "speaker_name": "Speaker 3",
+      "speaker_role": "",
+      "timestamp": "00:28:54",
+      "text": "We've been communicating that our belief is that meaningful ancillary services adoption will come through product enhancements and not necessarily through the kind of the traditional way of attaching mortgage and title, meaning reaching out to our agent community and trying to persuade them to bring their deals over. Having said that, we did make a change in our title JV, and we went from team-based JV to state-based JV, and we're getting very encouraging signs of that actually working and picking up. I think that that will drive significant growth in the coming quarters. On the mortgage side, we grew 80% year over year."
+    },
+    {
+      "speaker_id": "speaker-3",
+      "speaker_name": "Speaker 3",
+      "speaker_role": "",
+      "timestamp": "00:29:35",
+      "text": "I think that there's a lot of initiatives that we can take from very simple things such as introducing you to your lender or kind of contact person at One Real Mortgage once an agent's onboard our platform through things that are a little bit more complicated and sophisticated, which are AI-driven. I think that a combination of what we're doing currently with the upcoming launch of Leo for Clients is going to drive meaningful adoption in the next few years. For now, attach rates are around 4% on mortgage and about 1% on title. Obviously, we want this to get to the double digits as soon as we can."
+    },
+    {
+      "speaker_id": "speaker-2",
+      "speaker_name": "Speaker 2",
+      "speaker_role": "",
+      "timestamp": "00:30:20",
+      "text": "Right. Sorry, just to clarify, it's 4% title and 1% mortgage."
+    },
+    {
+      "speaker_id": "speaker-3",
+      "speaker_name": "Speaker 3",
+      "speaker_role": "",
+      "timestamp": "00:30:27",
+      "text": "Oh, sorry."
+    },
+    {
+      "speaker_id": "speaker-3",
+      "speaker_name": "Speaker 3",
+      "speaker_role": "",
+      "timestamp": "00:30:28",
+      "text": "Got it. That's helpful."
+    },
+    {
+      "speaker_id": "speaker-3",
+      "speaker_name": "Speaker 3",
+      "speaker_role": "",
+      "timestamp": "00:30:29",
+      "text": "By the way, just one thing, we didn't mention Real Wallet, but Real Wallet is growing faster than we thought. I indicated a little bit about the revenue that it's generating. We still haven't launched the lines of credit in the U.S., which is the most profitable product, which we're going to launch in the next few weeks. We anticipate Wallet to drive meaningful revenue growth and profitability, even in the short term."
+    },
+    {
+      "speaker_id": "speaker-3",
+      "speaker_name": "Speaker 3",
+      "speaker_role": "",
+      "timestamp": "00:30:56",
+      "text": "Thanks for that. Touching on that credit piece, have you guys kind of talked to the agents so far and gotten any indication of what the usage is going to be and what that initial rollout will look like?"
+    },
+    {
+      "speaker_id": "speaker-3",
+      "speaker_name": "Speaker 3",
+      "speaker_role": "",
+      "timestamp": "00:31:10",
+      "text": "We're going to roll it out in stages. It's not going to be open in all states and for all agents. Just as an indication, agents in Canada used a little bit north of $4 million in lines of credit in the past few months since we launched it. We have 10 times more agents in the U.S. compared to Canada, so you can assess the potential over there based on those numbers. I think that the demand is going to be very solid. It's just about our appetite to lend and the scalability of the product itself."
+    },
+    {
+      "speaker_id": "speaker-3",
+      "speaker_name": "Speaker 3",
+      "speaker_role": "",
+      "timestamp": "00:31:52",
+      "text": "Got it. That's great. Thank you, guys."
+    },
+    {
+      "speaker_id": "speaker-3",
+      "speaker_name": "Speaker 3",
+      "speaker_role": "",
+      "timestamp": "00:31:55",
+      "text": "Thank you."
+    },
+    {
+      "speaker_id": "speaker-2",
+      "speaker_name": "Speaker 2",
+      "speaker_role": "",
+      "timestamp": "00:31:55",
+      "text": "Thanks, Matt."
+    },
+    {
+      "speaker_id": "speaker-6",
+      "speaker_name": "Speaker 6",
+      "speaker_role": "",
+      "timestamp": "00:31:57",
+      "text": "Thank you. Your next question is coming from Navid Khan from B. Riley. Your line is live."
+    },
+    {
+      "speaker_id": "speaker-6",
+      "speaker_name": "Speaker 6",
+      "speaker_role": "",
+      "timestamp": "00:32:05",
+      "text": "Thank you very much. On title, I understand you're moving to a state-level JV. How many states have you launched the JVs in? Any sort of early learnings that you can share would be great. In terms of the transaction processing, it's great to see the level of automation you're able to drive. I think you shared some stats about how you don't need hundreds of employees like in a traditional brokerage. Are there more levers to pull here in terms of automation that can drive it even higher? Just talk about that a little bit. Thank you."
+    },
+    {
+      "speaker_id": "speaker-3",
+      "speaker_name": "Speaker 3",
+      "speaker_role": "",
+      "timestamp": "00:32:40",
+      "text": "Sure. The intention is to open up about 12 state JVs in the near term, and some of them are already set up. Some of them started working, and on others we're actually working as we speak. We just see great buy-in and great demand from agents. We think that this is going to be super successful, and we also have initial very positive signs from a couple of states where we already launched. Those things take a little bit of time, and we've seen a little bit of a dip in the growth during the second quarter due to that change in strategy. We're very confident that we'll get back on track and get to a very meaningful growth in title. In terms of efficiency, maybe I'll let Jenna touch on that."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:33:29",
+      "text": "Yes, absolutely. There are definitely more levels of automation for us to pull. We have a roadmap that we're working through, and we're really excited about in Q3. We're building out an AI and automation team that's going to be really diving in headfirst to get going even faster in the next quarter. We're really excited to see the outcome of that over the next few weeks and months. We're just getting started, so a lot more to come."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:33:56",
+      "text": "Maybe just a quick clarification on the mortgage revenue growth. It's really good to see these growth rates here. Did you change something in the incentives, whether it's for the customer and customers, or whether it's for the agent that is contributing to this? How should we think about this?"
+    },
+    {
+      "speaker_id": "speaker-3",
+      "speaker_name": "Speaker 3",
+      "speaker_role": "",
+      "timestamp": "00:34:22",
+      "text": "Yeah, some of the growth was driven by some incentive that we provided to the end client, meaning the buyer or the borrower, in terms of a rebate at closing. There was no incentive to the agent, just incentive to the client. However, we do think that we can even accelerate that growth, not necessarily with additional promotions."
+    },
+    {
+      "speaker_id": "speaker-2",
+      "speaker_name": "Speaker 2",
+      "speaker_role": "",
+      "timestamp": "00:34:51",
+      "text": "Great. Thank you."
+    },
+    {
+      "speaker_id": "speaker-3",
+      "speaker_name": "Speaker 3",
+      "speaker_role": "",
+      "timestamp": "00:34:53",
+      "text": "Thank you."
+    },
+    {
+      "speaker_id": "speaker-3",
+      "speaker_name": "Speaker 3",
+      "speaker_role": "",
+      "timestamp": "00:34:54",
+      "text": "Thanks, Navid."
+    },
+    {
+      "speaker_id": "speaker-6",
+      "speaker_name": "Speaker 6",
+      "speaker_role": "",
+      "timestamp": "00:34:55",
+      "text": "Thank you. Once again, everyone, if you have any questions or comments, please press * then 1 on your phone. Your next question is coming from Nick McAndrew from Zelman & Associates. Your line is live."
+    },
+    {
+      "speaker_id": "speaker-6",
+      "speaker_name": "Speaker 6",
+      "speaker_role": "",
+      "timestamp": "00:35:09",
+      "text": "Hey, guys. Thanks for taking my question. I wanted to focus a bit on the agent productivity side of things. It looks like the growth in transactions relative to agent count was very strong, and you've outpaced the industry really over the past two years. Can you just give a little color on maybe what's driving some of that outperformance? Is it a function of high-quality teams and brokerages joining the platform, or is it the tools and tech that you're rolling out to agents that are making them more efficient? Thank you."
+    },
+    {
+      "speaker_id": "speaker-2",
+      "speaker_name": "Speaker 2",
+      "speaker_role": "",
+      "timestamp": "00:35:43",
+      "text": "Yeah. Hey, Nick. Thanks for the question. You know, it's really a combination, I think, on the quality of teams joining. For sure, I think with rolling out private label and pro teams over the last 18 to 24 months, we've just seen the uptick with some of the most productive teams in the industry joining our platform really accelerate relative to 2020 through 2023. I think the mix of agents and the teams that are joining are just really some of the top quality, most productive teams in the industry. I think you'll see that trend continue. Thank you for pointing it out that really over the last two-plus years, you've seen our average productivity per agent outpace the industry. That is a trend that we do expect to continue. To your other point of the question, is it the efficiencies we're enabling?"
+    },
+    {
+      "speaker_id": "speaker-2",
+      "speaker_name": "Speaker 2",
+      "speaker_role": "",
+      "timestamp": "00:36:38",
+      "text": "I mean, we certainly hope so with everything we're doing on the AI side and on the technology side that agents can spend less time doing the manual tasks that get done in an office and more time out in the field with clients. I think it's a combination of both of those things, and we expect both trends to continue well into the future."
+    },
+    {
+      "speaker_id": "speaker-2",
+      "speaker_name": "Speaker 2",
+      "speaker_role": "",
+      "timestamp": "00:37:00",
+      "text": "Great. Thanks, Ravi. That's helpful. Maybe just one on the retention side of things. You've called out that notable gap between agent churn and revenue churn in the past, which suggests that agents leaving are generally lower-producing agents. I guess building off of that, are you starting to see any correlation between deeper adoption of the ecosystem and retention? What I mean by that is, is RealWallet, for example, something that can become more of a retention lever as well, in addition to that uncorrelated revenue stream?"
+    },
+    {
+      "speaker_id": "speaker-2",
+      "speaker_name": "Speaker 2",
+      "speaker_role": "",
+      "timestamp": "00:37:34",
+      "text": "Yeah, that's a great question."
+    },
+    {
+      "speaker_id": "speaker-3",
+      "speaker_name": "Speaker 3",
+      "speaker_role": "",
+      "timestamp": "00:37:37",
+      "text": "Sorry, go ahead, Ravi."
+    },
+    {
+      "speaker_id": "speaker-2",
+      "speaker_name": "Speaker 2",
+      "speaker_role": "",
+      "timestamp": "00:37:39",
+      "text": "Yeah, I can address it, and Tamir can also weigh in. Definitely on the RealWallet side, I think when we look at adoption of RealWallet and who is the most active users of RealWallet, it's definitely those agents who are generating north of $100,000 of gross commission income. I think you're exactly right in that thesis, and I'm hopeful that as U.S. lending launches, you'll see that trend get even stronger. Early days, but the signs are certainly pointing in that direction, which is encouraging. Tamir, anything you wanted to add?"
+    },
+    {
+      "speaker_id": "speaker-3",
+      "speaker_name": "Speaker 3",
+      "speaker_role": "",
+      "timestamp": "00:38:17",
+      "text": "Yeah, I mean, we do expect RealWallet to drive retention of higher-producing agents because of a couple of points. Obviously, if somebody is using the line of credit, this is something that is not available to them anywhere else, and this is a good enough reason to stay beyond everything else that we offer. Number two, with the point/reward system, if you will consider leaving The Real Brokerage Inc., you will be leaving money on the table because of the points that you have. I think that ultimately the RealWallet is going to allow you to manage all of your finances. Retirement, some investment tools as well, better planning, and I think that this is just going to keep people on the platform also in addition to all of the other reasons."
+    },
+    {
+      "speaker_id": "speaker-3",
+      "speaker_name": "Speaker 3",
+      "speaker_role": "",
+      "timestamp": "00:39:04",
+      "text": "Great. Thank you both."
+    },
+    {
+      "speaker_id": "speaker-3",
+      "speaker_name": "Speaker 3",
+      "speaker_role": "",
+      "timestamp": "00:39:06",
+      "text": "Thank you."
+    },
+    {
+      "speaker_id": "speaker-2",
+      "speaker_name": "Speaker 2",
+      "speaker_role": "",
+      "timestamp": "00:39:08",
+      "text": "Thanks, Nick."
+    },
+    {
+      "speaker_id": "speaker-6",
+      "speaker_name": "Speaker 6",
+      "speaker_role": "",
+      "timestamp": "00:39:09",
+      "text": "Thank you. There are no further questions from analysts in the queue."
+    },
+    {
+      "speaker_id": "speaker-2",
+      "speaker_name": "Speaker 2",
+      "speaker_role": "",
+      "timestamp": "00:39:15",
+      "text": "Great. Thanks, Matthew. Now that we've concluded the analyst portion of the call, we will address some of the questions received from shareholders on the SAY Technologies portal that was open last week. We received a number of excellent questions, and thank you to all who participated. First question for Tamir: how are you adapting operational strategies to the current macro challenges in the market, and what specific actions are you preparing to take in the next 12 to 18 months?"
+    },
+    {
+      "speaker_id": "speaker-3",
+      "speaker_name": "Speaker 3",
+      "speaker_role": "",
+      "timestamp": "00:39:44",
+      "text": "That's an interesting question, and it gets to the heart of our technology. We're working on big things at Real, and our initiatives are not designed to respond to short-term changes in the market, even though sometimes it is tempting to do so. Instead, we are building a business for the long term, and our strategic framework is to balance our continued growth with relentless focus on technology and AI to keep our model lean and efficient. This long-term mindset is how we ensure that Real can not only withstand challenging environments, but can emerge even stronger from them. This is how we actually kind of conducted ourselves since day one, and this is how we will continue to do."
+    },
+    {
+      "speaker_id": "speaker-2",
+      "speaker_name": "Speaker 2",
+      "speaker_role": "",
+      "timestamp": "00:40:27",
+      "text": "Great. Thanks, Tamir. Next question for Jenna. Could you explain how contract labor is utilized by Real, and what functions or tasks are being done by contractors versus full-time employees?"
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:40:42",
+      "text": "Sure, absolutely. Our focus has always been to leverage technology to enable us to scale efficiently with a relatively lean full-time employee base, and we believe that that is a significant competitive advantage that we have. With that said, we do strategically use a mix of contract labor and full-time employees to support our growth. In the first quarter, we converted about 130 contractors based in India to full-time employees, and there are still certain functions in the U.S. and Canada that are being handled by contractors, but we evaluate those roles on an annual basis just to ensure that we have the right balance."
+    },
+    {
+      "speaker_id": "speaker-2",
+      "speaker_name": "Speaker 2",
+      "speaker_role": "",
+      "timestamp": "00:41:23",
+      "text": "Thanks, Jenna. I'll take the third question, which is: what are your goals and timeline to achieve a positive earnings per share? Besides share buybacks, what else do you plan to do with your cash flow? Happy to say that we've answered the first question this quarter, and our goal will be to continue to build on this momentum in the future. On the capital allocation front, as I mentioned, we will be active on the buyback front in the second half of the year, and we will also remain opportunistic with M&A, both looking at technology as well as profitable businesses that could add unique capabilities to our platform. For our last question for Tamir, could you please elaborate on the R&D prioritization strategy for the coming years?"
+    },
+    {
+      "speaker_id": "speaker-3",
+      "speaker_name": "Speaker 3",
+      "speaker_role": "",
+      "timestamp": "00:42:12",
+      "text": "Sure. First, we will continue to strengthen our core proprietary technology and our recent platform. Second, we are focused on leveraging AI to drive greater efficiency across the entire company, which you heard Jenna talk about in her remarks. Third, we are making a significant investment in our consumer roadmap, specifically with Leo for Clients. We believe this will have a meaningful impact on the agent experience, strengthening our competitive advantage and driving higher attachment of our higher margin ancillary services. Finally, we will continue to invest heavily in the evolution of Real Wallet, where we believe we are creating a new business model for agents by providing them with powerful financial tools to manage their business, finances, and also grow their wealth."
+    },
+    {
+      "speaker_id": "speaker-2",
+      "speaker_name": "Speaker 2",
+      "speaker_role": "",
+      "timestamp": "00:43:04",
+      "text": "Great. Thanks, Tamir. Matthew, if you could provide instructions for the replay, that would be great."
+    },
+    {
+      "speaker_id": "speaker-6",
+      "speaker_name": "Speaker 6",
+      "speaker_role": "",
+      "timestamp": "00:43:16",
+      "text": "Absolutely. In order to access the replay, you need to dial 877-481-4010 with a confirmation code of 52691. Once again, the phone number is 877-481-4010 and the confirmation code is 52691. The replay will be available at 11:00 A.M. Eastern today. Ladies and gentlemen, this does conclude today's conference call. You may disconnect your phone lines at this time and have a wonderful day. Thank you for your time."
+    }
+  ],
+  "statements": [
+    {
+      "id": "REAX-FY2025Q2-001",
+      "turn_index": 5,
+      "speaker_id": "speaker-3",
+      "verbatim_quote": "Revenue in the second quarter increased by 59% versus the prior year to $541 million, driven by a 62% increase in the number of transactions closed.",
+      "claim": "Real Brokerage reported Q2 2025 revenue of $541 million, a 59% year-over-year increase, driven by a 62% increase in closed transactions.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2025Q2-002",
+      "turn_index": 5,
+      "speaker_id": "speaker-3",
+      "verbatim_quote": "Gross profit in the second quarter increased 50% to $47.9 million and outpaced a 42% increase in operating expenses, which totaled $46.2 million.",
+      "claim": "Real Brokerage reported Q2 2025 gross profit of $47.9 million (up 50% YoY) and operating expenses of $46.2 million (up 42% YoY).",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2025Q2-003",
+      "turn_index": 5,
+      "speaker_id": "speaker-3",
+      "verbatim_quote": "I'm proud to say that this resulted in our first-ever quarter of positive operating income, which was $1.7 million in the quarter, and positive net income of $1.6 million.",
+      "claim": "Real Brokerage achieved its first-ever quarter of positive operating income ($1.7 million) and positive net income ($1.6 million) in Q2 2025.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2025Q2-004",
+      "turn_index": 6,
+      "speaker_id": "speaker-3",
+      "verbatim_quote": "Adjusted EBITDA was positive $20 million, a 43% improvement from $14 million in the second quarter of 2024, and contributed to strong cash flow from operating activities of $41 million.",
+      "claim": "Real Brokerage reported Q2 2025 Adjusted EBITDA of $20 million and cash flow from operating activities of $41 million.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2025Q2-005",
+      "turn_index": 6,
+      "speaker_id": "speaker-3",
+      "verbatim_quote": "we ended the second quarter with 28,000 agents, marking a 43% increase versus the prior year, and as of this morning, our agent count exceeds 29,200.",
+      "claim": "Real Brokerage ended Q2 2025 with 28,000 agents and reported an agent count exceeding 29,200 as of the call date.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2025Q2-006",
+      "turn_index": 6,
+      "speaker_id": "speaker-3",
+      "verbatim_quote": "During the second quarter, we offboarded over 1,500 agents who had either not renewed their real estate licenses or had not paid mandatory association dues.",
+      "claim": "Real Brokerage offboarded over 1,500 non-compliant agents during Q2 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2025Q2-007",
+      "turn_index": 6,
+      "speaker_id": "speaker-3",
+      "verbatim_quote": "transactions per average agent increase by 7% year over year",
+      "claim": "Real Brokerage reported a 7% year-over-year increase in transactions per average agent in Q2 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2025Q2-008",
+      "turn_index": 7,
+      "speaker_id": "speaker-3",
+      "verbatim_quote": "our revenue churn, which remains a key indicator of our ability to retain our most productive agents, held firm at what we believe represents a best-in-class 2% in the quarter.",
+      "claim": "Real Brokerage reported revenue churn of 2% in Q2 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2025Q2-009",
+      "turn_index": 7,
+      "speaker_id": "speaker-3",
+      "verbatim_quote": "In the second quarter, our ancillary business lines grew by a combined 50%, contributing approximately 1% of total revenue and nearly 5% of our gross profit.",
+      "claim": "Real Brokerage's ancillary business lines grew 50% in Q2 2025, contributing ~1% of total revenue and ~5% of gross profit.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2025Q2-010",
+      "turn_index": 7,
+      "speaker_id": "speaker-3",
+      "verbatim_quote": "One Real Mortgage saw exceptional revenue growth of 80% in the quarter",
+      "claim": "One Real Mortgage revenue grew 80% year-over-year in Q2 2025.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2025Q2-011",
+      "turn_index": 8,
+      "speaker_id": "speaker-3",
+      "verbatim_quote": "For One Real Title, revenue growth was 7%.",
+      "claim": "One Real Title revenue grew 7% year-over-year in Q2 2025.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2025Q2-012",
+      "turn_index": 8,
+      "speaker_id": "speaker-3",
+      "verbatim_quote": "In Q2, we launched the first three of our new state joint ventures",
+      "claim": "Real Brokerage launched three new state-based joint ventures for One Real Title in Q2 2025.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2025Q2-013",
+      "turn_index": 8,
+      "speaker_id": "speaker-3",
+      "verbatim_quote": "Real Wallet continues to demonstrate strong progress across both product development and adoption and generated Q2 revenue of $250,000.",
+      "claim": "Real Wallet generated $250,000 in revenue in Q2 2025.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2025Q2-014",
+      "turn_index": 8,
+      "speaker_id": "speaker-3",
+      "verbatim_quote": "In the U.S., approximately 3,600 agents now use Real Wallet business checking accounts. This includes 850 agents utilizing the new tax-focused business checking accounts",
+      "claim": "Approximately 3,600 U.S. agents use Real Wallet business checking accounts, including 850 using tax-focused accounts, as of Q2 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2025Q2-015",
+      "turn_index": 9,
+      "speaker_id": "speaker-3",
+      "verbatim_quote": "Total Real Wallet deposits now exceed $14 million, a nearly 70% increase since our last earnings call in May.",
+      "claim": "Total Real Wallet deposits exceeded $14 million as of the call date, a ~70% increase since May.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2025Q2-016",
+      "turn_index": 9,
+      "speaker_id": "speaker-3",
+      "verbatim_quote": "In Canada, we've extended $4 million in lines of credit to over 250 agents through our production-based lending program.",
+      "claim": "Real Brokerage extended $4 million in lines of credit to over 250 agents in Canada.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2025Q2-017",
+      "turn_index": 9,
+      "speaker_id": "speaker-3",
+      "verbatim_quote": "In the third quarter, we will begin piloting our U.S. lending product and also formally launching Real Wallet rewards points.",
+      "claim": "Real Brokerage will pilot its U.S. lending product and launch Real Wallet rewards points in Q3 2025.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2025Q2-018",
+      "turn_index": 9,
+      "speaker_id": "speaker-3",
+      "verbatim_quote": "the acquisition of Flyhomes' AI-powered consumer home search portal and related technology assets, which we announced on July 1.",
+      "claim": "Real Brokerage acquired Flyhomes' AI-powered consumer home search portal and technology assets, announced July 1, 2025.",
+      "categorizations": [
+        "strategic_direction_claim"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2025Q2-019",
+      "turn_index": 11,
+      "speaker_id": "speaker-3",
+      "verbatim_quote": "The acquisition and our minority equity investment in Flyhomes were funded with cash on hand, and we expect the ongoing operating expense impact to be approximately $2 million to $3 million annually.",
+      "claim": "Real Brokerage expects the ongoing annual operating expense impact of the Flyhomes acquisition to be $2 million to $3 million.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2025Q2-020",
+      "turn_index": 13,
+      "speaker_id": "operator",
+      "verbatim_quote": "Leo reduced the number of calls received by our human support team by 28% during the second quarter.",
+      "claim": "Leo Copilot reduced calls to the human support team by 28% in Q2 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2025Q2-021",
+      "turn_index": 14,
+      "speaker_id": "operator",
+      "verbatim_quote": "we have tested and proven out our ability to automate the closing and payment processing for almost 50% of our transactions with the oversight of only a handful of remote employees.",
+      "claim": "Real Brokerage automated closing and payment processing for almost 50% of transactions in Q2 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2025Q2-022",
+      "turn_index": 14,
+      "speaker_id": "operator",
+      "verbatim_quote": "As we move into the second half of the year, we're doubling down on automation, and that means standing up The Real Brokerage Inc.'s very own in-house AI automation team.",
+      "claim": "Real Brokerage is establishing an in-house AI automation team in the second half of 2025.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2025Q2-023",
+      "turn_index": 15,
+      "speaker_id": "operator",
+      "verbatim_quote": "This fall, we're launching Agent Breakthrough, a free 60-day virtual program designed to significantly boost agent productivity.",
+      "claim": "Real Brokerage will launch \"Agent Breakthrough,\" a free 60-day virtual agent productivity program, in Fall 2025.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2025Q2-024",
+      "turn_index": 15,
+      "speaker_id": "operator",
+      "verbatim_quote": "Starting in Q3, our agents will be driving a series of in-person coaching events across the country.",
+      "claim": "Real Brokerage agents will drive a series of in-person coaching events (\"Further Together\") starting in Q3 2025.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2025Q2-025",
+      "turn_index": 16,
+      "speaker_id": "operator",
+      "verbatim_quote": "starting this month, we are rewarding agents with our recently announced revenue share model changes, which will allow agents who cap, hit elite, and/or grow large networks to unlock more revenue share tiers even faster.",
+      "claim": "Real Brokerage implemented revenue share model changes in July 2025 allowing agents to unlock tiers faster.",
+      "categorizations": [
+        "strategic_direction_claim"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2025Q2-026",
+      "turn_index": 18,
+      "speaker_id": "speaker-2",
+      "verbatim_quote": "Revenue from our ancillary businesses totaled $3.3 million during the second quarter, an increase of 50% year over year",
+      "claim": "Ancillary business revenue totaled $3.3 million in Q2 2025, a 50% year-over-year increase.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2025Q2-027",
+      "turn_index": 18,
+      "speaker_id": "speaker-2",
+      "verbatim_quote": "Real Wallet generated approximately $250,000 in its second full quarter, with an annualized run rate now above $1 million.",
+      "claim": "Real Wallet has an annualized revenue run rate above $1 million as of Q2 2025.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2025Q2-028",
+      "turn_index": 19,
+      "speaker_id": "speaker-2",
+      "verbatim_quote": "Gross margin of 8.9% in the second quarter compares to 9.4% in the prior year.",
+      "claim": "Real Brokerage reported a gross margin of 8.9% in Q2 2025, compared to 9.4% in Q2 2024.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2025Q2-029",
+      "turn_index": 19,
+      "speaker_id": "speaker-2",
+      "verbatim_quote": "at the end of Q2, approximately 14% of our total agent base had capped, up from 11% a year ago.",
+      "claim": "Approximately 14% of the agent base had reached their commission cap at the end of Q2 2025, up from 11% a year ago.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2025Q2-030",
+      "turn_index": 20,
+      "speaker_id": "speaker-2",
+      "verbatim_quote": "Total OpEx is a percentage of revenue, with 8.5% in the second quarter of 2025, a 100 basis point improvement from 9.5% during the second quarter of 2024.",
+      "claim": "Total operating expenses were 8.5% of revenue in Q2 2025, a 100 bps improvement from 9.5% in Q2 2024.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2025Q2-031",
+      "turn_index": 21,
+      "speaker_id": "speaker-2",
+      "verbatim_quote": "On a per transaction basis, adjusted operating expense per transaction declined by 5% year over year to $459",
+      "claim": "Adjusted operating expense per transaction declined 5% year-over-year to $459 in Q2 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2025Q2-032",
+      "turn_index": 22,
+      "speaker_id": "speaker-2",
+      "verbatim_quote": "Stock-based compensation was approximately $18 million in the quarter, broken down as follows: $12 million reflected in cost of sales related to the agent stock purchase program, $3.5 million in agent equity awards reported in marketing, and $2 million in employee-related stock compensation.",
+      "claim": "Stock-based compensation was approximately $18 million in Q2 2025, with $12M in cost of sales, $3.5M in marketing, and $2M in employee compensation.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2025Q2-033",
+      "turn_index": 22,
+      "speaker_id": "speaker-2",
+      "verbatim_quote": "During the quarter, The Real Brokerage Inc. generated cash from operating activities of $41 million, including $16 million in customer deposits, and allocated $2.7 million to share repurchases.",
+      "claim": "Real Brokerage allocated $2.7 million to share repurchases in Q2 2025.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2025Q2-034",
+      "turn_index": 22,
+      "speaker_id": "speaker-2",
+      "verbatim_quote": "We ended the quarter with unrestricted cash and investments at an all-time high of $55 million on our balance sheet, and we continue to have no debt.",
+      "claim": "Real Brokerage ended Q2 2025 with $55 million in unrestricted cash and investments and no debt.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2025Q2-035",
+      "turn_index": 23,
+      "speaker_id": "speaker-2",
+      "verbatim_quote": "The total value of homes transacted over our platform increased to $20.1 billion in the second quarter, a 60% year-over-year increase.",
+      "claim": "The total value of homes transacted on the platform was $20.1 billion in Q2 2025, a 60% year-over-year increase.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2025Q2-036",
+      "turn_index": 23,
+      "speaker_id": "speaker-2",
+      "verbatim_quote": "The median sale price of properties sold by our agents was $387,000, which represents a 1% year-over-year increase",
+      "claim": "The median sale price of properties sold by agents was $387,000 in Q2 2025, a 1% year-over-year increase.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2025Q2-037",
+      "turn_index": 23,
+      "speaker_id": "speaker-2",
+      "verbatim_quote": "our headcount efficiency ratio, which we define as the number of full-time employees, excluding title and mortgage employees, divided by the number of agents on our platform, was 1 to 87 at the end of the second quarter.",
+      "claim": "The headcount efficiency ratio (FTEs excluding title/mortgage to agents) was 1:87 at the end of Q2 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2025Q2-038",
+      "turn_index": 23,
+      "speaker_id": "speaker-2",
+      "verbatim_quote": "we expect to increase our pace of share repurchases in the second half of the year under our recently announced buyback authorization.",
+      "claim": "Real Brokerage expects to increase the pace of share repurchases in the second half of 2025.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2025Q2-039",
+      "turn_index": 24,
+      "speaker_id": "speaker-2",
+      "verbatim_quote": "we anticipate revenue in the third quarter to decline modestly from second-quarter levels, consistent with peer reports.",
+      "claim": "Real Brokerage anticipates Q3 2025 revenue will decline modestly from Q2 2025 levels due to seasonality.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2025Q2-040",
+      "turn_index": 24,
+      "speaker_id": "speaker-2",
+      "verbatim_quote": "This period also generally sees a higher mix of agents reaching their annual commission caps, which would lead to a sequentially lower gross margin percentage.",
+      "claim": "Real Brokerage expects a sequentially lower gross margin percentage in Q3 2025 due to a higher mix of capped agents.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2025Q2-041",
+      "turn_index": 24,
+      "speaker_id": "speaker-2",
+      "verbatim_quote": "From an OpEx perspective, we expect an increase in the third quarter relative to second-quarter levels, reflecting headcount additions across the business, expenses related to the acquisition of Flyhomes' consumer search portal, investments in AI automation efforts, and higher professional fees.",
+      "claim": "Real Brokerage expects an increase in operating expenses in Q3 2025 relative to Q2 2025.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2025Q2-042",
+      "turn_index": 30,
+      "speaker_id": "speaker-3",
+      "verbatim_quote": "revenue share is capped at 60% of our split, and those changes do not impact that, so there will be no financial impact on our financial statements.",
+      "claim": "The recent revenue share model changes will have no financial impact on Real Brokerage's financial statements as revenue share is capped at 60% of the split.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2025Q2-043",
+      "turn_index": 34,
+      "speaker_id": "speaker-3",
+      "verbatim_quote": "we added around 1,200 agents since the beginning of the quarter, so in a period of about five weeks.",
+      "claim": "Real Brokerage added around 1,200 agents in the five weeks following the end of Q2 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2025Q2-044",
+      "turn_index": 43,
+      "speaker_id": "speaker-3",
+      "verbatim_quote": "For now, attach rates are around 4% on mortgage and about 1% on title.",
+      "claim": "Ancillary attach rates are approximately 4% for mortgage and 1% for title as of Q2 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2025Q2-045",
+      "turn_index": 44,
+      "speaker_id": "speaker-2",
+      "verbatim_quote": "Right. Sorry, just to clarify, it's 4% title and 1% mortgage.",
+      "claim": "Ancillary attach rates are approximately 4% for title and 1% for mortgage as of Q2 2025 (correcting previous statement).",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2025Q2-046",
+      "turn_index": 47,
+      "speaker_id": "speaker-3",
+      "verbatim_quote": "We still haven't launched the lines of credit in the U.S., which is the most profitable product, which we're going to launch in the next few weeks.",
+      "claim": "Real Brokerage will launch U.S. lines of credit in the next few weeks from the call date.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2025Q2-047",
+      "turn_index": 49,
+      "speaker_id": "speaker-3",
+      "verbatim_quote": "We're going to roll it out in stages. It's not going to be open in all states and for all agents.",
+      "claim": "The U.S. lines of credit will be rolled out in stages, not open to all states or agents initially.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2025Q2-048",
+      "turn_index": 55,
+      "speaker_id": "speaker-3",
+      "verbatim_quote": "The intention is to open up about 12 state JVs in the near term",
+      "claim": "Real Brokerage intends to open approximately 12 state-based joint ventures for One Real Title in the near term.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2025Q2-049",
+      "turn_index": 56,
+      "speaker_id": "operator",
+      "verbatim_quote": "In Q3. We're building out an AI and automation team that's going to be really diving in headfirst to get going even faster in the next quarter.",
+      "claim": "Real Brokerage is building out an AI and automation team in Q3 2025 to accelerate automation efforts.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2025Q2-050",
+      "turn_index": 79,
+      "speaker_id": "speaker-2",
+      "verbatim_quote": "we will be active on the buyback front in the second half of the year, and we will also remain opportunistic with M&A, both looking at technology as well as profitable businesses that could add unique capabilities to our platform.",
+      "claim": "Real Brokerage will be active with share buybacks and opportunistic with M&A in the second half of 2025.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2025Q2-051",
+      "turn_index": 80,
+      "speaker_id": "speaker-3",
+      "verbatim_quote": "First, we will continue to strengthen our core proprietary technology and our recent platform. Second, we are focused on leveraging AI to drive greater efficiency across the entire company... Third, we are making a significant investment in our consumer roadmap, specifically with Leo for Clients... Finally, we will continue to invest heavily in the evolution of Real Wallet",
+      "claim": "Real Brokerage's R&D priorities include strengthening core technology, leveraging AI for efficiency, investing in Leo for Clients, and evolving Real Wallet.",
+      "categorizations": [
+        "strategic_direction_claim"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    }
+  ]
+}

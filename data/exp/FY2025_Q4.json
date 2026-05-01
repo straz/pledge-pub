@@ -1,0 +1,1613 @@
+{
+  "company_id": "exp",
+  "title": "Exp World Q4 2025 Earnings Call Transcript",
+  "datetime": "2026-02-24T22:00:00Z",
+  "period": "FY2025_Q4",
+  "location": "",
+  "url": "https://www.marketbeat.com/earnings/reports/2026-2-24-exp-world-holdings-inc-stock/",
+  "people": [
+    {
+      "id": "denise-garcia",
+      "name": "Denise Garcia",
+      "role": "VP of Investor Relations at eXp World"
+    },
+    {
+      "id": "leo-pareja",
+      "name": "Leo Pareja",
+      "role": "President at eXp World"
+    },
+    {
+      "id": "jesse-hill",
+      "name": "Jesse Hill",
+      "role": "CFO at eXp World"
+    },
+    {
+      "id": "glenn-sanford",
+      "name": "Glenn Sanford",
+      "role": "CEO at eXp World"
+    },
+    {
+      "id": "holly-mabery",
+      "name": "Holly Mabery",
+      "role": "Chief Brokerage Officer at eXp Realty"
+    },
+    {
+      "id": "carrie-lysenko",
+      "name": "Carrie Lysenko",
+      "role": "Chief Technology Officer at eXp Realty"
+    },
+    {
+      "id": "tom-white",
+      "name": "Tom White",
+      "role": "Senior Research Analyst at D.A. Davidson"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "denise-garcia",
+      "speaker_name": "Denise Garcia",
+      "speaker_role": "VP of Investor Relations at eXp World",
+      "timestamp": "00:00:00",
+      "text": "Please see our filings with the SEC, including our most recently filed annual report on Form 10-K and quarterly reports on Form 10-Q, for a discussion of specific risks that may affect our business, performance, and financial condition. We assume no obligation to update or revise any forward-looking statements or information. As a reminder, today's call is being recorded and a replay will also be made available on expworldholdings.com. Now for a few logistics, and we'll get started. For those of you joining in Frame today, welcome to our Metaverse on the web. To zoom into a specific screen, you can click on that screen and then click zoom in. If the content on the screen disappears or if you lose audio, simply refresh the page. While in Frame, if you need help, just use the help button at the bottom right to link with tech support."
+    },
+    {
+      "speaker_id": "denise-garcia",
+      "speaker_name": "Denise Garcia",
+      "speaker_role": "VP of Investor Relations at eXp World",
+      "timestamp": "00:00:51",
+      "text": "Should you wish to ask a question during our presentation, you can enter your questions by scanning the QR presented on this screen with your mobile phone, or go to slido.com and type in the event code EXPI. From there, you can submit a question or vote up an existing question by giving a thumbs up for that question to be asked. This screen will remain up on the right-hand side of the stage. Now, I'll turn the Fireside Chat over to our speakers before opening up the call to questions. Leo, you may begin."
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "President at eXp World",
+      "timestamp": "00:01:24",
+      "text": "Thanks, Denise. We've always been focused on driving excellence across every area of our business. 2025 has been no different. This year, we expanded into 7 countries, increasing our international revenue 67% year-over-year to $147 million. As our technology-driven model continues to disrupt the real estate industry and resonate with agents around the world, we're constantly improving and iterating on our value stack. We've launched 4 significant programs this year, starting with co-sponsorship, which has been a tremendous success, elevating agent attraction to another level. The program helps drive growth and deepen collaboration between agents, offering agents the option to have 2 sponsors. Since launching the program, we've seen co-sponsorship happen across 28 countries globally, showing great collaboration amongst our agents in countries all over the globe."
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "President at eXp World",
+      "timestamp": "00:02:13",
+      "text": "In our U.S. and Canadian markets, 14% of the agents have joined eXp since we rolled out co-sponsorship, joining with a co-sponsor. Agents that have joined with a co-sponsor are 64% more productive than those without. Agents with a co-sponsor have a 19% lower attrition rate. We've also introduced a commercial division in the U.K. and two programs to help agents differentiate their brands in specialization markets like land and ranch and sports entertainment, in addition to luxury, which has had a tremendous success. These programs have seen a combined membership increase of 48% year-over-year in 2025. Education is one of our priorities at eXp."
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "President at eXp World",
+      "timestamp": "00:02:51",
+      "text": "Given our scale, we're one of the few brokerages to be able to offer best in quality education and access for agents to top-rated trainers and industry leaders throughout, through eXp University, giving us a huge competitive advantage that other brokers simply cannot replicate. In 2025, we launched an AI Accelerator series, a free comprehensive eight-week training program designed to empower our agents with the most sophisticated tools at their disposal and further drive their productivity. These series have already generated nearly 4,000 program views across its nine training sessions, demonstrating a strong appetite for these high-impact tools. We've highlighted Fast Cap earlier in the year, and it continues its momentum. With nearly 20,000 agent registrations, and the agents that complete the program are reporting seeing the results in both the number of appointments and agreements executed, whether it's buyer agency or listing agreements."
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "President at eXp World",
+      "timestamp": "00:03:45",
+      "text": "In 2026, we're integrating Realty.com for U.S. agents and Zoocasa for Canadian agents into the Fast Cap program, including seller and buyer cultivation tools and leads. We've also launched the Fast Attract program in 2025. In the 6 months since completing the first Fast Attract pilot program, agents have had a 24% relative lift in recruiting compared to peers who haven't taken the class yet. We continue to take a leadership position, standing up for consumer choice and transparency. Holly Mabery, who was recently promoted to Chief Brokerage Officer, has joined the earnings call for the Q&A portion and can share more details on consumer choice framework and the other actions we are taking to help agents remain focused on their business in the midst of a changing real estate landscape. Finally, our most important asset, our people."
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "President at eXp World",
+      "timestamp": "00:04:39",
+      "text": "We ended 2025 with 83,060 agents worldwide, up slightly from last year, and a base of agents that I believe is stronger than ever as we enter the new year. During 2025, we saw growth in agent productivity and revenue accelerate through the year. We ended Q4 with a 6% year-over-year increase in productivity and 9% year-over-year increase in revenue. We also saw a year-over-year increase in the number of ICON Agents for the full year of 2025. As we've shown throughout the year, we are more likely to retain productive agents, so as productivity increases, attrition improves. Our Q4 attrition was the best it's been all year in Q4, with worldwide agent attrition improving 17% year-over-year at an impressive, even larger improvement of 23% year-over-year in the United States."
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "President at eXp World",
+      "timestamp": "00:05:33",
+      "text": "These stats are even more impressive when you consider that the industry is contracting. Let's talk more about this trend on the next slide. In the U.S., 4% of U.S. realtors exited their membership base in 2025 based on NAR data. While eXp's U.S. residential did experience net attrition in 2025, we outperformed NAR attrition rates by 25%. Compared to our historical rates, our attrition continues to drop year-over-year. We saw a 6% year-over-year improvement from 2024, more than triple the rate in 2025, with a 23% year-over-year improvement. I'll talk more about what's driving that trend in the next slide. I presented this slide every quarter of this year. The story remains consistent. Productivity drives retention. The more productive an agent is, the less likely they are to leave."
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "President at eXp World",
+      "timestamp": "00:06:24",
+      "text": "In the U.S., the majority of departing agents continue to be our lowest producing cohort, and agents in the highest producing cohorts are multiple times less likely to churn than our low producing agents. Of the non-productive agents that leave eXp, 63% of them leave the industry altogether, but fewer agents are leaving, and our attrition rates have improved all year, with 23% year-over-year improvement for the full 2025. Part of that is due to our strategy to attract teams to eXp, because agents on teams are 78% more productive than individual agents, and 40% of the new agents to eXp were on teams in the 4th quarter. Speaking of teams, I would like to highlight some of the teams that joined eXp in 2025, starting on the next slide. We welcomed some amazing people over the course of 2025."
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "President at eXp World",
+      "timestamp": "00:07:14",
+      "text": "We added more than 25 prominent teams in the U.S. and Canada that generated over $5.5 billion in sales in 2024, while at their respective brokerages. They joined us from coast to coast, leaving traditional brokerages and indies alike, and some were boomerang agents that returned to eXp after realizing our value prop is hard to replicate anywhere else. The momentum continues with more teams joining in 2026. We intend to empower our agents and build on these results going forward. Next slide, please. 2025 was a defining year at eXp, as we enhanced agent productivity and retention and made significant infrastructure investments. In 2026, we expect to translate those investments into margin through disciplined execution. We will also continue to assess opportunities that accelerate growth and expand our capabilities."
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "President at eXp World",
+      "timestamp": "00:08:04",
+      "text": "I will turn it over to Jesse to expand on the strategic investments we made in 2025 and share our outlook for 2026."
+    },
+    {
+      "speaker_id": "jesse-hill",
+      "speaker_name": "Jesse Hill",
+      "speaker_role": "CFO at eXp World",
+      "timestamp": "00:08:12",
+      "text": "Thank you, Leo. Now I'll walk us through our consolidated operational and financial highlights for the Q4 and the full year, 2025, beginning on the next slide. Starting with operational metrics on a consolidated basis, we ended the quarter and the year with just over 83,000 agents, driven by strong agent retention, which drove a 17% reduction in attrition for the year. Productivity per person or PPP, was up for the quarter and the year at 5.3, while volume ramped up throughout the year, accelerating to 8% in Q4 and 5% for the full year. The higher PPP drove sales transactions up 6% or 110,000 transactions in the Q4, and there were over 440,000 sales transactions in 2025. On the next slide, I'll walk us through our financials."
+    },
+    {
+      "speaker_id": "jesse-hill",
+      "speaker_name": "Jesse Hill",
+      "speaker_role": "CFO at eXp World",
+      "timestamp": "00:08:59",
+      "text": "Starting with revenue, we generated $4.8 billion in 2025, up 4% year-over-year, despite no material change in the macroeconomic environment. Revenue growth for Q4 accelerated to 9% to $1.2 billion. During the year, we invested in programs to attract and retain agents and increase productivity, with more agents reaching their cap, which resulted in a gross profit of $333.6 million in 2025. Operating loss of $twenty-one and a half million for 2025 and $12.7 million for the quarter, was down year-over-year, primarily driven by gross margin compression and higher investments in computer and software, partially offset by early gains that we have seen in operational efficiencies."
+    },
+    {
+      "speaker_id": "jesse-hill",
+      "speaker_name": "Jesse Hill",
+      "speaker_role": "CFO at eXp World",
+      "timestamp": "00:09:43",
+      "text": "Adjusted EBITDA of $33.2 million for 2025 and $2.1 million for the quarter continues to be positive, but down year-over-year, again, primarily driven by this margin compression and partially offset by our streamlined operations. Finally, we've increased our cash position, ending the year with a healthy $124.2 million in cash on the balance sheet. On the next slide, I'll highlight our financial results by segment for the quarter. The North America Realty segment continues to be the largest revenue and profit generator for the company, with revenue of $1.1 billion for the Q4 and $4.6 billion for the year. International continues to be our fastest growing segment, increasing nearly 51% in Q4 and 67% year-over-year in 2025."
+    },
+    {
+      "speaker_id": "jesse-hill",
+      "speaker_name": "Jesse Hill",
+      "speaker_role": "CFO at eXp World",
+      "timestamp": "00:10:28",
+      "text": "The team did all of this while launching seven new markets, kudos to Felix Bravo and the international team for all of their accomplishments in 2025. Operating expenses increased in the Q4, primarily due to the continued investments in our eXpcon events and increased legal expenses in the U.S., while we reduced operating expenses in other affiliated services segment as we streamlined SUCCESS operations. SUCCESS contributed modest revenue for the year, with an operating loss of $6.2 million, as we focused on retooling the SUCCESS platform. On the next slide, I'll review our 2025 priorities and results. During 2025, we built a strong foundation for profitable growth through several key priorities. We focused on improving operational efficiency through back-office automation so that agents can focus more on their clients."
+    },
+    {
+      "speaker_id": "jesse-hill",
+      "speaker_name": "Jesse Hill",
+      "speaker_role": "CFO at eXp World",
+      "timestamp": "00:11:15",
+      "text": "In the Q4, we saw improvements on a year-over-year basis, with a 6% decrease in related costs, a 7% increase in the number of agents per staff, and a 12% increase in the number of transactions per staff. We made deliberate investments in AI and technology to streamline our high volume workflows and boost agent productivity in 2025, that we expect to result in continued efficiencies that will drive margin expansion into 2026 and beyond. We also unlocked new opportunities for our agents, adding to our luxury affiliate program and introducing land and ranch and sports and entertainment. These programs are expected to contribute margin expansion as they continue to ramp, and we saw a 48% year-over-year increase in agent memberships across these programs in 2025."
+    },
+    {
+      "speaker_id": "jesse-hill",
+      "speaker_name": "Jesse Hill",
+      "speaker_role": "CFO at eXp World",
+      "timestamp": "00:12:00",
+      "text": "Finally, we were focused on driving international growth by applying a scalable, proven model that we developed over several years. I already mentioned the 67% year-over-year revenue growth in 2025, but I'd also like to mention that we launched these new markets more efficiently, down 37% in our launch costs compared to our original international expansion efforts. Ultimately, we strengthen our platform, improve productivity, and position ourselves to deliver profitable growth as the real estate industry continues to evolve, that is expected to result in higher sustained margins throughout the year. Let me walk you through our ongoing priorities and our initial outlook for 2026 on the next slide. Looking ahead, we remain focused on maintaining our financial discipline to drive sustainable, profitable growth, and we are providing our initial outlook for the Q1 and the full year of 2026."
+    },
+    {
+      "speaker_id": "jesse-hill",
+      "speaker_name": "Jesse Hill",
+      "speaker_role": "CFO at eXp World",
+      "timestamp": "00:12:51",
+      "text": "Starting with the Q1, we expect revenue in the range of $960 million-$980 million, expenses in the range of $82 million-$86 million, and Adjusted EBITDA in the range of $2 million-$5 million. For the year, we expect revenue in the range of $4.85 billion-$5.15 billion. Regarding expenses, we expect to continue to leverage the investments we've made in technology and infrastructure, we see this translating into operating expenses in the range of $325 million-$345 million. Finally, we expect Adjusted EBITDA in the range of $50 million-$75 million for 2026. We intend to stay financially flexible. We reserve the right to invest where we see meaningful opportunities to support our agents, strengthen our technology platform, and enhance long-term shareholder value."
+    },
+    {
+      "speaker_id": "jesse-hill",
+      "speaker_name": "Jesse Hill",
+      "speaker_role": "CFO at eXp World",
+      "timestamp": "00:13:42",
+      "text": "As always, our focus remains on executing with discipline, maintaining a strong balance sheet, and continuing to build a more efficient, resilient, and profitable eXp. Now I'll turn over the call to Glenn to wrap it up before we open up the call to questions. Glenn?"
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "CEO at eXp World",
+      "timestamp": "00:13:57",
+      "text": "Thanks, Jesse. You know, in 2025, I did something most CEOs don't do. I went deep into two of our businesses to rebuild them from the ground up, and I want to tell you why, because it reflects exactly how we think about building this company. In 2024, I focused on replatforming eXp International, and the thesis was really simple: If we build a cleaner, more scalable technology foundation, we can expand faster and cheaper. The results showed up in 2025, seven new country launches, international revenue up 67% to $147 million, and launch costs down 37% compared to our original expansion efforts. That's really a proof point as really this founder's approach to infrastructure, producing compounding returns. I took that same playbook and applied it to SUCCESS."
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "CEO at eXp World",
+      "timestamp": "00:14:49",
+      "text": "In mid 2025, I joined as the managing director with really a singular mandate: Don't iterate on what exists, rebuild it. We replatformed SUCCESS.com entirely, relaunched coaching certification, and began architecting SUCCESS as a culture and growth layer for the entire eXp ecosystem. What I learned about community design, creator tools, and AI native product architecture, came back directly into the eXp and gave birth to the eXp Hub, which is really our workplace replacement when that went away. This has really been a deliberate pattern. When a segment of our platform needs to be rebuilt for the next era, we go in, we apply a founder's mindset and come out with infrastructure that compounds. Now we're bringing that same philosophy to eXp itself. We're introducing the single-threaded leader framework."
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "CEO at eXp World",
+      "timestamp": "00:15:48",
+      "text": "It's really an AI-assisted operating model, where leaders with singular focus and full accountability for specific outcomes are paired with AI-assisted engineering to deliver something this industry has never seen, a genuinely high-touch agent and consumer experience running on an entirely AI-enhanced platform. The framework isn't just about leadership structure, it's about what becomes possible when you remove competing priorities and replace them with AI native tooling. Smaller, more focused teams, dramatically higher output, and a level of personalization at scale that no traditional brokerage can replicate, because they're carrying the weight of legacy infrastructure we simply don't have. We're already in motion. I'm working directly with some of our country leaders internationally as the first cohort to pilot this framework. People who know their markets deeply and are operating with AI-assisted tools to allow them to run leaner, faster, and far greater impact than was previously possible."
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "CEO at eXp World",
+      "timestamp": "00:16:50",
+      "text": "We have more to share as the year progresses, but early work is validating exactly what we expected. Singular focus plus AI native tooling is a multiplier. We have third-party validation of how we deploy AI operationally. We have AI native leaders embedding throughout the organization, and we're running leaner teams with measurably higher output than two years ago. 2025 was the year we proved it works. 2026 is the year we scale across every layer of the platform. Next slide, please. You know, really, the eXp platform, and I want to close by describing what we're actually building, because I think it's really underappreciated. eXp is a platform business, four connected segments working in deliberate harmony. eXp, obviously, North America Realty, as the engine, International, as the rapidly expanding frontier."
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "CEO at eXp World",
+      "timestamp": "00:17:49",
+      "text": "Frame, where you're attending today, is our virtual infrastructure, and then SUCCESS as our culture and growth layer. No other brokerage on Earth is built this way. Our competitors, most of which are franchise systems, are anchored in physical real estate, legacy commission structures, and technology stacks they can't move fast enough to modernize. They face real consolidation pressure as AI raises the cost of falling behind. We have none of those constraints. We're built, distributed, and technology forward from day one, which means we layer AI onto a clean architecture rather than retrofitting it into a broken one. What we offer agents, and what no one else can fully replicate, is a complete operating system for building scalable, sustainable real estate business, full stack marketing, deep, ongoing personal development through SUCCESS, and a fully immersive global collaboration layer through Frame."
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "CEO at eXp World",
+      "timestamp": "00:18:50",
+      "text": "Every investment we're making right now, the eXp Hub, AI Copilots, listing intelligence platform, App Store Marketplace, single-threaded leaders driving focused execution, is designed around one goal: helping agents build businesses that grow beyond themselves, powered by the best platform in the industry. That's the eXp platform, that's the moat, and we're just getting started. Now I'll turn it back to Denise for Q&A."
+    },
+    {
+      "speaker_id": "denise-garcia",
+      "speaker_name": "Denise Garcia",
+      "speaker_role": "VP of Investor Relations at eXp World",
+      "timestamp": "00:19:20",
+      "text": "Thanks, Glenn. I'll kick it off with a question for everyone on the team before we open the call to questions from the audience and the analysts. Glenn, how resistant is the larger residential brokerage industry to AI?"
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "CEO at eXp World",
+      "timestamp": "00:19:37",
+      "text": "It's a great question. You know, so when we think about it quite a bit, there's a lot of the industry that can be impacted by AI. One of the things that's really interesting is this, you know, it's this, where the wisdom of the agent comes in, which is really at the table, you know, taking a listing, working on pricing, working on marketing strategies, working with the buyer, again, understanding the neighborhoods at the local level. Those are things that AI just can't do in a great way. They don't actually live in the neighborhood. They have to sort of absorb stuff and kind of, you know, then, you know, through probability, you know, what is the data?"
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "CEO at eXp World",
+      "timestamp": "00:20:24",
+      "text": "You know, the profession definitely is not going away, but the relationships, the trust, the local expertise is really something very durable. Running a business is about to get radically more efficient for platforms that are ready, and we're ready. I mean, we've been building this infrastructure for now for a few years to be ready, while most of our competitors aren't. Really, maybe I'll just reframe the question slightly differently, is the real question isn't whether brokerage is AI resilient, it's who is positioned to win in an AI-enabled industry? I think that's a really critical question. Here's what I see."
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "CEO at eXp World",
+      "timestamp": "00:21:04",
+      "text": "You know, as mentioned, you know, many traditional brokerages, carry structural complexities, whether they be commercial leases, fixed overhead, legacy technology that's spread across offices, and really an entrenched way of operating that isn't able to be centralized and managed. They're not easy to unwind or replace. They'll face, you know, real pressure to consolidate just to build the economies of scale needed to compete. We've seen this countless times over the years with companies who have attempted to even do what we've done here, which is to build a cloud-based real estate brokerage from a more traditional place, and none of them have been able to get there. eXp, of course, has no branches."
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "CEO at eXp World",
+      "timestamp": "00:21:52",
+      "text": "It's one company, no leases, no legacy infrastructure, and the ability to really work at scale across the entire enterprise. We're built to be distributed and technology forward, which means as we adopt more AI-assisted engineering, AI-assisted brokerage models on top of our current infrastructure, we're really in a place to continue to lead rather than follow. I think that's the real key."
+    },
+    {
+      "speaker_id": "denise-garcia",
+      "speaker_name": "Denise Garcia",
+      "speaker_role": "VP of Investor Relations at eXp World",
+      "timestamp": "00:22:33",
+      "text": "Great! All right. Thanks, Glenn. Leo, one for you. Can you discuss agent count in Q4?"
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "President at eXp World",
+      "timestamp": "00:22:39",
+      "text": "Yeah, sure, Denise. Thanks for that question. Historically, going back to 2023, 2024, we have seasonality. We have agent dip count from the Q3 going to the Q4. That said, we've prioritized agent productivity over agent count. In the 4 years I've been here, that's been my hyperfocus, right? An agent is not equal to an agent. If you look at real trends every year, we tend to enjoy having some of the most productive agents in the country. We're doubling down on that. We've seen our agent productivity per person increase. Most of that has been on teams as well. Even, about 1 hour before the call started, I Zoomed into an onboarding in Houston to a 60-person independent that we'll announce at our next earnings call. That was between us and one of our legacy competitors."
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "President at eXp World",
+      "timestamp": "00:23:24",
+      "text": "We're continuing to add entire independent brokerages, ones rolling off franchise agreements and the ones that were fully independent. We saw in 2025 that 40% of the agents that joined were on teams. Our team members are about 78% more productive than our solo agents. Our strategy has been paying off. Our productivity grew 6% year-over-year in Q4, which, by the way, was our highest quarterly growth, so it continued to accelerate. When you look at North America, 63% of the agents that left our company left the industry. We see this very self-fulfilling prophecy."
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "President at eXp World",
+      "timestamp": "00:24:03",
+      "text": "If the agents that lean in take advantage of our tools, not only sell homes, but also stay sticky, and the ones we lose tend to be at the majority quantities, the ones that are not selling homes. We're continuing to invest in our learning platform, where agents can consume the content on their own pace, virtually at all times, and continue to improve productivity. The one I'm probably the most proud about is how much we improved attrition. Globally, it was 17% attrition. I mentioned earlier in my comments, 23% year-over-year. I mean, by numbers, it's roughly 6,000 agent improvement on attrition, and that's in a year where the U.S., according to NAR membership, contracted 4%."
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "President at eXp World",
+      "timestamp": "00:24:50",
+      "text": "We are substantially outperforming the market from attrition standpoint, and we don't give guidance on agent count, but I'd say that our business is stable, durable, and we have a track record that is only gonna be magnified in the headwinds of the industry. We're in a great cash position. We're able to take advantage of opportunities as we see them, and we continue to strengthen our value proposition."
+    },
+    {
+      "speaker_id": "denise-garcia",
+      "speaker_name": "Denise Garcia",
+      "speaker_role": "VP of Investor Relations at eXp World",
+      "timestamp": "00:25:19",
+      "text": "All right. Thanks, Leo. One for you, Jesse. You mentioned a few metrics like PPP and staff per transaction. Which metrics should we focus on in 2026 to measure the success of your ongoing priorities?"
+    },
+    {
+      "speaker_id": "jesse-hill",
+      "speaker_name": "Jesse Hill",
+      "speaker_role": "CFO at eXp World",
+      "timestamp": "00:25:32",
+      "text": "Yeah, thanks, Denise. You mentioned, you know, our North Star metric is productivity per person or PPP, which is essentially transactions per agent over a trailing 12-month period. That was 5.3 for the year. As long as that's moving in the right direction, we know that we're making our agents more productive and successful, as well as attracting and retaining the most productive agents. A second one would be productive agent retention. Leo spoke to the total agent attrition, which improved 17% across the company, and notably 23% in the United States, which is obviously our core market. Then a third one, SG&A per unit. This is one. You know, it's essentially our unit economics. We, as a leadership team, pay a lot of attention to this."
+    },
+    {
+      "speaker_id": "jesse-hill",
+      "speaker_name": "Jesse Hill",
+      "speaker_role": "CFO at eXp World",
+      "timestamp": "00:26:16",
+      "text": "We spoke throughout 2025, we invested very heavily in AI and automation, and we expect that to translate in EBITDA margin expansion into 2026, which is one of the reasons why we wanted to begin providing that forward guidance, to show what we believe we can achieve with continued efficiencies in this particular metric over time."
+    },
+    {
+      "speaker_id": "denise-garcia",
+      "speaker_name": "Denise Garcia",
+      "speaker_role": "VP of Investor Relations at eXp World",
+      "timestamp": "00:26:38",
+      "text": "All right. Thanks, Jesse. One for you, Holly. Can you discuss the role that you're playing as the Chief Brokerage Officer and your top priorities for 2026?"
+    },
+    {
+      "speaker_id": "holly-mabery",
+      "speaker_name": "Holly Mabery",
+      "speaker_role": "Chief Brokerage Officer at eXp Realty",
+      "timestamp": "00:26:48",
+      "text": "Thank you, Denise. I'm really happy to be here. What we found is the industry is really loud, and eXp, we are extremely clear. Between the NAR settlement fallout, RESPA scrutiny, TCPA enforcement, and state-by-state legislative change, we're finding agents across the industry are overwhelmed. We've made the deliberate strategic choice, eXp will lean in where others go silent. We've built a compliance infrastructure before the crisis, not in response to it. That consistent, timely guidance, training, and support is offered through our state meetings, eXp University, and on-demand content. That way, no agent is left guessing. We've developed specialty contractual forms at the state level that are absolutely focused on the consumer. Tools like our eXp Broker Assistant, Carla, our comprehensive advertising review Logix operator. This is giving agents real-time broker support that protects their business and runs 24/7."
+    },
+    {
+      "speaker_id": "holly-mabery",
+      "speaker_name": "Holly Mabery",
+      "speaker_role": "Chief Brokerage Officer at eXp Realty",
+      "timestamp": "00:27:52",
+      "text": "I'm excited because this is risk management at scale. It's proactive governance, infrastructure, and it protects our company, our agents, and defends our brand reputation in every market we operate. We are strategically focused on not waiting to be told what to do, but set the standard, and that posture is our competitive differentiator, where regulatory complexity is only increasing. That's just table stakes when we look at top-down support. Our agent voice, that is our edge. Through our agent advisory councils at both the national and state level, we've localized feedback, informing decisions in real time. These committees are not symbolic, they are active feedback loops for us. They're testing programs, surfacing friction, and they help us accelerate our ability to respond faster than traditional brokerage structures can."
+    },
+    {
+      "speaker_id": "holly-mabery",
+      "speaker_name": "Holly Mabery",
+      "speaker_role": "Chief Brokerage Officer at eXp Realty",
+      "timestamp": "00:28:49",
+      "text": "Of course, we serve two distinct agent populations with eXp Realty and eXp Commercial, and we're structured accordingly. The result is we're finding a culture that doesn't just retain agents, it attracts the best. I'm very excited when we combine the proactive regulatory navigation with agent voice and feedback, we're creating conditions for sustainable growth. The agent and confidence, it's driving production drives revenue, that is becoming our flywheel as we look to 2026."
+    },
+    {
+      "speaker_id": "denise-garcia",
+      "speaker_name": "Denise Garcia",
+      "speaker_role": "VP of Investor Relations at eXp World",
+      "timestamp": "00:29:25",
+      "text": "Thanks, Holly. Now one for you, Carrie. Can you highlight some of the technology-related improvements that eXp made in 2025 and what you're focused on in 2026?"
+    },
+    {
+      "speaker_id": "carrie-lysenko",
+      "speaker_name": "Carrie Lysenko",
+      "speaker_role": "Chief Technology Officer at eXp Realty",
+      "timestamp": "00:29:36",
+      "text": "Thanks so much, Denise. I appreciate being here. For 25, I really want to talk about kind of 2 key areas of development. It was all about personalization and productivity, those are 2 themes that we've already heard Glenn and Leo and Jesse talk about today. First is the AI Copilot integration of our Mira business assistant in our My eXp app for agents. We wanted to ensure that agents had a more complete overview of their business results as well as insights. This assists both solo agents, team leaders, and large attractors as they continue to measure progress and growth on a weekly and quarterly basis, all while improving along the way with the analysis that Mira can deliver. The second is Liv, which is our global portal infrastructure, and this is building on our growth internationally."
+    },
+    {
+      "speaker_id": "carrie-lysenko",
+      "speaker_name": "Carrie Lysenko",
+      "speaker_role": "Chief Technology Officer at eXp Realty",
+      "timestamp": "00:30:23",
+      "text": "We want to continue to introduce opportunities for agents to prosper at eXp while decreasing their overreliance on monolithic third-party portals, especially internationally. Liv will continue to be expanded on in 2026 as we grow the consumer audience and impact to our agents globally. For the future, we're really in 2026 gonna be focused on expanding that e-agent ecosystem. That includes continuing to build on the eXp Hub community platform that we introduced at eXpcon in Miami, that Glenn spoke about. It's really a foundation for agent groups and organizations across the globe at eXp."
+    },
+    {
+      "speaker_id": "carrie-lysenko",
+      "speaker_name": "Carrie Lysenko",
+      "speaker_role": "Chief Technology Officer at eXp Realty",
+      "timestamp": "00:31:01",
+      "text": "This is a really built by eXp for eXp platform, and it allows us to curate a really bespoke experience for our eXp agents and staff that really incentivizes community and communication to happen within our ecosystem, as opposed to a potential third-party platform. Incidentally, we already have 13% of our agent base communicating and participating in the Hub in these early months since we launched it. We've also introduced a Marketplace App Store within the Hub, and this will continue to be built upon in 2026. It provides a foundation for both staff and agents to build and distribute applications and software that further support growth, productivity, similarly to how, you know, the iOS App Store supports an increased value of the iPhone."
+    },
+    {
+      "speaker_id": "carrie-lysenko",
+      "speaker_name": "Carrie Lysenko",
+      "speaker_role": "Chief Technology Officer at eXp Realty",
+      "timestamp": "00:31:51",
+      "text": "That idea that we have a centralized App Store that agents can access, that focus really on how to grow their own business. You know, continuing to support our agents in softer and sometimes turbulent market conditions continues with our listing intelligence platform. This brings greater access to listing leads and data in markets across the U.S. and Canada. We are developing shared repositories of knowledge that further accelerate modernization of building software across all of our levels of the organization at eXp. In a world where the cost to build continues to decrease with widespread access to AI coding tools, we wanna allow for flexible, long-term storage and advanced analytics with our data. We're really investing in an increasingly performant data infrastructure."
+    },
+    {
+      "speaker_id": "carrie-lysenko",
+      "speaker_name": "Carrie Lysenko",
+      "speaker_role": "Chief Technology Officer at eXp Realty",
+      "timestamp": "00:32:39",
+      "text": "It allows for secure and reliant access to business intelligence, and ultimately, it'll really provide a strong competitive advantage for eXp and our agents, because both shared repos as well as greater access to data throughout the organization, really will be a bedrock, for our single-threaded leadership framework that Glenn spoke about earlier. We're excited to get started."
+    },
+    {
+      "speaker_id": "denise-garcia",
+      "speaker_name": "Denise Garcia",
+      "speaker_role": "VP of Investor Relations at eXp World",
+      "timestamp": "00:33:05",
+      "text": "Great. Thanks. Now I'll open the call up to our audience and the analysts on the stage here. Just as a reminder, if you have a question, you can either scan the QR code on the screen or you can go to slido.com and enter EXPI and ask your question there. First of all, I'll open the mic up for Tom White from D.A. Davidson. Did you have a question for us?"
+    },
+    {
+      "speaker_id": "tom-white",
+      "speaker_name": "Tom White",
+      "speaker_role": "Senior Research Analyst at D.A. Davidson",
+      "timestamp": "00:33:31",
+      "text": "Yep. Thanks, Denise. Hi, everyone. Maybe a couple, if I could. I guess just on the Q4 revenue versus kind of gross profit growth dynamic. I think revenues were up, like, 9%, but gross profit was flat. I guess when I try and think through kind of what drove the difference in growth rates there, I imagine, you know, sort of the % of or number of capped transactions is a factor. I guess I'm trying to, like, suss out the extent to which that higher mix of capped transaction is just sort of normal mix in your agent pool. Like, the, you know, the better, more productive agents are the ones doing kind of a bigger chunk of the deals."
+    },
+    {
+      "speaker_id": "tom-white",
+      "speaker_name": "Tom White",
+      "speaker_role": "Senior Research Analyst at D.A. Davidson",
+      "timestamp": "00:34:24",
+      "text": "Is it sort of the impact of just some of the agent attraction stuff you guys are doing, so that you're enabling, you know, sort of more agents to cap more quickly? Maybe as an aside, like, how should we think about the gross margin, kind of expectations that are, kind of embedded in your, in your outlook for the year? Thanks."
+    },
+    {
+      "speaker_id": "jesse-hill",
+      "speaker_name": "Jesse Hill",
+      "speaker_role": "CFO at eXp World",
+      "timestamp": "00:34:47",
+      "text": "Yeah, I can take that one, Tom. Thanks for the question. It's actually both. It's probably divided down the middle. The seasonality of Q3, Q4, does see higher capping towards the later part of the year, right? To the point that you're sussing out. But it also is that we continue to attract and retain highly productive agents, and then with a specific focus on highly productive teams. That's the phenomenon that we've been talking about for a few years now, but it is continuing to apply some pressure to our margin percentage, overall. I'd say, I don't have the specifics on me, but It's probably about 50/50."
+    },
+    {
+      "speaker_id": "jesse-hill",
+      "speaker_name": "Jesse Hill",
+      "speaker_role": "CFO at eXp World",
+      "timestamp": "00:35:28",
+      "text": "If you just look at historic trend, you would definitely see that margin compression that happens every year in Q3, Q4, just due to the calendar year of agents capping. Over time, if you look at that compression that we're seeing over the last couple of years from attracting more productive agents over time. Actually, let me answer your guidance question or outlook on 2026. What we're currently modeling in that guidance is very similar trend to what we've seen in 2025. Slight compression, but offset partially by increased units coming through the business. We're focusing on the improvement in unit economic to continue to drive the margin expansion on the EBITDA side."
+    },
+    {
+      "speaker_id": "tom-white",
+      "speaker_name": "Tom White",
+      "speaker_role": "Senior Research Analyst at D.A. Davidson",
+      "timestamp": "00:36:20",
+      "text": "Okay, thanks. Maybe one more follow-up, and then I can get back in the queue. Just any update on sort of thoughts about resuming the buyback? I don't know. I think you guys were supposed to pay the second installment of the NAR settlement. Maybe it's in the Q2, I can't remember. Just give us an update on what you're thinking there."
+    },
+    {
+      "speaker_id": "jesse-hill",
+      "speaker_name": "Jesse Hill",
+      "speaker_role": "CFO at eXp World",
+      "timestamp": "00:36:45",
+      "text": "Sure thing, I can take that one, too. To your point, you know, our reduced buyback activity in 2025 was primarily driven by the NAR litigation, which we had the first tranche this past summer, and we have the second tranche coming up the summer of 2026 here. We did wanna make sure that we were being good stewards in maintaining that $100 million cash threshold that we set internally as a leadership team on the balance sheet. We drove that pause. We did finish with a pretty healthy $124 million, and so buyback is something, of course, long term, that we wanna continue to use as a strategic tool in our capital allocation toolkit."
+    },
+    {
+      "speaker_id": "jesse-hill",
+      "speaker_name": "Jesse Hill",
+      "speaker_role": "CFO at eXp World",
+      "timestamp": "00:37:24",
+      "text": "We're still evaluating in the short term what our cash needs are gonna be this year and with that upcoming second tranche of the litigation."
+    },
+    {
+      "speaker_id": "tom-white",
+      "speaker_name": "Tom White",
+      "speaker_role": "Senior Research Analyst at D.A. Davidson",
+      "timestamp": "00:37:32",
+      "text": "Okay, thank you very much."
+    },
+    {
+      "speaker_id": "denise-garcia",
+      "speaker_name": "Denise Garcia",
+      "speaker_role": "VP of Investor Relations at eXp World",
+      "timestamp": "00:37:35",
+      "text": "Great. Maybe one from the audience here, too. Could you speak to the strategic initiatives you believe will have the most meaningful impact on improving financial performance and restoring shareholder value over the next several years?"
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "President at eXp World",
+      "timestamp": "00:37:50",
+      "text": "Yeah, no, I feel like this is a common question I've asked. I get asked by agents all the time, I'm assuming this is coming from an agent. One of the things I implore them to do is to actually download TradingView and actually have a full sector on your phone, right? If you're an agent and you're following EXPI, I would encourage you to follow RE/MAX and Compass and all of the other public comps. You know, you become very aware of when the government does something, right? You'll be minding your business, you'll kind of see the entire segment move down or up, right?"
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "President at eXp World",
+      "timestamp": "00:38:20",
+      "text": "If there's a good reporting on rates, good is defined by the eye of the beholder, 'cause sometimes it feels counterintuitive as they move up and down. Historically, our sector is very much tied to total transaction count. In years where there's 4 million, the sector as a whole tends to be depressed, and in years where you have 7 million transactions, the sector goes up. Now, with that said, to Glenn's comments, I think there's gonna be a separation between the companies that are able to take advantage of the opportunity today as presenting itself. I do think for some companies, it is a bit of lip service. We are a company that has a service that is repeatable and scalable."
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "President at eXp World",
+      "timestamp": "00:39:02",
+      "text": "I think businesses like ours, we, you know, if you see our performance from quarter by quarter last year, I think Tom was pleasantly surprised when we reported it, where we moved the expenses from Q2 to Q3. You know, that is more tightly close to the guidance we've provided. So you will see us being able to take advantage of that. Into Glenn's comments of, like, this, the last mile effect of the real estate industry, we believe will rely on high-performing agents. Not only are we going to streamline our expenses by leveraging the tools available, but we're really focused on creating and delivering tools that leverage the agents in their daily business, right?"
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "President at eXp World",
+      "timestamp": "00:39:45",
+      "text": "There's gonna be the leveraging from us from expense management and, you know, really cycling off of what historically has been SaaS expenses. We're really leaning in on that, the platform that Glenn started and our engineers took over. I mean, it's 7-figure contracts. As we take advantage of that, I think long term, we're gonna be able to improve margin, return better returns to our shareholders, while keeping our flagship concept of agent-centric and building the most agent-centric company on the planet as still our North Star, but being able to take advantage of this moment in time with the technology available to us."
+    },
+    {
+      "speaker_id": "denise-garcia",
+      "speaker_name": "Denise Garcia",
+      "speaker_role": "VP of Investor Relations at eXp World",
+      "timestamp": "00:40:29",
+      "text": "Great. Thanks, Leo. We have one more from the audience, also from an agent. This is probably for you, Leo. What is eXp Realty going to do to improve their toolbox and technology to attract high-volume listing teams and help the legacy agents get more listings in 2026?"
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "President at eXp World",
+      "timestamp": "00:40:47",
+      "text": "That's a great question, Denise. We have been focused on listings, and, for example, we just launched a pilot program in January through our Fast Cap program. Our Fast Cap program has really extended in reach. Since inception, we've had 20,000 registrants take it through. In the January cohort, as a pilot, we partnered with Realty.com and included seller jump ball leads. Something like 1,800 leads were given out, with multiple agents in the first six weeks reporting multiple listings taken, one, two listings taken in six weeks, which was actually even faster of an incubation period that we found. There's several other seller products that I've been focused on integrating into our education platform."
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "President at eXp World",
+      "timestamp": "00:41:28",
+      "text": "What we're doing is we're making sure that in addition to providing tools, is actually the training that accompanies it with it, as we continue to scale. One of the concepts that I repeat, because Glenn was the one who put the sentence in my head when I first got here, but I fundamentally believe it, is that we're a platform business, and that's very different than other folks. You know, we have initiatives with data where we really, for the top producing teams that are highly proficient and have tech orgs inside of their businesses, we wanna be able to deliver to them API capabilities."
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "President at eXp World",
+      "timestamp": "00:42:07",
+      "text": "As they build code and the platforms using vibe coding and taking advantage of the tooling that's available to them, we also have beautiful, simple UI experiences for our seller agents that maybe don't have the scale or size or interest in building their own tech tools. Really, the concept is being able to meet agents where they're at, and we feel that way about support. For example, agents can walk into a broker room and Frame, they could call a 1-800 number, they can Slack us, they can message us on the eXp Hub now and meet brokers where they're at, or they can pick up the phone and dial a cell phone number and call their favorite broker."
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "President at eXp World",
+      "timestamp": "00:42:45",
+      "text": "That same methodology of meeting people where they're at and being agile and being able to have agents self-serve and use the tools necessary for them."
+    },
+    {
+      "speaker_id": "denise-garcia",
+      "speaker_name": "Denise Garcia",
+      "speaker_role": "VP of Investor Relations at eXp World",
+      "timestamp": "00:42:57",
+      "text": "Thanks, Leo. Thanks, everyone, for joining. As always, please stay connected by visiting expworldholdings.com for the latest updates on eXp news, results, and events. You'll find a recording of this call and our latest investor presentation on the investors section of the site. This concludes the eXp World Holdings Q4 and full year 2025 earnings fireside chat. Thanks for joining."
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "President at eXp World",
+      "timestamp": "00:43:22",
+      "text": "Thanks, everyone."
+    },
+    {
+      "speaker_id": "jesse-hill",
+      "speaker_name": "Jesse Hill",
+      "speaker_role": "CFO at eXp World",
+      "timestamp": "00:43:23",
+      "text": "Thanks, everyone."
+    }
+  ],
+  "statements": [
+    {
+      "id": "EXPI-FY2025Q4-001",
+      "turn_index": 2,
+      "speaker_id": "leo-pareja",
+      "verbatim_quote": "This year, we expanded into 7 countries, increasing our international revenue 67% year-over-year to $147 million.",
+      "claim": "eXp World expanded into 7 countries in 2025, resulting in international revenue of $147 million, a 67% year-over-year increase.",
+      "categorizations": [
+        "geographic_or_regional_rollout",
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q4-002",
+      "turn_index": 3,
+      "speaker_id": "leo-pareja",
+      "verbatim_quote": "In our U.S. and Canadian markets, 14% of the agents have joined eXp since we rolled out co-sponsorship, joining with a co-sponsor.",
+      "claim": "14% of agents in U.S. and Canadian markets joined eXp with a co-sponsor since the program's rollout.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q4-003",
+      "turn_index": 3,
+      "speaker_id": "leo-pareja",
+      "verbatim_quote": "Agents that have joined with a co-sponsor are 64% more productive than those without.",
+      "claim": "Agents joining with a co-sponsor are 64% more productive than those without a co-sponsor.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q4-004",
+      "turn_index": 3,
+      "speaker_id": "leo-pareja",
+      "verbatim_quote": "Agents with a co-sponsor have a 19% lower attrition rate.",
+      "claim": "Agents with a co-sponsor have a 19% lower attrition rate than those without.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q4-005",
+      "turn_index": 3,
+      "speaker_id": "leo-pareja",
+      "verbatim_quote": "These programs have seen a combined membership increase of 48% year-over-year in 2025.",
+      "claim": "Specialization programs (land/ranch, sports/entertainment, luxury) saw a combined membership increase of 48% year-over-year in 2025.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q4-006",
+      "turn_index": 4,
+      "speaker_id": "leo-pareja",
+      "verbatim_quote": "These series have already generated nearly 4,000 program views across its nine training sessions",
+      "claim": "The AI Accelerator series generated nearly 4,000 program views across nine training sessions in 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q4-007",
+      "turn_index": 4,
+      "speaker_id": "leo-pareja",
+      "verbatim_quote": "With nearly 20,000 agent registrations, and the agents that complete the program are reporting seeing the results in both the number of appointments and agreements executed",
+      "claim": "The Fast Cap program had nearly 20,000 agent registrations in 2025, with completers reporting increased appointments and agreements.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q4-008",
+      "turn_index": 5,
+      "speaker_id": "leo-pareja",
+      "verbatim_quote": "In 2026, we're integrating Realty.com for U.S. agents and Zoocasa for Canadian agents into the Fast Cap program, including seller and buyer cultivation tools and leads.",
+      "claim": "eXp will integrate Realty.com for U.S. agents and Zoocasa for Canadian agents into the Fast Cap program in 2026.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q4-009",
+      "turn_index": 5,
+      "speaker_id": "leo-pareja",
+      "verbatim_quote": "In the 6 months since completing the first Fast Attract pilot program, agents have had a 24% relative lift in recruiting compared to peers who haven't taken the class yet.",
+      "claim": "Agents in the Fast Attract pilot program experienced a 24% relative lift in recruiting over 6 months compared to peers.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q4-010",
+      "turn_index": 6,
+      "speaker_id": "leo-pareja",
+      "verbatim_quote": "We ended 2025 with 83,060 agents worldwide, up slightly from last year",
+      "claim": "eXp ended 2025 with 83,060 agents worldwide.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q4-011",
+      "turn_index": 6,
+      "speaker_id": "leo-pareja",
+      "verbatim_quote": "We ended Q4 with a 6% year-over-year increase in productivity and 9% year-over-year increase in revenue.",
+      "claim": "eXp ended Q4 2025 with a 6% year-over-year increase in productivity and a 9% year-over-year increase in revenue.",
+      "categorizations": [
+        "operational_metric_specific",
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q4-012",
+      "turn_index": 6,
+      "speaker_id": "leo-pareja",
+      "verbatim_quote": "Our Q4 attrition was the best it's been all year in Q4, with worldwide agent attrition improving 17% year-over-year at an impressive, even larger improvement of 23% year-over-year in the United States.",
+      "claim": "Q4 2025 worldwide agent attrition improved 17% year-over-year, with U.S. attrition improving 23% year-over-year.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q4-013",
+      "turn_index": 7,
+      "speaker_id": "leo-pareja",
+      "verbatim_quote": "While eXp's U.S. residential did experience net attrition in 2025, we outperformed NAR attrition rates by 25%.",
+      "claim": "eXp's U.S. residential net attrition in 2025 outperformed NAR attrition rates by 25%.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q4-014",
+      "turn_index": 8,
+      "speaker_id": "leo-pareja",
+      "verbatim_quote": "Of the non-productive agents that leave eXp, 63% of them leave the industry altogether",
+      "claim": "63% of non-productive agents leaving eXp leave the real estate industry altogether.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q4-015",
+      "turn_index": 8,
+      "speaker_id": "leo-pareja",
+      "verbatim_quote": "agents on teams are 78% more productive than individual agents, and 40% of the new agents to eXp were on teams in the 4th quarter.",
+      "claim": "Agents on teams are 78% more productive than individual agents, and 40% of new agents in Q4 2025 were on teams.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q4-016",
+      "turn_index": 9,
+      "speaker_id": "leo-pareja",
+      "verbatim_quote": "We added more than 25 prominent teams in the U.S. and Canada that generated over $5.5 billion in sales in 2024, while at their respective brokerages.",
+      "claim": "eXp added more than 25 prominent teams in the U.S. and Canada in 2025 that generated over $5.5 billion in sales in 2024.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q4-017",
+      "turn_index": 9,
+      "speaker_id": "leo-pareja",
+      "verbatim_quote": "In 2026, we expect to translate those investments into margin through disciplined execution.",
+      "claim": "eXp expects to translate 2025 infrastructure investments into margin expansion in 2026.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q4-018",
+      "turn_index": 11,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "Productivity per person or PPP, was up for the quarter and the year at 5.3",
+      "claim": "Productivity per person (PPP) was 5.3 for Q4 and the full year 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q4-019",
+      "turn_index": 11,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "volume ramped up throughout the year, accelerating to 8% in Q4 and 5% for the full year.",
+      "claim": "Sales volume increased 8% in Q4 2025 and 5% for the full year 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q4-020",
+      "turn_index": 11,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "The higher PPP drove sales transactions up 6% or 110,000 transactions in the Q4, and there were over 440,000 sales transactions in 2025.",
+      "claim": "Sales transactions increased 6% to 110,000 in Q4 2025, with over 440,000 total transactions in 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q4-021",
+      "turn_index": 12,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "we generated $4.8 billion in 2025, up 4% year-over-year",
+      "claim": "eXp generated $4.8 billion in revenue in 2025, a 4% year-over-year increase.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q4-022",
+      "turn_index": 12,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "Revenue growth for Q4 accelerated to 9% to $1.2 billion.",
+      "claim": "Q4 2025 revenue was $1.2 billion, representing 9% year-over-year growth.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q4-023",
+      "turn_index": 12,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "gross profit of $333.6 million in 2025.",
+      "claim": "Gross profit was $333.6 million in 2025.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q4-024",
+      "turn_index": 12,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "Operating loss of $twenty-one and a half million for 2025 and $12.7 million for the quarter",
+      "claim": "Operating loss was $21.5 million for 2025 and $12.7 million for Q4 2025.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q4-025",
+      "turn_index": 13,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "Adjusted EBITDA of $33.2 million for 2025 and $2.1 million for the quarter",
+      "claim": "Adjusted EBITDA was $33.2 million for 2025 and $2.1 million for Q4 2025.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q4-026",
+      "turn_index": 13,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "we've increased our cash position, ending the year with a healthy $124.2 million in cash on the balance sheet.",
+      "claim": "eXp ended 2025 with $124.2 million in cash on the balance sheet.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q4-027",
+      "turn_index": 13,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "North America Realty segment... with revenue of $1.1 billion for the Q4 and $4.6 billion for the year.",
+      "claim": "North America Realty segment revenue was $1.1 billion in Q4 2025 and $4.6 billion for the full year 2025.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q4-028",
+      "turn_index": 13,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "International continues to be our fastest growing segment, increasing nearly 51% in Q4 and 67% year-over-year in 2025.",
+      "claim": "International segment revenue increased 51% in Q4 2025 and 67% year-over-year for the full year 2025.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q4-029",
+      "turn_index": 14,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "SUCCESS contributed modest revenue for the year, with an operating loss of $6.2 million",
+      "claim": "The SUCCESS segment had an operating loss of $6.2 million in 2025.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q4-030",
+      "turn_index": 15,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "In the Q4, we saw improvements on a year-over-year basis, with a 6% decrease in related costs, a 7% increase in the number of agents per staff, and a 12% increase in the number of transactions per staff.",
+      "claim": "In Q4 2025, back-office costs decreased 6%, agents per staff increased 7%, and transactions per staff increased 12% year-over-year.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q4-031",
+      "turn_index": 15,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "we expect to result in continued efficiencies that will drive margin expansion into 2026 and beyond.",
+      "claim": "Investments in AI and technology are expected to drive margin expansion in 2026 and beyond.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q4-032",
+      "turn_index": 16,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "we launched these new markets more efficiently, down 37% in our launch costs compared to our original international expansion efforts.",
+      "claim": "Launch costs for new international markets in 2025 were down 37% compared to original expansion efforts.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q4-033",
+      "turn_index": 17,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "Starting with the Q1, we expect revenue in the range of $960 million-$980 million",
+      "claim": "eXp expects Q1 2026 revenue to be in the range of $960 million to $980 million.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q4-034",
+      "turn_index": 17,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "expenses in the range of $82 million-$86 million",
+      "claim": "eXp expects Q1 2026 operating expenses to be in the range of $82 million to $86 million.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q4-035",
+      "turn_index": 17,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "Adjusted EBITDA in the range of $2 million-$5 million.",
+      "claim": "eXp expects Q1 2026 Adjusted EBITDA to be in the range of $2 million to $5 million.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q4-036",
+      "turn_index": 17,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "For the year, we expect revenue in the range of $4.85 billion-$5.15 billion.",
+      "claim": "eXp expects full year 2026 revenue to be in the range of $4.85 billion to $5.15 billion.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q4-037",
+      "turn_index": 17,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "operating expenses in the range of $325 million-$345 million.",
+      "claim": "eXp expects full year 2026 operating expenses to be in the range of $325 million to $345 million.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q4-038",
+      "turn_index": 17,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "we expect Adjusted EBITDA in the range of $50 million-$75 million for 2026.",
+      "claim": "eXp expects full year 2026 Adjusted EBITDA to be in the range of $50 million to $75 million.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q4-039",
+      "turn_index": 19,
+      "speaker_id": "glenn-sanford",
+      "verbatim_quote": "The results showed up in 2025, seven new country launches, international revenue up 67% to $147 million, and launch costs down 37% compared to our original expansion efforts.",
+      "claim": "In 2025, eXp launched 7 new countries, achieved $147 million in international revenue (up 67%), and reduced launch costs by 37%.",
+      "categorizations": [
+        "geographic_or_regional_rollout",
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q4-040",
+      "turn_index": 21,
+      "speaker_id": "glenn-sanford",
+      "verbatim_quote": "I'm working directly with some of our country leaders internationally as the first cohort to pilot this framework.",
+      "claim": "eXp is piloting the single-threaded leader framework with international country leaders in 2026.",
+      "categorizations": [
+        "strategic_direction_claim"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q4-041",
+      "turn_index": 22,
+      "speaker_id": "glenn-sanford",
+      "verbatim_quote": "2026 is the year we scale across every layer of the platform.",
+      "claim": "eXp plans to scale the single-threaded leader framework and AI-native tooling across every layer of the platform in 2026.",
+      "categorizations": [
+        "strategic_direction_claim"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q4-042",
+      "turn_index": 31,
+      "speaker_id": "leo-pareja",
+      "verbatim_quote": "Even, about 1 hour before the call started, I Zoomed into an onboarding in Houston to a 60-person independent that we'll announce at our next earnings call.",
+      "claim": "eXp will announce the acquisition of a 60-person independent brokerage in Houston at the next earnings call.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q4-043",
+      "turn_index": 36,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "That was 5.3 for the year.",
+      "claim": "Productivity per person (PPP) was 5.3 for the trailing 12-month period ending in 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q4-044",
+      "turn_index": 37,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "we expect that to translate in EBITDA margin expansion into 2026",
+      "claim": "Investments in AI and automation are expected to translate into EBITDA margin expansion in 2026.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q4-045",
+      "turn_index": 44,
+      "speaker_id": "carrie-lysenko",
+      "verbatim_quote": "Liv will continue to be expanded on in 2026 as we grow the consumer audience and impact to our agents globally.",
+      "claim": "The Liv global portal infrastructure will be expanded in 2026 to grow the consumer audience and impact for agents globally.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q4-046",
+      "turn_index": 44,
+      "speaker_id": "carrie-lysenko",
+      "verbatim_quote": "For the future, we're really in 2026 gonna be focused on expanding that e-agent ecosystem. That includes continuing to build on the eXp Hub community platform",
+      "claim": "eXp will focus on expanding the e-agent ecosystem and building the eXp Hub community platform in 2026.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q4-047",
+      "turn_index": 45,
+      "speaker_id": "carrie-lysenko",
+      "verbatim_quote": "we already have 13% of our agent base communicating and participating in the Hub in these early months since we launched it.",
+      "claim": "13% of the agent base is communicating and participating in the eXp Hub since its launch.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q4-048",
+      "turn_index": 45,
+      "speaker_id": "carrie-lysenko",
+      "verbatim_quote": "We've also introduced a Marketplace App Store within the Hub, and this will continue to be built upon in 2026.",
+      "claim": "The Marketplace App Store within the eXp Hub will continue to be built upon in 2026.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q4-049",
+      "turn_index": 54,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "we have the second tranche coming up the summer of 2026 here.",
+      "claim": "The second tranche of the NAR litigation payment is scheduled for the summer of 2026.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q4-050",
+      "turn_index": 54,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "We did wanna make sure that we were being good stewards in maintaining that $100 million cash threshold that we set internally as a leadership team on the balance sheet.",
+      "claim": "eXp maintains an internal target of a $100 million cash threshold on the balance sheet.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "indefinite",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2025Q4-051",
+      "turn_index": 63,
+      "speaker_id": "leo-pareja",
+      "verbatim_quote": "we just launched a pilot program in January through our Fast Cap program... we partnered with Realty.com and included seller jump ball leads. Something like 1,800 leads were given out",
+      "claim": "eXp launched a Fast Cap pilot program in January 2026 partnering with Realty.com, distributing approximately 1,800 seller leads.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    }
+  ]
+}

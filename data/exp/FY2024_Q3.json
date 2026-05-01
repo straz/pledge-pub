@@ -1,0 +1,540 @@
+{
+  "company_id": "exp",
+  "title": "Exp World Q3 2024 Earnings Call Transcript",
+  "datetime": "2024-11-07T22:00:00Z",
+  "period": "FY2024_Q3",
+  "location": "",
+  "url": "https://www.marketbeat.com/earnings/reports/2024-11-7-exp-world-holdings-inc-stock/",
+  "people": [
+    {
+      "id": "denise-garcia",
+      "name": "Denise Garcia",
+      "role": "Head of Investor Relations at eXp World Holdings"
+    },
+    {
+      "id": "glenn-sanford",
+      "name": "Glenn Sanford",
+      "role": "CEO at eXp World Holdings"
+    },
+    {
+      "id": "leo-pareja",
+      "name": "Leo Pareja",
+      "role": "CEO at eXp Realty"
+    },
+    {
+      "id": "wendy-forsythe",
+      "name": "Wendy Forsythe",
+      "role": "CMO at eXp Realty"
+    },
+    {
+      "id": "seth-siegler",
+      "name": "Seth Siegler",
+      "role": "Chief Innovation Officer at eXp Realty"
+    },
+    {
+      "id": "kent-cheng",
+      "name": "Kent Cheng",
+      "role": "Principal Financial Officer and Chief Accounting Officer at eXp World Holdings"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "denise-garcia",
+      "speaker_name": "Denise Garcia",
+      "speaker_role": "Head of Investor Relations at eXp World Holdings",
+      "timestamp": "00:00:00",
+      "text": "Okay, let's get started. Good afternoon and welcome to the eXp World Holdings' third quarter 2024 earnings fireside chat via livestream and our metaverse on the web, Frame. My name is Denise Garcia, and I manage investor relations for eXp World Holdings. Today we will begin our earnings fireside chat with prepared remarks from Glenn Sanford, Founder, Chairman, and CEO of eXp World Holdings; Leo Pareja, CEO of eXp Realty; Wendy Forsythe, CMO of eXp Realty; Seth Siegler, Chief Innovation Officer of eXp Realty; and Kent Cheng, Principal Financial Officer and Chief Accounting Officer of eXp World Holdings. Following our prepared remarks, we will open the call to a Q&A session with our speakers. Let's begin with a review of the forward-looking statements. There'll be a number of forward-looking statements made today that should be considered in conjunction with the cautionary statements contained in the company's SEC filings."
+    },
+    {
+      "speaker_id": "denise-garcia",
+      "speaker_name": "Denise Garcia",
+      "speaker_role": "Head of Investor Relations at eXp World Holdings",
+      "timestamp": "00:01:02",
+      "text": "Forward-looking statements are subject to various risks and uncertainties that could cause our actual results to differ materially from these statements. Please see our filings with the SEC, including our most recently filed annual report on Form 10-K and quarterly reports on Form 10-Q, for a discussion of specific risks that may affect our business performance and financial condition. We assume no obligation to update or revise any forward-looking statements or information. As a reminder, today's call is being recorded, and a replay will also be made available on expworldholdings.com. Now for a few logistics, and we'll get started. For those of you joining in Frame today, welcome to our metaverse on the web. To zoom into a specific screen, you can click on that screen, then click Zoom In. If the content on that screen disappears or if you lose audio, simply refresh the page."
+    },
+    {
+      "speaker_id": "denise-garcia",
+      "speaker_name": "Denise Garcia",
+      "speaker_role": "Head of Investor Relations at eXp World Holdings",
+      "timestamp": "00:01:58",
+      "text": "While in Frame, if you need help, just use the Help button at the bottom right to link with tech support. Should you wish to ask a question during our presentation, you can enter your questions by scanning the QR code presented on the screen with your mobile phone or go to slido.com and type in the event code EXPI. From there, you can submit a question or vote up an existing question by giving a thumbs up if you'd like to have that question asked. This screen will remain up on the right-hand side of the stage. Now I'll turn the fireside chat over to our speakers before opening the call to questions. Glenn, you may begin."
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "CEO at eXp World Holdings",
+      "timestamp": "00:02:42",
+      "text": "All right, thanks Denise, and thanks everyone for joining us today. It was a busy Q3, as you guys are aware. Obviously, we just came off of our big event in Miami, EXPCON 2024. I know there were some investors and some analysts that were attending. It was pretty cool to get some notes even in the background from the event. I think one of our analysts actually sent me a note about our fund dance. So if you want to see something viral, go check that out. Anyway, this quarter, I want to just continue to refocus us on what we're working on. Obviously, we've got eXp North America, and Leo's going to really talk about things that are going on, and Wendy as well on eXp North America."
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "CEO at eXp World Holdings",
+      "timestamp": "00:03:38",
+      "text": "On international, that's where I've been focusing a ton of my time since July, and we've really turned things around in a major way. Obviously, we also have Success Enterprises, and then of course, where you're actually seeing right now, which is framevr.io, which is truly our digital workplace. In fact, I'm going to invite those of you who are interested to come by our international offices at some point at exp.world/international. So just keep that in the back of your mind, but you can come in, see how we operate, see how we work. We're working 24/7 around the globe, but we've really just built this amazing platform where agents are our singular focus. We've spent more than 15 years building out the eXp platform. We just went past our 15-year anniversary at the beginning of October, and we are doing some amazing things."
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "CEO at eXp World Holdings",
+      "timestamp": "00:04:46",
+      "text": "Obviously, we think about things like our NPS, and we've got phenomenal scores on that. We like to think about the idea that if we're above a 70 on our agent NPS, we're in good shape, and we're in great shape right now. We actually increased to 76, but that's going to fluctuate up and down. So the fact that it's above 70 is an amazing number because we know that if we're above 70, we're really attracting agents in. We're growing our market share. And really, if we think about what we're here to do, we're really here to build the most agent-centric real estate brokers on the planet. Again, Leo will touch on North America, but we did purchase a few things. We did a few things. LuxVT, again, Leo will touch on that, and Wendy may as well."
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "CEO at eXp World Holdings",
+      "timestamp": "00:05:43",
+      "text": "But we're also doing a lot of stuff with AI, with Seth Siegler. We'll talk about that. So a lot of really great stuff. International, as I mentioned, that's really where I'm focused. In July, I jumped in with the international team. We have an amazing team on the international side of the business, and we've now grown our revenue. Just in the last 12 months, we've grown it by 63%. And I mentioned that. I mean, that's a lagging indicator, but it really speaks to the fact that we've got quality agents in the international domain, and we're focusing quite a bit on what we need to do to grow that. In the prior 12-18 months prior to jumping in, we hadn't opened up a single country. We now have three countries that we're going to be opening up in early 2025."
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "CEO at eXp World Holdings",
+      "timestamp": "00:06:46",
+      "text": "We've made great progress on TÃ¼rkiye, Peru, and now Egypt, and we've got just an amazing team there working on helping us grow out. You'll see this HomeHunter.global. One of the things that we've learned over the last number of years, and especially getting involved, I remember Leo and I, we flew over for EXPCON International, and we sat with some of the portals that basically control the real estate industry outside of North America. In North America, we have the benefit of the multiple listing services, all basically keeping the portals in check, meaning that no single portal has a dominant market share of listings. And certainly, there is money to be made in the portal space. You can certainly look at the market cap of Zillow and Realtor.com and how important these are, Homes.com as well, in the businesses of agents."
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "CEO at eXp World Holdings",
+      "timestamp": "00:08:03",
+      "text": "However, internationally, the portals, there is no MLS to basically keep them in check. You have to actually go and search multiple real estate portals as a consumer. And so one of the things that we're really excited about is a partnership with a platform called HomeHunter.global. And you can go check it out, but if you're searching for property outside of North America, especially in the markets that eXp is doing business in, you're going to want to go into the Chrome Web Store and the browser extension store and download the HomeHunter.global extension. And the reason being is if you've ever searched internationally, one, you don't know all the websites that the listing that you're looking for might be on, so you need a tool to keep track of all the different websites."
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "CEO at eXp World Holdings",
+      "timestamp": "00:08:55",
+      "text": "Then on top of that, you need to be able to keep track of the listings that you've actually seen on the various different websites. HomeHunter.global is actually the first tool of its kind that I'm aware of where you as a consumer can keep track of all of that important information. But it also will connect you with an eXp agent and also help promote eXp listings to those individuals who actually use the HomeHunter.global extension. So it's a great consumer tool. It's a great agent engagement tool. And again, excited about a lot of the things that we're doing. We do have more countries in the wings. We're in active conversations with two to three countries that we are excited about announcing very shortly."
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "CEO at eXp World Holdings",
+      "timestamp": "00:09:46",
+      "text": "Hopefully, before the end of the year, we'll have at least one, if not more, countries that we'll be announcing, but there's a lot of good stuff going on on the international front. And so with that, let me go ahead and turn it over to Leo, and he can walk you through some of the highlights of North America. Leo."
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "CEO at eXp Realty",
+      "timestamp": "00:10:06",
+      "text": "Thanks, Glenn, and thanks to everyone who's joining us today. I'm really thrilled with the number of quality independent brokers and teams we've brought on during this last quarter. This success is a direct result of a lot of the strategic growth that we've been focusing on at eXp. We're very effectively aligned with our growth team and our marketing efforts to attract some of the most respected and highest performing teams in the industry. These additions are not just a testament to our strategy, but also are significantly strengthening our eXp market position. Earlier this year, I spoke about key initiatives that are driving this launch, this growth. We talked about Boost, Thrive, Revenue Share 2.0, and I'm happy to say these programs are making a notable impact."
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "CEO at eXp Realty",
+      "timestamp": "00:10:49",
+      "text": "On July 1st, we launched Fast Start Attraction Bonus, and I'm proud to announce that in Q3 alone, we paid over $5 million to agents who are part of this initiative. We also announced more incentives at EXPCON last week to further support our ICONs and our productive agents. The ICON Incentive Program and Revenue Share Capping Incentive Program are as follows. The ICON Incentive Program will credit ICON agents up to 30 frontline qualifying agents for 13 months, maximizing the revenue share potential for all seven levels. And the Revenue Share Capping Incentive Program provides an additional revenue stream for agents that have capped by crediting them with 10 FLQA to maximize their earning potentials through levels five for 13 months. Both of those programs will start on November 1st."
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "CEO at eXp Realty",
+      "timestamp": "00:11:36",
+      "text": "On the first quarter call, I mentioned that I promised conversations we're having with small to mid-size independents, and I anticipate an influx of new groups joining eXp with dozens or even hundreds of agents at a time. I'm pleased to report that we delivered on those promises. During the third quarter, we welcomed several independent brokerages with contributing hundreds of agents and represented hundreds of millions of volume at the same time. These brokerages include award-winning teams that are recognized powerhouses in their regions to further elevate our profile. Brandon Brittingham and the Maryland Delaware Group sold 900 homes last year and joined our company last quarter. Chantel Ray and CanZell Realty, which was one of the original cloud-based brokerage competitors we saw pop up about five years ago, licensed in over 20 states, came over as an entire company."
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "CEO at eXp Realty",
+      "timestamp": "00:12:29",
+      "text": "Michael Levy with the Grand Lux Realty team in New York came over with just over 200 agents. That's really exciting for us. We continue to see this momentum, and I can continue to say that there are many, many conversations like that still in process coming over. Going into 2025, we're really excited for the quality and production we continue to attract to the platform. With that, I'll pass it over to our CMO, Wendy Forsythe, who will share some updates and exciting improvements in marketing and programs to enhance our agent value proposition and making eXp so attractive to agents. Wendy."
+    },
+    {
+      "speaker_id": "wendy-forsythe",
+      "speaker_name": "Wendy Forsythe",
+      "speaker_role": "CMO at eXp Realty",
+      "timestamp": "00:13:07",
+      "text": "Thanks, Leo, and hello, everyone. Thanks for joining us today. I joined eXp a little over six months ago. Having a background in real estate, I've watched eXp grow and innovate, and I'm excited to be part of the team building this next chapter of this amazing company. I'll start with my first mandate, evolving the eXp brand. On the next slide, I'll walk you through the key focus areas of the eXp 2.0 brand strategy to further align eXp's image with its leadership position in innovation, technology, and agent empowerment. First, we focused on updating the brand aesthetic towards a more modern look and feel, and we called this our brand glow-up. We shifted away from the royal blue primary brand color to a dark navy, removed the outdated box logo treatment, and aligned all supporting product and program logos for an overall brand consistency."
+    },
+    {
+      "speaker_id": "wendy-forsythe",
+      "speaker_name": "Wendy Forsythe",
+      "speaker_role": "CMO at eXp Realty",
+      "timestamp": "00:14:12",
+      "text": "Second, we focused on increasing brand awareness of the eXp brand. On the next slide, I'll walk you through some recent press coverage we've secured as part of increasing awareness of eXp initiatives. As part of our brand evolution, we've made tremendous strides in boosting our thought leadership and increasing media visibility. I'm thrilled to share that we've appeared in over 7,700 articles across major media outlets such as The Wall Street Journal, CNBC, and CNN, along with top industry publications like HousingWire, Inman, and RISMedia. These appearances have generated over 14.7 billion views and impressions, giving us an incredible share of voice in the industry. This level of exposure is a clear reflection on the growing recognition of eXp's leadership and the eXp brand."
+    },
+    {
+      "speaker_id": "wendy-forsythe",
+      "speaker_name": "Wendy Forsythe",
+      "speaker_role": "CMO at eXp Realty",
+      "timestamp": "00:15:14",
+      "text": "Establishing a strong brand voice is key as we continue to enhance our value proposition and create even more opportunities for our agents. One exciting opportunity we've been focused on is empowering our agents to compete in the luxury market, which I'll discuss more on the next slide. We launched eXp Luxury just two years ago, and it's been very well received. We've expanded into all international markets during 2024, and compared to the third quarter 2023, we grew our agent membership by 94%. The luxury division offers agents an elite suite of integrated solutions to maximize their earnings potential, sign and sell more high-priced listings, and not just grow, but thrive in the luxury space. I'm delighted to announce that on October 18th, eXp Realty acquired LuxVT, a marketing technology platform that helps agents promote their luxury listings."
+    },
+    {
+      "speaker_id": "wendy-forsythe",
+      "speaker_name": "Wendy Forsythe",
+      "speaker_role": "CMO at eXp Realty",
+      "timestamp": "00:16:20",
+      "text": "Our luxury agents have been using this platform to improve their marketing efficiency, build their brand identity, and provide successful strategies for client acquisition and management. Owning this suite of solutions built for the luxury space is an important strategic move that gives eXp agents distinct competitive advantages, allowing our agents and the eXp brand to stand out in the luxury market. Moving on to the next slide, I'll wrap up by sharing some groundbreaking announcements and exciting new initiatives we unveiled last week at EXPCON. This year's event was hosted for the first time in Miami and brought together 4,300 attendees. The energy was electric."
+    },
+    {
+      "speaker_id": "wendy-forsythe",
+      "speaker_name": "Wendy Forsythe",
+      "speaker_role": "CMO at eXp Realty",
+      "timestamp": "00:17:11",
+      "text": "During EXPCON, we made several major announcements: enhanced features to RevShare 2.0 that take agent collaboration and growth to the next level, a global partnership with Canva, the world's leading digital design platform, bringing powerful creative design tools to our agents, a partnership with Sisu to supercharge agent and team productivity, the acquisition of LuxVT, which I just talked about, the launch of a fully designed and reimagined eXpRealty.com and eXpRealty.ca websites, expansion into three international countries that Glenn mentioned to further grow our global footprint. And if that wasn't enough, we kicked off eXp's first-ever hackathon, an innovative event powered by OpenAI's cutting-edge technology, where talented participants tackled unique challenges facing eXp Realty and the broader real estate industry. Now I'm going to hand it over to Seth Siegler, eXp's Chief Innovation Officer, to dive into the exciting AI-based innovations we're bringing to life. Seth."
+    },
+    {
+      "speaker_id": "seth-siegler",
+      "speaker_name": "Seth Siegler",
+      "speaker_role": "Chief Innovation Officer at eXp Realty",
+      "timestamp": "00:18:28",
+      "text": "Awesome. Thanks, Wendy, and thanks, everybody. Super excited to be here today to get into our latest tech and innovation. We're really pushing the boundaries and adopting AI-based technology across the entire business and really trying to redefine what's possible in real estate tech, setting new standards for the industry itself. Here at eXp, we've always been on a relentless journey of innovation, always using technology to really empower agents and transform the way that we do things in the business. And we're really focused on building a future where agents are equipped to be transformative in what they do, giving them the tools that they need to make that possible and enabling them to thrive and succeed at unmatchable levels. That's always our goal."
+    },
+    {
+      "speaker_id": "seth-siegler",
+      "speaker_name": "Seth Siegler",
+      "speaker_role": "Chief Innovation Officer at eXp Realty",
+      "timestamp": "00:19:16",
+      "text": "So part of this journey is our unwavering focus on leveraging today's most cutting-edge AI solutions to really revolutionize the business in four key areas that we think hold the most opportunity for growth and opportunity. So those four areas are agent productivity, operational efficiency and accuracy, internal empowerment and agility, and lastly, future applications. So to get into it, starting with agent productivity, our commitment to our agents means that we always need to be there for them whenever they need us. With AI now integrated into our existing Expert Care Desk and the all-new Luna 2.0, we've really created an always-on support system that offers agents around-the-clock assistance and really empowers them with instant answers and support whenever they need it, wherever they're located."
+    },
+    {
+      "speaker_id": "seth-siegler",
+      "speaker_name": "Seth Siegler",
+      "speaker_role": "Chief Innovation Officer at eXp Realty",
+      "timestamp": "00:20:12",
+      "text": "Agents can also get real-time info and interaction with their own business via natural language chat using Luna, which is using NLP AI to deeply integrate into several of our existing eXp systems. In terms of operational efficiency and accuracy, we're really leaning into the power of AI to create tools and workflows that augment, simplify, streamline, and add a lot of scalability to everything that we're doing, from document processing to transaction processing to software development. Our in-house Task Center, a project that we built here, is only accelerating these workflows by smartly routing tasks, ensuring projects remain on task, and ultimately making our operations smoother, more measurable, and more effective. So in terms of internal empowerment and agility for the staff, it's not only about helping agents. AI can help us in all sorts of different areas. We're using it also to empower our whole team internally."
+    },
+    {
+      "speaker_id": "seth-siegler",
+      "speaker_name": "Seth Siegler",
+      "speaker_role": "Chief Innovation Officer at eXp Realty",
+      "timestamp": "00:21:16",
+      "text": "We're enabling our staff to tackle challenges and manage tasks independently, supported by AI-driven augmentation and assistance in part thanks to our ever-deepening partnership with OpenAI, the leader in the space. Hundreds of our staff members now have access to our enterprise OpenAI platform and have created custom GPT assistants that help them with their daily tasks, enabling them to work smarter, faster, and more effectively than ever before without having to write any code or wait on any solutions to be built for them. They can really take that into their own hands. And then lastly, future applications. So it's still early days for some of this technology, but we see incredible opportunity for the future, including innovation in education, mentoring, as well as rapid prototyping of new ideas and software. It enables us to just move faster and more efficiently."
+    },
+    {
+      "speaker_id": "seth-siegler",
+      "speaker_name": "Seth Siegler",
+      "speaker_role": "Chief Innovation Officer at eXp Realty",
+      "timestamp": "00:22:10",
+      "text": "Some of these initiatives are already actually in flight in their early stages, and I'm massively excited about the possibilities that they can bring to transform what we're doing here at eXp and revolutionize even the industry as a whole, so just as eXp pioneered the industry as the first cloud-based brokerage, we're taking a leading position in AI adoption as well, and I couldn't be more pumped up to be here helping to drive this initiative forward and ride the wave of innovation. It is shaping the way that all industries are working, and real estate's no exception there, so we're just looking to continue to transform the way that we serve our agents, our clients, and our communities, so that brings us to something exciting. As part of this commitment, we're launching an ExpertGPT feature on our IR website."
+    },
+    {
+      "speaker_id": "seth-siegler",
+      "speaker_name": "Seth Siegler",
+      "speaker_role": "Chief Innovation Officer at eXp Realty",
+      "timestamp": "00:23:02",
+      "text": "Investors can get a small taste of how game-changing this technology really is and save some time when researching eXp. Anyone interested in researching and learning more about eXp can find the ExpertGPT feature on the bottom right-hand side of each page across our IR website. ExpertGPT will search eXp's SEC filings, press releases, earnings calls, transcripts, and IR-related materials to find whatever the answer may be to your IR-related question. That's that. Now I'll turn the call over to Kent to walk you through eXp's third quarter financial highlights."
+    },
+    {
+      "speaker_id": "kent-cheng",
+      "speaker_name": "Kent Cheng",
+      "speaker_role": "Principal Financial Officer and Chief Accounting Officer at eXp World Holdings",
+      "timestamp": "00:23:40",
+      "text": "Thank you, Seth. On the next slide, I will highlight several key metrics during the third quarter of 2024 that underscore our progress and strategic initiatives. Let's start with our agent net promoter score, or aNPS. This quarter, we achieved an aNPS of 76, which is a two-point improvement compared to the third quarter of last year. This number continues to be strong as we continue to listen to our agents and invest in programs that drive their productivity through compensation incentives, sales, and marketing and technology, as the team discussed previously. Moving on to our agent network, our agent count decreased 4% on a year-over-year basis, reflecting both challenging market conditions in the U.S. and our strategic decision to onboard unproductive agents. This move is aligned with our focus on enhancing overall productivity and efficiency."
+    },
+    {
+      "speaker_id": "kent-cheng",
+      "speaker_name": "Kent Cheng",
+      "speaker_role": "Principal Financial Officer and Chief Accounting Officer at eXp World Holdings",
+      "timestamp": "00:24:42",
+      "text": "Turning to our other operating metrics, real estate sales transaction unit declined 1% year-over-year, while real estate sales volume increased by 5%. Realty costs per transaction decreased 1% as we focus on operating efficiency while continuing to invest in our agents. We believe we are among the most efficient companies in our industry, and we remain focused on reducing our costs per transaction moving forward. Now, let's discuss our financial metrics. Revenue for the third quarter was $1,231 million, a 2% increase year-over-year. Our Q3 revenue growth was due to higher real estate sales volume and an increase in agent productivity, which I'll detail in the next slide. Third quarter Adjusted EBITDA was $23.9 million, up 15% year-over-year, driven by higher revenue and lower SG&A expenses relative to prior year quarter."
+    },
+    {
+      "speaker_id": "kent-cheng",
+      "speaker_name": "Kent Cheng",
+      "speaker_role": "Principal Financial Officer and Chief Accounting Officer at eXp World Holdings",
+      "timestamp": "00:25:42",
+      "text": "Drilling down into our Q3 expenses, general and administrative expenses were $61.4 million, up 2% compared to the third quarter of 2023 due to higher employee-related expenses and increased legal costs related to the antitrust lawsuit. We provided an additional $18 million antitrust lawsuit settlement contingency provision in Q3. If you recall, in Q1 this year, we provided a $60 million provision for this matter. As of the end of Q3, we have provided a total of $34 million antitrust contingency provision, which was consistent with the current settlement agreement. Our GAAP net loss was $8.5 million, driven by $18 million antitrust contingency provision. Excluding this $18 million contingency provision, third quarter adjusted net income was $7.8 million compared to $2.3 million in 2023, a 239% increase year-over-year. Moving on to cash flow and capital allocation, Q3 adjusted operating cash flow was $65 million."
+    },
+    {
+      "speaker_id": "kent-cheng",
+      "speaker_name": "Kent Cheng",
+      "speaker_role": "Principal Financial Officer and Chief Accounting Officer at eXp World Holdings",
+      "timestamp": "00:26:54",
+      "text": "We repurchased $35 million of shares during the quarter. The number of shares repurchased in Q3 was more than the number of shares issued through our agent and employee stock compensation programs. On the next slide, I will provide more detail about the driver of revenue increase for the third quarter. This chart shows the driver behind the increase in revenue from the third quarter of 2023 to the third quarter of 2024. In Q3 2023, our revenue stood at $1,230 million, as shown by the bar on the left. For the third quarter of 2024, revenue increased $18 million, or 2%, to $1,231 million, as indicated by the bar on the right. This increase was driven by both North America Realty segment, which included U.S. and Canada, and our international realty segment. Both contributed about $9 million in additional revenue during the quarter."
+    },
+    {
+      "speaker_id": "kent-cheng",
+      "speaker_name": "Kent Cheng",
+      "speaker_role": "Principal Financial Officer and Chief Accounting Officer at eXp World Holdings",
+      "timestamp": "00:27:59",
+      "text": "Let's delve deeper into the North America Realty business. Market conditions in the U.S. led to a lower agent base, which negatively impacted our revenue by approximately $75 million. U.S. home sales in the third quarter 2024 declined 1.3% year-over-year, which pressured our agent production. We estimated the decrease in the North America Realty market reduced our revenue by about $10 million. However, this market decline was more than offset by gain from several areas in our business. Relative to the performance of the real estate market, an increase in our agent productivity over prior year added $55 million of revenue. Higher home sales prices contributed to incremental revenue of $32 million. Additionally, our strategic focus on expanding our lease, referral, and other ancillary services brought in an $8 million top-line growth. On the next slide, I will provide an overview of the financials for each segment."
+    },
+    {
+      "speaker_id": "kent-cheng",
+      "speaker_name": "Kent Cheng",
+      "speaker_role": "Principal Financial Officer and Chief Accounting Officer at eXp World Holdings",
+      "timestamp": "00:29:10",
+      "text": "The North America Realty segment continued to be the primary driver of both revenue and profit for the company. Despite the challenging U.S. real estate market conditions, segment revenue was $1,207 million, a slight decrease from prior year due to higher home sales prices and improved eXp agent productivity. Adjusted EBITDA was $28.9 million, a 6% increase year-over-year due to improved business efficiency. International real estate segment revenue was $24.2 million, an increase of 63%, primarily due to increased real estate transactions driven by improved agent productivity. Adjusted EBITDA loss was $1.7 million, a 37% improvement from prior year due to increased revenue and improved business efficiency. Other affiliated services, including Frame and Success, contributed modest revenue and adjusted EBITDA loss. This slide highlights our solid Q3 performance across the key operational and financial metrics, which I have discussed in detail in the previous slide."
+    },
+    {
+      "speaker_id": "kent-cheng",
+      "speaker_name": "Kent Cheng",
+      "speaker_role": "Principal Financial Officer and Chief Accounting Officer at eXp World Holdings",
+      "timestamp": "00:30:23",
+      "text": "Looking ahead to the fourth quarter, we continue to anticipate downward pressure on U.S. existing home sales, which is consistent with third quarter commentary, barring any significant macroeconomic shifts. Our gross margin percentage for the fourth quarter is expected to be generally consistent with our typical seasonal pattern and the last year's performance. We plan to continue investing in our international market and agent growth initiatives to boost productivity."
+    },
+    {
+      "speaker_id": "kent-cheng",
+      "speaker_name": "Kent Cheng",
+      "speaker_role": "Principal Financial Officer and Chief Accounting Officer at eXp World Holdings",
+      "timestamp": "00:30:53",
+      "text": "I also noted that the fourth quarter is seasonally our slowest quarter in terms of real estate transactions. Our SG&A expenses will increase sequentially from Q3 due to the annual EXPCON event expenses to be recorded in Q4. In conclusion, I'm happy to report another quarter of solid execution, which leaves us well-positioned to capitalize on the upcoming market growth opportunity when the real estate market turns and recovers positively. With that said, I'd like to turn the presentation back to Denise, who will facilitate the Q&A session. Thank you."
+    },
+    {
+      "speaker_id": "denise-garcia",
+      "speaker_name": "Denise Garcia",
+      "speaker_role": "Head of Investor Relations at eXp World Holdings",
+      "timestamp": "00:31:33",
+      "text": "Great. Thank you, Kent."
+    },
+    {
+      "speaker_id": "kent-cheng",
+      "speaker_name": "Kent Cheng",
+      "speaker_role": "Principal Financial Officer and Chief Accounting Officer at eXp World Holdings",
+      "timestamp": "00:31:35",
+      "text": "Thanks, Denise. And thanks, everyone, for joining us today. It was."
+    },
+    {
+      "speaker_id": "denise-garcia",
+      "speaker_name": "Denise Garcia",
+      "speaker_role": "Head of Investor Relations at eXp World Holdings",
+      "timestamp": "00:31:42",
+      "text": "Great. All right, Kent. Thank you. I'll kick it off with a question for everyone on the team first before we open up to the general audience for questions. First, Glenn, can you talk about why you decided to expand into Turkey, Peru, and Egypt in particular?"
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "CEO at eXp World Holdings",
+      "timestamp": "00:31:59",
+      "text": "Yeah. Some of these were conversations that were going on. Peru, specifically, was one that had been going on for a while. I think the team was really looking to open up some new countries. Obviously, I jumped in in July. We've got a great partner in Peru with Ricardo. Then we had opportunities to look at a couple of other markets, TÃ¼rkiye. I don't know if we've shared it on our social media, but YiÄŸit is the gentleman opening up in TÃ¼rkiye. He has a large social media following, really strong real estate sales background, really kind of epitomizes what we're looking for in a leader in TÃ¼rkiye. So pretty excited about him."
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "CEO at eXp World Holdings",
+      "timestamp": "00:33:03",
+      "text": "And then with Ahmed in Egypt, very well connected, has been building the MLS in Egypt, comes with a strong background in organized real estate, and is really enthusiastic about opening it up. So we're really building around strong leaders. And so these were three individuals who represented really the best of the best in these markets. And we've always said that we really focus on following leadership rather than focusing on the market. I think previously, we may have taken an approach which was, \"Let's open up markets because they're good markets.\" Historically, in the U.S., in Canada, we opened up different states because we had good leaders. And so we're going back to sort of that approach. And we've got a lot of other great conversations going on as well."
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "CEO at eXp World Holdings",
+      "timestamp": "00:34:07",
+      "text": "So as we meet great leaders and they can put together the core groups and we can help them sort of dial in the value propositions that make sense, we are simplifying the opening up of new markets. So we're going to really a two different cap system for international. So that'll also play into sort of our rapid growth model. And we're doing some standardizations around that, which, again, will play out well. We just announced last week, which is probably worth noting, our International Sponsorship Program where agents internationally can assist agents anywhere in the world to recruit in their country, even if they're not in their rev share group. So pretty excited about that. So anyway, just a lot of things that we're doing on the international front that is pretty exciting."
+    },
+    {
+      "speaker_id": "denise-garcia",
+      "speaker_name": "Denise Garcia",
+      "speaker_role": "Head of Investor Relations at eXp World Holdings",
+      "timestamp": "00:35:00",
+      "text": "Thanks. All right. Next question is for Leo. Leo, can you discuss what's driving the decrease in agent count?"
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "CEO at eXp Realty",
+      "timestamp": "00:35:08",
+      "text": "Yeah. So at our size and scale, we're very susceptible to larger macroeconomic behavior from agent count. So more than half of the agents who've left eXp this year have left the industry in totality. 62% of nonproductive agents that left eXp left the industry. So if you segment it out, if anyone curious goes to the first page of the appendix, close to 77%-78% of the people who left us had zero to two sales. But our retention on the more productive cohort of 21+ sales has actually decreased. So our retention has increased. So we're roughly 2% attrition in the more productive part of the cohort. So we've been really focused on that. The rallying cry for this year has been where the pros are going to grow."
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "CEO at eXp Realty",
+      "timestamp": "00:36:00",
+      "text": "It's really starting to continue to show in the level of talent we're attracting in a lot of the programs. One of the programs I'm most excited about is called FastCap that we rolled out and announced at EXPCON, where we're seeing early signs on brand new agents, getting them into productivity in a six-week accountability program. Then we've continued to roll out our Fast Start attraction bonus that we launched July 1st. Since we've launched the program, we've paid out $5 million. By the way, it has no EBITDA impact. This is all part of the rev share bucket. It still maintains the margins we're enjoying. We're very focused on growth through attraction."
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "CEO at eXp Realty",
+      "timestamp": "00:36:41",
+      "text": "At EXPCON, we announced the ICON incentive program, where we open up all seven levels to give them credit for the 30 frontline qualifiers and then the capping one for the first five. So they're all designed to incentivize and attract production. So at EXPCON, I gave a keynote where, based on the economic data that we pulled from Fannie Mae and several other economists, we're more bullish based on where rate cuts have been from starting the year to ending the year we're bullish that 2025 will have an increased transactional count over 2023 and 2024 which will probably end the year either flat or lower than 2023. So we're bullish on all that fun stuff. Back to you, Wendy."
+    },
+    {
+      "speaker_id": "denise-garcia",
+      "speaker_name": "Denise Garcia",
+      "speaker_role": "Head of Investor Relations at eXp World Holdings",
+      "timestamp": "00:37:31",
+      "text": "Great. Thanks. Thanks. Yeah, Wendy, let's ask you a question. Thank you for joining us today. Can you discuss the timeline and the budget for evolving the eXp brand and how you measure success?"
+    },
+    {
+      "speaker_id": "wendy-forsythe",
+      "speaker_name": "Wendy Forsythe",
+      "speaker_role": "CMO at eXp Realty",
+      "timestamp": "00:37:43",
+      "text": "Yeah, absolutely. Thanks, Leo. Thanks, Denise. The good news is that we've completed the brand update that I talked about. We called it our glow-up, but our brand is a living, breathing thing. It will continue to evolve in order to meet market needs, in order to meet our agents' needs, so we'll always be looking at how we can continue to evolve and modernize the brand. The second part of your question, Denise, was sort of how do we monitor success and what measures do we use, and I think of marketing as having both elements of art and science. There's the art part of marketing that is very subjective, but what we really lean into is the science part of marketing, and that's the numbers and looking at how are the marketing things that we're doing sort of performing, and we look at things like share of voice."
+    },
+    {
+      "speaker_id": "wendy-forsythe",
+      "speaker_name": "Wendy Forsythe",
+      "speaker_role": "CMO at eXp Realty",
+      "timestamp": "00:38:45",
+      "text": "We look at all of the analytics that are available to us from social media to really monitor kind of that science and that art part together. So we always continue to do that and report those numbers. But as I said, the beauty of eXp 2.0 is our branding evolution is ongoing, and we'll continue to add and improve as we move forward."
+    },
+    {
+      "speaker_id": "denise-garcia",
+      "speaker_name": "Denise Garcia",
+      "speaker_role": "Head of Investor Relations at eXp World Holdings",
+      "timestamp": "00:39:15",
+      "text": "Great. Thank you. Also want to remind everybody that you can ask a question on Slido. You can scan the code that's behind me and ask your question there. Or you could go to slido.com and enter the code EXPI and ask a question there. I'll open the mic to Jonathan Bass, our covering analyst at Stephens. Jonathan, if you'd like to ask a question, you can go ahead."
+    },
+    {
+      "speaker_id": "denise-garcia",
+      "speaker_name": "Denise Garcia",
+      "speaker_role": "Head of Investor Relations at eXp World Holdings",
+      "timestamp": "00:39:42",
+      "text": "Perfect. Thank you. Yeah, this is Jonathan on for John. Thanks for taking my questions. So in recent weeks and months, the NAR's Clear Cooperation Policy has become a big talking point within the industry. You have some brokerages and industry participants who have come out calling for the policy's end. And then you have others who have come out and defended it. So I'm interested to get your guys' take on it."
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "CEO at eXp Realty",
+      "timestamp": "00:40:06",
+      "text": "Yeah, thanks. I'll jump in here. It's Leo. I'm actually probably one of the loudest executives on the defending side, and this is extremely top of mind to Glenn and I as we are battling portals in other countries that can kind of unilaterally change the pricing structure and really affect our bottom line. The U.S. system as it stands, and I'm sorry, the North American system because the Canadian system works the same way, is unique unto itself on the global stage. We have the most complete, the most liquid, most accurate system that exists, and I think for us who practice real estate in this part of the world, we take it for granted sometimes, like things like comps. If something says active, it means active, the definition of a bedroom and bath count. So we are extremely strong proponents."
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "CEO at eXp Realty",
+      "timestamp": "00:40:56",
+      "text": "It is the best thing for the consumer specifically because it has a total marketplace with accurate data, and it also keeps the price of marketing at a very reasonable price because you're not having to pay per impression and per month and how we get billed in other countries, so I'm a very loud proponent of it. I wrote an op-ed piece probably in the last 30 days about it, and I'm wheels up to Boston tomorrow, the following day to speak at an NAR conference to a couple thousand agents about my opinions on the subject, so I think it's very important that we defend and maintain the way we do business in North America."
+    },
+    {
+      "speaker_id": "denise-garcia",
+      "speaker_name": "Denise Garcia",
+      "speaker_role": "Head of Investor Relations at eXp World Holdings",
+      "timestamp": "00:41:35",
+      "text": "Great. Thank you, Leo. All right. We have another question from Tom White, our covering analyst at D.A. Davidson, who couldn't be with us on the stage today. But he wanted to ask if you could, Glenn, maybe give us a general update on international. What are the agent trends and what do you expect for 2025?"
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "CEO at eXp World Holdings",
+      "timestamp": "00:41:57",
+      "text": "Yeah. So one, what you'll see obviously is the revenue is dramatically up year-over-year internationally, even though our agent count is fairly flat on an international basis. And the reason being is that during our initial years under previous leadership, it was really focused on agent count. And now we've changed our approach to productive agent count. So we internally are now tracking our productive agents. I think it might have even been mentioned on the last call that we're working on eventually creating some more transparent metrics around that specific one because it's an important one from our perspective."
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "CEO at eXp World Holdings",
+      "timestamp": "00:42:50",
+      "text": "What we do know is one of the things that we're doing is in order to be an agent at eXp internationally, you need to have at least, really, it's at least one year, we say two years of experience in the industry, partially because we're new into the market, but it also gives us a great reputation when we open up in a market that we're not just attracting brand new to the industry people, which can be a little bit damaging to a reputation if you have new agents that don't know what they're doing. Given that internationally, there's very few rules in a lot of countries on how to actually operate. For us, attracting a professional agent is an important piece to the equation. I think what you're going to see is us announcing more countries."
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "CEO at eXp World Holdings",
+      "timestamp": "00:43:47",
+      "text": "You're going to see more investment in international expansion, which in reality will translate to higher expense, even though internally we've got a number of countries that are now profitable inside of international. So we know that even though we're opening up countries, these from an IRR perspective are actually good investments as we continue to kind of move forward. We're rebuilding. In fact, last night we launched, and it's very much in beta, but we launched our new eXp International website. We're starting to build out our funnels. We're starting to drive traffic into our new eXp International headquarters, which I talked about earlier in the call, where you can come in and visit. But you'll see a link right on our eXp International site where you can click on it and come in and learn about, help us find more agents, help us open up new markets."
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "CEO at eXp World Holdings",
+      "timestamp": "00:44:49",
+      "text": "And that's being staffed really 24 by five. Eventually, it'll be 24 by seven, so excited about how that kind of is coming together. We just launched just a couple of months ago. We announced that Regus is now an available opportunity for all agents in all markets. I know last week at EXPCON, we announced that Canva is now available to all agents in all markets that eXp operates in. I think technically it's being rolled out here in December. But we keep on working on agent value propositions, so eventually, it's going to become natural that you're going to want to be at eXp because we roll out so many benefits to agents. We're investing heavily in our relationship with HomeHunter.global, so we're going to see a lot of investment going in and breaking what I consider to be the stranglehold on the industry."
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "CEO at eXp World Holdings",
+      "timestamp": "00:45:49",
+      "text": "We think there's a lot of brokerages that are struggling just to stay in business because of the portal costs. And so we'll be redirecting some of the revenues from North America, some of the profits into helping us really establish beachhead into various countries. And as those get established, we'll work on building more beachheads from a portal perspective. So a lot of things that we're working on on the international front."
+    },
+    {
+      "speaker_id": "denise-garcia",
+      "speaker_name": "Denise Garcia",
+      "speaker_role": "Head of Investor Relations at eXp World Holdings",
+      "timestamp": "00:46:19",
+      "text": "Great. And Tom had an additional question he wanted to ask. With the two initiatives announced at EXPCON, the ICON incentive and the Revenue Share Capping, can you give some color as to how you expect those to impact gross margins going forward?"
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "CEO at eXp World Holdings",
+      "timestamp": "00:46:34",
+      "text": "Yeah. So generally speaking, they shouldn't affect gross margins going forward. We've always been a company that has really focused on being the most agent-centric real estate brokers on the planet. And when we say agents, we're talking about the agents that are out there listing and selling real estate. And so this will make it more sticky and so on and so forth. These programs are specifically geared, and there's some FAQs out there, but they're specifically geared to agents who are actually writing production and are actually running actual real estate teams. And so those are the ones that it's geared toward. And then our revenue share platform pays out 50% of company dollar regardless domestically or 10% internationally until an agent caps. And when I say 10%, it's 10% of the gross commission income internationally."
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "CEO at eXp World Holdings",
+      "timestamp": "00:47:37",
+      "text": "It's 50% or 10% of the gross commission income until an agent caps domestically in the entire GCI. And so it won't actually impact what we pay out. So gross margins won't change. But we do know it's going to impact agents. I've already got lots of feedback from productive agents who are really happy about this. We also announced something at EXPCON, which was the International Sponsorship Program. I talked about that earlier, but that's, I think, going to be something we're going to look at and how we can use that even more domestically to create more growth as well."
+    },
+    {
+      "speaker_id": "denise-garcia",
+      "speaker_name": "Denise Garcia",
+      "speaker_role": "Head of Investor Relations at eXp World Holdings",
+      "timestamp": "00:48:23",
+      "text": "Great. We have a couple of questions on Slido for either you or Leo. As agents are business planning for 2025, how do you see the housing market in the U.S. changing, and what should agents take into account as they look at 2025?"
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "CEO at eXp World Holdings",
+      "timestamp": "00:48:39",
+      "text": "I'll jump into that one. That's one I've been answering quite a bit."
+    },
+    {
+      "speaker_id": "denise-garcia",
+      "speaker_name": "Denise Garcia",
+      "speaker_role": "Head of Investor Relations at eXp World Holdings",
+      "timestamp": "00:48:46",
+      "text": "Great. Go ahead."
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "CEO at eXp World Holdings",
+      "timestamp": "00:48:47",
+      "text": "Can you hear me? Yeah. Okay."
+    },
+    {
+      "speaker_id": "denise-garcia",
+      "speaker_name": "Denise Garcia",
+      "speaker_role": "Head of Investor Relations at eXp World Holdings",
+      "timestamp": "00:48:49",
+      "text": "Yes."
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "CEO at eXp Realty",
+      "timestamp": "00:48:50",
+      "text": "That's one I've been answering for the media quite a bit. If we look at where rates started in January 1 to today, they've come down enough where if, and again, we just had a Fed cut a couple hours ago. So assuming rates hold and there's no increases, the typical spread between the 10-year Treasury and mortgage rates is somewhere between 150-200 basis points. And they've been trending to 250-300 basis points. So we have some hope that rates can continue to normalize now that we have the election behind us. So the earliest predictions I've heard or have made based on the economist's suggestions is that we could see about a 10% bump in total transaction count."
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "CEO at eXp Realty",
+      "timestamp": "00:49:32",
+      "text": "So if we end the year somewhere between 3.8 million resales with 700,000 new construction, we could hopefully see somewhere in that 4.5 million transactional range for next year. And we play a finite game of transactions. And with continued market share, that could be great across the platform. So what I'm saying to agents quite a bit is actually to continue to focus on the basics. As the rates come down, it brings people back into the market that just couldn't get there. So there's a portion of consumers that are always making the choice between continuing to rent or enter the property ladder versus there are sellers who are still rate locked. I think a stat I shared at EXPCON is something as high as 84% of all rates or all mortgages in this country are probably below 5%-5.5%."
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "CEO at eXp Realty",
+      "timestamp": "00:50:29",
+      "text": "So there is that rate lock phenomenon that we've been experiencing that exacerbates the market. But the lower the rates come down, the more it'll bring buyers back into the market and hopefully kind of defrost and thaw some of the sellers that are rate locked. But we are bullish going into 2025 versus the feeling we had this time last year from 2023 to 2024."
+    },
+    {
+      "speaker_id": "denise-garcia",
+      "speaker_name": "Denise Garcia",
+      "speaker_role": "Head of Investor Relations at eXp World Holdings",
+      "timestamp": "00:50:50",
+      "text": "All right. Thanks, Leo. And one clarifying question. This is our last question on Slido. Does the agent count include the 2,900 agents from the acquisition in Q2?"
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "CEO at eXp Realty",
+      "timestamp": "00:51:01",
+      "text": "Yeah. Including. Yeah."
+    },
+    {
+      "speaker_id": "denise-garcia",
+      "speaker_name": "Denise Garcia",
+      "speaker_role": "Head of Investor Relations at eXp World Holdings",
+      "timestamp": "00:51:03",
+      "text": "Great. Okay. All right. Well, this concludes our earnings call for the third quarter. Thank you, everyone, for joining. As always, please stay connected by visiting eXp World Holdings for the latest updates on eXp news, results, and events. Additionally, you'll find a recording of this call and our latest investor presentation on the investor section of the site. This concludes the eXp World Holdings third quarter 2024 earnings fireside chat. Thank you."
+    }
+  ],
+  "statements": []
+}

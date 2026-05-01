@@ -1,0 +1,661 @@
+{
+  "company_id": "exp",
+  "title": "Exp World Q2 2025 Earnings Call Transcript",
+  "datetime": "2025-07-31T22:00:00Z",
+  "period": "FY2025_Q2",
+  "location": "",
+  "url": "https://www.marketbeat.com/earnings/reports/2025-7-31-exp-world-holdings-inc-stock/",
+  "people": [
+    {
+      "id": "speaker-1",
+      "name": "Speaker 1",
+      "role": ""
+    },
+    {
+      "id": "speaker-5",
+      "name": "Speaker 5",
+      "role": ""
+    },
+    {
+      "id": "speaker-6",
+      "name": "Speaker 6",
+      "role": ""
+    },
+    {
+      "id": "speaker-7",
+      "name": "Speaker 7",
+      "role": ""
+    },
+    {
+      "id": "operator",
+      "name": "Operator",
+      "role": ""
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "speaker-1",
+      "speaker_name": "Speaker 1",
+      "speaker_role": "",
+      "timestamp": "00:00:00",
+      "text": "Good afternoon and welcome to eXp World Holdings second quarter 2025 earnings fireside chat via livestream and our metaverse on the web Frame. My name is Denise Garcia, and I manage Investor Relations for eXp World Holdings. Today, we will begin our earnings fireside chat with remarks from Leo Pareja, CEO of eXp Realty, Wendy Forsythe, CMO of eXp Realty, Felix Bravo, Managing Director International, Jesse Hill, Chief Financial Officer of eXp World Holdings, and Glenn Sanford, Founder, Chairman, and CEO of eXp World Holdings. Following our prepared remarks, we will open the call to a Q&A session with our speakers. Let's begin with a review of the forward-looking statements. There will be a number of forward-looking statements made today that should be considered in conjunction with the cautionary statements contained in the company's SEC filings."
+    },
+    {
+      "speaker_id": "speaker-1",
+      "speaker_name": "Speaker 1",
+      "speaker_role": "",
+      "timestamp": "00:01:00",
+      "text": "Forward-looking statements are subject to various risks and uncertainties that could cause our actual results to differ materially from these statements. Please see our filings with the SEC, including our most recently filed annual report on Form 10-K and quarterly reports on Form 10-Q, for a discussion of specific risks that may affect our business, performance, and financial condition. We assume no obligation to update or revise any forward-looking statements or information. As a reminder, today's call is being recorded, and a replay will also be made available on eXpWorldHoldings.com. Now, for a few logistics, and we will get started. For those of you joining in Frame today, welcome to our metaverse on the web. To zoom in to a specific screen, you can click on that screen and then click Zoom In. If the content on the screen disappears or you lose audio, simply refresh your page."
+    },
+    {
+      "speaker_id": "speaker-1",
+      "speaker_name": "Speaker 1",
+      "speaker_role": "",
+      "timestamp": "00:01:50",
+      "text": "While in Frame, if you need help, just use the Help button at the bottom right to link with tech support. Should you wish to ask a question during our presentation, you can enter your questions by scanning the QR code presented on this screen with your mobile phone or go to slido.com and type in the event code EXPI. From there, you can submit a question or vote up an existing question by giving a thumbs up for that question to be asked. This screen will remain up on the right-hand side of the stage. Now, I'll turn the fireside chat over to our speakers before opening the call to questions. Leo, you may begin."
+    },
+    {
+      "speaker_id": "speaker-5",
+      "speaker_name": "Speaker 5",
+      "speaker_role": "",
+      "timestamp": "00:02:29",
+      "text": "Thanks, Denise. I would like to start off by noting some positive trends amongst eXp agents in our base this quarter. This quarter marked our first quarter since Q2 of 2024 that we saw sequential quarter-over-quarter growth in our agent count. This is a great indication that our strategies and programs we've created to attract and retain agents are working. Not only have we been able to attract and retain great agents, we've created a stronger, more productive agent base during this market downturn. Sales transactions per agent are up 4% year over year. The number of ICON agents is up 9% year over year, and we've had 22% fewer agents leave in Q2 this year versus last year. We continue to shed our most unproductive agents. 57% of non-productive agents that left eXp left the industry in Q2. Let's talk more about retention on this next slide."
+    },
+    {
+      "speaker_id": "speaker-5",
+      "speaker_name": "Speaker 5",
+      "speaker_role": "",
+      "timestamp": "00:03:23",
+      "text": "In the U.S., the majority of departing agents continue to be in the low-producing cohort, and we retain the highest most producing agent cohorts, which are multiple less likely to churn than low-producing agents. Our strategy to attract teams is working in helping drive the increase in agent productivity. Nearly half, at 41% of new agents to eXp, were members of teams in the second quarter. Agents on teams are 79% more productive than individual agents. Increased agent retention, a trend we began to see in Q1 of this year, is what has helped drive our quarter-over-quarter agent growth in the U.S. We had 31% fewer agents leave eXp versus a year ago, a quarter in the U.S. I'd like to highlight some of the notable teams that helped us get there on the next slide."
+    },
+    {
+      "speaker_id": "speaker-5",
+      "speaker_name": "Speaker 5",
+      "speaker_role": "",
+      "timestamp": "00:04:16",
+      "text": "Starting with Shane and Clint Neal from the Neal Team in San Antonio, a top three Keller Williams team for 2024 in both units and GCI, where they operate across all niches of residential real estate, including luxury and land and ranch, which Wendy will discuss in a moment. We also welcome the Move Team in Edmonton, Alberta, and Canada. The Move Team marked a historic moment for us at eXp as they were our first official co-sponsored team in Canada. As mentioned, our strategy to attract agents and teams with innovative programs is working, and Wendy will also provide an update on the Co-Sponsor program in her remarks. The ERS Group in Omaha, Nebraska, is a great example of the flexibility of the eXp platform enabling entrepreneurs to realize their vision."
+    },
+    {
+      "speaker_id": "speaker-5",
+      "speaker_name": "Speaker 5",
+      "speaker_role": "",
+      "timestamp": "00:05:00",
+      "text": "ERS Group is building a platform to connect homeowners and tenants with every service they need and real estate ecosystem on eXp's cloud-based model that offers a perfect foundation to scale nationally while tapping into a network of forward-thinking agents and brokers. On the next slide, we join the Kumla Group from Scottsdale, Arizona. Scott and his team joined us in Arizona under the leadership of Joshua Smith, his longtime mentor. As part of eXp, he now gets to benefit from Mike Sherard and other folks that he partnered with, formerly coming from My Home Group. In Long Beach, California, we welcome Costancia, Genesis, and Zervian Associates, who came to eXp to increase their production and were attracted to the strong infrastructure, all the tools and autonomy we give them to scale their business. Some of you may recognize YouTube star Kyler Ferris, who is coming back."
+    },
+    {
+      "speaker_id": "speaker-5",
+      "speaker_name": "Speaker 5",
+      "speaker_role": "",
+      "timestamp": "00:05:49",
+      "text": "He was formerly with us several years ago where he went independent to grow his brand and just realized that the value proposition was too great not to be affiliated with us. He was also one of our first folks to take advantage of the Co-Sponsor program that officially launched May 1st and has been wildly successful. On that note, I'll turn it over to Wendy Forsythe, our Chief Marketing Officer, to share more details about that program and others driving our success. Wendy?"
+    },
+    {
+      "speaker_id": "speaker-6",
+      "speaker_name": "Speaker 6",
+      "speaker_role": "",
+      "timestamp": "00:06:17",
+      "text": "Thanks, Leo. In Q2, we saw three significant program launches to add value in our ever-growing value stack: the launch of our CRM of Choice program, the launch of our Co-Sponsor program, and the launch of eXp Land and Ranch. Let me share some of the details of each of these programs. I'll start with our Co-Sponsor program. The launch of the Co-Sponsor program allows the power of two here at eXp, sparking growth and collaboration and bringing attraction to a whole new level. This program has been met with great success. Since launching the program, we have seen co-sponsors happen across 22 countries globally, showing the great collaboration amongst our agents in countries all over the globe. The next program we launched this quarter was our CRM of Choice. CRM is the backbone of agents' businesses, and it is a very personal part of what powers an agent's business."
+    },
+    {
+      "speaker_id": "speaker-6",
+      "speaker_name": "Speaker 6",
+      "speaker_role": "",
+      "timestamp": "00:07:29",
+      "text": "We are able now to give our agents the opportunity to choose between one of three CRMs for their business. Agents have received this choice very positively and are now able to select either Boldtrail, Close, or Lofty to power their CRM in their business. This has been a real game changer for our agents as they make this selection and power their CRMs and their sphere of influences with this tool that fits their needs in their business every single day. The last program we launched this quarter in our toolbox for our agents has been the long-awaited launch of our eXp Land and Ranch program. Land and Ranch is an important niche market in our business, and our eXp agents have received the launch of Land and Ranch very positively."
+    },
+    {
+      "speaker_id": "speaker-6",
+      "speaker_name": "Speaker 6",
+      "speaker_role": "",
+      "timestamp": "00:08:32",
+      "text": "In fact, since our launch in April, we've had over 100 agents join the Land and Ranch division, and we have a long list already waiting to join. Land and Ranch agents, welcome. We are so happy that you are ready and able to support Land and Ranch consumers across the country. Moving along to programs that we launched earlier in the year, the Canva program was launched last year, but we're just finishing our full second quarter of Canva. Our eXp agents, you guys are Canva power users, ending our second full quarter of Canva, and it is amazing the usage of Canva. You published over 500,000 designs at the end of Q2 2025, a five-times increase in design usage, going from just under two designs per user to almost nine designs per user."
+    },
+    {
+      "speaker_id": "speaker-6",
+      "speaker_name": "Speaker 6",
+      "speaker_role": "",
+      "timestamp": "00:09:37",
+      "text": "You are designing faster, decreasing your time to create a design from 24 minutes down to nine minutes. The power of brand is such an important component in driving all of our businesses, and Canva is such an important tool in creating that brand. We're certainly seeing that adoption from all of our eXp agents, and Canva is at the center of that adoption. Kudos to all of you for your adoption and implementation of Canva as an important part of our toolbox. One of the things that is at the center of our culture is in-person events. During Q2, we executed on several key in-person events. One of the ones that is really just such a treat is our regional rallies, which are events that we put on in conjunction and in partnership with our agents."
+    },
+    {
+      "speaker_id": "speaker-6",
+      "speaker_name": "Speaker 6",
+      "speaker_role": "",
+      "timestamp": "00:10:42",
+      "text": "These events are actually agent-led events, and our agent-led regional rallies were phenomenal this year. We had over 4,000 agents attend events across the country in 19 different locations, and we received really high remarks. Thank you to all of our agent organizers for these events and everyone who came out and attended these events. It was phenomenal to see the energy and the excitement and the connection and all of the learning and sharing that happened at these events across the country. In addition to our regional rallies, we also had two of the three of our major eXpCon events happen in Q2, the first of which happened in April, which was eXpCon in Montreal, Canada, a tremendous event that had eXp agents not only from Canada, but from across the globe in attendance, was larger than our eXpCon Canada event in 2024."
+    },
+    {
+      "speaker_id": "speaker-6",
+      "speaker_name": "Speaker 6",
+      "speaker_role": "",
+      "timestamp": "00:11:53",
+      "text": "Always great to see growth at our events and received very high marks for culture and education and all of the things that we want to have happen at these events. Thank you to everyone who attended that event. The second of our eXpCon events that happened this quarter was our eXpCon event in Barcelona, and this is our eXpCon International event. This event doubled in size year over year. We had over 550 eXp agents from over 18 different countries in attendance, and the event was just phenomenal. It happened just in June, and we received tremendous feedback on this event, and it truly did show to us just the amazing collaboration. The thing that I think we all took away from this event is that real estate is truly happening globally, and we as eXp are collaborating on a global stage."
+    },
+    {
+      "speaker_id": "speaker-6",
+      "speaker_name": "Speaker 6",
+      "speaker_role": "",
+      "timestamp": "00:12:59",
+      "text": "It really was an exciting event to be a part of, and I think that we all share in the sentiment that we came away from this event, those who attended and even those that didn't attend, really energized about the opportunities that we have globally. We're so excited about that. That tees us up perfectly to hand the stage over to Felix Bravo to talk to us about all the things that are happening at eXp International. Felix, over to you."
+    },
+    {
+      "speaker_id": "speaker-5",
+      "speaker_name": "Speaker 5",
+      "speaker_role": "",
+      "timestamp": "00:13:32",
+      "text": "Thanks, Wendy, and thank you to everyone joining us today. I'm excited to share the progress we've made on our international growth strategy so far in 2025, and also just to share a bit about what's to come. Let's dive right into it on the next slide. We've had a strong start to the year, successfully launching operations in three new countries. Peru and Turkey both opened up in Q1, and most recently, Ecuador launched in Q2. All three markets got off to record starts with our new country launch strategy. Peru onboarded over 100 agents in their first 14 days of open. Ecuador onboarded over 100 agents before the actual launch event, and Turkey had over 30 agents just days after launch. More importantly than agent count, though, all three new markets delivered production and transactions in their first month being open."
+    },
+    {
+      "speaker_id": "speaker-5",
+      "speaker_name": "Speaker 5",
+      "speaker_role": "",
+      "timestamp": "00:14:19",
+      "text": "With each new market, we're getting more efficient. We're learning to open faster, requiring fewer resources, and operating with increasingly productive teams right out of the gate. Looking ahead, we're not slowing down. Our roadmap for the second half of 2025 includes planned entries into Egypt and Japan, which we had announced previously. We also recently announced at eXpCon International in Barcelona, our latest market, South Korea. These markets represent exciting opportunities for us to extend the eXp model globally and showcase the demand for an agent-centric model that focuses on agents building their business, regardless of what size that may be. I'll share some additional highlights from Q2 on the next slide. The second quarter continued our strong momentum. We delivered 59% year-over-year revenue growth. This was driven by a 9% increase in agents globally, along with improved agent productivity."
+    },
+    {
+      "speaker_id": "speaker-5",
+      "speaker_name": "Speaker 5",
+      "speaker_role": "",
+      "timestamp": "00:15:18",
+      "text": "Over the last 12 months, we have doubled down on attracting productive agents throughout all of our international markets. We have a two-year minimum experience requirement for agents to join, and we are continuing to evolve our value proposition at local and international levels to give agents the tools they need to grow their business. Regardless of how regulated or informal a market may be, we continue to drive professionalism in our industry worldwide. Community building continues to be a priority for us. As Wendy said, we hosted some major events, one of them being eXpCon Barcelona just now in June, which saw a 175% increase in registrants year over year. We also hosted the annual eXp UK Agent Conference in Birmingham, which brought our agents together to connect and grow."
+    },
+    {
+      "speaker_id": "speaker-5",
+      "speaker_name": "Speaker 5",
+      "speaker_role": "",
+      "timestamp": "00:16:06",
+      "text": "We had the opportunity to be there in person, and we got to celebrate with all of our UK agents that eXp UK is now officially the number one estate agency in the UK in terms of listings and sales. These events are a critical part of cultivating the strong agent culture that sets eXp apart. As we move into the second half of 2025, we remain fully on track with our international market expansion strategy. Our long-term goal is to grow our agent base to 50,000 agents across 50 countries by 2030. To get there, we're taking a tailored market-specific approach. We're focusing both on high-income regions and emerging markets and empowering our autonomous local teams that are aligned with our global vision. This approach ensures that we scale globally while adapting our model and value proposition at a local level."
+    },
+    {
+      "speaker_id": "speaker-5",
+      "speaker_name": "Speaker 5",
+      "speaker_role": "",
+      "timestamp": "00:16:59",
+      "text": "This has been a key differentiator for us that continues to deliver results. With that, I'll hand it over to Jesse, who will walk you through our second quarter financial highlights. Jesse?"
+    },
+    {
+      "speaker_id": "speaker-7",
+      "speaker_name": "Speaker 7",
+      "speaker_role": "",
+      "timestamp": "00:17:11",
+      "text": "Thank you, Felix. It's nice to see International continue to be on track with its long-term strategy. Now I'll walk us through our second quarter consolidated operational and financial highlights beginning on the next slide. Starting with revenue, we generated $1.3 billion in the second quarter in a continued tough macroeconomic environment. Real estate sales volume was up 1% year over year in the second quarter, driven by an increase in home sales prices and increased agent productivity, offset by a 2% year-over-year decrease in sales transactions. Agent count was 82,704, a 5% year-over-year decrease, but as Leo mentioned, a 1% quarter-over-quarter increase sequentially this year. We continue to see an increase in transactions per agent, which indicates that we are attracting and retaining highly productive agents."
+    },
+    {
+      "speaker_id": "speaker-7",
+      "speaker_name": "Speaker 7",
+      "speaker_role": "",
+      "timestamp": "00:18:01",
+      "text": "Our non-GAAP gross margin, that's comparable to other brokerages' gross margin, which excludes stock comp and revenue share, was 12%, while our GAAP gross margin was 7.1%, down 40 basis points from Q2 of last year, predominantly as a result of more productive agents reaching their cap. Adjusted EBITDA of $11.2 million continues to be positive but down year over year, partially driven by the lower gross margin, and it was also impacted by strategic investments and decisions that we made in Q2 to streamline operations, including severance and other employee-related costs. We ended the quarter with $94.6 million in cash. This reflects our first payment of $17 million related to the $34 million antitrust litigation settlement, which we received preliminary approval on in May. We expect to make our second and final payment of $17 million in Q2 of 2026, subject to final court approval."
+    },
+    {
+      "speaker_id": "speaker-7",
+      "speaker_name": "Speaker 7",
+      "speaker_role": "",
+      "timestamp": "00:18:59",
+      "text": "On the next slide, I will highlight our financial results by segment for the quarter. The North America Realty segment continues to be the largest revenue and profit generator for the company. North America revenue was $1.3 billion for the quarter, with adjusted EBITDA of $19.8 million. As I noted last quarter, we are showing operating loss or income by segment, as this is one additional view that we utilize internally as a leadership team, and we wanted to include that to add additional transparency for our analysts and investors. North America operating income was $7.1 million, including impacts from the $5 million of strategic investments and severance to streamline operations. As I mentioned last quarter, we expect to have more efficient operations in the back half of 2025."
+    },
+    {
+      "speaker_id": "speaker-7",
+      "speaker_name": "Speaker 7",
+      "speaker_role": "",
+      "timestamp": "00:19:46",
+      "text": "International continues to scale, with revenue growing 59% year over year, driven by an increase in productive agents and partially offset by some timing and impacts in the UK that I mentioned in Q1. Adjusted EBITDA loss increased primarily as a result of opening new markets and hosting two concurrent events, including eXpCon Barcelona that Felix mentioned in his remarks. Other affiliated services, which is primarily Success, contributed modest revenue and adjusted EBITDA loss of $2.3 million. On the next slide, we will take a look at some of the investments we are making as a part of our capital allocation strategy. As we navigate the year, we remain focused on responsible capital stewardship, prioritizing both investment in the long-term strength of our business and returning value to our shareholders, many of whom are agents."
+    },
+    {
+      "speaker_id": "speaker-7",
+      "speaker_name": "Speaker 7",
+      "speaker_role": "",
+      "timestamp": "00:20:38",
+      "text": "As I mentioned earlier, we paid the first $17 million installment related to the $34 million NAR settlement this quarter. This temporarily brought our cash balance below our preferred threshold of $100 million. Excluding that payment, we target to maintain cash reserves around that level to preserve financial flexibility and readiness for strategic opportunities. Now let me walk you through our broader capital allocation philosophy and how we reinvest in the business to drive growth, productivity, and enhance long-term shareholder value. We're consistently making targeted investments to strengthen our core business and differentiate our value proposition. We previously launched a partnership with Canva to give agents powerful marketing tools. Wendy highlighted in her remarks the enthusiastic uptake of that platform, and it's one of several examples listed here of how we listen to our agents and deliver what they need to succeed."
+    },
+    {
+      "speaker_id": "speaker-7",
+      "speaker_name": "Speaker 7",
+      "speaker_role": "",
+      "timestamp": "00:21:34",
+      "text": "As a tech forward company, we're enhancing our stack with leading platforms such as OpenAI, Slack, Oracle, just to name a few. These aren't software subscriptions, they are strategic tools that deepen our productivity and scale. Continuing with AI and automation, and this is an area that we are especially bullish on, our AI investments are designed to support both front-end productivity and back-end efficiency. A few examples would be building custom GPTs, which we've introduced at the local level to help both agents and staff boost their productivity through automation. Internally, we're leveraging AI applications such as Cursor, Windsurf, Lovable to write approximately 50% of our code today. Our engineers are then able to adapt and integrate this code into our tools, speeding up the development while maintaining quality."
+    },
+    {
+      "speaker_id": "speaker-7",
+      "speaker_name": "Speaker 7",
+      "speaker_role": "",
+      "timestamp": "00:22:27",
+      "text": "The recently introduced Co-Sponsor program is now running at close to 100% automation, another great example of how we're scaling intelligently. Our focus here is clear: use AI to empower people, drive faster response times, better support, and ultimately more sales and productivity. On the inorganic growth side, we're also making calculated investments in companies aligned with our mission, such as Fixer AI and Sisu, to further strengthen our ecosystem and our agent capabilities. Let's discuss returning capital to shareholders, which of course includes many of our agents. We do this via strategically buying back shares and also issuing a dividend. The dividend is a differentiator in our space. For example, agents earning stock awards are eligible to receive the dividend on that stock, which is a tremendous value add."
+    },
+    {
+      "speaker_id": "speaker-7",
+      "speaker_name": "Speaker 7",
+      "speaker_role": "",
+      "timestamp": "00:23:21",
+      "text": "In short, we have a disciplined and strategic capital allocation strategy, one that balances reinvesting for growth and innovation while returning capital to shareholders. We believe this approach positions us to create long-term shareholder value, support our agents, and maintain the financial strength that has always been a hallmark of eXp. With that, I'll turn over the call to Glenn, who will take us through his areas of focus at the World Holdings level before we open up the call to questions. Glenn?"
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:23:50",
+      "text": "Hey, thanks, thanks Jesse, and thanks everyone on stage today with me as well. You know, we've got such an amazing leadership team, and you know we continue to build the most agent-centric real estate platform. We talk about being brokers, but really it's a platform on the planet. Over the past 12 months, I've been primarily focused on helping really the international team unblock, put things in place, and you'll probably even hear maybe even some of the Q&A on some of the countries that are literally in launch as we speak during this call and some of the things that are really coming before the end of the year. We've got a lot of good stuff happening. We've built, while I was involved with the international, and now of course Felix is now leading the charge there, but we really got a number of country-by-country playbooks in place."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:24:59",
+      "text": "We launched obviously a number of new countries, supported them deeply, and now it is a virtuous flywheel of new countries opening, and we're super excited about that. The strong foundation in place, and as a result, I'm shifting my focus over to another strategic platform, and that's one I've talked about on many past earnings calls, and that's Success Enterprises. As you know, Success is really the owner of the longest running personal development brand that exists. It's really kind of the glue to the personal development industry. There's about $50 billion a year industry, it's growing pretty rapidly, and we've had all of the major players in that space be a part of it. Super excited about that. We really think about a lot of things, and so I'm actually rejoining as Publisher and Managing Director of the enterprise."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:26:12",
+      "text": "I'll be primarily working, one, I'll be working on the whole ecosystem, but I'm going to be especially focused on what I'm passionate about, which is to really bring an AI-driven reinvention to Success Plus. That's a community where we want that piece of Success Plus to be something where if you're interested in personal development, you'll want to have a Success Plus membership. We really want to think about it almost in the context of Amazon Prime, in that if you're interested in personal development, you would be crazy not to have a Success Plus subscription and get access to all of the resources that we have there. We're talking about AI-personalized coaching and courses and content and digital libraries of both the classics and the magazines and lots of live masterminds and other things. It's a big industry."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:27:18",
+      "text": "Success has played a significant role since its foundation 127 years ago. We're operating like a 127-year-old startup, a lot of things going on in the back end. We actually have relaunched a Success Frame space similar to what we're doing here today in the auditorium, which is bringing the team together in a unique and engaging way. We're really excited about that, bringing a lot of the playbooks again that we operated with in the formation of eXp, the repositioning of International last year, and now doing that with Success. Over the next 90 days, if you want, jump into Success Plus, become a member, shameless plug there, help us generate a little bit more revenue. More importantly, observe the things that we're going to be doing over the next 90 days."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:28:19",
+      "text": "There's a lot of cool stuff that we've already put into motion that we're going to be deploying in the Success Plus community, and we'd love to support anybody who's an entrepreneur, solopreneur, interested in their career, or interested in just becoming a better human being. For us, that's really exciting, and I'm really honored to be working on that over the next year or so. With that, let me turn it back over to Denise to facilitate our Q&A session. Thank you."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:28:55",
+      "text": "Sure. Thanks, Glenn. First, I'll kick it off with a question for you before we open up the call to questions from the audience and our analysts. Glenn, can you describe how agents specifically are leveraging Success to grow their business?"
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:29:11",
+      "text": "Yeah, so thanks Denise for the question. First, you know we bought the magazine almost five years ago, and we bought it because we were also the single biggest customer of Success Magazine with our distribution of the magazine to all of our agents. That's because of our focus on personal development, sales skill training, and just overall, you know, just helping people with goal setting, et cetera. The magazine has represented that since the 1800s when the magazine was first founded. We have built a lot of additional content and courses into Success Plus. All of our agents get four free. It's included with their eXp, along with they continue to get the magazine and now a digital magazine. We've got one that's coming up."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:30:05",
+      "text": "I don't want to talk about it per se, but I think our agents are going to get a lot of value of this next one that's coming out. We have like a lot of real estate content. I know the team worked hard over the last couple of years to actually do a, I think it's a 16 lesson, 16 modules on real estate training by John Cheplak. There's like 133 lessons in this. This is in addition to the amazing training that we have inside of eXp. This is a deep dive with one of the most recognized trainers today in real estate that we worked with John to build that entire value stack. There's a lot of great stuff from prospecting, how to build your business, follow-up, sales meetings, coaching, training, the whole nine yards."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:31:08",
+      "text": "We've got a lot of other, all the past magazines, digital, physical, we've got available. We've just launched our first GPT into that community. Actually, earlier today, we just put an announcement out around some additional AI resources, specifically around Jim Rohn that's now part of that community. We've got a number of other projects that we're actually launching in very short order around that. You may have heard some music coming in. We're leveraging AI to build actually music that is directed to the personal development of human beings. If you think about it, you know, success begins with what you listen to and read and pay attention to at the beginning of each and every day. It doesn't matter where you're at in life."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:32:08",
+      "text": "The more that you can focus on your purpose and your mission, the less distracting all the other things that take place around you and in the world impact you. One of the things I'm thinking about specifically is how to help people get more focused on what their true mission and purpose is. With that, I want to pull people through that journey, just help them be more effective at whatever they want to do, real estate or otherwise."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:32:38",
+      "text": "That's great. Thanks. The next question is for Leo. Leo, what are your thoughts on the U.S. real estate market?"
+    },
+    {
+      "speaker_id": "speaker-5",
+      "speaker_name": "Speaker 5",
+      "speaker_role": "",
+      "timestamp": "00:32:45",
+      "text": "Yeah, so if you guys track what I've said to the media and/or on other calls going into 2025, I was cautiously optimistic with hopefully a 10% bump in transaction counts. Obviously, we've revised that, really mirroring Fannie and the other macro forecasting for the back half of the year. I think we'd all call it a win if we were flat year over year as a country from a transaction count with a plus or minus variable. I think post the Big Beautiful Bill adding $5 trillion of long-term national debt, we can very comfortably bet on the fact that the 10-year treasury is not coming down, meaning that we don't really expect interest rate reprieve much at all."
+    },
+    {
+      "speaker_id": "speaker-5",
+      "speaker_name": "Speaker 5",
+      "speaker_role": "",
+      "timestamp": "00:33:26",
+      "text": "It kind of points back to the strength of our model and our ability to adjust, whether we have to streamline and adjust up or down and be able to have a scaled variable revenue expense to match. At this point, we're continuing to really focus on production, meaning attracting the most productive agents and also moving up even in the parts that we're not as well known for. It didn't make the slide because we literally announced it a couple of hours ago. Brett Zurinsky from Southern California, an independent boutique luxury powerhouse. For context for everybody, 90 members in his brokerage did $750 million in sales on 370 units for 2024. That's an average price point of north of $2 million. That's higher than just about every luxury brokerage out there that specifically focuses on luxury and more than 4x ours."
+    },
+    {
+      "speaker_id": "speaker-5",
+      "speaker_name": "Speaker 5",
+      "speaker_role": "",
+      "timestamp": "00:34:30",
+      "text": "Yesterday, we announced Chris Heller, the home seller, formerly the CEO of Keller Williams and just a staple of San Diego real estate, moved over to our brokerage as well. Consistently doing over 100 units at a very high price point in the San Diego market. Even as we've seen some other companies retracting in the speed at which people are joining them, we're continuing to win in the segments that you've heard us and me talk about. Independents, teamridges, mega team leaders, and solo producers continue to choose us. It's a testament as some of the teams I mentioned earlier in my conversation, we're having conversations with every single company. Not one of these leaders he or she are picking us in a vacuum. They're interviewing all of our competitive models and ultimately choosing us."
+    },
+    {
+      "speaker_id": "speaker-5",
+      "speaker_name": "Speaker 5",
+      "speaker_role": "",
+      "timestamp": "00:35:28",
+      "text": "Great. Thanks, Leo. Moving to Wendy. Wendy, can you talk about how important eXp's in-person events are on attracting and also retaining our agents?"
+    },
+    {
+      "speaker_id": "speaker-6",
+      "speaker_name": "Speaker 6",
+      "speaker_role": "",
+      "timestamp": "00:35:39",
+      "text": "Yes, absolutely. I mean, we talk all the time that we are in a relationship business in real estate. That relationship business is part of how we connect and how we build culture with one another as much as it is how we do that with our clients, with our buyers and sellers. Our events are the backbone of our culture. When we're hosting those events and attending those events, we're connecting with one another, we're building those relationships, and we're seeing referrals happening with one another. We're seeing collaborations on ideas that each of you take back to your individual businesses and implement. We're seeing our co-sponsor pairings happening. We're seeing all kinds of ways that businesses grow because of those in-person connections that happen at the events. They are an important part of how our overall value proposition comes to life in those in-person connections."
+    },
+    {
+      "speaker_id": "speaker-6",
+      "speaker_name": "Speaker 6",
+      "speaker_role": "",
+      "timestamp": "00:36:50",
+      "text": "One of the things that we do track that is an interesting statistic is many times we open up the events to allow our eXp agents to bring guests. One of the great ways to experience culture and understand culture is to come to an event so that somebody who is maybe thinking of joining eXp comes to one of our events as a guest and gets that opportunity to experience the things that we talk about and the things that we message in our marketing as we talk about our value proposition and about our brand. Those attendees who come as guests, when we track that in 2024, 68% of them actually ended up joining us as agents. Bringing a guest to an eXp event is a tremendous attraction opportunity."
+    },
+    {
+      "speaker_id": "speaker-6",
+      "speaker_name": "Speaker 6",
+      "speaker_role": "",
+      "timestamp": "00:37:50",
+      "text": "For any of you listening who are thinking of our next event, particularly our eXpCon event in Miami that's coming up in October, when those Explorer Passes are available, bring an Explorer to eXpCon in Miami. It's a great attraction opportunity."
+    },
+    {
+      "speaker_id": "speaker-6",
+      "speaker_name": "Speaker 6",
+      "speaker_role": "",
+      "timestamp": "00:38:10",
+      "text": "All right. Thanks, Wendy. One for Felix. Felix, what's your main focus managing international outside of the business and financial metrics that we usually see at earnings?"
+    },
+    {
+      "speaker_id": "speaker-5",
+      "speaker_name": "Speaker 5",
+      "speaker_role": "",
+      "timestamp": "00:38:21",
+      "text": "Yeah, thanks, Denise. You know, our main focus internationally, really beyond that, has still been to grow a base of productive agents and ensuring that those agents have everything they need both at their local level but on a global scale to be successful and grow their business. We have taken a look throughout the entire portfolio, and we have implemented two-year minimum requirements to join internationally. We have also taken the stance of offboarding agents who are unproductive or who are not aligned to the business model. That has led to some large results, and the growth that we have seen from bringing in top talent and how top talent continues to attract, you know, like-minded individuals has shown those results."
+    },
+    {
+      "speaker_id": "speaker-5",
+      "speaker_name": "Speaker 5",
+      "speaker_role": "",
+      "timestamp": "00:39:04",
+      "text": "A real-time update that I'm actually really excited to share with you guys is that this week we've officially onboarded our first cohort of agents in Japan, which is extremely exciting. Not only are these agents live in the system, but they already have transactions flowing through just days after we've onboarded our first agents. It's a huge testament to the strength of our model and to our local leadership team. These past country launches that we've done, right, with Peru, Turkey, Ecuador, they've not just been our most successful launches because of the amount of agents we've onboarded or time to launch or the efficiency of them, but truly because of the amount of transactions we're walking in with day one and the amount of productive agents who are joining."
+    },
+    {
+      "speaker_id": "speaker-5",
+      "speaker_name": "Speaker 5",
+      "speaker_role": "",
+      "timestamp": "00:39:49",
+      "text": "We're extremely excited about everything we're doing on this side of the house at the moment, and we're being very intentional about our growth. It's not just growth for the sake of being the largest or for growing. It is truly about the right kind of growth and assessing markets and leaders that make sense, that are aligned with our mission and vision to help us create the most agent-centric real estate brokerage around the world."
+    },
+    {
+      "speaker_id": "speaker-5",
+      "speaker_name": "Speaker 5",
+      "speaker_role": "",
+      "timestamp": "00:40:15",
+      "text": "All right. Thanks, Felix. Jesse, the last question for you. Can you discuss what's impacting the second quarter gross margin and maybe where you see margins going longer term?"
+    },
+    {
+      "speaker_id": "speaker-7",
+      "speaker_name": "Speaker 7",
+      "speaker_role": "",
+      "timestamp": "00:40:27",
+      "text": "Yes, thank you for the question, Denise. Leo mentioned in his remarks, we saw a 4% year-over-year increase in sales transactions in the second quarter. When that happens, we have more productive agents, and generally, the arithmetic on that means that more agents will cap. There are a couple of things here to unpack. I would say the first part is this really is core to our model, right? It's one of the original differentiators that Glenn brought to the space, the ability to cap. It's actually something that we welcome and celebrate when it occurs. The other part of this is it creates agent retention and stickiness because of this value prop in our model that's not really across the industry. It's really something that we welcome, even though it brings down the margin percentage. Another thing to consider, you asked about the longer-term view."
+    },
+    {
+      "speaker_id": "speaker-7",
+      "speaker_name": "Speaker 7",
+      "speaker_role": "",
+      "timestamp": "00:41:20",
+      "text": "We do have affiliate programs, and Wendy spoke to several of them, but I'll call out eXp Luxury, eXp Land and Ranch, Revenos. There are several, and while they contribute modest revenue today, we expect these to continue to grow over time. Certainly, when the macroeconomic environment begins to improve and the overall real estate industry continues to grow, we expect these programs to drive incremental margin over time. That's kind of where we land with the impacts to capping on margin. It's something that we expect and actually celebrate with our agents. We think about margin as the different affiliate programs and things like that that we can add over time."
+    },
+    {
+      "speaker_id": "speaker-7",
+      "speaker_name": "Speaker 7",
+      "speaker_role": "",
+      "timestamp": "00:42:03",
+      "text": "Got it. Thanks, Jesse. Now I'll open the call up to questions. First, I'll start with our analysts joining us on the stage here. Tom White at D.A. Davidson, if you have a question, you could go ahead."
+    },
+    {
+      "speaker_id": "speaker-7",
+      "speaker_name": "Speaker 7",
+      "speaker_role": "",
+      "timestamp": "00:42:16",
+      "text": "Great. Hi everyone. Thanks for taking the question. A couple, if I could. I'm tempted to start on agent count just because it grew sequentially for the first time in a while. I actually want to just ask about operating expenses. I think last quarter you guys talked about some of the opportunities for efficiency, sort of better efficiencies there, particularly kind of given just the housing market backdrop. OpEx, I think, grew 20% in the quarter and ticked up quite a bit sequentially. I don't know, is there anything one time in that second quarter OpEx number? Can you maybe help us sort of how to think or quantify what OpEx should look like kind of over the next several quarters? I have a follow-up."
+    },
+    {
+      "speaker_id": "speaker-7",
+      "speaker_name": "Speaker 7",
+      "speaker_role": "",
+      "timestamp": "00:43:04",
+      "text": "Sure thing. I can take that one. We did have some one-times in Q2, and we call that out in the 10Q, but just high level, we incurred approximately $6 million in expenses related to strategic investments and some severance to streamline our operations. Tom, these really were, these actions were part of a broader effort, right? We spoke to it at the high level in Q1, and we continued to execute in Q2 to realign the company's cost structure with the current macroeconomic environment where our revenue is at today, but also being driven by what we're trying to drive in the back office with automation and efficiency. Short answer, $6 million one time. The remainder of that gap, you said 20% up."
+    },
+    {
+      "speaker_id": "speaker-7",
+      "speaker_name": "Speaker 7",
+      "speaker_role": "",
+      "timestamp": "00:43:49",
+      "text": "That's sort of the follow-on of some of the expenses that we did see creeping up over time that we spoke to in Q1 that we're building towards in Q2. Now that we've taken these actions, we do expect favorable operating expenses in the back half of the year, and you should see that flow through in our unit economics."
+    },
+    {
+      "speaker_id": "speaker-7",
+      "speaker_name": "Speaker 7",
+      "speaker_role": "",
+      "timestamp": "00:44:09",
+      "text": "Okay. The $6 million, I mean, I don't think you guys added back, if it was sort of one-time issue, I don't think I saw it added back to adjusted EBITDA. Is that correct?"
+    },
+    {
+      "speaker_id": "speaker-7",
+      "speaker_name": "Speaker 7",
+      "speaker_role": "",
+      "timestamp": "00:44:23",
+      "text": "That is correct."
+    },
+    {
+      "speaker_id": "speaker-7",
+      "speaker_name": "Speaker 7",
+      "speaker_role": "",
+      "timestamp": "00:44:24",
+      "text": "Okay. Maybe just can you talk about like over the next couple of years, let's say, you know, talk about like you touched on some of the drivers of potential gross margin expansion just now, Jesse. You didn't mention international, but I guess can you just, is meaningful margin expansion, either gross margin expansion or operating margin expansion, is that like a kind of a goal of the management teams? I don't know, is that something that investors should sort of think about? How big of a priority is margin expansion, I guess, at this point in the company's kind of evolution?"
+    },
+    {
+      "speaker_id": "speaker-7",
+      "speaker_name": "Speaker 7",
+      "speaker_role": "",
+      "timestamp": "00:45:15",
+      "text": "Sure. I have some thoughts I can opine on there. I'd ask maybe Leo or Glenn if you want to start off from the business perspective on opportunities there."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:45:24",
+      "text": "I think, yeah, I'll just touch on it. I mean, there's always been this question of margin %, and we like to focus on gross margin as an aggregate number because we think that's actually the better number to focus on, partially because as agents cap, large teams join, and other, where it pushes our margin % down, even though our gross margins grow over time. Of course, the flip side of it is that we're seeing a lot of efficiencies relative to things like transaction workflow management internally. What doesn't show up as well is some of the investments that we're making to make sure that we continue to be the most attractive real estate brokerage around. We keep on working on it, and some of that shows up in international. We're obviously investing quite a bit there. Leo, any other color you've got on that?"
+    },
+    {
+      "speaker_id": "speaker-5",
+      "speaker_name": "Speaker 5",
+      "speaker_role": "",
+      "timestamp": "00:46:39",
+      "text": "Yeah, Tom. First of all, on your call out of sequential growth quarter, that is the result of the effort, and you were very correct when I saw you write it up. We were scrambling to make sure we hadn't accidentally published anything. That is the result of the investment in both training, education systems, processes, as we see the company as a total platform. Really, we're seeing this downturn in the business, right? The downturn is not, you know, financial crisis-wise, like 2008, where prices were coming down. We internally in the industry are very much in a downturn from a transactional standpoint. We're seeing this as an opportunity to expand value proposition as we continue to add top-performing teams. I do think that's going to give us the positive result you will be looking for in the future."
+    },
+    {
+      "speaker_id": "speaker-5",
+      "speaker_name": "Speaker 5",
+      "speaker_role": "",
+      "timestamp": "00:47:33",
+      "text": "We're thinking of more of how do we capitalize on this moment, continue to expand the value proposition, and make our platform stickier."
+    },
+    {
+      "speaker_id": "speaker-5",
+      "speaker_name": "Speaker 5",
+      "speaker_role": "",
+      "timestamp": "00:47:41",
+      "text": "Okay, great. I appreciate that. Maybe just one quick follow-up on the idea of the value prop. Can you just maybe update us on how you view your stock as kind of part of that value prop, in terms of retaining or attracting agents? Like, how important is it for the stock to actually go up through that agent value prop lens? Thanks."
+    },
+    {
+      "speaker_id": "speaker-5",
+      "speaker_name": "Speaker 5",
+      "speaker_role": "",
+      "timestamp": "00:48:07",
+      "text": "Glenn, did you want to take that one or do you want me to go?"
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:48:08",
+      "text": "Sure, I'll take that. I think we know that it does play a little bit of a role, but it's not a, I think most agents are here for the full basket of goods, and they also recognize that the stock goes up and down and that it's not just a, that it's going to go up. We still have a good % of our agents that are participating in the stock comp plan. Even when the stock had come down, a lot of agents stayed in it because they sort of are playing the long game, which is the way we think is the right way to play the game. I think the overall value prop, if the stock wasn't part of the mix, I think we've got to the point where eXp stands on its own merits. We used it early on because it really does differentiate."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:49:04",
+      "text": "We have no plans of removing it. It's not like there's any interest in removing it because we think it does bring our agents closer to us as a management team to the values of what shareholders look for as well. It allows us to be fully aligned with them. I don't think it's the primary reason why they join us, or even a, but it is a nice reason to join us."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:49:37",
+      "text": "Thank you."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:49:38",
+      "text": "Thanks, Tom. Matt Fylock at William Blair, you're also joining us on stage. If you have a question, you can go ahead."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:49:46",
+      "text": "Thank you, Denise. Hey, everyone. You have Matt Fylock on for Stephen Sheldon. Thank you for the questions. On the international front, you just launched in Japan, and I think you're aiming for 50,000 international agents by 2030. Given that, can you just remind us of where you stand as far as current international agent count goes and how you're thinking about the cadence of adding those new international agents over the next five years as you work toward that 50,000 agent target?"
+    },
+    {
+      "speaker_id": "speaker-5",
+      "speaker_name": "Speaker 5",
+      "speaker_role": "",
+      "timestamp": "00:50:17",
+      "text": "Yeah, I'm happy to answer that. The way that we're looking at the growth is, like I said, really focused on productive agent count. When we assess different markets, what we found with our new country playbook that works is, you know, the market has scaled to all types of different countries with different types of regulations and rules, different sizes. We've realized that our model can be adapted to serve agents at a local level when we partner it with strong leadership with an emphasis on helping agents get more productive. Local training, local tools, local systems, and then add that with the global scale that our business has. That becomes a really attractive and competitive value proposition and business model in just about any country. International right now is at approximately 5,000 agents, and we're continuing to grow and scale."
+    },
+    {
+      "speaker_id": "speaker-5",
+      "speaker_name": "Speaker 5",
+      "speaker_role": "",
+      "timestamp": "00:51:11",
+      "text": "As we look forward over the next five years, we continue with our heads down on our mission of continuing to improve the business through adding productive agents and scaling to countries with strong leadership and strong demand the way we have over this past 12 months."
+    },
+    {
+      "speaker_id": "speaker-5",
+      "speaker_name": "Speaker 5",
+      "speaker_role": "",
+      "timestamp": "00:51:29",
+      "text": "Got it. Related to that, is there a certain number when it comes to international agent count where you feel like if you hit that number, international as a whole can be profitable?"
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:51:43",
+      "text": "I'll probably touch on that first. I mean, unless Felix, you want to take it?"
+    },
+    {
+      "speaker_id": "speaker-5",
+      "speaker_name": "Speaker 5",
+      "speaker_role": "",
+      "timestamp": "00:51:49",
+      "text": "Yeah, sure. Go ahead, Glenn. If anything, I can jump in after."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:51:53",
+      "text": "Yeah, so when we look at, you know, 50 countries by 2030 and continuing to invest in new countries, we don't think about international getting to a scale where it shows net profitability for probably two or three years minimum. Not that we don't have IRR, internal returns on a number of countries. UK, which actually has to publicly file their financials as a country for some bizarre reason in the UK. You can look at, you know, a number of our countries and see sort of where they sit. We certainly share that from time to time, but we do have a number of countries that have sort of turned the corner."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:52:47",
+      "text": "We fundamentally are going to continue to invest in that growth because when we start to look at, you know, the out periods of time, not that we're focused specifically on the net income of the unit, we see us continuing to invest until we get to a scale where we don't have more places to invest, and then it starts to actually turn into sort of a net profitability in that segment of the market. As we find more and more green shoot opportunities, we will continue to invest there, even though they won't maybe show sort of net net income. We do see the gross revenue and the gross profit being something that will continue to increase."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:53:32",
+      "text": "Got it. That's helpful, Glenn. Thank you. Lastly, I had a quick follow-up for Jesse. Appreciate the added detail on the GAAP gross margins in 2Q. Just to confirm, should we expect GAAP gross margins to stay in the low 7% range consistent with 2Q in the second half of the year as these more productive agents are capping?"
+    },
+    {
+      "speaker_id": "speaker-7",
+      "speaker_name": "Speaker 7",
+      "speaker_role": "",
+      "timestamp": "00:53:54",
+      "text": "Yeah, while we generally don't provide forward guidance, I think that's generally a safe bet, right? We track somewhat to the industry, and that's the direction that Fannie is currently forecasting for the back half of the year. We expect to trend in a similar pattern."
+    },
+    {
+      "speaker_id": "speaker-7",
+      "speaker_name": "Speaker 7",
+      "speaker_role": "",
+      "timestamp": "00:54:15",
+      "text": "Great."
+    },
+    {
+      "speaker_id": "speaker-7",
+      "speaker_name": "Speaker 7",
+      "speaker_role": "",
+      "timestamp": "00:54:15",
+      "text": "Thank you, Jesse. Thank you, team. Appreciate it."
+    },
+    {
+      "speaker_id": "speaker-7",
+      "speaker_name": "Speaker 7",
+      "speaker_role": "",
+      "timestamp": "00:54:17",
+      "text": "Thanks, Matt. We had a couple of questions from the audience. One was on the gross margin, which we've already spent some time on and answered. The other two, just specifically, someone was asking Glenn what the cost is for a subscription to Success. Then Wendy, the cost of Land and Ranch."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:54:37",
+      "text": "Yeah, so we're actually bringing back magazine subscriptions. I think there was a decision last year to remove that and make it simply a Success Plus benefit. We believe that there's still a cohort, and we actually see some data that shows that individuals actually like to subscribe to physical magazines. It's kind of, it's now actually a slightly growing segment in certain segments. We think personal development fits that narrative quite well. That will be a typical magazine subscription, I think, around $20 a year or so for the magazine. Success Plus is $25 per month, which includes an active community. I'm getting involved in that community directly. If you become part of the Success Plus, especially the paid community, I'm going to be engaged with you every day, just helping build that community."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:55:42",
+      "text": "The way I think about it is if we can grow that community itself to 50,000 members over a period of time, that's about a $12 million a year run rate business. That is a good solid gross margin attached to it. We're not adding significant numbers today. I think we've had two or three just from some internal stuff of new members from some new programs just in the last 24 hours. We are looking at how do we turn that into 10, 100, thousand people a day, a month joining that community? What's the viral flywheel that's going to drive that? We think with a lot of the new AI tooling and some of the expertise that we've developed and understanding even inside of eXp and bringing that to Success, we think there's an opportunity to create some viral opportunities for growth."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:56:46",
+      "text": "We're in the early stages of kind of figuring out what those pieces of value are. The ability to build that under a recognized and trusted brand, I think, is going to pay huge dividends when it comes to rolling out some of these new, call it, vibe-coded application stacks for personal development."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:57:12",
+      "text": "All right. Wendy, we had a question about eXp Land and Ranch and what the cost was to join eXp Land and Ranch."
+    },
+    {
+      "speaker_id": "speaker-6",
+      "speaker_name": "Speaker 6",
+      "speaker_role": "",
+      "timestamp": "00:57:18",
+      "text": "Absolutely. Thanks, Denise. The Land and Ranch program, you can find all of the information on that at landandranch.exprealty.com, and you'll find a join button there. We have various price points there, but generally speaking, between $2,000 and $2,500. That includes a certification, and it includes training on how to get started. There are different sort of programs, and we have occasionally some specials going on, but generally, you're in that price point of around the $2,000 to $2,500 range to get started."
+    },
+    {
+      "speaker_id": "speaker-6",
+      "speaker_name": "Speaker 6",
+      "speaker_role": "",
+      "timestamp": "00:57:57",
+      "text": "Great. Thank you. That concludes our question portion of the call. Thank you, everyone, for joining. Please stay connected by visiting us at eXpWorldHoldings.com for the latest updates on eXp news, results, and events. Additionally, you'll find a recording of this call and our latest investor presentation on the investor section of the site. This concludes the second quarter 2025 earnings fireside chat."
+    }
+  ],
+  "statements": []
+}

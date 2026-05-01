@@ -1,0 +1,884 @@
+{
+  "company_id": "exp",
+  "title": "Exp World Q1 2024 Earnings Call Transcript",
+  "datetime": "2024-05-01T22:00:00Z",
+  "period": "FY2024_Q1",
+  "location": "",
+  "url": "https://www.marketbeat.com/earnings/reports/2024-5-1-exp-world-holdings-inc-stock/",
+  "people": [
+    {
+      "id": "denise-garcia",
+      "name": "Denise Garcia",
+      "role": "Investor Relations at eXp World Holdings"
+    },
+    {
+      "id": "glenn-sanford",
+      "name": "Glenn Sanford",
+      "role": "Founder, Chairman, and CEO at eXp World Holdings"
+    },
+    {
+      "id": "leo-pareja",
+      "name": "Leo Pareja",
+      "role": "CEO at eXp Realty"
+    },
+    {
+      "id": "",
+      "name": "",
+      "role": "Company Representative at eXp World Holdings"
+    },
+    {
+      "id": "kent-cheng",
+      "name": "Kent Cheng",
+      "role": "Principal CFO and Chief Accounting Officer at eXp World Holdings"
+    },
+    {
+      "id": "jonathan-bass",
+      "name": "Jonathan Bass",
+      "role": "Analyst at Stephens"
+    },
+    {
+      "id": "tom-white",
+      "name": "Tom White",
+      "role": "Analyst at D.A. Davidson"
+    },
+    {
+      "id": "matt-filek",
+      "name": "Matt Filek",
+      "role": "Analyst at William Blair"
+    },
+    {
+      "id": "soham-bhonsle",
+      "name": "Soham Bhonsle",
+      "role": "Analyst at BTIG"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "denise-garcia",
+      "speaker_name": "Denise Garcia",
+      "speaker_role": "Investor Relations at eXp World Holdings",
+      "timestamp": "00:00:00",
+      "text": "All right, great! Thanks, Gabe. Let's get started then. Good afternoon, and welcome to eXp World Holdings' First Quarter 2024 Earnings Fireside Chat via live stream and our metaverse on the web, Frame. My name is Denise Garcia, and I manage Investor Relations for eXp World Holdings. Today, we will begin with our earnings fireside chat with prepared remarks from Glenn Sanford, Founder, Chairman, and CEO of eXp World Holdings, and Leo Pareja, CEO of eXp Realty, followed by a review of the first quarter 2024 financial highlights presented by Kent Chang, Principal Financial Officer and Chief Accounting Officer of eXp World Holdings. Following our prepared remarks, we will open the call to a Q&A session with eXp World Holdings covering analysts and questions submitted to eXp. Let's begin with a review of the safe harbor."
+    },
+    {
+      "speaker_id": "denise-garcia",
+      "speaker_name": "Denise Garcia",
+      "speaker_role": "Investor Relations at eXp World Holdings",
+      "timestamp": "00:01:02",
+      "text": "There'll be a number of forward-looking statements made today that should be considered in conjunction with the cautionary statements contained in the company's SEC filings. Forward-looking statements are subject to various risks and uncertainties that could cause our actual results to differ materially from these statements. Please see our filings with the SEC, including our most recent filed annual report on Form 10-K and quarterly reports on Form 10-Q, for a discussion of specific risks that may affect our business performance and financial condition. We assume no obligation to update or revise any forward-looking information. As a reminder, today's call is being recorded, and a replay will also be made available on expworldholdings.com. Now, for a few logistics, and then we'll get started. For those of you joining in Frame today, to zoom in on a specific screen, you can click on that screen and then click Zoom In."
+    },
+    {
+      "speaker_id": "denise-garcia",
+      "speaker_name": "Denise Garcia",
+      "speaker_role": "Investor Relations at eXp World Holdings",
+      "timestamp": "00:02:01",
+      "text": "If the content on that screen disappears or if you lose audio, simply refresh your page. While in Frame, if you need help, just use the help button at the bottom right. Should you wish to ask a question during our presentation, you can enter your questions by scanning the QR code presented on this screen with your mobile phone, or go to slido.com and type in the event code EXPI. From there, you can submit a question or vote up an existing question by giving a thumbs up if you'd also like that question to be asked. This screen will remain up and on the right-hand side of the stage for the duration of our presentation. Now, I'll turn the call over to Glenn to begin our fireside chat."
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "Founder, Chairman, and CEO at eXp World Holdings",
+      "timestamp": "00:02:50",
+      "text": "Awesome. Thanks, Denise, and thanks, everyone, for joining us. Before we jump into our first quarter results, I want to just review our business strategy and provide an update on our structure. You know, our strategy, as from the beginning, is to ultimately create the most agent-centric real estate brokerage on the planet, and to really drive that value. One of the things we've been able to do is from the profitability of North America, it's actually enabled us to invest in growth opportunities across the business, including international, which we see as the largest potential driver of growth for the company. Through the profitability of eXp North America, we've been able to build a platform for agents worldwide that includes personal development, health resources, media, and technology."
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "Founder, Chairman, and CEO at eXp World Holdings",
+      "timestamp": "00:03:49",
+      "text": "This quarter, we increased our operational efficiencies by focusing entirely on Frame, our metaverse where we're meeting today, and we've actually discontinued our Virbela operations. At a high level, we're now reporting on three business segments: North American Realty, International Realty, and then other affiliated services, which is all the other businesses, which includes SUCCESS and FrameVR.io. Kent will also review the results of each segment in a moment. We're also increasing the transparency of our operating expenses. Starting this quarter, we're reporting technology and development expenses separately, and as you'll see from our financials, we are a technology company really at our core and have achieved significant scale. Moving forward, we expect to leverage our investment to support margin expansion, while continuing to innovate and lead other, which is in technology."
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "Founder, Chairman, and CEO at eXp World Holdings",
+      "timestamp": "00:04:53",
+      "text": "Now I'll move to some highlights from the first quarter. I'll start with NPS. You know, the work we did in 2023 to improve the agent value proposition, increased support and asked our agents during the market downturn helped drive a higher net promoter score, which resulted in a 3-point increase from last year, from 70%-73%. As you know, agent net promoter score is a good indicator of our future growth and our retention, an important measure of our SUCCESS that is often not reflected in the current quarter's financial results. I'm also pleased to report a 5% increase in real estate transactions and 11% increase in overall volume or overall revenue."
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "Founder, Chairman, and CEO at eXp World Holdings",
+      "timestamp": "00:05:44",
+      "text": "We continue to add multiple, highly productive teams and agents around the world, during this quarter as well, which we highlight in a separate press release like we did back in mid-April. We think our focus on bringing teams of agents will not only improve the quality of our agents, it will lead to productivity gains, particularly when the market downturn ends. We feel confident about this because our internal research shows eXp agents on teams are 77% more productive than individual agents. Last quarter, I mentioned that I expect international realty to be the largest driver of future growth for the company, and the international segment continues to outperform, with revenue from international increasing 45% over the first quarter of 2023."
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "Founder, Chairman, and CEO at eXp World Holdings",
+      "timestamp": "00:06:35",
+      "text": "We continue to strengthen the agent value proposition and expand our management team across a variety of key functions, such as human resources, technology, marketing, and growth. Last week, Wendy Forsythe joined our team as our Chief Marketing Officer, and earlier in the month, we actually named Leo Pareja as CEO of eXp Realty. I'm handing the reins over to Leo of eXp Realty, so I can focus on more macro opportunities at the eXp World Holdings level. Leo's truly an innovative and well-recognized leader in the industry. He's iterated and improved on the agent value proposition since joining 2 years ago, and I think he'll continue to add value to our agents, strengthening our competitive advantage and drive growth for eXp Realty across the board."
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "Founder, Chairman, and CEO at eXp World Holdings",
+      "timestamp": "00:07:32",
+      "text": "With that, I'll turn the call over to Leo, who can walk you through the first quarter highlights in our core businesses. Leo?"
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "CEO at eXp Realty",
+      "timestamp": "00:07:42",
+      "text": "Glenn, and thanks, everyone, for joining us today. While this isn't my first time I've joined our quarterly earnings call, this is my first time as the CEO of eXp Realty. I'm excited to be here, and I'm excited about the growth potential this year and in the years to come. We're doing exciting things, and I've had the good fortune to be part of that, and we've started to see the results from our efforts across the business. I'll start with an industry update. Home sale transactions in the U.S. were down nearly 3%. Despite that, eXp Realty was up 2%. As we continue to do better than the industry, we continue to grow our market share."
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "CEO at eXp Realty",
+      "timestamp": "00:08:19",
+      "text": "Market share grew nearly 5%, increasing to 4.4% of all home sale transactions in the United States, thanks to the hard work of our agents and teams during what's undoubtedly one of the most challenging markets most of us have ever experienced in our careers. Moving on to agents. As Glenn mentioned, NPS is our leading indicator for our future growth, reflecting on our agent satisfaction with eXp. An increase in NPS helps us, at the management team, understand where we can improve and where we can focus our resources. Last year, we said we'd focus on delivering vetted, high-quality opportunities to agents, expanding personal and professional services like SUCCESS, Revenue Share, equity opportunities, and affiliate agreements, streamlining operational support to our agents, and enhancing our technology. We delivered all these promises in 2023, and we believe it's reflected in the higher agent NPS scores this year."
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "CEO at eXp Realty",
+      "timestamp": "00:09:18",
+      "text": "More specifically, agents have told us that they are happy about our Expert Care Desks because they're able to get a quick resolution to their issues and have one phone number to contact 24 hours a day, 7 days a week, worldwide. They've also told us that they've been particularly happy about our transition from Virbela to exp.world, or Frame. They're enjoying Frame because it's web-based, which makes it easier to access wherever they are working. Transaction processes have also improved, with 87% of our agents rating the process a 9 or a 10 on a scale of 1 to 10. We're also introdu [audio distortion]"
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "Founder, Chairman, and CEO at eXp World Holdings",
+      "timestamp": "00:09:59",
+      "text": "Did Leo cut out?"
+    },
+    {
+      "speaker_id": "",
+      "speaker_name": "",
+      "speaker_role": "Company Representative at eXp World Holdings",
+      "timestamp": "00:10:13",
+      "text": "Yeah, we cannot. I cannot hear Leo."
+    },
+    {
+      "speaker_id": "",
+      "speaker_name": "",
+      "speaker_role": "Company Representative at eXp World Holdings",
+      "timestamp": "00:10:20",
+      "text": "Hey, Leo, if you could do just a quick refresh, I think we'll get your audio back. I see a little sign that indicates your internet may be a little weak."
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "Founder, Chairman, and CEO at eXp World Holdings",
+      "timestamp": "00:10:34",
+      "text": "Yeah, so one thing to note is, today, we actually announced our eXp REVenue Share 2.0 program, so you may have seen the press release that went out earlier today. You know, obviously, this last year, we paid out more than $230 million in a combination of REVenue Share and equity benefits to our agents and brokers. And with the new model, and just anecdotally, our agents are ecstatic about our REVenue Share model 2.0. You know, we recognize that we have competition in the industry, and since we really created this new REV Share model, we redesigned it to give agents the best REV Share opportunity that exists in the market today."
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "Founder, Chairman, and CEO at eXp World Holdings",
+      "timestamp": "00:11:27",
+      "text": "And we also have a Fast Start program that's going to be kicking in in July, which we think is also going to be super exciting, that we talked about in the press release. Leo, let me know if you've arrived back, and I can certainly turn it back over to you. Let's go on to the next slide-"
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "CEO at eXp Realty",
+      "timestamp": "00:11:52",
+      "text": "Sure"
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "Founder, Chairman, and CEO at eXp World Holdings",
+      "timestamp": "00:11:52",
+      "text": "... and I'll keep things moving here."
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "CEO at eXp Realty",
+      "timestamp": "00:11:56",
+      "text": "Sorry, I got disconnected."
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "Founder, Chairman, and CEO at eXp World Holdings",
+      "timestamp": "00:11:57",
+      "text": "Oh, well, then, I will, I will wait for you to take over, slide 12 here."
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "CEO at eXp Realty",
+      "timestamp": "00:12:05",
+      "text": "Slide 12, sorry about that. Perfect. I'm very, I'm very proud of the eXp agent [audio distortion]"
+    },
+    {
+      "speaker_id": "kent-cheng",
+      "speaker_name": "Kent Cheng",
+      "speaker_role": "Principal CFO and Chief Accounting Officer at eXp World Holdings",
+      "timestamp": "00:12:20",
+      "text": "... We're losing Leo again."
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "Founder, Chairman, and CEO at eXp World Holdings",
+      "timestamp": "00:12:24",
+      "text": "I think his internet connection must be having issues. And so just to note, obviously we have a number of agents who have been named to the 2023 top producer list. And one of the things that was kind of interesting is that if you actually looked at those agents that were listed, our top 200, 250 agents, they would have actually ranked in as a single brokerage in the top 5 or 6 brokerages in the entire industry. So pretty, pretty cool just to see, you know, a lot of the accolades. Here, a few weeks ago, I was actually awarded the Bravo Leadership Award from DS, and eXp was awarded the number one spot in transactions on the 2024 RISMedia Power Broker Report."
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "Founder, Chairman, and CEO at eXp World Holdings",
+      "timestamp": "00:13:22",
+      "text": "You know, I want to make sure that everybody, it's important to note that these rankings really reflect our continued focus on our agents, and that really, you know, rings true in why we've been able to get the awards that we have and continue to get all of the various different accolades. So let's go ahead and move to the next slide here. One of the things that you've heard us talk a lot about is AI across our entire business, and we're actually almost ready to roll out what we're referring to as Luna 2.0. This is headed up, you know, under our innovation team, headed up by Seth Siegler, our Chief Innovation Officer."
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "Founder, Chairman, and CEO at eXp World Holdings",
+      "timestamp": "00:14:14",
+      "text": "But we're actually ready to roll out 28 separate AI agents that each contain their own in-depth knowledge about topics and countries, and it's able to actually handle multiple languages and lots of other cool features. So, similar to Luna, we plan to develop more customized generative AI personal assistants responsive to both eXp agent and the broader industry questions. In terms of the we have a document creation and review process that we're working on improving. And another example is deploying technology to increase operational flexibility by creating what Patrick O'Neill, our Chief Operating Officer, calls Following the Sun strategy to leverage both AI and people to enable 24 operations worldwide in support of agents and driving enhanced productivity. So AI, for us, you know, represents a enormous long-term opportunity."
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "Founder, Chairman, and CEO at eXp World Holdings",
+      "timestamp": "00:15:20",
+      "text": "We're, we're doing a lot of things with... We've got, we've got a number of different projects. We're working with various, vendors and others to really, focus on, the AI side. Leo, are you, are you back?"
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "CEO at eXp Realty",
+      "timestamp": "00:15:35",
+      "text": "I hope so. Slide 14."
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "Founder, Chairman, and CEO at eXp World Holdings",
+      "timestamp": "00:15:37",
+      "text": "Okay. The slide 14 is yours."
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "CEO at eXp Realty",
+      "timestamp": "00:15:41",
+      "text": "We're also excited about our progress against our $20 million profit improvement plan. We made good progress in implementing several initiatives in Q1 to drive our profit and cost savings. On an annualized basis, these initiatives that we put in place in Q1 will drive $27.3 million in incremental profit and cost savings per year. Because many of these initiatives were implemented in the first quarter, they are not reflected in our first quarter financials and may have even been booked as some cost, like severance towards them, but which Kent will discuss in a moment. With three quarters left in 2024, we expect to realize $6.8 million per quarter or $20.4 million this year. Turning to the next slide."
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "CEO at eXp Realty",
+      "timestamp": "00:16:23",
+      "text": "Lastly, I want to provide an update on the real estate market, which, in addition to the market downturn caused by higher interest rates, is also impacted by antitrust lawsuits aimed at agent commissions. Understandably, our agents have lots of, have had lots of questions about what this means for them and their clients. We've been providing support and education to agents through regional rallies, where we can be there to answer questions about antitrust lawsuits, but also engage, educate, and celebrate and inspire their profession. During April, we hosted and impacted rallies in 20 locations. We plan to host more throughout the year. We've also created a buyer representation toolkit, which includes a suite of tools to help eXp agents enhance and inquire their value proposition for clients during this time."
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "CEO at eXp Realty",
+      "timestamp": "00:17:08",
+      "text": "With that, I'll turn the call over to Kent, who will walk you through the financials, and we'll open it up for questions. Thank you."
+    },
+    {
+      "speaker_id": "kent-cheng",
+      "speaker_name": "Kent Cheng",
+      "speaker_role": "Principal CFO and Chief Accounting Officer at eXp World Holdings",
+      "timestamp": "00:17:16",
+      "text": "Thank you, Leo. As we review our performance for the first quarter of 2024, I'm pleased to highlight several key metrics that underscore our progress and strategic initiatives. Let's start with our agent Net Promoter Score, NPS. This quarter, we achieved an NPS of 73, which is a 3-point improvement compared to the first quarter of last year. This increase is a direct result of our continued investment in operational support for our agent and the enhancement to our technology platform that Glenn and Leo discussed earlier. Moving on to our agent network, we saw a slight decrease of 2% in our agent count year-over-year. This reflects both the challenged market condition and our strategic decision to onboard a significant number of unproductive agents in the U.S. during the fourth quarter of last year and the first quarter of this year."
+    },
+    {
+      "speaker_id": "kent-cheng",
+      "speaker_name": "Kent Cheng",
+      "speaker_role": "Principal CFO and Chief Accounting Officer at eXp World Holdings",
+      "timestamp": "00:18:11",
+      "text": "This move is aligned with our focus on enhancing overall productivity and efficiency. In terms of real estate transaction, our real estate sales transaction units grew by 5% year-over-year. This growth is not only a testament to our team's hard work and also indicate that we are outperforming the industry and continuing to gain market share in the U.S. While our cost per transaction experienced a slight increase year-over-year, they remain among the most competitive in the industry. We anticipate the real estate transaction costs will decrease as we leverage technology more effectively and move through the typical seasonal variation in 2024. Now, let me discuss our financial objectives. I'm happy to report that our revenue for the first quarter was $943 million, 11% increase year-over-year."
+    },
+    {
+      "speaker_id": "kent-cheng",
+      "speaker_name": "Kent Cheng",
+      "speaker_role": "Principal CFO and Chief Accounting Officer at eXp World Holdings",
+      "timestamp": "00:19:07",
+      "text": "On the adjusted EBITDA front, we generated $11 million in a very challenging market condition. The first quarter adjusted EBITDA was lower than the $14.6 million from the prior year's first quarter, due to increased SG&A, which I will explain next. We have also enhanced the transparency of our financial reporting by breaking out our operating expense to include technology and development costs, reaffirming our commitment to being a technology-driven company at heart. General and administrative expenses were $63 million, up 15% over the first quarter of 2023, primarily due to increased transaction volume and effort to improve our NPS, coupled with higher severance and legal expenses. This quarter, we recorded a provision of $16 million for the antitrust litigation contingency."
+    },
+    {
+      "speaker_id": "kent-cheng",
+      "speaker_name": "Kent Cheng",
+      "speaker_role": "Principal CFO and Chief Accounting Officer at eXp World Holdings",
+      "timestamp": "00:20:01",
+      "text": "It is important to note that this $16 million contingency is provisional and subject to change as the case evolves. The net-of-tax impact on earnings of the provision is $11.4 million. Our GAAP net loss for this quarter was $15.6 million, which also includes a $1.8 million loss from the discontinued operation of the Virbela segment. Excluding the antitrust contingency provision and the discontinued operation, our adjusted loss was $2.4 million, with an adjusted loss per diluted share of $0.02. In terms of liquidity, our adjusted operating cash flow was $29.4 million. We have continued our commitment to shareholder return by repurchasing $33 million of shares during the quarter."
+    },
+    {
+      "speaker_id": "kent-cheng",
+      "speaker_name": "Kent Cheng",
+      "speaker_role": "Principal CFO and Chief Accounting Officer at eXp World Holdings",
+      "timestamp": "00:20:56",
+      "text": "The number of shares we repurchased completely offset the share issue via our Agent Equity Program and the Agent Growth Incentive Program in the first quarter. In the next slide, I will provide more detail about the driver behind our revenue increase. This chart shows the driver behind the increase of the revenue from the first quarter of 2023 to the first quarter of 2024. In Q1 2023, our revenue stood at $849 million, as shown by the bar on the left. For the same period in 2024, revenue increased to $943 million, as indicated by the bar on the right, making a year-over-year increase of $95 million or 11%."
+    },
+    {
+      "speaker_id": "kent-cheng",
+      "speaker_name": "Kent Cheng",
+      "speaker_role": "Principal CFO and Chief Accounting Officer at eXp World Holdings",
+      "timestamp": "00:21:44",
+      "text": "This increase was primarily fueled by significant gains in our North America Realty segment, which includes U.S. and Canada, contributing an additional $90 million revenue growth. The international realty segment also saw a rise, contributing a $5 million revenue increase. Let's dive deeper into the North America Realty segment. A 2% decline in our agent base impacted our revenue negatively by approximately $8 million. U.S. home sales in the first quarter of 2024 declined 2.7% year-over-year, which pressure our agent production. We estimated the decrease of overall real estate market reduced our revenue by $11 million. However, the market declines were more than offset by gains from several areas in our business. Relative to the performance of the real estate market, an increase of our agent productivity over prior year added $48 million of revenue."
+    },
+    {
+      "speaker_id": "kent-cheng",
+      "speaker_name": "Kent Cheng",
+      "speaker_role": "Principal CFO and Chief Accounting Officer at eXp World Holdings",
+      "timestamp": "00:22:52",
+      "text": "Higher home sales prices contributed incremental revenue of $46 million. Additionally, our strategic focus on expanding our lease, referral, and other ancillary services brought an extra $15 million top-line growth. On next slide, I will discuss financials for each segment in more detail. This quarter, we streamlined our reporting by reducing number of segments from four to three. But this change follows the discontinuation of the Virbela operation as we shift our focus entirely to web-based metaverse Frame, which is now included in the other affiliated services. North America Realty segment. This segment continued to be primary driver of both revenue and profit for the company. We reported an 11% increase in revenue, as I discussed previously. However, our EBITDA saw a 16% decline at $80 million."
+    },
+    {
+      "speaker_id": "kent-cheng",
+      "speaker_name": "Kent Cheng",
+      "speaker_role": "Principal CFO and Chief Accounting Officer at eXp World Holdings",
+      "timestamp": "00:23:51",
+      "text": "This was largely due to our investment in personnel in, to support future growth and improve NPS, an increase in legal and severance expenses, which were partially offset by higher revenue, net of agent commission and other agent-related costs. International Realty revenue was $60 million, an increase of 45%. Adjusted EBITDA loss was $3.4 million, which is 9% improvement from prior year. Other affiliated services, including Frame and SUCCESS, contributed modest revenue and adjusted EBITDA loss. This slide summarizes our Q1 highlight, which I have discussed in the previous slides. I'm happy to report that we are off to a great start to 2024, and we are well positioned to capitalize on upcoming market growth opportunity. With that overview, I'd like to turn the presentation back to Denise, who will facilitate the Q&A section. Thank you."
+    },
+    {
+      "speaker_id": "denise-garcia",
+      "speaker_name": "Denise Garcia",
+      "speaker_role": "Investor Relations at eXp World Holdings",
+      "timestamp": "00:24:51",
+      "text": "... Great! Thanks, Kent. I'll kick off with a question for everyone on the team before we open the call up to our covering analysts. First, Glenn, this one's for you. You announced some enhancements to eXp REV Share model earlier today, and I think you took us through some of the highlights. I suppose the next question is, what made you decide to make these updates now?"
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "Founder, Chairman, and CEO at eXp World Holdings",
+      "timestamp": "00:25:18",
+      "text": "Yeah, so there was a few things that went into this. In 2019, we announced our sustainable REVenue Share platform, which basically was our commitment to paying out 50% of company dollar. But it was based on the model that we originally rolled out in 2009, where if you actually calculated the numbers, we expected, we'll call it more breakage in the system. But we ended up overheating the REV Share system to the point where we would fundamentally not be a sustainable company."
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "Founder, Chairman, and CEO at eXp World Holdings",
+      "timestamp": "00:25:58",
+      "text": "So we introduced in 2019, where we are committed to paying out 50% of company dollar, but embedded in that is that we use 50% of the company dollar to pay the bills and run the company and all of that. The second part of it was, because of the way it was calculated, it was a little bit unclear for a lot of our agents, actually, how the numbers rolled out, because it was using what we referred to as a buffering system. So we got a lot of feedback that our agents wanted something that was easier to calculate. But then the other piece was we definitely got feedback around agents who were, we'll say, are mid-level attractors, who had built reasonably large organizations in eXp and really were..."
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "Founder, Chairman, and CEO at eXp World Holdings",
+      "timestamp": "00:26:49",
+      "text": "are key to the growth of the company, but they weren't opening up more of the levels, and yet they were instrumental in the growth of the company. So, what we had seen was some of the attrition that we were seeing when agents were leaving to some of our competitors, was really that group of agents who were kind of in the middle. They weren't super big agent attractors, meaning they weren't going in 30, 40, 50 people personally, but their organizations, they were really involved in supporting their agents. Basically, the program as it's laid out is that starting in the U.S. and Canada, May 9, levels 1 through 3 are opened up for all agents in the company."
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "Founder, Chairman, and CEO at eXp World Holdings",
+      "timestamp": "00:27:38",
+      "text": "Then levels 4, 5, and 6 are opened up with 5, 10, and 15 agents that they've personally brought in. We still left level 7 at the same, which was 30 or more, and so that's really for those people who are, I'll call it the broker-owner persona, they're the sales manager persona. That's what they do, is they do a lot of recruiting, and that's how they're wired. But for the masses of agents, we wanted to make it more accessible to agents. Just as I mentioned, the anecdotal evidence of just the feedback today has been really, really positive."
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "Founder, Chairman, and CEO at eXp World Holdings",
+      "timestamp": "00:28:17",
+      "text": "So many people saying, \"This is exactly what we needed to get, you know, excited about sort of the next evolution of eXp.\" So, I'm pretty excited where we're going to go with this. And we'll be rolling this out across the globe, but we launched it in the U.S. and Canada to start."
+    },
+    {
+      "speaker_id": "denise-garcia",
+      "speaker_name": "Denise Garcia",
+      "speaker_role": "Investor Relations at eXp World Holdings",
+      "timestamp": "00:28:42",
+      "text": "Great. Makes sense. Thanks, Glenn. The next question is for Leo. I have a couple of questions for you about agent growth trends. First, just a near-term question about the first quarter, if it was continued to be impacted by the cleanup of non-productive agents that you undertook last quarter? More longer term, what are you focused on in terms of agent growth?"
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "CEO at eXp Realty",
+      "timestamp": "00:29:03",
+      "text": "Thanks, Denise. Yeah, there are two drivers impacting agent count. First, some agents have left the industry due to tougher selling you know, environment that we've been experiencing over the last 18 months. And second, the cost of non-productive agents, such as technology support and other things. So we, you know, we purposely off-boarded a large number in the fourth quarter, and yes, it did extend into the first quarter. We're really focused on building our agent base with the highest quality of agents in the industry. We've been very encouraged by the number of teams that have joined eXp in 2023 and again in Q1 of 2024, along with the increase in our agent productivity. We invest quite a bit in tech and to support our agents, which is offset a bit by the agent fees."
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "CEO at eXp Realty",
+      "timestamp": "00:29:43",
+      "text": "For example, a subscription to kvCORE, which would cost an individual agent hundreds of dollars per month to pay directly, is included in our $85 a month agent fee. We believe the fee deflects non-productive agents who can be counted at brokerages that don't charge fees. Clearly, our agent value proposition has resonated with productive agents and teams of agents joining us, and we believe our focus on these agents will put us in an optimal position to capture growth as the market turns."
+    },
+    {
+      "speaker_id": "denise-garcia",
+      "speaker_name": "Denise Garcia",
+      "speaker_role": "Investor Relations at eXp World Holdings",
+      "timestamp": "00:30:15",
+      "text": "Got it. Thank you. And now, last one for Kent. Can you discuss the components of the $20 million profit improvement plan?"
+    },
+    {
+      "speaker_id": "kent-cheng",
+      "speaker_name": "Kent Cheng",
+      "speaker_role": "Principal CFO and Chief Accounting Officer at eXp World Holdings",
+      "timestamp": "00:30:24",
+      "text": "Yeah, happy to do that. We know there are a few adjustments we initiated in the first quarter with regard to the risk management fee, Agent Equity Program discount, and other profit enhancement opportunity. Those initiatives have helped us on profit-generating side. We estimate they will contribute about $30.3 million on annualized basis. On the cost-saving side, we took action in the first quarter to reduce personnel costs, primarily through the-"
+    },
+    {
+      "speaker_id": "kent-cheng",
+      "speaker_name": "Kent Cheng",
+      "speaker_role": "Principal CFO and Chief Accounting Officer at eXp World Holdings",
+      "timestamp": "00:30:54",
+      "text": "headcount reduction by estimate about $10.9 million in the realty business and $3 million in the Virbela business on the annualized basis. The combination of these two actions are possibly will generate about $13.9 million annualized cost savings. So overall, you add them together, we get about $27 million overall core profit improvement."
+    },
+    {
+      "speaker_id": "denise-garcia",
+      "speaker_name": "Denise Garcia",
+      "speaker_role": "Investor Relations at eXp World Holdings",
+      "timestamp": "00:31:21",
+      "text": "Got it. Okay, now I'll open up the call to our analysts to ask questions. I'll start with Jonathan Bass, who's sitting in for John Campbell from Stephens. You can open up your mic and ask a question, Jonathan."
+    },
+    {
+      "speaker_id": "jonathan-bass",
+      "speaker_name": "Jonathan Bass",
+      "speaker_role": "Analyst at Stephens",
+      "timestamp": "00:31:35",
+      "text": "Hey, guys. Thanks for taking my questions. I wanted to start off on agent count growth. It sounds like the off-boarding and nonproducing agents continued into 1Q. Is that expected to flow into 2Q and potentially beyond? And then looking forward on agent count growth, maybe like breaking it down between North America as well as international growth, could you talk about, you know, what you're expecting for the remainder of the year?"
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "Founder, Chairman, and CEO at eXp World Holdings",
+      "timestamp": "00:32:05",
+      "text": "Yeah, Leo, you want to take that, or?"
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "CEO at eXp Realty",
+      "timestamp": "00:32:07",
+      "text": "I was going to ask you the same thing. I can-"
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "Founder, Chairman, and CEO at eXp World Holdings",
+      "timestamp": "00:32:10",
+      "text": "Okay. Well, sure. Yeah, so, you know, the going into, in, into Q2, obviously, we, we rolled out, what we talked about, REV Share 2.0. So that, we believe, is going to be, helpful for on the growth side. On the off-boarding side, you know, it's still a pretty tough market. We, a lot of our agents that we, we were off-boarding and have off-boarded and, and those who have voluntarily off-boarded, a lot of them were behind on their fees, their MLS dues, and, other things that they... that are obligations there, and they weren't selling, any homes. So it was, just natural that there was some attrition."
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "Founder, Chairman, and CEO at eXp World Holdings",
+      "timestamp": "00:32:57",
+      "text": "What I found, and just, this is just anecdotal, but I believe that, you know, even NAR quit a couple months ago publishing their numbers of members, because I think their numbers are dwindling at the moment. So I think there's some industry attrition going on at the moment that's affecting us, and obviously, we're seeing our productive agents sticking with us for the most part, which is why you're seeing volumes pick up and transaction counts pick up as the lower production. Anything you want to add there, Leo?"
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "CEO at eXp Realty",
+      "timestamp": "00:33:30",
+      "text": "Yeah, we're, we're, and again, people need to remember that when you don't stay current with your MLS and association dues, once you get turned off, we have to off-board you. And so, you know, we, we have the larger denominator, and so the churn that's endemic to this market cycle is going to be present. But the one thing I will say that, and, you know, it's I'm having, and so is Glenn, very promising conversations with small and mid-sized independents where the fear of the changing model rules from the NAR settlement, we'll probably see some more activity of independents joining us in, you know, larger numbers, 50, 100, 200, 500 agents at a time."
+    },
+    {
+      "speaker_id": "denise-garcia",
+      "speaker_name": "Denise Garcia",
+      "speaker_role": "Investor Relations at eXp World Holdings",
+      "timestamp": "00:34:12",
+      "text": "Great."
+    },
+    {
+      "speaker_id": "jonathan-bass",
+      "speaker_name": "Jonathan Bass",
+      "speaker_role": "Analyst at Stephens",
+      "timestamp": "00:34:12",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "denise-garcia",
+      "speaker_name": "Denise Garcia",
+      "speaker_role": "Investor Relations at eXp World Holdings",
+      "timestamp": "00:34:13",
+      "text": "All right."
+    },
+    {
+      "speaker_id": "jonathan-bass",
+      "speaker_name": "Jonathan Bass",
+      "speaker_role": "Analyst at Stephens",
+      "timestamp": "00:34:15",
+      "text": "Thank you for the color there."
+    },
+    {
+      "speaker_id": "denise-garcia",
+      "speaker_name": "Denise Garcia",
+      "speaker_role": "Investor Relations at eXp World Holdings",
+      "timestamp": "00:34:19",
+      "text": "Go ahead, Jonathan. Did you have another, add-on follow-on to that question?"
+    },
+    {
+      "speaker_id": "jonathan-bass",
+      "speaker_name": "Jonathan Bass",
+      "speaker_role": "Analyst at Stephens",
+      "timestamp": "00:34:22",
+      "text": "Yeah, if I could have one more. Maybe switching topics."
+    },
+    {
+      "speaker_id": "denise-garcia",
+      "speaker_name": "Denise Garcia",
+      "speaker_role": "Investor Relations at eXp World Holdings",
+      "timestamp": "00:34:26",
+      "text": "Sure."
+    },
+    {
+      "speaker_id": "jonathan-bass",
+      "speaker_name": "Jonathan Bass",
+      "speaker_role": "Analyst at Stephens",
+      "timestamp": "00:34:27",
+      "text": "Could you guys maybe elaborate on how eXp and your agents are preparing for the mandated buyer rep agreement rule change that's expected to come this summer? You know, what are the discussions you're having with agents, and what are you what?"
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "CEO at eXp Realty",
+      "timestamp": "00:34:40",
+      "text": "Yeah, I'll jump into that one. We're being extremely proactive. I want to say we're probably the leading scaled company who's being very proactive. A couple weeks ago, we rolled out a one-page buyer representation agreement that becomes only binding for one property in basically one day. You know, the one thing I keep reminding agents, because I'm probably talking to 300 at a time, a couple times a day, just to make sure that they're well prepared, is that nobody knows what's actually going to happen. The final settlement needs to be completely fleshed out. The DOJ could opine, but it's really operationalizing the change. And so what we're doing is we're preparing our agents with the most tactical scripts, tools, buyer presentations. We've even gotten it down to a slogan of: Treat your buyers like you treat your sellers."
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "CEO at eXp Realty",
+      "timestamp": "00:35:25",
+      "text": "And what we're encouraging them to do is to start being prepared today. So we've given them the forms and the tools that we think will help get them through the transition and making sure that the objections and the concerns that come up, we've already role-played, we've already prepared them for it. And the one advantage that we have as a company is we're the largest scaled by transaction count. According to RealTrends, last year, we did 355,000 sites. That's 40% more than number two. And so what we have is this phenomenal collaborative feedback loop. So as our agents are in the field dealing with consumers directly, we'll be able to support their change."
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "CEO at eXp Realty",
+      "timestamp": "00:36:02",
+      "text": "The one thing I keep saying to agents is, \"We're a platform to allow real estate practitioners to build the size business they want.\" So what that means, as long as it's legal and ethical and it falls within the rules, we're here to support whatever type of business they would like to innovate on. In a couple of years, we'll probably have a new normal, but we're very prepared proactively to guide them through the, I'm calling it the messy middle, as we adjust to the new rules of engagement."
+    },
+    {
+      "speaker_id": "jonathan-bass",
+      "speaker_name": "Jonathan Bass",
+      "speaker_role": "Analyst at Stephens",
+      "timestamp": "00:36:27",
+      "text": "That's great. Thank you, guys."
+    },
+    {
+      "speaker_id": "denise-garcia",
+      "speaker_name": "Denise Garcia",
+      "speaker_role": "Investor Relations at eXp World Holdings",
+      "timestamp": "00:36:30",
+      "text": "Sure. We'll move on. Tom White from D.A. Davidson, did you have a question?"
+    },
+    {
+      "speaker_id": "tom-white",
+      "speaker_name": "Tom White",
+      "speaker_role": "Analyst at D.A. Davidson",
+      "timestamp": "00:36:36",
+      "text": "Yeah, a couple if I could. Glenn, Leo, I was hoping maybe you could share some directional thoughts on how you're feeling about your transaction growth in the second quarter. There have been some other companies in this space that have, you know, highlighted the recent uptick in mortgage rates. Still a little bit of kind of directional color there. And then maybe one for Kent, operating expenses, specifically kind of G&A plus that new tech and dev line. Is that kind of the new level we should think about in terms of, like, absolute dollars over the next few quarters? Is that a good way to model it, kind of from what we saw in the first quarter? Thanks."
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "CEO at eXp Realty",
+      "timestamp": "00:37:14",
+      "text": "... I could take the directional one. You know, quarter-over-quarter, it's looking like a flat year transactionally for the country. So I would venture to bet that, you know, what we saw in Q1 is probably a pretty representative Q2. And again, as we shared throughout the other slides, we're really focused on the productive agents. And again, what I actually tell agents is, you know, in a market like this, thriving looks like surviving, and so sometimes this is just a market expansion moment, and then once, you know, rates, and we get more back to a normalized transactional volume year of 5.5 million-6 million transactions, which over a 30-year period is probably more average, that will actually pay dividends for us."
+    },
+    {
+      "speaker_id": "kent-cheng",
+      "speaker_name": "Kent Cheng",
+      "speaker_role": "Principal CFO and Chief Accounting Officer at eXp World Holdings",
+      "timestamp": "00:37:56",
+      "text": "Yeah, maybe to add on the, on the unit side, right, Tom? It's typical, you see number Q1 is where it's slower season, right? When you get to Q2 spring season, I mean, just the seasonality, the revenue will pick up, right, in second quarter."
+    },
+    {
+      "speaker_id": "tom-white",
+      "speaker_name": "Tom White",
+      "speaker_role": "Analyst at D.A. Davidson",
+      "timestamp": "00:38:13",
+      "text": "Okay, great. Maybe one last one-"
+    },
+    {
+      "speaker_id": "kent-cheng",
+      "speaker_name": "Kent Cheng",
+      "speaker_role": "Principal CFO and Chief Accounting Officer at eXp World Holdings",
+      "timestamp": "00:38:14",
+      "text": "Yeah"
+    },
+    {
+      "speaker_id": "tom-white",
+      "speaker_name": "Tom White",
+      "speaker_role": "Analyst at D.A. Davidson",
+      "timestamp": "00:38:14",
+      "text": "... if I could slip it in. Any chance you can update us on how you're thinking about a, you know, potential settlement of the NAR's lawsuit? Some of your brokerages have settled recently. I noticed that litigation contingency pop up on the P&L, so anything you can share there would be helpful. And then I'll get back in the queue. Thanks."
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "Founder, Chairman, and CEO at eXp World Holdings",
+      "timestamp": "00:38:34",
+      "text": "Yeah, so, you know, I've spent a fair bit of time, I know Leo does as well, talking through what's going on in the industry from a settlement perspective or a litigation perspective. We're still fairly early on in our suits that we're named to. I think there's 10 suits that we're named to in the U.S. We're still trying to figure out whether there's consolidation, you know, of that, where does this all settle? I think we may be the last of the large brokerages that haven't settled yet and are presently not in a settlement discussion at the moment. But obviously we're open to those conversations. We've had some in the past."
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "Founder, Chairman, and CEO at eXp World Holdings",
+      "timestamp": "00:39:36",
+      "text": "But right now, we're still, you know, looking at what's going on. Obviously, you had Douglas Elliman, you had, of course, HomeServices. Of course, they were on, on the hook, so to speak, for the previous, judgment, and they were kind of the last one in there. So it's but it's still early on. We still got a, you know, a couple, three years, of work to do before it, you know, gets into some sort of trial situation, is the way that we're looking at it. So we're watching on a day-by-day basis and, you know, if there's an opportunity to settle for, a number that makes sense for us, then we'll take that opportunity."
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "Founder, Chairman, and CEO at eXp World Holdings",
+      "timestamp": "00:40:17",
+      "text": "But if not, we think we've got very good arguments on our side of the equation, if we were to go sort of the distance, so to speak."
+    },
+    {
+      "speaker_id": "kent-cheng",
+      "speaker_name": "Kent Cheng",
+      "speaker_role": "Principal CFO and Chief Accounting Officer at eXp World Holdings",
+      "timestamp": "00:40:31",
+      "text": "All right. Hey, Tom, you also asked about-"
+    },
+    {
+      "speaker_id": "tom-white",
+      "speaker_name": "Tom White",
+      "speaker_role": "Analyst at D.A. Davidson",
+      "timestamp": "00:40:33",
+      "text": "Thank you"
+    },
+    {
+      "speaker_id": "kent-cheng",
+      "speaker_name": "Kent Cheng",
+      "speaker_role": "Principal CFO and Chief Accounting Officer at eXp World Holdings",
+      "timestamp": "00:40:33",
+      "text": "... SG&A, right? In the Q1 the rest of the year. Now, barring from any unforeseen, right, or, you know, one-time item, you can see... I mean, you can assume now Q1 SG&A is essentially is more like generate direction, what we're going to see in the future."
+    },
+    {
+      "speaker_id": "denise-garcia",
+      "speaker_name": "Denise Garcia",
+      "speaker_role": "Investor Relations at eXp World Holdings",
+      "timestamp": "00:40:56",
+      "text": "All right, I'll move on. Moving on to Matt Filek from William Blair, did you have a question?"
+    },
+    {
+      "speaker_id": "matt-filek",
+      "speaker_name": "Matt Filek",
+      "speaker_role": "Analyst at William Blair",
+      "timestamp": "00:41:04",
+      "text": "I did. Thank you, Denise. Hey, everyone, you have Matt and Sheldon. Thank you for the questions. To start here, what could the recent changes to the REVenue Share model mean to company financials, particularly gross margins?"
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "Founder, Chairman, and CEO at eXp World Holdings",
+      "timestamp": "00:41:20",
+      "text": "Yeah, so-"
+    },
+    {
+      "speaker_id": "kent-cheng",
+      "speaker_name": "Kent Cheng",
+      "speaker_role": "Principal CFO and Chief Accounting Officer at eXp World Holdings",
+      "timestamp": "00:41:20",
+      "text": "Short answer, no change, right?"
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "Founder, Chairman, and CEO at eXp World Holdings",
+      "timestamp": "00:41:23",
+      "text": "Yeah, I mean, that's the short answer. The short answer is that it's, it's how we're paying out the 50% of company dollar is really what it comes down to, and we've, we've done it in a way that helps agents in the company that are working to grow the company. So we've really just created a what we refer to as a model that our agents feel is more aligned with what their interests are over the long haul. So it, it's generally, we're paying out the same numbers. We're just, we're just doing it slightly differently, which our agents are excited about."
+    },
+    {
+      "speaker_id": "matt-filek",
+      "speaker_name": "Matt Filek",
+      "speaker_role": "Analyst at William Blair",
+      "timestamp": "00:42:05",
+      "text": "Got it. Thank you for clarifying that, Glenn. And then, since Leo is taking over as the CEO of eXp Realty, and congrats on that opportunity, Leo, Glenn, can you provide some more detail on how you plan to allocate your time? Sounds like macro-level opportunities will be a core focus, but any additional color on what that entails would be helpful."
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "Founder, Chairman, and CEO at eXp World Holdings",
+      "timestamp": "00:42:26",
+      "text": "Yeah, so there's... When I look at macro, obviously, we've got a few subsidiaries, you know, SUCCESS Enterprises, FrameVR.io. We've got some other businesses that we've made either strategic investments in, or and other businesses that we think could be synergistic to eXp. So it's really working on a number of these opportunities. There are some things that I think are pretty exciting that I don't want to talk about yet, so they're non-public, but there are some areas where I think leveraging eXp Realty's scale and what we've been able to accomplish, there are some things that could create some nice-..."
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "Founder, Chairman, and CEO at eXp World Holdings",
+      "timestamp": "00:43:16",
+      "text": "aligned synergies that are maybe which are, in fact, outside of the core of realty, so not the traditional affiliate services, but other services that we think could really align well and could be, could be profitable, in their own right."
+    },
+    {
+      "speaker_id": "matt-filek",
+      "speaker_name": "Matt Filek",
+      "speaker_role": "Analyst at William Blair",
+      "timestamp": "00:43:35",
+      "text": "All right. Thank you, Glenn. Very helpful."
+    },
+    {
+      "speaker_id": "denise-garcia",
+      "speaker_name": "Denise Garcia",
+      "speaker_role": "Investor Relations at eXp World Holdings",
+      "timestamp": "00:43:38",
+      "text": "And then, last, Soham Bhonsle at BTIG, would you like to ask a question?"
+    },
+    {
+      "speaker_id": "soham-bhonsle",
+      "speaker_name": "Soham Bhonsle",
+      "speaker_role": "Analyst at BTIG",
+      "timestamp": "00:43:46",
+      "text": "Evening. Maybe first one for you, Leo. You know, last fall, you introduced the Boost and Accelerate program. So I'm just curious, you know, how those have fared so far, and then if you could just expand on what's incremental here with the Fast Start and the REVShare 2.0 program, that'd be great."
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "CEO at eXp Realty",
+      "timestamp": "00:44:04",
+      "text": "Yeah, no, it's, it's definitely opened up lines of communication. You know, tomorrow we're filing a press release of a 500-person brokerage that joined us here in Miami, 20-year independent, who justâ€” You know, the interesting talk track that I keep hearing over and over again is, you know, \"I've been, I've been grinding at it for years and years, and this, this upcoming climate is just giving me the opportunity to think through, do I want the liability?\" And, you can, we're really positioned as a platform to allow these real estate entrepreneurs to continue to grow and pour into their people. They give us their back end, they give us their liability, and then they can focus on pouring in."
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "CEO at eXp Realty",
+      "timestamp": "00:44:42",
+      "text": "And a lot of times, once they get rid of their, you know, fixed liabilities in the real estate, it becomes a more profitable enterprise to be in business with us. And so by introducing Boost, it gave us a very powerful talk track, and I'm in active negotiations with companies ranging of all sizes that I feel like last summer I would not have an opening to. So it's really been a huge catalyst to having conversations. And then, with REVshare 2.0, I think it's going to give a shot in the arm to the folks who are great at attracting. And, you know, one of the beautiful things about this company is it's very much agent-led from the voice standpoint."
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "CEO at eXp Realty",
+      "timestamp": "00:45:20",
+      "text": "So when we designed REVshare 2.0, it was strictly with the input of the feedback loop of the agents in the field who are competing for talent. And so we're pretty excited that it's going to, you know, help us attract the smartest and brightest folks in the industry."
+    },
+    {
+      "speaker_id": "soham-bhonsle",
+      "speaker_name": "Soham Bhonsle",
+      "speaker_role": "Analyst at BTIG",
+      "timestamp": "00:45:37",
+      "text": "Got it. And then I guess just one more on, on productivity. Look, it looks like, you know, transactions are up, but when I sort of look at, just the, home sales transactions purely, right? It looks like it's up 2% per your slides, and then you had about 26% growth in other. Is there, is there any way to sort of parse out what productivity was on sort of the core business of, like, just selling homes?"
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "CEO at eXp Realty",
+      "timestamp": "00:46:04",
+      "text": "Kent, I don't know if you have that-"
+    },
+    {
+      "speaker_id": "kent-cheng",
+      "speaker_name": "Kent Cheng",
+      "speaker_role": "Principal CFO and Chief Accounting Officer at eXp World Holdings",
+      "timestamp": "00:46:05",
+      "text": "Home sale transaction, and in general, we don't sell this other transaction is on the team to support all the transaction."
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "Founder, Chairman, and CEO at eXp World Holdings",
+      "timestamp": "00:46:24",
+      "text": "I think Kent's mic is kind of messed up, but do you want to try to reset your mic there, Kent?"
+    },
+    {
+      "speaker_id": "kent-cheng",
+      "speaker_name": "Kent Cheng",
+      "speaker_role": "Principal CFO and Chief Accounting Officer at eXp World Holdings",
+      "timestamp": "00:46:32",
+      "text": "Yeah. Hey, can you hear me okay?"
+    },
+    {
+      "speaker_id": "soham-bhonsle",
+      "speaker_name": "Soham Bhonsle",
+      "speaker_role": "Analyst at BTIG",
+      "timestamp": "00:46:35",
+      "text": "Yep."
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "Founder, Chairman, and CEO at eXp World Holdings",
+      "timestamp": "00:46:35",
+      "text": "Yep. Very good."
+    },
+    {
+      "speaker_id": "kent-cheng",
+      "speaker_name": "Kent Cheng",
+      "speaker_role": "Principal CFO and Chief Accounting Officer at eXp World Holdings",
+      "timestamp": "00:46:37",
+      "text": "Well, to answer your question, right, our home sale transaction increased 5%, right? And you ask productivity, we don't have a separate team to support, as a real estate sale transaction, versus lease, rental, refer, is a one team to support them. So when we look at productivity, we look at more like the overall per transaction cost, right? They're all real estate related."
+    },
+    {
+      "speaker_id": "soham-bhonsle",
+      "speaker_name": "Soham Bhonsle",
+      "speaker_role": "Analyst at BTIG",
+      "timestamp": "00:47:00",
+      "text": "Got it. And then, Kent, just on gross margin, any help there? I think you said similar. Last quarter, you said similar to 2023. Any updated thoughts there would be great. Thank you."
+    },
+    {
+      "speaker_id": "kent-cheng",
+      "speaker_name": "Kent Cheng",
+      "speaker_role": "Principal CFO and Chief Accounting Officer at eXp World Holdings",
+      "timestamp": "00:47:09",
+      "text": "Yeah, similar. We are about 8.3%, that level. Yeah."
+    },
+    {
+      "speaker_id": "soham-bhonsle",
+      "speaker_name": "Soham Bhonsle",
+      "speaker_role": "Analyst at BTIG",
+      "timestamp": "00:47:13",
+      "text": "For the year?"
+    },
+    {
+      "speaker_id": "kent-cheng",
+      "speaker_name": "Kent Cheng",
+      "speaker_role": "Principal CFO and Chief Accounting Officer at eXp World Holdings",
+      "timestamp": "00:47:15",
+      "text": "Oh, for the year. Now, we don't forecast. Like, you can see what our... Typically, what you see is the gross margin. There's a seasonality, right? When we get across the year, the agents start to cap. So what you see actually in the summertime, our gross margin tend to be lower and then come back again in Q4."
+    },
+    {
+      "speaker_id": "soham-bhonsle",
+      "speaker_name": "Soham Bhonsle",
+      "speaker_role": "Analyst at BTIG",
+      "timestamp": "00:47:37",
+      "text": "Okay. Thank you for the thoughts."
+    },
+    {
+      "speaker_id": "kent-cheng",
+      "speaker_name": "Kent Cheng",
+      "speaker_role": "Principal CFO and Chief Accounting Officer at eXp World Holdings",
+      "timestamp": "00:47:38",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "denise-garcia",
+      "speaker_name": "Denise Garcia",
+      "speaker_role": "Investor Relations at eXp World Holdings",
+      "timestamp": "00:47:41",
+      "text": "All right. Well, thank you, everyone. We answered all the questions that were asked on Slido for the most part. want to thank everyone for joining us on this quarterly call. As always, you can stay connected with us through our website.. Through our website for the latest updates on eXp news, results, events. And additionally, you'll find a recording of this call in our latest investor presentation on the Investors section of the site. So this concludes the eXp World Holdings first quarter 2024 earnings fireside chat."
+    },
+    {
+      "speaker_id": "kent-cheng",
+      "speaker_name": "Kent Cheng",
+      "speaker_role": "Principal CFO and Chief Accounting Officer at eXp World Holdings",
+      "timestamp": "00:48:12",
+      "text": "Thank you."
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "CEO at eXp Realty",
+      "timestamp": "00:48:13",
+      "text": "Welcome."
+    },
+    {
+      "speaker_id": "denise-garcia",
+      "speaker_name": "Denise Garcia",
+      "speaker_role": "Investor Relations at eXp World Holdings",
+      "timestamp": "00:48:13",
+      "text": "Thank you."
+    },
+    {
+      "speaker_id": "glenn-sanford",
+      "speaker_name": "Glenn Sanford",
+      "speaker_role": "Founder, Chairman, and CEO at eXp World Holdings",
+      "timestamp": "00:48:14",
+      "text": "Thanks, everyone."
+    },
+    {
+      "speaker_id": "leo-pareja",
+      "speaker_name": "Leo Pareja",
+      "speaker_role": "CEO at eXp Realty",
+      "timestamp": "00:48:15",
+      "text": "Bye."
+    }
+  ],
+  "statements": []
+}

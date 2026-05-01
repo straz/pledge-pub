@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T12:03:19.010Z",
+  "generated_at": "2026-05-01T11:56:34.840Z",
   "companies": [
     {
       "id": "alphabet",
@@ -1038,11 +1038,26 @@
           "period": "FY2026_Q1",
           "title": "Netflix Q1 2026 Earnings Call Transcript",
           "datetime": "2026-04-16T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 53,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "softly_hedged": 30,
+              "unhedged": 23
+            },
+            "by_category": {
+              "revenue_trajectory_specific": 5,
+              "margin_trajectory_specific": 2,
+              "operational_metric_specific": 16,
+              "competitive_or_market_position_claim": 6,
+              "financial_structure_or_capital_action": 4,
+              "segment_growth_specific": 4,
+              "strategic_direction_claim": 12,
+              "capacity_or_capability_delivery": 5
+            },
+            "by_resolution": {
+              "unresolved": 36,
+              "validated": 17
+            }
           },
           "fiscal_label": "Q1 2026"
         },
@@ -1050,11 +1065,26 @@
           "period": "FY2025_Q4",
           "title": "Netflix Q4 2025 Earnings Call Transcript",
           "datetime": "2026-01-20T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 55,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "unhedged": 34,
+              "softly_hedged": 21
+            },
+            "by_category": {
+              "revenue_trajectory_specific": 8,
+              "operational_metric_specific": 15,
+              "margin_trajectory_specific": 2,
+              "capacity_or_capability_delivery": 16,
+              "geographic_or_regional_rollout": 3,
+              "financial_structure_or_capital_action": 2,
+              "strategic_direction_claim": 7,
+              "competitive_or_market_position_claim": 4
+            },
+            "by_resolution": {
+              "validated": 22,
+              "unresolved": 33
+            }
           },
           "fiscal_label": "Q4 2025"
         },
@@ -1062,11 +1092,27 @@
           "period": "FY2025_Q3",
           "title": "Netflix Q3 2025 Earnings Call Transcript",
           "datetime": "2025-10-21T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 39,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "softly_hedged": 11,
+              "unhedged": 27,
+              "heavily_hedged": 1
+            },
+            "by_category": {
+              "revenue_trajectory_specific": 2,
+              "operational_metric_specific": 4,
+              "capacity_or_capability_delivery": 8,
+              "strategic_direction_claim": 7,
+              "financial_structure_or_capital_action": 5,
+              "margin_trajectory_specific": 1,
+              "segment_growth_specific": 10,
+              "geographic_or_regional_rollout": 2
+            },
+            "by_resolution": {
+              "unresolved": 27,
+              "validated": 12
+            }
           },
           "fiscal_label": "Q3 2025"
         },
@@ -1074,11 +1120,26 @@
           "period": "FY2025_Q2",
           "title": "Netflix Q2 2025 Earnings Call Transcript",
           "datetime": "2025-07-17T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 55,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "unhedged": 22,
+              "softly_hedged": 33
+            },
+            "by_category": {
+              "revenue_trajectory_specific": 2,
+              "segment_growth_specific": 6,
+              "margin_trajectory_specific": 5,
+              "capacity_or_capability_delivery": 24,
+              "operational_metric_specific": 10,
+              "financial_structure_or_capital_action": 3,
+              "geographic_or_regional_rollout": 1,
+              "strategic_direction_claim": 4
+            },
+            "by_resolution": {
+              "unresolved": 38,
+              "validated": 17
+            }
           },
           "fiscal_label": "Q2 2025"
         },
@@ -1844,6 +1905,353 @@
             }
           },
           "fiscal_label": "Q2 2024"
+        }
+      ]
+    },
+    {
+      "id": "real",
+      "name": "Real Brokerage",
+      "ticker": "REAX",
+      "calls": [
+        {
+          "period": "FY2025_Q4",
+          "title": "Real Brokerage Q4 2025 Earnings Call Transcript",
+          "datetime": "2026-03-05T22:00:00Z",
+          "statement_count": 57,
+          "stats": {
+            "by_hedging": {
+              "unhedged": 46,
+              "softly_hedged": 11
+            },
+            "by_category": {
+              "operational_metric_specific": 10,
+              "revenue_trajectory_specific": 7,
+              "margin_trajectory_specific": 17,
+              "financial_structure_or_capital_action": 10,
+              "segment_growth_specific": 8,
+              "geographic_or_regional_rollout": 3,
+              "capacity_or_capability_delivery": 1,
+              "competitive_or_market_position_claim": 1
+            },
+            "by_resolution": {
+              "validated": 41,
+              "unresolved": 16
+            }
+          },
+          "fiscal_label": "Q4 2025"
+        },
+        {
+          "period": "FY2025_Q2",
+          "title": "Real Brokerage Q2 2025 Earnings Call Transcript",
+          "datetime": "2025-08-07T22:00:00Z",
+          "statement_count": 51,
+          "stats": {
+            "by_hedging": {
+              "unhedged": 43,
+              "softly_hedged": 8
+            },
+            "by_category": {
+              "revenue_trajectory_specific": 3,
+              "margin_trajectory_specific": 6,
+              "operational_metric_specific": 18,
+              "segment_growth_specific": 5,
+              "geographic_or_regional_rollout": 3,
+              "capacity_or_capability_delivery": 6,
+              "strategic_direction_claim": 3,
+              "financial_structure_or_capital_action": 7
+            },
+            "by_resolution": {
+              "validated": 35,
+              "unresolved": 16
+            }
+          },
+          "fiscal_label": "Q2 2025"
+        },
+        {
+          "period": "FY2025_Q1",
+          "title": "Real Brokerage Q1 2025 Earnings Call Transcript",
+          "datetime": "2025-05-08T22:00:00Z",
+          "statement_count": 47,
+          "stats": {
+            "by_hedging": {
+              "unhedged": 35,
+              "softly_hedged": 11,
+              "heavily_hedged": 1
+            },
+            "by_category": {
+              "revenue_trajectory_specific": 4,
+              "operational_metric_specific": 16,
+              "margin_trajectory_specific": 8,
+              "segment_growth_specific": 3,
+              "capacity_or_capability_delivery": 6,
+              "geographic_or_regional_rollout": 2,
+              "financial_structure_or_capital_action": 6,
+              "strategic_direction_claim": 4
+            },
+            "by_resolution": {
+              "validated": 30,
+              "unresolved": 17
+            }
+          },
+          "fiscal_label": "Q1 2025"
+        },
+        {
+          "period": "FY2024_Q4",
+          "title": "Real Brokerage Q4 2024 Earnings Call Transcript",
+          "datetime": "2025-03-06T22:00:00Z",
+          "statement_count": 65,
+          "stats": {
+            "by_hedging": {
+              "unhedged": 42,
+              "softly_hedged": 23
+            },
+            "by_category": {
+              "operational_metric_specific": 24,
+              "revenue_trajectory_specific": 8,
+              "margin_trajectory_specific": 18,
+              "capacity_or_capability_delivery": 3,
+              "segment_growth_specific": 4,
+              "strategic_direction_claim": 5,
+              "financial_structure_or_capital_action": 2,
+              "geographic_or_regional_rollout": 1
+            },
+            "by_resolution": {
+              "validated": 34,
+              "unresolved": 31
+            }
+          },
+          "fiscal_label": "Q4 2024"
+        },
+        {
+          "period": "FY2024_Q3",
+          "title": "Real Brokerage Q3 2024 Earnings Call Transcript",
+          "datetime": "2024-11-07T22:00:00Z",
+          "statement_count": 45,
+          "stats": {
+            "by_hedging": {
+              "unhedged": 38,
+              "softly_hedged": 6,
+              "heavily_hedged": 1
+            },
+            "by_category": {
+              "revenue_trajectory_specific": 3,
+              "operational_metric_specific": 18,
+              "segment_growth_specific": 9,
+              "margin_trajectory_specific": 9,
+              "financial_structure_or_capital_action": 4,
+              "capacity_or_capability_delivery": 1,
+              "geographic_or_regional_rollout": 1
+            },
+            "by_resolution": {
+              "validated": 34,
+              "unresolved": 11
+            }
+          },
+          "fiscal_label": "Q3 2024"
+        },
+        {
+          "period": "FY2024_Q2",
+          "title": "Real Brokerage Q2 2024 Earnings Call Transcript",
+          "datetime": "2024-08-07T22:00:00Z",
+          "statement_count": 50,
+          "stats": {
+            "by_hedging": {
+              "unhedged": 39,
+              "softly_hedged": 10,
+              "heavily_hedged": 1
+            },
+            "by_category": {
+              "revenue_trajectory_specific": 2,
+              "operational_metric_specific": 18,
+              "margin_trajectory_specific": 13,
+              "segment_growth_specific": 6,
+              "capacity_or_capability_delivery": 4,
+              "financial_structure_or_capital_action": 5,
+              "geographic_or_regional_rollout": 1,
+              "competitive_or_market_position_claim": 1
+            },
+            "by_resolution": {
+              "validated": 36,
+              "unresolved": 14
+            }
+          },
+          "fiscal_label": "Q2 2024"
+        },
+        {
+          "period": "FY2024_Q1",
+          "title": "Real Brokerage Q1 2024 Earnings Call Transcript",
+          "datetime": "2024-05-07T22:00:00Z",
+          "statement_count": 52,
+          "stats": {
+            "by_hedging": {
+              "unhedged": 39,
+              "softly_hedged": 13
+            },
+            "by_category": {
+              "revenue_trajectory_specific": 4,
+              "operational_metric_specific": 16,
+              "margin_trajectory_specific": 13,
+              "segment_growth_specific": 7,
+              "capacity_or_capability_delivery": 4,
+              "financial_structure_or_capital_action": 6,
+              "geographic_or_regional_rollout": 2
+            },
+            "by_resolution": {
+              "validated": 36,
+              "unresolved": 16
+            }
+          },
+          "fiscal_label": "Q1 2024"
+        }
+      ]
+    },
+    {
+      "id": "exp",
+      "name": "eXp Realty",
+      "ticker": "EXPI",
+      "calls": [
+        {
+          "period": "FY2025_Q4",
+          "title": "Exp World Q4 2025 Earnings Call Transcript",
+          "datetime": "2026-02-24T22:00:00Z",
+          "statement_count": 51,
+          "stats": {
+            "by_hedging": {
+              "unhedged": 39,
+              "softly_hedged": 12
+            },
+            "by_category": {
+              "geographic_or_regional_rollout": 2,
+              "revenue_trajectory_specific": 7,
+              "operational_metric_specific": 20,
+              "segment_growth_specific": 6,
+              "capacity_or_capability_delivery": 4,
+              "margin_trajectory_specific": 10,
+              "financial_structure_or_capital_action": 3,
+              "strategic_direction_claim": 2
+            },
+            "by_resolution": {
+              "validated": 33,
+              "unresolved": 18
+            }
+          },
+          "fiscal_label": "Q4 2025"
+        },
+        {
+          "period": "FY2025_Q3",
+          "title": "Exp World Q3 2025 Earnings Call Transcript",
+          "datetime": "2025-11-06T22:00:00Z",
+          "statement_count": 55,
+          "stats": {
+            "by_hedging": {
+              "unhedged": 50,
+              "softly_hedged": 5
+            },
+            "by_category": {
+              "operational_metric_specific": 28,
+              "capacity_or_capability_delivery": 6,
+              "geographic_or_regional_rollout": 3,
+              "revenue_trajectory_specific": 2,
+              "strategic_direction_claim": 1,
+              "margin_trajectory_specific": 2,
+              "financial_structure_or_capital_action": 5,
+              "segment_growth_specific": 5,
+              "competitive_or_market_position_claim": 3
+            },
+            "by_resolution": {
+              "validated": 50,
+              "unresolved": 5
+            }
+          },
+          "fiscal_label": "Q3 2025"
+        },
+        {
+          "period": "FY2025_Q2",
+          "title": "Exp World Q2 2025 Earnings Call Transcript",
+          "datetime": "2025-07-31T22:00:00Z",
+          "statement_count": 0,
+          "stats": {
+            "by_hedging": {},
+            "by_category": {},
+            "by_resolution": {}
+          },
+          "fiscal_label": "Q2 2025"
+        },
+        {
+          "period": "FY2025_Q1",
+          "title": "Exp World Q1 2025 Earnings Call Transcript",
+          "datetime": "2025-05-06T22:00:00Z",
+          "statement_count": 0,
+          "stats": {
+            "by_hedging": {},
+            "by_category": {},
+            "by_resolution": {}
+          },
+          "fiscal_label": "Q1 2025"
+        },
+        {
+          "period": "FY2024_Q4",
+          "title": "Exp World Q4 2024 Earnings Call Transcript",
+          "datetime": "2025-02-20T22:00:00Z",
+          "statement_count": 47,
+          "stats": {
+            "by_hedging": {
+              "unhedged": 35,
+              "softly_hedged": 9,
+              "heavily_hedged": 3
+            },
+            "by_category": {
+              "segment_growth_specific": 7,
+              "geographic_or_regional_rollout": 3,
+              "operational_metric_specific": 23,
+              "revenue_trajectory_specific": 3,
+              "margin_trajectory_specific": 6,
+              "financial_structure_or_capital_action": 4,
+              "capacity_or_capability_delivery": 1,
+              "strategic_direction_claim": 1
+            },
+            "by_resolution": {
+              "validated": 40,
+              "unresolved": 7
+            }
+          },
+          "fiscal_label": "Q4 2024"
+        },
+        {
+          "period": "FY2024_Q3",
+          "title": "Exp World Q3 2024 Earnings Call Transcript",
+          "datetime": "2024-11-07T22:00:00Z",
+          "statement_count": 0,
+          "stats": {
+            "by_hedging": {},
+            "by_category": {},
+            "by_resolution": {}
+          },
+          "fiscal_label": "Q3 2024"
+        },
+        {
+          "period": "FY2024_Q2",
+          "title": "Exp World Q2 2024 Earnings Call Transcript",
+          "datetime": "2024-07-31T22:00:00Z",
+          "statement_count": 0,
+          "stats": {
+            "by_hedging": {},
+            "by_category": {},
+            "by_resolution": {}
+          },
+          "fiscal_label": "Q2 2024"
+        },
+        {
+          "period": "FY2024_Q1",
+          "title": "Exp World Q1 2024 Earnings Call Transcript",
+          "datetime": "2024-05-01T22:00:00Z",
+          "statement_count": 0,
+          "stats": {
+            "by_hedging": {},
+            "by_category": {},
+            "by_resolution": {}
+          },
+          "fiscal_label": "Q1 2024"
         }
       ]
     }

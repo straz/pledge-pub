@@ -1,0 +1,1986 @@
+{
+  "company_id": "real",
+  "title": "Real Brokerage Q4 2024 Earnings Call Transcript",
+  "datetime": "2025-03-06T22:00:00Z",
+  "period": "FY2024_Q4",
+  "location": "Miami, FL",
+  "url": "https://www.marketbeat.com/earnings/reports/2025-3-6-the-real-brokerage-inc-stock/",
+  "people": [
+    {
+      "id": "operator",
+      "name": "Operator",
+      "role": ""
+    },
+    {
+      "id": "ravi-jani",
+      "name": "Ravi Jani",
+      "role": "VP of Investor Relations and Financial Planning & Analysis at The Real Brokerage"
+    },
+    {
+      "id": "tamir-poleg",
+      "name": "Tamir Poleg",
+      "role": "Chairman and CEO at The Real Brokerage"
+    },
+    {
+      "id": "sharran-srivatsaa",
+      "name": "Sharran Srivatsaa",
+      "role": "President at The Real Brokerage"
+    },
+    {
+      "id": "michelle-ressler",
+      "name": "Michelle Ressler",
+      "role": "CFO at The Real Brokerage"
+    },
+    {
+      "id": "darren-aftahi",
+      "name": "Darren Aftahi",
+      "role": "Managing Director and Senior Research Analyst at Roth Capital Partners"
+    },
+    {
+      "id": "stephen-sheldon",
+      "name": "Stephen Sheldon",
+      "role": "Equity Research Analyst at William Blair"
+    },
+    {
+      "id": "matthew-erdner",
+      "name": "Matthew Erdner",
+      "role": "Director of Specialty Finance and Real Estate Equity Research at Jones Trading"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:00:00",
+      "text": "Good day, everyone, and welcome to The Real Brokerage fourth quarter and full year 2024 earnings call. At this time, all participants have been placed on a listen-only mode. If you have any questions or comments during the presentation, you may press star one on your phone to enter the question queue at any time, and we will open the floor for your questions and comments after the presentation. It is now my pleasure to turn the floor over to your host, Ravi Jani. Sir, the floor is yours."
+    },
+    {
+      "speaker_id": "ravi-jani",
+      "speaker_name": "Ravi Jani",
+      "speaker_role": "VP of Investor Relations and Financial Planning & Analysis at The Real Brokerage",
+      "timestamp": "00:00:28",
+      "text": "Thanks and good morning. Thank you for standing by and welcome to The Real Brokerage conference call and webcast for the fourth quarter and full year ended December 31, 2024. We appreciate everyone for joining us today. With me on the call today are Tamir Poleg, our Chairman and Chief Executive Officer; Sharran Srivatsaa, President; and Michelle Ressler, our Chief Financial Officer. This morning, Real published an earnings press release including results for the fourth quarter ended December 31, 2024. The press release, along with the audited consolidated financial statements and related management discussion and analysis for the year, have been filed with the U.S. Securities and Exchange Commission on EDGAR and with the Canadian securities regulators on CEDAR."
+    },
+    {
+      "speaker_id": "ravi-jani",
+      "speaker_name": "Ravi Jani",
+      "speaker_role": "VP of Investor Relations and Financial Planning & Analysis at The Real Brokerage",
+      "timestamp": "00:01:15",
+      "text": "Before we get started, I'd like to remind everyone that statements made in this conference call that are not historical facts, including statements about future time periods, may be deemed to constitute forward-looking statements. Our actual results may differ materially from these forward-looking statements, and the risk factors that could cause these differences are detailed in our Canadian continuous disclosure documents and SEC reports. Real disclaims any intent or obligation to update these forward-looking statements except as expressly required by law. With that, I'd like to turn the call over to our Chairman and Chief Executive Officer, Tamir Poleg. Tamir, please proceed."
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:01:54",
+      "text": "Good morning and thank you, Ravi. I will start with an overview of our strategy and some recent business highlights. Sharran will provide an update on actions we are taking to drive agent growth and improve agent experience, and Michelle will provide a more in-depth discussion of our financial results this quarter. I'll then provide a few closing remarks before opening up the call for Q&A. To begin, Real is a real estate technology company that is differentiated in our industry. Unlike traditional real estate brokerage firms, we provide real estate agents with a compelling combination of financial incentives, a proprietary software-based technology platform which eliminates the need for an agent's physical office space, and a collaborative culture that we believe is unique in our industry."
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:02:38",
+      "text": "Our vision is to simplify life's most complex transaction, that is, a purchase or sale of a home, by providing agents with the tools, technology, and resources they need to grow both their businesses and as individuals, all while delivering a seamless experience for clients. In the short-term, this vision includes the rollout of a consumer-facing product which streamlines the client experience and enhances attachment of our higher-margin ancillary services. In the long term, we expect our platform to encompass a holistic ecosystem of financial technology products and investment planning tools, providing agents with an avenue to build long-term wealth. Ultimately, as the platform matures, we believe home buyers and sellers could also benefit from the breadth of our service offering. Our goal is to redefine the role of a real estate brokerage in the lives of our agents and in the broader housing industry."
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:03:35",
+      "text": "Importantly, just like our institutional investors, many of our agents are also shareholders in our company. That is why we remain relentless in our focus on delivering long-term value for our agents, for their clients, and for shareholders. Turning to the numbers, this morning, Real reported record fourth quarter and full year 2024 results. For the year, we closed over 120,000 transactions, an increase of 81% versus 2023. Total transaction value reached $49 billion, up 90% year-over-year, while revenue grew to $1.3 billion, marking our first-ever billion-dollar revenue year and marking an increase of 84% from $689 million in 2023. Gross profit in 2024 grew 82% year-over-year to $115 million, while adjusted EBITDA reached a record $40 million, up 188% from the prior year."
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:04:40",
+      "text": "We ended the year with 24,140 agents, up 77% from the prior year, and as of this morning, our agent count is approximately 26,200 agents, meaning we've added another 2,000 net agents since the start of 2024. We believe these results are proof that our vision is resonating in the industry. When we take a step back and look at the broader real estate sector, it's clear that many are waiting on a market recovery to regain momentum. However, with existing home sales remaining near historic lows and mortgage rates remaining higher for longer, waiting is not a strategy. At Real, we are focused instead on building for the future. This focus has led to incredible momentum across several key initiatives. First, Leo CoPilot."
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:05:34",
+      "text": "Our AI-powered agent assistant is now integrated across our brokerage platform, regularly handling over 2,000 daily agent interactions and helping to automate workflows that previously required human support or intervention. Leo CoPilot is a tool that enhances brokerage and agent productivity and efficiency at scale. Meanwhile, we expect to launch our Leo for Clients product later this year, giving our agents another tool to delight their clients with. Second, Real Wallet. Our fintech platform that was purpose-built for real agents is rapidly expanding. Today, through our Reason software, real agents in the U.S. can apply for Real Wallet business checking accounts offered through our bank partner, Thread Bank, and receive a Real-branded debit card. Meanwhile, agents in Canada can apply for a line of credit based on their earnings and production history with Real."
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:06:31",
+      "text": "Today, approximately 2,500 agents have opened Real Wallet business checking accounts with an aggregate deposit balance of approximately $7 million. In Canada, over 150 agents have accessed the credit lines, drawing over CAD 1 million. We're very excited that this is just the first inning of the Real Wallet ecosystem. Today, we do not yet have lines of credit available in the U.S., nor checking accounts or debit cards available in Canada, but planning for both is underway. As we continue rolling out new products and features, we expect our adoption numbers to continue to grow in the future. Just four months post-launch, we estimate the annualized run rate revenue from Real Wallet at over $500,000, a number that we will continue to disclose going forward. Third, regarding One Real Mortgage and One Real Title, we continue to make progress scaling these high-margin ancillary business lines."
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:07:30",
+      "text": "For the full year 2024, Mortgage and Title grew by a combined 105%, with over 200% growth at One Real Mortgage and 60% growth at One Real Title. For the year, Mortgage and Title contributed less than 1% of total revenue, but given gross margins for these businesses are typically five to eight times higher than our average brokerage gross margins, they contributed over 5% of our gross profit. In 2025, we remain focused on expanding both business lines to further enhance our gross profit mix and margin profile and reinforce our vision of providing a seamless end-to-end home buying experience for consumers. To that end, in January, we were pleased to welcome Nancy Marsden as the new CEO of One Real Title."
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:08:21",
+      "text": "Nancy is a seasoned industry veteran who joins us from Redfin's Title Forward, where she was a member of the team credited with driving some of the highest attach rates in the industry. Meanwhile, at One Real Mortgage, our loan officer count has grown to 90 today, up from 18 at the start of 2024. Notably, nearly half of our LOs are Real agents who have become licensed loan officers as part of the Real Originate Program, one of the many initiatives we've developed to give agents and their clients greater visibility and control over the transaction process. We have high expectations for continued growth and improved profitability for both Mortgage and Title in 2025, and look forward to updating you on our progress as the year continues."
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:09:09",
+      "text": "Before turning to Sharran, I'll close out my comments with a brief foreword on some of the changes to our business model that we recently announced in February. First, in the U.S., we increased the $30 transaction fee for broker review, insurance, and transaction processing to $40. In Canada, we announced a CAD 40 per transaction fee and increased the maximum commission cap to CAD 15,000 from CAD 12,000 previously. Additionally, in both the U.S. and Canada, we announced a decrease in the post-cap RSU bonus for agents who participate in our stock purchase plan, which will decline from 20%-15%."
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:09:53",
+      "text": "These changes will begin to take effect on April 1 for new agents and the later of May 1 or an agent's anniversary date for existing agents, other than the change in the stock purchase plan bonus, which will go into effect for all agents beginning April 1. It's important to note that until now, we have made no changes to our business model in Canada since launching nearly four years ago. Given our experience in the country, we felt these adjustments were necessary to better reflect the exchange rate difference between the two countries, as well as the higher cost of operations in Canada. Importantly, with these changes in place, we can continue investing in enhancing the agent experience while also effectively managing inflation, increased operating costs, and evolving regulatory requirements."
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:10:45",
+      "text": "The bottom line is that we are entering 2025 with significant momentum, and we are committed to making Real a powerhouse for growth, opportunity, and profitability. We believe we are well positioned to continue redefining what a brokerage can and should be. With that, I'll turn it over to Sharran for an update on our growth and agent initiatives."
+    },
+    {
+      "speaker_id": "sharran-srivatsaa",
+      "speaker_name": "Sharran Srivatsaa",
+      "speaker_role": "President at The Real Brokerage",
+      "timestamp": "00:11:07",
+      "text": "Thank you, Tamir, and good morning, everyone. I'll provide an update in a top five format to highlight some of the key themes for 2024 and our forward focus as we head into 2025. Number one, a milestone year for agent growth. 2024 was an amazing year for agent growth at Real. We added over 10,000 net agents in the year, a truly remarkable feat, especially considering it took us nearly nine years to reach our first 10,000 agents. We closed 2024 with more than 24,000 agents, up from 13,650 just one year prior at the end of 2023. This is not just growth, but an acceleration that reflects the increasing appeal of our model. More agents are choosing Real because they see a company that is forward-looking, tech-enabled, and fully aligned both culturally and financially with their success."
+    },
+    {
+      "speaker_id": "sharran-srivatsaa",
+      "speaker_name": "Sharran Srivatsaa",
+      "speaker_role": "President at The Real Brokerage",
+      "timestamp": "00:11:58",
+      "text": "We believe our agent attraction pipeline is strong, and we are confident in continuing this momentum into 2025, regardless of broader market conditions. All right, number two, the power of private label and large-scale team expansion. Since launching last January, our private label program has been a game changer for independent brokerages looking to join Real, all while maintaining their established brand identity. Since launching last year, we've welcomed approximately 40 independent brokerages, representing nearly 1,200 agents through this initiative alone. In January, we announced our largest private label addition to date, Harvest Realty out of California, which is expected to bring 550 agents onto our platform."
+    },
+    {
+      "speaker_id": "sharran-srivatsaa",
+      "speaker_name": "Sharran Srivatsaa",
+      "speaker_role": "President at The Real Brokerage",
+      "timestamp": "00:12:40",
+      "text": "This growing adoption underscores the value of providing agents with the flexibility to keep the brands that they've worked so hard to build, to operate the business their way, all while leveraging the technology and the resources and the scale of the Real platform. All right, number three, enhancing the agent experience via investment in operations, training, and support. Now, this explosive growth requires best-in-class onboarding, training, and operational support for our agents. In partnership with our Chief Operating Officer, Jenna Rozenblat, we have made strategic investments to strengthen our brokerage operations, enhance agent experience, and expand our overall support infrastructure. This is not just to service the current growth, but also to thoughtfully prepare the chassis for the upcoming years of growth and delivery. Let me actually break down a few of the key initiatives for you."
+    },
+    {
+      "speaker_id": "sharran-srivatsaa",
+      "speaker_name": "Sharran Srivatsaa",
+      "speaker_role": "President at The Real Brokerage",
+      "timestamp": "00:13:33",
+      "text": "First, we've onboarded experienced leaders in brokerage leadership, agent experience, and operational functions, all directly helping facilitate smooth transactions, which are core to driving revenue. Number two, we're also doubling down on training and agent performance efforts in 2025, starting with the new leadership of Drew Thompson to lead Real Academy and agent development. We are also launching tailored training programs designed specifically for three of our core agent avatars, each with very distinct business models and needs. First, for individual agents, we're launching a dedicated coaching and training program focused on helping individual agents with marketing systems and skills to drive revenue growth. Individual agents play a critical role in Real's culture and success. Their needs are completely unique, which is why we're committed to delivering customized solutions to help this group directly."
+    },
+    {
+      "speaker_id": "sharran-srivatsaa",
+      "speaker_name": "Sharran Srivatsaa",
+      "speaker_role": "President at The Real Brokerage",
+      "timestamp": "00:14:28",
+      "text": "Second, for agent teams, as I mentioned, teams have been a major driver of growth and revenue at Real. We are enhancing our existing team training with dedicated team leaders and indie brokerage masterminds to share best practices and operational insights to grow revenue even further. Third, our enterprise team models. This refers to larger organizations that have high transaction volumes, starting at $100 million plus in GMB. I am personally leading our $100 million roundtable initiative, along with our mentors, Dave Keener, Erik Hatch, and Amy Youngren, all accomplished enterprise leaders. This is a major upgrade in year two of this initiative, providing high-level leadership training, operational best practices, and scalable systems for our enterprise teams. Simply put, we believe there are few, if any, brokerages that can offer this level of training and support at scale across the entire platform."
+    },
+    {
+      "speaker_id": "sharran-srivatsaa",
+      "speaker_name": "Sharran Srivatsaa",
+      "speaker_role": "President at The Real Brokerage",
+      "timestamp": "00:15:24",
+      "text": "Number four, agent retention, churn, and our philosophy on long-term value. We are incredibly proud of the thousands of agents who have chosen Real as their home. We also recognize that real estate is not a one-size-fits-all business. Agents have diverse business models and personal circumstances that may lead them to explore other options. While we believe that Real provides the most compelling combination of economics and technology and flexibility and culture, we know that some level of churn is just simply inevitable. That said, we are pleased that our revenue churn was only 1.8% in the quarter and has remained steady at two percent or lower throughout 2024, a strong indicator that we're successfully retaining the vast majority of our productive agents."
+    },
+    {
+      "speaker_id": "sharran-srivatsaa",
+      "speaker_name": "Sharran Srivatsaa",
+      "speaker_role": "President at The Real Brokerage",
+      "timestamp": "00:16:11",
+      "text": "Of course, we strive for a world with zero churn, and we remain committed to pushing the boundaries of what is possible to ensure that our agents who align with our vision see Real as the best place to build their careers. All right, number five, Real's growing presence in the luxury market. Lastly, I'm incredibly excited about the momentum we're seeing in Real Luxury, our dedicated division for high-end real estate. This was a major initiative that launched in May of 2024, led by our Chief Marketing Officer, Dre Madden, along with Kofi Narte, who serves as our Executive Director. Real's luxury division has one of the highest qualification standards of any brokerage platform in the industry. A few highlights: we now have over 230 certified Real Luxury agents. We have already closed over $1 billion in luxury transaction volume."
+    },
+    {
+      "speaker_id": "sharran-srivatsaa",
+      "speaker_name": "Sharran Srivatsaa",
+      "speaker_role": "President at The Real Brokerage",
+      "timestamp": "00:17:05",
+      "text": "We have another $1 billion of transaction volume in the pipeline, meaning we're on pace to more than double our luxury transactions this year. Now, as we head into 2025, our priorities remain clear: continue to drive agent growth, roll out initiatives to support our agents, invest in operational excellence and agent performance, expand our technology ecosystem, and most importantly, stay true to our mission of empowering agents with the best platform in the industry. Thank you. Thank you to our agents, our employees, and our partners. I could not be more excited about what's ahead. Now, I'll pass it to Michelle for the financials."
+    },
+    {
+      "speaker_id": "michelle-ressler",
+      "speaker_name": "Michelle Ressler",
+      "speaker_role": "CFO at The Real Brokerage",
+      "timestamp": "00:17:43",
+      "text": "Thank you, Sharran, and thank you, everyone, for joining us. Before diving into our results for 2024, I want to acknowledge the remarkable year of performance across the board. In addition to adding over 10,000 agents, Real grew revenue 84%, crossed the $1 billion revenue mark, and delivered four quarters straight of positive adjusted EBITDA, all despite the worst existing home sales market in three decades. While we're not providing formal guidance for 2025, given our continued strong agent growth, we expect to deliver significant year-over-year improvement in revenue, gross profit, and adjusted EBITDA. Seasonally, we expect the first quarter will be the lowest of the year for revenue and adjusted EBITDA, while Q3 will be the highest. One more housekeeping note: this quarter, we transitioned our financials to US GAAP. This change had no notable impacts on prior periods."
+    },
+    {
+      "speaker_id": "michelle-ressler",
+      "speaker_name": "Michelle Ressler",
+      "speaker_role": "CFO at The Real Brokerage",
+      "timestamp": "00:18:38",
+      "text": "However, we have refiled all of our quarterly financials for the first three quarters of 2024 in connection with our full-year financial statement filing. Now for the financials. Full-year 2024 revenue of $1.3 billion increased 84% from $689 million in 2023, while total transactions increased 81% to $120,601. Full-year 2024 gross profit increased 82% to $114.7 million, compared to $62.9 million in 2023. Operating expenses were $140 million, including approximately $10.4 million of expenses related to antitrust litigation, compared to $88.9 million in 2023. We paid $42.7 million in revenue share during the year. Full-year 2024 net loss attributable to the owners of the company was $26.5 million. This compares to 2023 net loss attributable to the owners of the company of $27.5 million."
+    },
+    {
+      "speaker_id": "michelle-ressler",
+      "speaker_name": "Michelle Ressler",
+      "speaker_role": "CFO at The Real Brokerage",
+      "timestamp": "00:19:46",
+      "text": "Notably, growth in gross profit outpaced growth in our recurring cash operating expenses, resulting in full-year 2024 adjusted EBITDA of $40 million, a significant improvement from $13.9 million in 2023, or $7.6 million when excluding the impact of a non-recurring balance sheet adjustment taken in Q4 2023. For the full-year 2024, we generated $49 million of cash flows from operations and allocated $36 million to share repurchases, including $6 million in the fourth quarter of 2024. Moving on to the quarter. Revenue in the fourth quarter of 2024 rose to $351 million, an increase of 93% versus $181 million in the fourth quarter of 2023. This was driven by a 93% increase in brokerage revenue, resulting from 99% growth in the number of transactions closed, which totaled 35,370 in the quarter."
+    },
+    {
+      "speaker_id": "michelle-ressler",
+      "speaker_name": "Michelle Ressler",
+      "speaker_role": "CFO at The Real Brokerage",
+      "timestamp": "00:20:45",
+      "text": "Revenue from ancillary businesses totaled $2.5 million during the fourth quarter of 2024, an increase of 176% versus the fourth quarter of 2023, driven by 163% growth in One Real Mortgage business and 179% growth in One Real Title. Additionally, Real Wallet contributed $42,000 in its launch quarter. As Tamir mentioned, the current annualized revenue run rate is in the mid-hundreds of thousands of dollars and growing. With respect to the first quarter of 2025, we expect revenue to decline sequentially compared to the fourth quarter of 2024, which is consistent with the seasonality in the existing home sales market. Gross profit for the fourth quarter of 2024 was $30 million, an increase of 93% from $15.5 million in the fourth quarter of 2023. Gross margin was 8.6% in the fourth quarter of 2024, unchanged from the fourth quarter of 2023."
+    },
+    {
+      "speaker_id": "michelle-ressler",
+      "speaker_name": "Michelle Ressler",
+      "speaker_role": "CFO at The Real Brokerage",
+      "timestamp": "00:21:50",
+      "text": "This reflects the positive impact of higher ancillary and fee revenue, offset by the significantly higher percent of revenue generated by agents who had reached their annual commission cap. As a reminder, cost of sales includes stock-based compensation tied to our agent stock purchase program, where agents can elect to receive part of their commissions in Real stock. This amount totaled $8.8 million for the quarter and is included in the stock-based compensation line in our adjusted EBITDA reconciliation. As we've noted in the past, there can be fluctuations in our quarterly gross margin rate, resulting from the mix of revenue generated by agents who have capped. Historically, fewer agents reached this cap during the first quarter, with the number increasing during the year."
+    },
+    {
+      "speaker_id": "michelle-ressler",
+      "speaker_name": "Michelle Ressler",
+      "speaker_role": "CFO at The Real Brokerage",
+      "timestamp": "00:22:33",
+      "text": "Based on our current outlook, we expect gross margin in the first quarter to be in the mid-nine percent range, with the variance versus 2024 driven primarily by the mix of capped agents. Although, with that said, we remain focused on driving gross margin improvement, particularly as our ancillary business lines continue to scale. Moving to OpEx. Total operating expenses, which include general and administrative, marketing, and R&D expenses, were $36.4 million, or 10.4% of revenue in the fourth quarter of 2024, compared to $26.8 million, or 14.8% of revenue during the fourth quarter of 2023. Revenue share expense, which is included in marketing, was $9.5 million in the fourth quarter of 2024, a 39% increase from $6.8 million in the fourth quarter of 2023."
+    },
+    {
+      "speaker_id": "michelle-ressler",
+      "speaker_name": "Michelle Ressler",
+      "speaker_role": "CFO at The Real Brokerage",
+      "timestamp": "00:23:24",
+      "text": "As a percentage of revenue, revenue share declined to 2.7% in the fourth quarter of 2024 from 3.8% in the fourth quarter of 2023, in part due to revenue share model changes we implemented last year, as well as the higher mix of revenue from agents who reached their commission cap. Note that revenue share expense is entirely variable and reflects the portion of Real's commission split that is paid to agents who attract new agents to the brokerage. Adjusted operating expense, which is a non-GAAP metric, totaled $20 million in the fourth quarter of 2024, an increase of 78% compared to $11.2 million in the fourth quarter of 2023. This uptick reflects increased headcount as well as a step up in professional fees, in part related to our transition to US GAAP."
+    },
+    {
+      "speaker_id": "michelle-ressler",
+      "speaker_name": "Michelle Ressler",
+      "speaker_role": "CFO at The Real Brokerage",
+      "timestamp": "00:24:13",
+      "text": "As a percentage of revenue, adjusted operating expense was 5.7%, an improvement from 6.2% in the prior year. Adjusted operating expense reflects total operating expense less revenue share, stock-based compensation, depreciation, and other unique or non-cash expenses. This metric is designed to help investors assess the impact of our fixed ongoing cash operating expenses within our overall cost structure. Our focus remains on driving gross profit growth at a faster pace than operating expenses. Operating loss was $6.4 million in the fourth quarter of 2024, compared to an operating loss of $11.3 million in the fourth quarter of 2023, while net loss attributable to the owners of the company was $6.6 million in the fourth quarter of 2024, compared to a net loss of $12 million in the fourth quarter of 2023."
+    },
+    {
+      "speaker_id": "michelle-ressler",
+      "speaker_name": "Michelle Ressler",
+      "speaker_role": "CFO at The Real Brokerage",
+      "timestamp": "00:25:11",
+      "text": "Adjusted EBITDA improved to $9.1 million in the fourth quarter of 2024, a $600,000 increase from $8.5 million in the fourth quarter of 2023. Excluding the impact of a non-recurring balance sheet adjustment booked in that quarter, adjusted EBITDA improved by $6.8 million. This increase was driven by our strong revenue and gross profit growth, which outpaced growth in our cash operating expenses. Turning to our balance sheet and cash flow. We ended the quarter with unrestricted cash and investments of approximately $32.8 million, compared to $32 million at the end of the third quarter of 2024. We believe we are well capitalized with no debt and ample liquidity to fund our continued growth, while continuing to return capital to shareholders. As always, we will continue to diligently manage costs and allocate capital effectively, always with a focus on long-term shareholder value creation."
+    },
+    {
+      "speaker_id": "michelle-ressler",
+      "speaker_name": "Michelle Ressler",
+      "speaker_role": "CFO at The Real Brokerage",
+      "timestamp": "00:26:09",
+      "text": "To close, I'll recap a few KPIs we are commonly asked about. The total value of homes transacted over our platform increased to $14.6 billion in the fourth quarter of 2024, a 115% year-over-year increase. The median sale price of properties sold by our agents was $380,000 in the fourth quarter of 2024, which represents a seven percent year-over-year increase. Adjusted operating expense per transaction was $565 and declined 11% year-over-year from $632, a testament to the efficiencies enabled by our technology platform. As of the end of the fourth quarter of 2024, 12.3% of agents had exceeded their annual commission cap, up from 10.3% at the end of the fourth quarter of 2023. Canada accounted for 10% of commission revenue in the fourth quarter of 2024, compared to 18% in the fourth quarter of 2023."
+    },
+    {
+      "speaker_id": "michelle-ressler",
+      "speaker_name": "Michelle Ressler",
+      "speaker_role": "CFO at The Real Brokerage",
+      "timestamp": "00:27:07",
+      "text": "Our headcount efficiency ratio, which we define as full-time employees excluding One Real Title and One Real Mortgage employees, divided by the number of agents on our platform, was $1 to $136 at the end of the fourth quarter, a significant improvement from $1 to $116 at the end of the fourth quarter of 2023. The modest sequential decline from $1 to $140 at the end of the third quarter of 2024 reflects the headcount additions across the organization to support our growth in 2025. More details on our results and key operating metrics can be found in the earnings press release and investor presentation that accompany this call. I will now turn it back to Tamir."
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:27:49",
+      "text": "Thank you, Michelle. As we conclude today's call, I want to step back and re-emphasize why we do what we do. Real was founded on a simple belief that real estate agents have historically paid too much money for too little value. We remain convinced that this industry can and should do better for the professionals who drive it forward. We believe that the traditional brokerage model is becoming less relevant as the industry evolves. High costs, redundant overhead, and outdated business practices are giving way to more agile, technology-driven solutions. With each passing day, the need for a more efficient, modern approach becomes clearer. We believe that real estate transactions should be seamless, transparent, and powered by technology. The homebuyers and sellers of tomorrow will not tolerate clunky, fragmented processes. They will expect real-time, AI-driven insights, instant access to financing, and a fully digitized closing experience."
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:28:52",
+      "text": "That is why we are building Real into an ecosystem for agent businesses, not just the brokerage. We believe in being relentless about efficiency. Legacy brokerages rely on physical office space and manual processes. We rely on software, technology, and automation. We will continue to push the boundaries of what a lean, high-performance brokerage can achieve. We believe that real estate agents should have access to more ways to build wealth. That is why we have designed one of the most generous revenue share models and agent equity incentive plans in the industry. It's why we created Real Wallet and why we will continue to introduce new opportunities for agents to earn more income and achieve financial independence. We believe that a small, focused team of talented people working toward a shared goal can outperform even the largest organizations with deep pockets that lack focus."
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:29:46",
+      "text": "We believe speed, innovation, and execution from such a deeply committed team will always outmatch sheer size. We believe in working hard and being kind. We are operating in a highly competitive industry, but we do not measure success by comparison. We measure it by the value we deliver to our agents every single day. We will take big swings, we will make mistakes, and we will learn from them. What we will never do is lose sight of who we serve, our agents and their clients. If we stay focused on delivering for them, then success for our shareholders will be inevitable. I want to close by expressing my deepest gratitude to our agents, employees, and partners. Your commitment, resilience, and belief in our vision have been the driving force behind our success. In a year marked by macro uncertainty and an ever-evolving industry landscape, we have thrived."
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:30:42",
+      "text": "This is only the beginning. The best is yet to come. Now, let's move to the Q&A session."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:30:48",
+      "text": "Certainly. Everyone at this time will be conducting a question-and-answer session. If you have any questions or comments, please press star one on your phone at this time. We do ask that while posing your question, please pick up your handset if you're listening on speakerphone to provide optimum sound quality. Once again, if you have any questions or comments, please press star one on your phone. Your first question is coming from Darren Aftahi from Roth Capital Partners. Your line is live."
+    },
+    {
+      "speaker_id": "darren-aftahi",
+      "speaker_name": "Darren Aftahi",
+      "speaker_role": "Managing Director and Senior Research Analyst at Roth Capital Partners",
+      "timestamp": "00:31:19",
+      "text": "Yeah, good morning. Thanks for taking my questions and nice job on the quarter. I guess that pertains to kind of seasonal trends in Q4. Obviously, there's historically a dip sequentially, but your business in the fourth quarter didn't really see too much of a dip. I'm just curious if there's anything underlying that's anomalistic in the fourth quarter that you saw or you're just winning more market share and that's flowing through into your business."
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:31:52",
+      "text": "Hi, Darren. Thank you. Yeah, I think that it's attributed to the strong growth and the fact that we're taking market share. I think that we, I mean, overall in the industry, we're surprised by the performance of the market, especially in December. I think it was a combination of our strong growth, our ability to attract more agents and take market share, and also some favorable market conditions, especially towards the end of the quarter."
+    },
+    {
+      "speaker_id": "darren-aftahi",
+      "speaker_name": "Darren Aftahi",
+      "speaker_role": "Managing Director and Senior Research Analyst at Roth Capital Partners",
+      "timestamp": "00:32:19",
+      "text": "Great. Just one more. As you look to 2025, can you talk about areas where I know in past quarters you talked about investing in some financial compliance stuff as well as some data science areas. Like how impactful is that going to be? One, and then as you think about strategic initiatives and your hiring of Nancy, just about the ancillary business and really what needs to happen there in order for that to kind of truly scale up. Thanks."
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:32:59",
+      "text": "Sure. I can talk about the ancillary services. Michelle can probably discuss the investment in structural things. Yeah, Nancy joined us a couple of months ago with demonstrated experience in scaling title companies and attach rates in Title Forward at Redfin. Again, both title and mortgage grew very significantly in 2024. We thought that they can grow even faster. Mortgage grew more than 200%. Title grew about 60% year-over-year. We believe that Nancy will do a great job at attaching title in the states where One Real Title is operating. Just to give you a little bit of sense, our attach rates on mortgage at the moment in states where mortgage is available is around one percent. On title, the attach rates are roughly four percent. If we're talking about title JVs, the most successful JV we're experiencing attach rates of about 90%, 9-0."
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:34:03",
+      "text": "On average, it's more around 30% attach rates on JVs, which we think should be improved. I think that Nancy has a lot of work to do when it comes to level of service and just bringing the right talent into the company and scaling it. We're very confident that you will see significant improvement this year compared to 2024. That is coupled with a few product initiatives that we're rolling out that will just provide kind of a perfect alignment between the consumer, the agent, and the company to just drive attach rates. I think we talked a little bit about that in the past, but we can elaborate a little bit later."
+    },
+    {
+      "speaker_id": "michelle-ressler",
+      "speaker_name": "Michelle Ressler",
+      "speaker_role": "CFO at The Real Brokerage",
+      "timestamp": "00:34:48",
+      "text": "Hi, Darren. Good to hear from you. Regarding our investments this year, it is another investment year. Sharran did mention in his section some areas in operations where we'll be investing in agent experience, training, support. We have continuous investment in our products, so there will be increases in R&D, and we're continuing to grow our compliance-based functions. We can definitely see a small fixed OpEx base growing in 2025. We'll continue to be thoughtful and will always endeavor to grow our gross profit faster than our OpEx."
+    },
+    {
+      "speaker_id": "darren-aftahi",
+      "speaker_name": "Darren Aftahi",
+      "speaker_role": "Managing Director and Senior Research Analyst at Roth Capital Partners",
+      "timestamp": "00:35:26",
+      "text": "Thank you."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:35:29",
+      "text": "Thank you. Your next question is coming from Stephn Sheldon from William Blair. Your line is live."
+    },
+    {
+      "speaker_id": "stephen-sheldon",
+      "speaker_name": "Stephen Sheldon",
+      "speaker_role": "Equity Research Analyst at William Blair",
+      "timestamp": "00:35:36",
+      "text": "Hey, thanks for taking my questions and nice work in the quarter. Maybe starting with Sharran, it seems like you're tracking for about 1,000 agents added per month in the first couple of months of the year, which is really good to see. Curious what you're seeing in the agent team and independent brokerage recruiting pipeline as we think about the next couple of quarters. Specifically, does it seem like the momentum to start the year could continue given what you're seeing in that pipeline?"
+    },
+    {
+      "speaker_id": "sharran-srivatsaa",
+      "speaker_name": "Sharran Srivatsaa",
+      "speaker_role": "President at The Real Brokerage",
+      "timestamp": "00:36:02",
+      "text": "Yeah. Good morning, Sheldon. Thank you so much for being on. Yes, we are tracking similar growth. Not only have we done this 1,000 agents a month roughly for the last two, but I think if you average out the last kind of 12, 14 months, it's been very close to that. What Tamir always likes to call the flywheel, the flywheel is important for us to think about because the model as a whole, when you have more agents at scale, more agents are talking about Real and our kind of the revenue share model helps folks kind of get the model discoverability and have the conversation more. We are having more conversations, more pipeline perspective because we have more agents out there. One, being at Real, having transactions with other agents."
+    },
+    {
+      "speaker_id": "sharran-srivatsaa",
+      "speaker_name": "Sharran Srivatsaa",
+      "speaker_role": "President at The Real Brokerage",
+      "timestamp": "00:36:45",
+      "text": "Two, being at Real called with private label or with teams joining that are then saying, \"Hey, I just made this move.\" Our pipeline is the largest it has ever been. However, I do want to underscore one thing. It takes longer for teams and independent brokerages to make the move. Even though we are talking to more agents, more teams and brokerages today, moving a large operation, as you can imagine, is a little complex. One, we are super excited about the size of the pipeline overall. Two, we believe that this momentum, we are excited and hopeful that this momentum will continue, but I just want to caveat that larger teams and organizations take a little bit to move."
+    },
+    {
+      "speaker_id": "stephen-sheldon",
+      "speaker_name": "Stephen Sheldon",
+      "speaker_role": "Equity Research Analyst at William Blair",
+      "timestamp": "00:37:25",
+      "text": "Got it. Yeah, that makes a lot of sense. I guess you gave a little bit. I want to dig in a little bit more on mortgage in particular. How is the team thinking about how aggressively you might grow that loan officer headcount to both cover more states across the U.S.? I think you have a good slide in your presentation showing where you are right now, and then to add capacity in existing states. Just generally, how do you think about better aligning loan officers and Real agents to support those attach rates?"
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:37:59",
+      "text": "Yeah. We ended the year with about 90 loan officers at One Real Mortgage. We started 2024 with 18, I believe. Obviously, we're adding more loan officers, and some of them are coming with a book of business. About half of the new additions are Real agents who got licensed as loan officers just to maximize their earnings. Obviously, that will drive attach rates. I'm a big believer in productizing things. We came up with a couple of initiatives. You must remember the touring agreements that we rolled out because of the NAR changes. In those touring agreements, we are offering an incentive to buyers that will use One Real Mortgage with the help of our agents. We provide them or offer them a credit of $2,500 at closing, and we're starting to see that kicking in."
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:38:52",
+      "text": "A lot of transactions are coming through that. As I mentioned, we are opening up an API open to all mortgage companies and title companies. Obviously, it will be used by One Real Mortgage and One Real Title. That API will help lenders and title companies send us signals or information about how their transactions with our agents are progressing. That will allow us to pay our agents commission advances, so well ahead of closing. I think that this is a perfect example where we can actually create some sort of an incentive for agents to use, obviously, any lender or any title company that will use this API. We will use it for sure. I think that that will be rolled out in about a month and a half, and that can dramatically help attach rates on our side."
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:39:45",
+      "text": "It is a multitude of initiatives from allowing agents to become licensed as loan officers to also implementing some sort of a revenue share model within One Real Mortgage. Loan officers can attract their friends and then earn revenue share out of their production as well. Everything that we are doing on the product, there are a lot of things that are starting to scale, and we are seeing great momentum. As I said, we are super optimistic about those two companies for 2025."
+    },
+    {
+      "speaker_id": "stephen-sheldon",
+      "speaker_name": "Stephen Sheldon",
+      "speaker_role": "Equity Research Analyst at William Blair",
+      "timestamp": "00:40:17",
+      "text": "Good to hear. Thank you."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:40:21",
+      "text": "Thank you. Once again, everyone, if you have any questions or comments, please press star, then one on your phone. Your next question is coming from Matthew Erdner from Jones Trading. Your line is live."
+    },
+    {
+      "speaker_id": "matthew-erdner",
+      "speaker_name": "Matthew Erdner",
+      "speaker_role": "Director of Specialty Finance and Real Estate Equity Research at Jones Trading",
+      "timestamp": "00:40:32",
+      "text": "Hey, good morning, guys. Congrats on another great quarter, and thanks for taking the question. I want to turn to the Real Wallet. Thanks for the kind of guidance there, the $500,000 run rate. What are you seeing there margin-wise? In terms of adoption, I believe you said 2,500 agents there. How do you get from that next or from that 2,500 to 5,000 and then eventually scale it across the business?"
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:40:59",
+      "text": "Thanks, Matt. We soft launched the wallet at the end of October 2024. We are about four months in. We have not really pushed it hard, and a lot of the features that are planned for the wallet are still not available. Just as a recap, we do have checking accounts and debit cards in the U.S., and we have lines of credit in Canada. We do not have checking accounts and debit cards in Canada at the moment. We are starting to push wallets very heavily, and very soon we will have a variation of credit lines in the U.S. At the moment, we have roughly $7 million in agent deposits. We are about to roll out tax accounts for agents, meaning that agents could allocate a portion of their revenue, put it into a separate account, and just have it sitting there waiting for the tax season to arrive."
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:41:51",
+      "text": "Obviously, as we continue to scale the lines of credit and open them up in the U.S., we will see more revenue. We are extremely pleased with everything that we have seen on the wallet side. There is a lot of excitement amongst the agents. We have not started marketing it heavily, but going from 2,500 agents to 5,000 agents, I think that will happen in the next couple of months. In addition to that, we are in the process of hiring a general manager for the wallet. Up to now, it has been managed by Pritesh and Alix, our General Counsel, and myself. Now we are bringing in the resources to actually take this baby to the next level. I think that we are seeing encouraging signs. Revenue is coming in, and this has been the smoothest and probably fastest rollout of any product we ever launched."
+    },
+    {
+      "speaker_id": "michelle-ressler",
+      "speaker_name": "Michelle Ressler",
+      "speaker_role": "CFO at The Real Brokerage",
+      "timestamp": "00:42:45",
+      "text": "Yeah, that's."
+    },
+    {
+      "speaker_id": "michelle-ressler",
+      "speaker_name": "Michelle Ressler",
+      "speaker_role": "CFO at The Real Brokerage",
+      "timestamp": "00:42:47",
+      "text": "Just to."
+    },
+    {
+      "speaker_id": "michelle-ressler",
+      "speaker_name": "Michelle Ressler",
+      "speaker_role": "CFO at The Real Brokerage",
+      "timestamp": "00:42:47",
+      "text": "Sorry."
+    },
+    {
+      "speaker_id": "matthew-erdner",
+      "speaker_name": "Matthew Erdner",
+      "speaker_role": "Director of Specialty Finance and Real Estate Equity Research at Jones Trading",
+      "timestamp": "00:42:47",
+      "text": "Sorry."
+    },
+    {
+      "speaker_id": "michelle-ressler",
+      "speaker_name": "Michelle Ressler",
+      "speaker_role": "CFO at The Real Brokerage",
+      "timestamp": "00:42:48",
+      "text": "Just to touch on the margin question. It's around a 90% gross margin business. To just further substantiate Tamir's point, Wallet, as he mentioned, we really haven't made much of an effort in pushing it. We saw over $900,000 in debit card spend in February, and it's increasing rapidly. We are really encouraged by the early signs and super excited for where this is going."
+    },
+    {
+      "speaker_id": "matthew-erdner",
+      "speaker_name": "Matthew Erdner",
+      "speaker_role": "Director of Specialty Finance and Real Estate Equity Research at Jones Trading",
+      "timestamp": "00:43:16",
+      "text": "Yeah, that's great. Thanks, Tamir and Michelle, for that. Following up kind of on the operating expense question, given the increase in headcount for the growth, should we expect kind of fourth quarter to be a good run rate in terms of G&A and R&D spend as we look ahead to 2025, or should we expect a little bit of an increase there given that mortgage capacity might need to increase a little bit, and then same with the wallet? Michelle?"
+    },
+    {
+      "speaker_id": "michelle-ressler",
+      "speaker_name": "Michelle Ressler",
+      "speaker_role": "CFO at The Real Brokerage",
+      "timestamp": "00:43:50",
+      "text": "Yep. Sorry. We're not looking to add too much. We've made a couple of additions already to the team, and we're excited about the addition of Dominic, but it's not going to be a very cost-heavy area. OpEx overall will grow in 2025, as I mentioned earlier, but we're super focused on growing gross profit faster than OpEx, and we'll continue to drive profitability."
+    },
+    {
+      "speaker_id": "matthew-erdner",
+      "speaker_name": "Matthew Erdner",
+      "speaker_role": "Director of Specialty Finance and Real Estate Equity Research at Jones Trading",
+      "timestamp": "00:44:26",
+      "text": "Awesome. Thank you, guys."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:44:29",
+      "text": "Thank you. There are no further questions in the queue."
+    },
+    {
+      "speaker_id": "ravi-jani",
+      "speaker_name": "Ravi Jani",
+      "speaker_role": "VP of Investor Relations and Financial Planning & Analysis at The Real Brokerage",
+      "timestamp": "00:44:35",
+      "text": "Great. Now that we've concluded the analyst portion of the call, we'll address some of the questions received from shareholders on the Say Technologies Q&A portal that was opened last week. We received a number of excellent questions, and thank you to all who participated. Tamir, first question for you. Can you help us understand the unit economics of a title and mortgage transaction? I think you addressed it earlier on some of the benefits of a Real agent working with title and mortgage, but maybe spend some time with just the unit economics to Real."
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:45:06",
+      "text": "Sure. We are very focused on growing the attachment of our ancillary services because the unit economics are very compelling. To put it in perspective, on a traditional brokerage transaction, we generate around $10,000 in revenue and about $900 in gross profit. In comparison, a title transaction typically generates $3,000 in revenue at an 80% gross margin, while a mortgage transaction generates roughly $6,000 in revenue at 50% gross margin. When you add it all up, the transaction that includes both title and mortgage alongside a brokerage transaction results in a total revenue of nearly $19,000 with gross profit exceeding $6,000, so about seven times the gross profit of a brokerage-only transaction. At the end of the day, our goal is to provide agents with a seamless, efficient, and high-quality closing experience that helps them close more deals and grow their business."
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:46:02",
+      "text": "Obviously, as you look at the numbers, if we're able to attach mortgage and title, just the margin profile of a transaction completely changes."
+    },
+    {
+      "speaker_id": "ravi-jani",
+      "speaker_name": "Ravi Jani",
+      "speaker_role": "VP of Investor Relations and Financial Planning & Analysis at The Real Brokerage",
+      "timestamp": "00:46:15",
+      "text": "Great. Next question for Michelle. Amongst the teams that have already formed a title and mortgage JV, what is the attachment rate for title or mortgage, and is there a plan to start disclosing more detail about the title and mortgage segments to investors?"
+    },
+    {
+      "speaker_id": "michelle-ressler",
+      "speaker_name": "Michelle Ressler",
+      "speaker_role": "CFO at The Real Brokerage",
+      "timestamp": "00:46:32",
+      "text": "Yeah, great question. Just to clarify, our joint ventures are only available for title. They're not available for mortgage. What we've seen is that the attachment rates vary significantly. Our most successful title JVs are seeing attachment rates of over 80%, in some cases approaching 90%, and there are others that are in the 30% range. That's still a meaningful share. We're highly encouraged by the potential, especially with the new leadership in place, and we expect to drive more consistent and meaningful attach rates over time. We are aware that it won't happen overnight, so we're super focused on ensuring that the right processes and execution are in place so that we can support sustained growth. As for the disclosures, I mean, we already break out our ancillary services performance in our quarterly and annual financials. We'll continue to be transparent about the trajectory of these businesses."
+    },
+    {
+      "speaker_id": "michelle-ressler",
+      "speaker_name": "Michelle Ressler",
+      "speaker_role": "CFO at The Real Brokerage",
+      "timestamp": "00:47:27",
+      "text": "If you're looking for information, we just encourage you to refer to our filings or, of course, send an email to Ravi and the IR team. They're always available to offer additional insights."
+    },
+    {
+      "speaker_id": "ravi-jani",
+      "speaker_name": "Ravi Jani",
+      "speaker_role": "VP of Investor Relations and Financial Planning & Analysis at The Real Brokerage",
+      "timestamp": "00:47:41",
+      "text": "Great. We'll stay with Michelle. Is management expecting to have positive net margins in Q2 and Q3 of this year?"
+    },
+    {
+      "speaker_id": "michelle-ressler",
+      "speaker_name": "Michelle Ressler",
+      "speaker_role": "CFO at The Real Brokerage",
+      "timestamp": "00:47:50",
+      "text": "We do not provide formal guidance. I think you know that. As I mentioned earlier on the call, this is still a period of investment for the company. Having said that, our focus remains on driving improved profitability. As we get a little bit further into the year, we can revisit the discussion."
+    },
+    {
+      "speaker_id": "ravi-jani",
+      "speaker_name": "Ravi Jani",
+      "speaker_role": "VP of Investor Relations and Financial Planning & Analysis at The Real Brokerage",
+      "timestamp": "00:48:11",
+      "text": "Great. Last question for Sharran. There were a couple of questions about perks and benefits offered by others and whether Real has plans to increase the benefits offered to agents."
+    },
+    {
+      "speaker_id": "sharran-srivatsaa",
+      "speaker_name": "Sharran Srivatsaa",
+      "speaker_role": "President at The Real Brokerage",
+      "timestamp": "00:48:23",
+      "text": "Yeah, thank you, Ravi. The answer is yes. We are always building new benefits for agents, but this is a really important question. I want to spend just a kind of a quick minute explaining some behind closed doors conversations that most people do not really hear. It is really important to note that the model is the incentives. That is the platform of the future. We keep innovating to build on the model to help all our agents. I will give you some context. I actually ran a traditional brokerage model in the past. I understand this firsthand because lots of companies feel like it helps to just throw more unrelated benefits at the agents to just make a list. That does not really actually help our agents do what they need to do."
+    },
+    {
+      "speaker_id": "sharran-srivatsaa",
+      "speaker_name": "Sharran Srivatsaa",
+      "speaker_role": "President at The Real Brokerage",
+      "timestamp": "00:49:07",
+      "text": "You'll see that this is kind of why many companies have to go outside their core model to offer major incentives for agents to attract and join them when we don't have to, meaning our model is the incentive. Our focus is always going to be on creating what I really like to call a platform of possibilities for our agents. How do we build things structurally what an agent cannot build for themselves at scale? That is a platform of possibilities, right? Revenue share, which is one of the most lucrative and transparent in our industry, takes equity incentives to gain ownership in the company that they build and grow."
+    },
+    {
+      "speaker_id": "sharran-srivatsaa",
+      "speaker_name": "Sharran Srivatsaa",
+      "speaker_role": "President at The Real Brokerage",
+      "timestamp": "00:49:44",
+      "text": "Deep technology infrastructure like AI systems that they would have to go kind of invest in otherwise, or as Tamir and Michelle talked about, the kind of wallet and financial technology products that are built into Real Wallet. We have world-class kind of on-demand training that they would have to deeply invest in otherwise. We also added healthcare and retirement benefits to keep them all healthy for the long term while they serve their clients. The answer is yes, but we are continuously focused on kind of new added benefits for our agents, but they will always be built to create a platform of possibilities for our agents because every agent's goal and every agent's operating model is completely different. It is our goal to help them build what they can't build themselves."
+    },
+    {
+      "speaker_id": "ravi-jani",
+      "speaker_name": "Ravi Jani",
+      "speaker_role": "VP of Investor Relations and Financial Planning & Analysis at The Real Brokerage",
+      "timestamp": "00:50:28",
+      "text": "Thanks, Sharran. If there are any additional questions on today's earnings release, please feel free to contact me directly. Matthew, would you please give the conference call replay instructions once again? Thank you."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:50:42",
+      "text": "Thank you. Everyone, this concludes today's conference call. Today's conference will be available for replay. The replay phone number is 877-481-4010, and the replay code is 51907. Once again, the replay phone number is 877-481-4010, and the replay code is 51907. You may disconnect your phone lines at this time and have a wonderful day. Thank you for your participation."
+    }
+  ],
+  "statements": [
+    {
+      "id": "REAX-FY2024Q4-001",
+      "turn_index": 5,
+      "speaker_id": "tamir-poleg",
+      "verbatim_quote": "For the year, we closed over 120,000 transactions, an increase of 81% versus 2023.",
+      "claim": "Real Brokerage closed over 120,000 transactions in FY2024, representing an 81% year-over-year increase.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-002",
+      "turn_index": 5,
+      "speaker_id": "tamir-poleg",
+      "verbatim_quote": "Total transaction value reached $49 billion, up 90% year-over-year",
+      "claim": "Total transaction value for FY2024 was $49 billion, a 90% increase year-over-year.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-003",
+      "turn_index": 5,
+      "speaker_id": "tamir-poleg",
+      "verbatim_quote": "revenue grew to $1.3 billion, marking our first-ever billion-dollar revenue year and marking an increase of 84% from $689 million in 2023.",
+      "claim": "FY2024 revenue was $1.3 billion, an 84% increase from $689 million in 2023.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-004",
+      "turn_index": 5,
+      "speaker_id": "tamir-poleg",
+      "verbatim_quote": "Gross profit in 2024 grew 82% year-over-year to $115 million",
+      "claim": "FY2024 gross profit was $115 million, an 82% increase year-over-year.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-005",
+      "turn_index": 5,
+      "speaker_id": "tamir-poleg",
+      "verbatim_quote": "adjusted EBITDA reached a record $40 million, up 188% from the prior year.",
+      "claim": "FY2024 adjusted EBITDA was $40 million, an 188% increase from the prior year.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-006",
+      "turn_index": 6,
+      "speaker_id": "tamir-poleg",
+      "verbatim_quote": "We ended the year with 24,140 agents, up 77% from the prior year",
+      "claim": "Real Brokerage ended FY2024 with 24,140 agents, a 77% increase from the prior year.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-007",
+      "turn_index": 6,
+      "speaker_id": "tamir-poleg",
+      "verbatim_quote": "as of this morning, our agent count is approximately 26,200 agents, meaning we've added another 2,000 net agents since the start of 2024.",
+      "claim": "As of the call date, the agent count is approximately 26,200, representing 2,000 net additions since the start of 2024.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-008",
+      "turn_index": 7,
+      "speaker_id": "tamir-poleg",
+      "verbatim_quote": "Leo CoPilot... is now integrated across our brokerage platform, regularly handling over 2,000 daily agent interactions",
+      "claim": "Leo CoPilot is integrated across the platform and handles over 2,000 daily agent interactions.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-009",
+      "turn_index": 7,
+      "speaker_id": "tamir-poleg",
+      "verbatim_quote": "we expect to launch our Leo for Clients product later this year",
+      "claim": "Real Brokerage expects to launch the Leo for Clients product in 2025.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-010",
+      "turn_index": 8,
+      "speaker_id": "tamir-poleg",
+      "verbatim_quote": "Today, approximately 2,500 agents have opened Real Wallet business checking accounts with an aggregate deposit balance of approximately $7 million.",
+      "claim": "Approximately 2,500 agents have opened Real Wallet business checking accounts with $7 million in aggregate deposits.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-011",
+      "turn_index": 8,
+      "speaker_id": "tamir-poleg",
+      "verbatim_quote": "In Canada, over 150 agents have accessed the credit lines, drawing over CAD 1 million.",
+      "claim": "Over 150 agents in Canada have accessed Real Wallet credit lines, drawing over CAD 1 million.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-012",
+      "turn_index": 8,
+      "speaker_id": "tamir-poleg",
+      "verbatim_quote": "Just four months post-launch, we estimate the annualized run rate revenue from Real Wallet at over $500,000, a number that we will continue to disclose going forward.",
+      "claim": "The annualized run rate revenue from Real Wallet is estimated at over $500,000, and this metric will be disclosed in future reports.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-013",
+      "turn_index": 9,
+      "speaker_id": "tamir-poleg",
+      "verbatim_quote": "For the full year 2024, Mortgage and Title grew by a combined 105%, with over 200% growth at One Real Mortgage and 60% growth at One Real Title.",
+      "claim": "FY2024 Mortgage and Title revenue grew 105% combined, with >200% growth for Mortgage and 60% for Title.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-014",
+      "turn_index": 9,
+      "speaker_id": "tamir-poleg",
+      "verbatim_quote": "For the year, Mortgage and Title contributed less than 1% of total revenue, but... they contributed over 5% of our gross profit.",
+      "claim": "Mortgage and Title contributed <1% of total revenue but >5% of gross profit in FY2024.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-015",
+      "turn_index": 10,
+      "speaker_id": "tamir-poleg",
+      "verbatim_quote": "our loan officer count has grown to 90 today, up from 18 at the start of 2024.",
+      "claim": "The One Real Mortgage loan officer count is 90, up from 18 at the start of 2024.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-016",
+      "turn_index": 11,
+      "speaker_id": "tamir-poleg",
+      "verbatim_quote": "in the U.S., we increased the $30 transaction fee for broker review, insurance, and transaction processing to $40.",
+      "claim": "The U.S. transaction fee for broker review, insurance, and processing increased from $30 to $40.",
+      "categorizations": [
+        "strategic_direction_claim"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-017",
+      "turn_index": 11,
+      "speaker_id": "tamir-poleg",
+      "verbatim_quote": "In Canada, we announced a CAD 40 per transaction fee and increased the maximum commission cap to CAD 15,000 from CAD 12,000 previously.",
+      "claim": "Canada introduced a CAD 40 per transaction fee and increased the maximum commission cap to CAD 15,000 from CAD 12,000.",
+      "categorizations": [
+        "strategic_direction_claim"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-018",
+      "turn_index": 11,
+      "speaker_id": "tamir-poleg",
+      "verbatim_quote": "we announced a decrease in the post-cap RSU bonus for agents who participate in our stock purchase plan, which will decline from 20%-15%.",
+      "claim": "The post-cap RSU bonus for agents in the stock purchase plan decreased from 20% to 15%.",
+      "categorizations": [
+        "strategic_direction_claim"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-019",
+      "turn_index": 12,
+      "speaker_id": "tamir-poleg",
+      "verbatim_quote": "These changes will begin to take effect on April 1 for new agents and the later of May 1 or an agent's anniversary date for existing agents",
+      "claim": "Business model changes take effect April 1 for new agents and May 1 or anniversary date for existing agents.",
+      "categorizations": [
+        "strategic_direction_claim"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-020",
+      "turn_index": 14,
+      "speaker_id": "sharran-srivatsaa",
+      "verbatim_quote": "We added over 10,000 net agents in the year",
+      "claim": "Real Brokerage added over 10,000 net agents in FY2024.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-021",
+      "turn_index": 15,
+      "speaker_id": "sharran-srivatsaa",
+      "verbatim_quote": "Since launching last year, we've welcomed approximately 40 independent brokerages, representing nearly 1,200 agents through this initiative alone.",
+      "claim": "The private label program has welcomed approximately 40 independent brokerages representing nearly 1,200 agents since launch.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-022",
+      "turn_index": 15,
+      "speaker_id": "sharran-srivatsaa",
+      "verbatim_quote": "Harvest Realty out of California, which is expected to bring 550 agents onto our platform.",
+      "claim": "The acquisition of Harvest Realty is expected to bring 550 agents onto the platform.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-023",
+      "turn_index": 19,
+      "speaker_id": "sharran-srivatsaa",
+      "verbatim_quote": "our revenue churn was only 1.8% in the quarter and has remained steady at two percent or lower throughout 2024",
+      "claim": "Revenue churn was 1.8% in Q4 2024 and remained at 2% or lower throughout FY2024.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-024",
+      "turn_index": 20,
+      "speaker_id": "sharran-srivatsaa",
+      "verbatim_quote": "we now have over 230 certified Real Luxury agents.",
+      "claim": "Real Luxury has over 230 certified agents.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-025",
+      "turn_index": 20,
+      "speaker_id": "sharran-srivatsaa",
+      "verbatim_quote": "We have already closed over $1 billion in luxury transaction volume.",
+      "claim": "Real Luxury has closed over $1 billion in transaction volume.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-026",
+      "turn_index": 21,
+      "speaker_id": "sharran-srivatsaa",
+      "verbatim_quote": "We have another $1 billion of transaction volume in the pipeline, meaning we're on pace to more than double our luxury transactions this year.",
+      "claim": "Real Luxury has $1 billion in pipeline volume, putting it on pace to more than double luxury transactions in 2025.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-027",
+      "turn_index": 22,
+      "speaker_id": "michelle-ressler",
+      "verbatim_quote": "we expect to deliver significant year-over-year improvement in revenue, gross profit, and adjusted EBITDA.",
+      "claim": "Real Brokerage expects significant year-over-year improvement in revenue, gross profit, and adjusted EBITDA in 2025.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-028",
+      "turn_index": 22,
+      "speaker_id": "michelle-ressler",
+      "verbatim_quote": "Seasonally, we expect the first quarter will be the lowest of the year for revenue and adjusted EBITDA, while Q3 will be the highest.",
+      "claim": "Q1 2025 is expected to be the lowest quarter for revenue and adjusted EBITDA, while Q3 will be the highest.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-029",
+      "turn_index": 23,
+      "speaker_id": "michelle-ressler",
+      "verbatim_quote": "Full-year 2024 revenue of $1.3 billion increased 84% from $689 million in 2023",
+      "claim": "FY2024 revenue was $1.3 billion, an 84% increase from $689 million in 2023.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-030",
+      "turn_index": 23,
+      "speaker_id": "michelle-ressler",
+      "verbatim_quote": "total transactions increased 81% to $120,601.",
+      "claim": "Total transactions in FY2024 were 120,601, an 81% increase.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-031",
+      "turn_index": 23,
+      "speaker_id": "michelle-ressler",
+      "verbatim_quote": "Full-year 2024 gross profit increased 82% to $114.7 million, compared to $62.9 million in 2023.",
+      "claim": "FY2024 gross profit was $114.7 million, an 82% increase from $62.9 million in 2023.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-032",
+      "turn_index": 23,
+      "speaker_id": "michelle-ressler",
+      "verbatim_quote": "Operating expenses were $140 million, including approximately $10.4 million of expenses related to antitrust litigation",
+      "claim": "FY2024 operating expenses were $140 million, including $10.4 million for antitrust litigation.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-033",
+      "turn_index": 23,
+      "speaker_id": "michelle-ressler",
+      "verbatim_quote": "Full-year 2024 net loss attributable to the owners of the company was $26.5 million.",
+      "claim": "FY2024 net loss attributable to owners was $26.5 million.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-034",
+      "turn_index": 24,
+      "speaker_id": "michelle-ressler",
+      "verbatim_quote": "full-year 2024 adjusted EBITDA of $40 million, a significant improvement from $13.9 million in 2023",
+      "claim": "FY2024 adjusted EBITDA was $40 million, up from $13.9 million in 2023.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-035",
+      "turn_index": 24,
+      "speaker_id": "michelle-ressler",
+      "verbatim_quote": "we generated $49 million of cash flows from operations and allocated $36 million to share repurchases",
+      "claim": "FY2024 cash flow from operations was $49 million, with $36 million allocated to share repurchases.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-036",
+      "turn_index": 24,
+      "speaker_id": "michelle-ressler",
+      "verbatim_quote": "Revenue in the fourth quarter of 2024 rose to $351 million, an increase of 93% versus $181 million in the fourth quarter of 2023.",
+      "claim": "Q4 2024 revenue was $351 million, a 93% increase from $181 million in Q4 2023.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-037",
+      "turn_index": 24,
+      "speaker_id": "michelle-ressler",
+      "verbatim_quote": "99% growth in the number of transactions closed, which totaled 35,370 in the quarter.",
+      "claim": "Q4 2024 transactions totaled 35,370, a 99% increase year-over-year.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-038",
+      "turn_index": 25,
+      "speaker_id": "michelle-ressler",
+      "verbatim_quote": "Revenue from ancillary businesses totaled $2.5 million during the fourth quarter of 2024, an increase of 176% versus the fourth quarter of 2023",
+      "claim": "Q4 2024 ancillary revenue was $2.5 million, a 176% increase from Q4 2023.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-039",
+      "turn_index": 25,
+      "speaker_id": "michelle-ressler",
+      "verbatim_quote": "Real Wallet contributed $42,000 in its launch quarter.",
+      "claim": "Real Wallet contributed $42,000 in revenue in its launch quarter (Q4 2024).",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-040",
+      "turn_index": 25,
+      "speaker_id": "michelle-ressler",
+      "verbatim_quote": "With respect to the first quarter of 2025, we expect revenue to decline sequentially compared to the fourth quarter of 2024",
+      "claim": "Q1 2025 revenue is expected to decline sequentially compared to Q4 2024.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-041",
+      "turn_index": 25,
+      "speaker_id": "michelle-ressler",
+      "verbatim_quote": "Gross profit for the fourth quarter of 2024 was $30 million, an increase of 93% from $15.5 million in the fourth quarter of 2023.",
+      "claim": "Q4 2024 gross profit was $30 million, a 93% increase from $15.5 million in Q4 2023.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-042",
+      "turn_index": 25,
+      "speaker_id": "michelle-ressler",
+      "verbatim_quote": "Gross margin was 8.6% in the fourth quarter of 2024, unchanged from the fourth quarter of 2023.",
+      "claim": "Q4 2024 gross margin was 8.6%, unchanged from Q4 2023.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-043",
+      "turn_index": 27,
+      "speaker_id": "michelle-ressler",
+      "verbatim_quote": "we expect gross margin in the first quarter to be in the mid-nine percent range",
+      "claim": "Q1 2025 gross margin is expected to be in the mid-9% range.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-044",
+      "turn_index": 27,
+      "speaker_id": "michelle-ressler",
+      "verbatim_quote": "Total operating expenses... were $36.4 million, or 10.4% of revenue in the fourth quarter of 2024",
+      "claim": "Q4 2024 total operating expenses were $36.4 million, or 10.4% of revenue.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-045",
+      "turn_index": 28,
+      "speaker_id": "michelle-ressler",
+      "verbatim_quote": "Adjusted operating expense... totaled $20 million in the fourth quarter of 2024, an increase of 78% compared to $11.2 million in the fourth quarter of 2023.",
+      "claim": "Q4 2024 adjusted operating expense was $20 million, a 78% increase from $11.2 million in Q4 2023.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-046",
+      "turn_index": 29,
+      "speaker_id": "michelle-ressler",
+      "verbatim_quote": "Adjusted EBITDA improved to $9.1 million in the fourth quarter of 2024, a $600,000 increase from $8.5 million in the fourth quarter of 2023.",
+      "claim": "Q4 2024 adjusted EBITDA was $9.1 million, a $600,000 increase from $8.5 million in Q4 2023.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-047",
+      "turn_index": 30,
+      "speaker_id": "michelle-ressler",
+      "verbatim_quote": "We ended the quarter with unrestricted cash and investments of approximately $32.8 million",
+      "claim": "Unrestricted cash and investments were approximately $32.8 million at the end of Q4 2024.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-048",
+      "turn_index": 31,
+      "speaker_id": "michelle-ressler",
+      "verbatim_quote": "The total value of homes transacted over our platform increased to $14.6 billion in the fourth quarter of 2024, a 115% year-over-year increase.",
+      "claim": "Q4 2024 total transaction value was $14.6 billion, a 115% year-over-year increase.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-049",
+      "turn_index": 31,
+      "speaker_id": "michelle-ressler",
+      "verbatim_quote": "The median sale price of properties sold by our agents was $380,000 in the fourth quarter of 2024, which represents a seven percent year-over-year increase.",
+      "claim": "Q4 2024 median sale price was $380,000, a 7% year-over-year increase.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-050",
+      "turn_index": 31,
+      "speaker_id": "michelle-ressler",
+      "verbatim_quote": "Adjusted operating expense per transaction was $565 and declined 11% year-over-year from $632",
+      "claim": "Q4 2024 adjusted operating expense per transaction was $565, an 11% decline from $632.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-051",
+      "turn_index": 31,
+      "speaker_id": "michelle-ressler",
+      "verbatim_quote": "As of the end of the fourth quarter of 2024, 12.3% of agents had exceeded their annual commission cap, up from 10.3% at the end of the fourth quarter of 2023.",
+      "claim": "12.3% of agents exceeded their annual commission cap at the end of Q4 2024, up from 10.3% in Q4 2023.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-052",
+      "turn_index": 31,
+      "speaker_id": "michelle-ressler",
+      "verbatim_quote": "Canada accounted for 10% of commission revenue in the fourth quarter of 2024, compared to 18% in the fourth quarter of 2023.",
+      "claim": "Canada accounted for 10% of commission revenue in Q4 2024, down from 18% in Q4 2023.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-053",
+      "turn_index": 32,
+      "speaker_id": "michelle-ressler",
+      "verbatim_quote": "Our headcount efficiency ratio... was $1 to $136 at the end of the fourth quarter, a significant improvement from $1 to $116 at the end of the fourth quarter of 2023.",
+      "claim": "The headcount efficiency ratio was 1:136 at the end of Q4 2024, improving from 1:116 in Q4 2023.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-054",
+      "turn_index": 41,
+      "speaker_id": "tamir-poleg",
+      "verbatim_quote": "our attach rates on mortgage at the moment in states where mortgage is available is around one percent. On title, the attach rates are roughly four percent.",
+      "claim": "Current attach rates are around 1% for mortgage and roughly 4% for title in available states.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-055",
+      "turn_index": 41,
+      "speaker_id": "tamir-poleg",
+      "verbatim_quote": "If we're talking about title JVs, the most successful JV we're experiencing attach rates of about 90%... On average, it's more around 30% attach rates on JVs",
+      "claim": "Title JV attach rates average around 30%, with the most successful JVs reaching about 90%.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-056",
+      "turn_index": 50,
+      "speaker_id": "tamir-poleg",
+      "verbatim_quote": "We provide them or offer them a credit of $2,500 at closing",
+      "claim": "Real Brokerage offers a $2,500 credit at closing for buyers using One Real Mortgage via touring agreements.",
+      "categorizations": [
+        "strategic_direction_claim"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-057",
+      "turn_index": 51,
+      "speaker_id": "tamir-poleg",
+      "verbatim_quote": "That API will help lenders and title companies send us signals... I think that that will be rolled out in about a month and a half",
+      "claim": "An API for lenders and title companies to send transaction signals will be rolled out in approximately 1.5 months.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-058",
+      "turn_index": 56,
+      "speaker_id": "tamir-poleg",
+      "verbatim_quote": "going from 2,500 agents to 5,000 agents, I think that will happen in the next couple of months.",
+      "claim": "Real Wallet agent adoption is expected to grow from 2,500 to 5,000 in the next couple of months.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-059",
+      "turn_index": 62,
+      "speaker_id": "michelle-ressler",
+      "verbatim_quote": "It's around a 90% gross margin business.",
+      "claim": "Real Wallet is a business with approximately 90% gross margin.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-060",
+      "turn_index": 62,
+      "speaker_id": "michelle-ressler",
+      "verbatim_quote": "We saw over $900,000 in debit card spend in February",
+      "claim": "Real Wallet debit card spend exceeded $900,000 in February 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-061",
+      "turn_index": 68,
+      "speaker_id": "tamir-poleg",
+      "verbatim_quote": "on a traditional brokerage transaction, we generate around $10,000 in revenue and about $900 in gross profit.",
+      "claim": "A traditional brokerage transaction generates around $10,000 in revenue and $900 in gross profit.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "indefinite",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-062",
+      "turn_index": 68,
+      "speaker_id": "tamir-poleg",
+      "verbatim_quote": "a title transaction typically generates $3,000 in revenue at an 80% gross margin",
+      "claim": "A title transaction typically generates $3,000 in revenue at an 80% gross margin.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "indefinite",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-063",
+      "turn_index": 68,
+      "speaker_id": "tamir-poleg",
+      "verbatim_quote": "a mortgage transaction generates roughly $6,000 in revenue at 50% gross margin.",
+      "claim": "A mortgage transaction generates roughly $6,000 in revenue at a 50% gross margin.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "indefinite",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-064",
+      "turn_index": 68,
+      "speaker_id": "tamir-poleg",
+      "verbatim_quote": "the transaction that includes both title and mortgage alongside a brokerage transaction results in a total revenue of nearly $19,000 with gross profit exceeding $6,000",
+      "claim": "A combined brokerage, title, and mortgage transaction results in nearly $19,000 revenue and over $6,000 gross profit.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "indefinite",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2024Q4-065",
+      "turn_index": 71,
+      "speaker_id": "michelle-ressler",
+      "verbatim_quote": "Our most successful title JVs are seeing attachment rates of over 80%, in some cases approaching 90%",
+      "claim": "The most successful title JVs have attachment rates over 80%, approaching 90%.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    }
+  ]
+}
