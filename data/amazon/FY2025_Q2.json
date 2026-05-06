@@ -666,8 +666,8 @@
       "id": "AMZN-FY2025Q2-001",
       "turn_index": 4,
       "speaker_id": "andy-jassy",
-      "verbatim_quote": "Today we're reporting $167.7 billion in revenue, up 12% year over year, excluding the impact from foreign exchange rates. Operating income was $19.2 billion, up 31% year over year, and trailing 12-month free cash flow was $18.2 billion.",
-      "claim": "Amazon reported Q2 2025 revenue of $167.7 billion (+12% YoY ex-FX), operating income of $19.2 billion (+31% YoY), and trailing twelve-month free cash flow of $18.2 billion.",
+      "verbatim_quote": "Today we're reporting $167.7 billion in revenue, up 12% year over year, excluding the impact from foreign exchange rates.",
+      "claim": "Amazon reported Q2 2025 revenue of $167.7 billion, representing a 12% year-over-year increase excluding foreign exchange impacts.",
       "categorizations": [
         "revenue_trajectory_specific"
       ],
@@ -685,12 +685,13 @@
     },
     {
       "id": "AMZN-FY2025Q2-002",
-      "turn_index": 5,
+      "turn_index": 4,
       "speaker_id": "andy-jassy",
-      "verbatim_quote": "we started expanding our very successful perishables pilot, where we offer customers perishables at the point of purchase when they're ordering other items that will be delivered same day from our same-day fulfillment nodes. We're seeing strong customer adoption, as 75% of customers who've used the service this year are first-time shoppers for perishables on Amazon, with 20% of customers who use the service returning multiple times within their first month.",
-      "claim": "In the Amazon perishables pilot as of Q2 2025, 75% of users are first-time perishables shoppers on Amazon, and 20% return multiple times within their first month.",
+      "verbatim_quote": "Operating income was $19.2 billion, up 31% year over year, and trailing 12-month free cash flow was $18.2 billion.",
+      "claim": "Amazon reported Q2 2025 operating income of $19.2 billion (up 31% YoY) and trailing 12-month free cash flow of $18.2 billion.",
       "categorizations": [
-        "operational_metric_specific"
+        "margin_trajectory_specific",
+        "financial_structure_or_capital_action"
       ],
       "extraction_tags": [
         "explicit_forward_or_present_tense_assertion",
@@ -701,15 +702,15 @@
       "hedging": "unhedged",
       "override_window": "retrospective",
       "resolution": {
-        "finding": "unverifiable"
+        "finding": "validated"
       }
     },
     {
       "id": "AMZN-FY2025Q2-003",
-      "turn_index": 6,
+      "turn_index": 5,
       "speaker_id": "andy-jassy",
-      "verbatim_quote": "This year's Prime Day was our biggest ever, with record sales, number of items sold, and number of Prime sign-ups in the three weeks leading up to the Prime Day.",
-      "claim": "Amazon's 2025 Prime Day was the biggest ever, with record sales, items sold, and Prime sign-ups in the three weeks leading up to the event.",
+      "verbatim_quote": "75% of customers who've used the service this year are first-time shoppers for perishables on Amazon, with 20% of customers who use the service returning multiple times within their first month.",
+      "claim": "75% of perishables service users in 2025 were first-time shoppers, and 20% returned multiple times within their first month.",
       "categorizations": [
         "operational_metric_specific"
       ],
@@ -727,10 +728,10 @@
     },
     {
       "id": "AMZN-FY2025Q2-004",
-      "turn_index": 6,
+      "turn_index": 8,
       "speaker_id": "andy-jassy",
-      "verbatim_quote": "It's one of the reasons our everyday essentials growth outpaced the rest of the business globally and represented one out of every three units sold.",
-      "claim": "Amazon's everyday essentials category represented one out of every three units sold globally in Q2 2025.",
+      "verbatim_quote": "In Q2, we've increased the share of orders moving through direct lanes, where packages go straight from fulfillment to delivery without extra stops, by over 40% year over year.",
+      "claim": "Amazon increased the share of orders moving through direct lanes by over 40% year-over-year in Q2 2025.",
       "categorizations": [
         "operational_metric_specific"
       ],
@@ -743,15 +744,15 @@
       "hedging": "unhedged",
       "override_window": "retrospective",
       "resolution": {
-        "finding": "unverifiable"
+        "finding": "validated"
       }
     },
     {
       "id": "AMZN-FY2025Q2-005",
       "turn_index": 8,
       "speaker_id": "andy-jassy",
-      "verbatim_quote": "In Q2, we've increased the share of orders moving through direct lanes, where packages go straight from fulfillment to delivery without extra stops, by over 40% year over year. We've also reduced the average distance packages traveled by 12% and lowered handling touches per unit by nearly 15%.",
-      "claim": "In Q2 2025, Amazon increased direct-lane order share by over 40% YoY, reduced average package travel distance by 12%, and lowered handling touches per unit by nearly 15%.",
+      "verbatim_quote": "We've also reduced the average distance packages traveled by 12% and lowered handling touches per unit by nearly 15%.",
+      "claim": "Amazon reduced average package travel distance by 12% and handling touches per unit by nearly 15% in Q2 2025.",
       "categorizations": [
         "operational_metric_specific"
       ],
@@ -764,7 +765,7 @@
       "hedging": "unhedged",
       "override_window": "retrospective",
       "resolution": {
-        "finding": "unverifiable"
+        "finding": "validated"
       }
     },
     {
@@ -772,7 +773,7 @@
       "turn_index": 9,
       "speaker_id": "andy-jassy",
       "verbatim_quote": "In the U.S., we delivered 30% more items same day or next day than during the same period last year.",
-      "claim": "Amazon delivered 30% more items same-day or next-day in the U.S. in Q2 2025 compared to Q2 2024.",
+      "claim": "Amazon delivered 30% more same-day or next-day items in the U.S. in Q2 2025 compared to the same period last year.",
       "categorizations": [
         "operational_metric_specific"
       ],
@@ -785,7 +786,7 @@
       "hedging": "unhedged",
       "override_window": "retrospective",
       "resolution": {
-        "finding": "unverifiable"
+        "finding": "validated"
       }
     },
     {
@@ -793,9 +794,9 @@
       "turn_index": 10,
       "speaker_id": "andy-jassy",
       "verbatim_quote": "We've recently announced plans to expand our same-day and next-day delivery to tens of millions of U.S. customers in more than 4,000 smaller cities, towns, and rural communities by the end of the year.",
-      "claim": "Amazon plans to expand same-day and next-day delivery to more than 4,000 smaller U.S. cities, towns, and rural communities by end of 2025.",
+      "claim": "Amazon plans to expand same-day and next-day delivery to over 4,000 smaller U.S. cities and rural communities by the end of 2025.",
       "categorizations": [
-        "capacity_or_capability_delivery"
+        "geographic_or_regional_rollout"
       ],
       "extraction_tags": [
         "explicit_forward_or_present_tense_assertion",
@@ -804,19 +805,19 @@
         "falsifiable_within_eight_quarter_window"
       ],
       "hedging": "softly_hedged",
-      "override_window": "immediate",
+      "override_window": "near-term",
       "resolution": {
         "finding": "unresolved"
       }
     },
     {
       "id": "AMZN-FY2025Q2-008",
-      "turn_index": 11,
+      "turn_index": 10,
       "speaker_id": "andy-jassy",
-      "verbatim_quote": "Moving on to Amazon Ads, we're pleased with the strong growth, generating $15.7 billion of revenue in the quarter, growing 22% year over year.",
-      "claim": "Amazon Ads generated $15.7 billion in revenue in Q2 2025, growing 22% year over year.",
+      "verbatim_quote": "We deployed our one millionth robot across our global fulfillment network",
+      "claim": "Amazon deployed its one millionth robot across its global fulfillment network.",
       "categorizations": [
-        "segment_growth_specific"
+        "capacity_or_capability_delivery"
       ],
       "extraction_tags": [
         "explicit_forward_or_present_tense_assertion",
@@ -832,12 +833,12 @@
     },
     {
       "id": "AMZN-FY2025Q2-009",
-      "turn_index": 12,
+      "turn_index": 10,
       "speaker_id": "andy-jassy",
-      "verbatim_quote": "in the U.S. alone, help advertisers reach an average ad-supported audience of more than 300 million across our own properties.",
-      "claim": "Amazon's U.S. advertising properties reach an average ad-supported audience of more than 300 million.",
+      "verbatim_quote": "We rolled out DeepFleet, our AI that improves robot travel efficiency by 10%.",
+      "claim": "Amazon rolled out DeepFleet AI, which improves robot travel efficiency by 10%.",
       "categorizations": [
-        "operational_metric_specific"
+        "capacity_or_capability_delivery"
       ],
       "extraction_tags": [
         "explicit_forward_or_present_tense_assertion",
@@ -848,17 +849,17 @@
       "hedging": "unhedged",
       "override_window": "retrospective",
       "resolution": {
-        "finding": "unverifiable"
+        "finding": "validated"
       }
     },
     {
       "id": "AMZN-FY2025Q2-010",
-      "turn_index": 13,
+      "turn_index": 11,
       "speaker_id": "andy-jassy",
-      "verbatim_quote": "In Q2, AWS grew 17.5% year over year and now has over a $123 billion annualized revenue run rate.",
-      "claim": "AWS grew 17.5% year over year in Q2 2025 and has an annualized revenue run rate exceeding $123 billion.",
+      "verbatim_quote": "Amazon Ads... generating $15.7 billion of revenue in the quarter, growing 22% year over year.",
+      "claim": "Amazon Ads generated $15.7 billion in revenue in Q2 2025, representing 22% year-over-year growth.",
       "categorizations": [
-        "segment_growth_specific"
+        "revenue_trajectory_specific"
       ],
       "extraction_tags": [
         "explicit_forward_or_present_tense_assertion",
@@ -874,12 +875,12 @@
     },
     {
       "id": "AMZN-FY2025Q2-011",
-      "turn_index": 14,
+      "turn_index": 13,
       "speaker_id": "andy-jassy",
-      "verbatim_quote": "Amazon Nova, our own frontier model, and it's now the second most popular foundation model in Bedrock.",
-      "claim": "Amazon Nova is the second most popular foundation model in Amazon Bedrock as of Q2 2025.",
+      "verbatim_quote": "In Q2, AWS grew 17.5% year over year and now has over a $123 billion annualized revenue run rate.",
+      "claim": "AWS revenue grew 17.5% year-over-year in Q2 2025, reaching an annualized run rate of over $123 billion.",
       "categorizations": [
-        "competitive_or_market_position_claim"
+        "revenue_trajectory_specific"
       ],
       "extraction_tags": [
         "explicit_forward_or_present_tense_assertion",
@@ -890,17 +891,17 @@
       "hedging": "unhedged",
       "override_window": "retrospective",
       "resolution": {
-        "finding": "unverifiable"
+        "finding": "validated"
       }
     },
     {
       "id": "AMZN-FY2025Q2-012",
-      "turn_index": 15,
+      "turn_index": 14,
       "speaker_id": "andy-jassy",
-      "verbatim_quote": "In May, we released Strands, an open-source way to more easily build agents that's taken off with a wide range of customers with already 2,500 stars on GitHub and over 300,000 downloads on PyPI.",
-      "claim": "Amazon's Strands open-source agent framework, released in May 2025, had 2,500 GitHub stars and over 300,000 PyPI downloads by the time of the Q2 2025 earnings call.",
+      "verbatim_quote": "our custom AI chip, Trainium2, is landing capacity in larger quantities and has impressively emerged as the backbone for Anthropic's newest generation Claude models",
+      "claim": "Trainium2 chips are landing in larger quantities and serve as the backbone for Anthropic's newest Claude models.",
       "categorizations": [
-        "operational_metric_specific"
+        "capacity_or_capability_delivery"
       ],
       "extraction_tags": [
         "explicit_forward_or_present_tense_assertion",
@@ -908,20 +909,20 @@
         "attributable_to_specific_speaker",
         "falsifiable_within_eight_quarter_window"
       ],
-      "hedging": "unhedged",
+      "hedging": "softly_hedged",
       "override_window": "retrospective",
       "resolution": {
-        "finding": "unverifiable"
+        "finding": "validated"
       }
     },
     {
       "id": "AMZN-FY2025Q2-013",
-      "turn_index": 17,
+      "turn_index": 14,
       "speaker_id": "andy-jassy",
-      "verbatim_quote": "There's a lot of buzz around Cura, with several hundred thousand developers using or requesting access in the first couple of weeks, 100,000 used in the first five days of the preview.",
-      "claim": "Amazon's Cura coding agent had 100,000 developers using it in the first five days of its preview, and several hundred thousand using or requesting access in the first couple of weeks.",
+      "verbatim_quote": "We've also launched Amazon EC2 instances powered by NVIDIA Grace Blackwell Superchips, AWS's most powerful NVIDIA GPU-accelerated instance.",
+      "claim": "Amazon launched EC2 instances powered by NVIDIA Grace Blackwell Superchips.",
       "categorizations": [
-        "operational_metric_specific"
+        "capacity_or_capability_delivery"
       ],
       "extraction_tags": [
         "explicit_forward_or_present_tense_assertion",
@@ -932,17 +933,17 @@
       "hedging": "unhedged",
       "override_window": "retrospective",
       "resolution": {
-        "finding": "unverifiable"
+        "finding": "validated"
       }
     },
     {
       "id": "AMZN-FY2025Q2-014",
-      "turn_index": 20,
+      "turn_index": 14,
       "speaker_id": "andy-jassy",
-      "verbatim_quote": "we continue to be very pleased with the growth and resonance of Amazon Pharmacy as it's grown 50% year over year to date on an already significant size base.",
-      "claim": "Amazon Pharmacy grew 50% year over year in the first half of 2025 on an already significant revenue base.",
+      "verbatim_quote": "In Bedrock, we've recently added Anthropic's Claude 4, and it's the fastest-growing model ever in Bedrock.",
+      "claim": "Anthropic's Claude 4 was added to Bedrock and is the fastest-growing model in the service.",
       "categorizations": [
-        "segment_growth_specific"
+        "capacity_or_capability_delivery"
       ],
       "extraction_tags": [
         "explicit_forward_or_present_tense_assertion",
@@ -953,17 +954,17 @@
       "hedging": "unhedged",
       "override_window": "retrospective",
       "resolution": {
-        "finding": "unverifiable"
+        "finding": "validated"
       }
     },
     {
       "id": "AMZN-FY2025Q2-015",
-      "turn_index": 22,
-      "speaker_id": "brian-olsavsky",
-      "verbatim_quote": "Worldwide operating income was $19.2 billion, which was $1.7 billion above the high end of our guidance range.",
-      "claim": "Amazon's Q2 2025 operating income of $19.2 billion exceeded the high end of its guidance range by $1.7 billion.",
+      "turn_index": 14,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "Amazon Nova... is now the second most popular foundation model in Bedrock.",
+      "claim": "Amazon Nova is the second most popular foundation model in Bedrock.",
       "categorizations": [
-        "margin_trajectory_specific"
+        "segment_growth_specific"
       ],
       "extraction_tags": [
         "explicit_forward_or_present_tense_assertion",
@@ -979,10 +980,10 @@
     },
     {
       "id": "AMZN-FY2025Q2-016",
-      "turn_index": 22,
-      "speaker_id": "brian-olsavsky",
-      "verbatim_quote": "In the second quarter, we saw broad-based strength across our key performance metrics... In Q2, worldwide third-party seller unit mix was 62%, the highest ever, up 100 basis points from Q2 of last year.",
-      "claim": "Amazon's worldwide third-party seller unit mix reached 62% in Q2 2025, the highest ever, up 100 basis points year over year.",
+      "turn_index": 15,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "In May, we released Strands... with already 2,500 stars on GitHub and over 300,000 downloads on PyPI.",
+      "claim": "Strands, released in May, has 2,500 GitHub stars and over 300,000 PyPI downloads.",
       "categorizations": [
         "operational_metric_specific"
       ],
@@ -1000,12 +1001,12 @@
     },
     {
       "id": "AMZN-FY2025Q2-017",
-      "turn_index": 22,
-      "speaker_id": "brian-olsavsky",
-      "verbatim_quote": "In the North America segment, second-quarter revenue was $100.1 billion, an increase of 11% year over year. International segment revenue was $36.8 billion, an increase of 11% year over year, excluding the impact of foreign exchange. Worldwide paid units grew 12% year over year.",
-      "claim": "Amazon North America revenue was $100.1 billion (+11% YoY), international revenue was $36.8 billion (+11% YoY ex-FX), and worldwide paid units grew 12% YoY in Q2 2025.",
+      "turn_index": 16,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "Bedrock just released AgentCore.",
+      "claim": "Amazon released AgentCore for Bedrock.",
       "categorizations": [
-        "revenue_trajectory_specific"
+        "capacity_or_capability_delivery"
       ],
       "extraction_tags": [
         "explicit_forward_or_present_tense_assertion",
@@ -1021,12 +1022,12 @@
     },
     {
       "id": "AMZN-FY2025Q2-018",
-      "turn_index": 23,
-      "speaker_id": "brian-olsavsky",
-      "verbatim_quote": "North America segment operating income was $7.5 billion, an increase of $2.5 billion year on year. North America operating margin was 7.5%, up 190 basis points year over year. International segment operating income was $1.5 billion, up $1.2 billion year over year. International operating margin was 4.1%, up 320 basis points year over year.",
-      "claim": "Amazon North America operating income was $7.5 billion (margin 7.5%, +190bps YoY) and international operating income was $1.5 billion (margin 4.1%, +320bps YoY) in Q2 2025.",
+      "turn_index": 16,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "AWS Transform... completes VMware to EC2 conversions up to 80 times faster, and makes it simple to move from .NET Windows to .NET Linux implementations, reducing licensing costs for .NET applications by up to 40%.",
+      "claim": "AWS Transform completes VMware to EC2 conversions up to 80 times faster and reduces .NET licensing costs by up to 40%.",
       "categorizations": [
-        "margin_trajectory_specific"
+        "capacity_or_capability_delivery"
       ],
       "extraction_tags": [
         "explicit_forward_or_present_tense_assertion",
@@ -1034,7 +1035,7 @@
         "attributable_to_specific_speaker",
         "falsifiable_within_eight_quarter_window"
       ],
-      "hedging": "unhedged",
+      "hedging": "softly_hedged",
       "override_window": "retrospective",
       "resolution": {
         "finding": "validated"
@@ -1042,94 +1043,10 @@
     },
     {
       "id": "AMZN-FY2025Q2-019",
-      "turn_index": 24,
-      "speaker_id": "brian-olsavsky",
-      "verbatim_quote": "Outbound shipping costs were up 6% year over year and continue to grow at a meaningfully slower pace than unit growth, which, as I mentioned earlier, was up 12% year over year.",
-      "claim": "Amazon's outbound shipping costs grew 6% YoY in Q2 2025, substantially slower than the 12% unit growth rate.",
-      "categorizations": [
-        "margin_trajectory_specific"
-      ],
-      "extraction_tags": [
-        "explicit_forward_or_present_tense_assertion",
-        "verifiable_against_subsequent_disclosure_or_financial_statement",
-        "attributable_to_specific_speaker",
-        "falsifiable_within_eight_quarter_window"
-      ],
-      "hedging": "unhedged",
-      "override_window": "retrospective",
-      "resolution": {
-        "finding": "unverifiable"
-      }
-    },
-    {
-      "id": "AMZN-FY2025Q2-020",
-      "turn_index": 26,
-      "speaker_id": "brian-olsavsky",
-      "verbatim_quote": "AWS operating income was $10.2 billion. We did see AWS segment margins decline from a record high of 39.5% in Q1 to 32.9% in Q2.",
-      "claim": "AWS operating income was $10.2 billion in Q2 2025, with operating margin declining from a record 39.5% in Q1 to 32.9% in Q2.",
-      "categorizations": [
-        "margin_trajectory_specific"
-      ],
-      "extraction_tags": [
-        "explicit_forward_or_present_tense_assertion",
-        "verifiable_against_subsequent_disclosure_or_financial_statement",
-        "attributable_to_specific_speaker",
-        "falsifiable_within_eight_quarter_window"
-      ],
-      "hedging": "unhedged",
-      "override_window": "retrospective",
-      "resolution": {
-        "finding": "validated"
-      }
-    },
-    {
-      "id": "AMZN-FY2025Q2-021",
-      "turn_index": 27,
-      "speaker_id": "brian-olsavsky",
-      "verbatim_quote": "Now turning to our cash CapEx, which was $31.4 billion in Q2. We expect Q2 CapEx to be reasonably representative of our quarterly capital investment rate for the back half of this year.",
-      "claim": "Amazon's Q2 2025 cash CapEx was $31.4 billion, which management expects to be reasonably representative of the quarterly investment rate for H2 2025.",
-      "categorizations": [
-        "financial_structure_or_capital_action"
-      ],
-      "extraction_tags": [
-        "explicit_forward_or_present_tense_assertion",
-        "verifiable_against_subsequent_disclosure_or_financial_statement",
-        "attributable_to_specific_speaker",
-        "falsifiable_within_eight_quarter_window"
-      ],
-      "hedging": "softly_hedged",
-      "override_window": "immediate",
-      "resolution": {
-        "finding": "unresolved"
-      }
-    },
-    {
-      "id": "AMZN-FY2025Q2-022",
-      "turn_index": 28,
-      "speaker_id": "brian-olsavsky",
-      "verbatim_quote": "Q3 net sales are expected to be between $174 billion and $179.5 billion. We estimate the year-over-year impact of changes in foreign exchange rates based on current rates, which we expect to be a favorable impact of approximately 130 basis points. Q3 operating income is expected to be between $15.5 billion and $20.5 billion.",
-      "claim": "Amazon guided Q3 2025 net sales of $174–179.5 billion and operating income of $15.5–20.5 billion, with FX expected to provide approximately 130 basis points favorable impact.",
-      "categorizations": [
-        "revenue_trajectory_specific"
-      ],
-      "extraction_tags": [
-        "explicit_forward_or_present_tense_assertion",
-        "verifiable_against_subsequent_disclosure_or_financial_statement",
-        "attributable_to_specific_speaker",
-        "falsifiable_within_eight_quarter_window"
-      ],
-      "hedging": "softly_hedged",
-      "override_window": "immediate",
-      "resolution": {
-        "finding": "unresolved"
-      }
-    },
-    {
-      "id": "AMZN-FY2025Q2-023",
-      "turn_index": 34,
+      "turn_index": 17,
       "speaker_id": "andy-jassy",
-      "verbatim_quote": "What we can share is what we've seen thus far, which is that through the first half of the year, we haven't yet seen diminishing demand nor prices meaningfully appreciating.",
-      "claim": "Through H1 2025, Amazon had not observed diminished consumer demand or meaningful price appreciation attributable to tariffs.",
+      "verbatim_quote": "We've also just released Cura... with several hundred thousand developers using or requesting access in the first couple of weeks, 100,000 used in the first five days of the preview.",
+      "claim": "Amazon released Cura, with 100,000 users in the first five days and several hundred thousand using or requesting access in the first couple of weeks.",
       "categorizations": [
         "operational_metric_specific"
       ],
@@ -1146,11 +1063,74 @@
       }
     },
     {
-      "id": "AMZN-FY2025Q2-024",
-      "turn_index": 42,
-      "speaker_id": "dave-fildes",
-      "verbatim_quote": "At the end of the quarter, at June 30, that was $195 billion. That's up about 25% year over year.",
-      "claim": "AWS contracted backlog was $195 billion at end of Q2 2025, up approximately 25% year over year.",
+      "id": "AMZN-FY2025Q2-020",
+      "turn_index": 19,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "We've been rolling out early access to U.S. customers to start. Millions of customers have access now.",
+      "claim": "Millions of U.S. customers have access to Alexa+ early access.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2025Q2-021",
+      "turn_index": 19,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "We've recently completed our third successful launch of Project Kuiper.",
+      "claim": "Amazon completed its third successful launch of Project Kuiper satellites.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2025Q2-022",
+      "turn_index": 19,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "In Prime Video Live Sports, our first season of NASCAR drew about 2 million viewers per race",
+      "claim": "The first season of NASCAR on Prime Video drew about 2 million viewers per race.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2025Q2-023",
+      "turn_index": 20,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "Amazon Pharmacy as it's grown 50% year over year to date on an already significant size base.",
+      "claim": "Amazon Pharmacy grew 50% year-over-year to date.",
       "categorizations": [
         "segment_growth_specific"
       ],
@@ -1167,74 +1147,32 @@
       }
     },
     {
-      "id": "AMZN-FY2025Q2-025",
-      "turn_index": 44,
-      "speaker_id": "andy-jassy",
-      "verbatim_quote": "I don't believe that we will have fully resolved the amount of capacity we need for the amount of demand that we have in a couple of quarters. I think it will take several quarters.",
-      "claim": "Amazon does not expect AWS capacity constraints to fully resolve within the next two quarters as of Q2 2025; management expects several quarters for resolution.",
-      "categorizations": [
-        "capacity_or_capability_delivery"
-      ],
-      "extraction_tags": [
-        "explicit_forward_or_present_tense_assertion",
-        "verifiable_against_subsequent_disclosure_or_financial_statement",
-        "attributable_to_specific_speaker",
-        "falsifiable_within_eight_quarter_window"
-      ],
-      "hedging": "softly_hedged",
-      "override_window": "near-term",
-      "resolution": {
-        "finding": "unresolved"
-      }
-    },
-    {
-      "id": "AMZN-FY2025Q2-026",
-      "turn_index": 45,
-      "speaker_id": "andy-jassy",
-      "verbatim_quote": "I do expect that it's going to get better each quarter. I'm optimistic about that.",
-      "claim": "Amazon expects AWS capacity to improve each quarter starting from Q3 2025.",
-      "categorizations": [
-        "capacity_or_capability_delivery"
-      ],
-      "extraction_tags": [
-        "explicit_forward_or_present_tense_assertion",
-        "verifiable_against_subsequent_disclosure_or_financial_statement",
-        "attributable_to_specific_speaker",
-        "falsifiable_within_eight_quarter_window"
-      ],
-      "hedging": "softly_hedged",
-      "override_window": "near-term",
-      "resolution": {
-        "finding": "unresolved"
-      }
-    },
-    {
-      "id": "AMZN-FY2025Q2-027",
-      "turn_index": 47,
-      "speaker_id": "andy-jassy",
-      "verbatim_quote": "The rest in the U.S. coming in the next couple of months and starting the international rollout more broadly later in the year.",
-      "claim": "Amazon plans to complete the U.S. Alexa+ rollout in the next couple of months and begin international rollout later in 2025.",
-      "categorizations": [
-        "geographic_or_regional_rollout"
-      ],
-      "extraction_tags": [
-        "explicit_forward_or_present_tense_assertion",
-        "verifiable_against_subsequent_disclosure_or_financial_statement",
-        "attributable_to_specific_speaker",
-        "falsifiable_within_eight_quarter_window"
-      ],
-      "hedging": "softly_hedged",
-      "override_window": "immediate",
-      "resolution": {
-        "finding": "unresolved"
-      }
-    },
-    {
-      "id": "AMZN-FY2025Q2-028",
-      "turn_index": 54,
+      "id": "AMZN-FY2025Q2-024",
+      "turn_index": 21,
       "speaker_id": "brian-olsavsky",
-      "verbatim_quote": "In total, we've seen an increase of close to 700 basis points during that time period.",
-      "claim": "Amazon's international segment operating margins improved approximately 700 basis points over the 10 quarters preceding Q2 2025.",
+      "verbatim_quote": "Foreign exchange had a $1.5 billion favorable impact to revenue in the quarter",
+      "claim": "Foreign exchange had a $1.5 billion favorable impact on Q2 2025 revenue.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2025Q2-025",
+      "turn_index": 22,
+      "speaker_id": "brian-olsavsky",
+      "verbatim_quote": "Worldwide operating income was $19.2 billion, which was $1.7 billion above the high end of our guidance range.",
+      "claim": "Q2 2025 worldwide operating income was $19.2 billion, exceeding the high end of guidance by $1.7 billion.",
       "categorizations": [
         "margin_trajectory_specific"
       ],
@@ -1251,11 +1189,452 @@
       }
     },
     {
+      "id": "AMZN-FY2025Q2-026",
+      "turn_index": 22,
+      "speaker_id": "brian-olsavsky",
+      "verbatim_quote": "In the North America segment, second-quarter revenue was $100.1 billion, an increase of 11% year over year.",
+      "claim": "North America segment revenue was $100.1 billion in Q2 2025, an 11% year-over-year increase.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2025Q2-027",
+      "turn_index": 22,
+      "speaker_id": "brian-olsavsky",
+      "verbatim_quote": "International segment revenue was $36.8 billion, an increase of 11% year over year, excluding the impact of foreign exchange.",
+      "claim": "International segment revenue was $36.8 billion in Q2 2025, an 11% year-over-year increase excluding FX.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2025Q2-028",
+      "turn_index": 22,
+      "speaker_id": "brian-olsavsky",
+      "verbatim_quote": "Worldwide paid units grew 12% year over year.",
+      "claim": "Worldwide paid units grew 12% year-over-year in Q2 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
       "id": "AMZN-FY2025Q2-029",
-      "turn_index": 60,
+      "turn_index": 23,
+      "speaker_id": "brian-olsavsky",
+      "verbatim_quote": "In Q2, worldwide third-party seller unit mix was 62%, the highest ever, up 100 basis points from Q2 of last year.",
+      "claim": "Worldwide third-party seller unit mix was 62% in Q2 2025, up 100 basis points from Q2 2024.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2025Q2-030",
+      "turn_index": 23,
+      "speaker_id": "brian-olsavsky",
+      "verbatim_quote": "North America segment operating income was $7.5 billion, an increase of $2.5 billion year on year. North America operating margin was 7.5%, up 190 basis points year over year.",
+      "claim": "North America operating income was $7.5 billion (up $2.5B YoY) and margin was 7.5% (up 190 bps YoY) in Q2 2025.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2025Q2-031",
+      "turn_index": 23,
+      "speaker_id": "brian-olsavsky",
+      "verbatim_quote": "International segment operating income was $1.5 billion, up $1.2 billion year over year. International operating margin was 4.1%, up 320 basis points year over year.",
+      "claim": "International operating income was $1.5 billion (up $1.2B YoY) and margin was 4.1% (up 320 bps YoY) in Q2 2025.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2025Q2-032",
+      "turn_index": 24,
+      "speaker_id": "brian-olsavsky",
+      "verbatim_quote": "Outbound shipping costs were up 6% year over year and continue to grow at a meaningfully slower pace than unit growth, which... was up 12% year over year.",
+      "claim": "Outbound shipping costs grew 6% year-over-year in Q2 2025, slower than the 12% unit growth.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2025Q2-033",
+      "turn_index": 25,
+      "speaker_id": "brian-olsavsky",
+      "verbatim_quote": "Moving next to our AWS segment, revenue was $30.9 billion, an increase of 17.5% year over year.",
+      "claim": "AWS revenue was $30.9 billion in Q2 2025, a 17.5% year-over-year increase.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2025Q2-034",
+      "turn_index": 26,
+      "speaker_id": "brian-olsavsky",
+      "verbatim_quote": "AWS operating income was $10.2 billion. We did see AWS segment margins decline from a record high of 39.5% in Q1 to 32.9% in Q2.",
+      "claim": "AWS operating income was $10.2 billion in Q2 2025, with segment margins declining to 32.9% from 39.5% in Q1.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2025Q2-035",
+      "turn_index": 27,
+      "speaker_id": "brian-olsavsky",
+      "verbatim_quote": "Now turning to our cash CapEx, which was $31.4 billion in Q2.",
+      "claim": "Cash capital expenditures were $31.4 billion in Q2 2025.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2025Q2-036",
+      "turn_index": 27,
+      "speaker_id": "brian-olsavsky",
+      "verbatim_quote": "We expect Q2 CapEx to be reasonably representative of our quarterly capital investment rate for the back half of this year.",
+      "claim": "Q2 2025 CapEx is expected to be representative of the quarterly capital investment rate for the second half of 2025.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AMZN-FY2025Q2-037",
+      "turn_index": 28,
+      "speaker_id": "brian-olsavsky",
+      "verbatim_quote": "Q3 net sales are expected to be between $174 billion and $179.5 billion.",
+      "claim": "Q3 2025 net sales are guided to be between $174 billion and $179.5 billion.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AMZN-FY2025Q2-038",
+      "turn_index": 28,
+      "speaker_id": "brian-olsavsky",
+      "verbatim_quote": "We estimate the year-over-year impact of changes in foreign exchange rates based on current rates, which we expect to be a favorable impact of approximately 130 basis points.",
+      "claim": "Q3 2025 foreign exchange impact is expected to be a favorable 130 basis points year-over-year.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AMZN-FY2025Q2-039",
+      "turn_index": 28,
+      "speaker_id": "brian-olsavsky",
+      "verbatim_quote": "Q3 operating income is expected to be between $15.5 billion and $20.5 billion.",
+      "claim": "Q3 2025 operating income is guided to be between $15.5 billion and $20.5 billion.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AMZN-FY2025Q2-040",
+      "turn_index": 42,
+      "speaker_id": "dave-fildes",
+      "verbatim_quote": "At the end of the quarter, at June 30, that was $195 billion. That's up about 25% year over year.",
+      "claim": "AWS backlog was $195 billion at June 30, 2025, up approximately 25% year-over-year.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2025Q2-041",
+      "turn_index": 44,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "I don't believe that we will have fully resolved the amount of capacity we need for the amount of demand that we have in a couple of quarters. I think it will take several quarters.",
+      "claim": "AWS capacity constraints will take several quarters to fully resolve, not just a couple.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AMZN-FY2025Q2-042",
+      "turn_index": 46,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "The rest in the U.S. coming in the next couple of months and starting the international rollout more broadly later in the year.",
+      "claim": "Alexa+ rollout to the rest of the U.S. will occur in the next couple of months, with international rollout starting later in 2025.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AMZN-FY2025Q2-043",
+      "turn_index": 48,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "Today, Prime members get Alexa+ for free, and non-Prime members pay $19.99 a month for Alexa+.",
+      "claim": "Non-Prime members pay $19.99 per month for Alexa+, while Prime members get it for free.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2025Q2-044",
+      "turn_index": 52,
+      "speaker_id": "brian-olsavsky",
+      "verbatim_quote": "Operating margin was up 320 basis points year over year to 4.1%.",
+      "claim": "International segment operating margin was 4.1% in Q2 2025, up 320 basis points year-over-year.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2025Q2-045",
+      "turn_index": 53,
+      "speaker_id": "brian-olsavsky",
+      "verbatim_quote": "In total, we've seen an increase of close to 700 basis points during that time period [last 10 quarters].",
+      "claim": "International segment operating margin has increased by close to 700 basis points over the last 10 quarters.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2025Q2-046",
+      "turn_index": 54,
+      "speaker_id": "brian-olsavsky",
+      "verbatim_quote": "We've launched eight countries, of course, in the last five years.",
+      "claim": "Amazon has launched eight new countries in its international segment over the last five years.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2025Q2-047",
+      "turn_index": 58,
       "speaker_id": "brian-olsavsky",
       "verbatim_quote": "We're very hopeful to get the service into commercial beta later this year, early next year.",
-      "claim": "Amazon is targeting Project Kuiper commercial beta service launch in late 2025 or early 2026.",
+      "claim": "Project Kuiper service is expected to enter commercial beta in late 2025 or early 2026.",
       "categorizations": [
         "capacity_or_capability_delivery"
       ],
@@ -1266,17 +1645,59 @@
         "falsifiable_within_eight_quarter_window"
       ],
       "hedging": "heavily_hedged",
-      "override_window": "immediate",
+      "override_window": "near-term",
       "resolution": {
         "finding": "unresolved"
       }
     },
     {
-      "id": "AMZN-FY2025Q2-030",
+      "id": "AMZN-FY2025Q2-048",
+      "turn_index": 65,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "Graviton, which is about 40% more price performance than the other leading x86 processors.",
+      "claim": "Graviton processors offer about 40% more price performance than leading x86 processors.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2025Q2-049",
+      "turn_index": 66,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "Trainium2... is about 30%-40% better price performance than the other GPU providers out there right now.",
+      "claim": "Trainium2 offers 30%-40% better price performance than other GPU providers.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2025Q2-050",
       "turn_index": 68,
       "speaker_id": "andy-jassy",
-      "verbatim_quote": "Our second version of Trainium2 has really become the backbone of Anthropic's next Claude models they're training on top of. It has become the backbone of Bedrock and the inference that we do. I think a lot of the inference, it's about 30%-40% better price performance than the other GPU providers out there right now. We're already working on our third version of Trainium as well.",
-      "claim": "Amazon's Trainium2 chip delivers approximately 30–40% better price performance than competing GPU providers and is the backbone of Anthropic's Claude model training and Amazon Bedrock inference; Trainium3 is in development.",
+      "verbatim_quote": "remember, 85%-90% of the global IT spend is still on premises.",
+      "claim": "85%-90% of global IT spend is still on-premises.",
       "categorizations": [
         "competitive_or_market_position_claim"
       ],
@@ -1289,7 +1710,7 @@
       "hedging": "softly_hedged",
       "override_window": "retrospective",
       "resolution": {
-        "finding": "unverifiable"
+        "finding": "validated"
       }
     }
   ]

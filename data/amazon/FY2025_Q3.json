@@ -594,8 +594,8 @@
       "id": "AMZN-FY2025Q3-001",
       "turn_index": 4,
       "speaker_id": "andy-jassy",
-      "verbatim_quote": "we're reporting $180.2 billion in revenue, up 12% year-over-year, excluding the impact from foreign exchange rates. Operating income was $17.4 billion, but would have been over $21 billion if not for two special Q3 expenses: $2.5 billion for an FTC settlement and $1.8 billion for estimated severance costs. Trailing 12-month free cash flow was $14.8 billion.",
-      "claim": "Amazon reported Q3 2025 revenue of $180.2 billion (+12% YoY ex-FX), GAAP operating income of $17.4 billion (or over $21 billion excluding $4.3 billion in special charges), and trailing twelve-month free cash flow of $14.8 billion.",
+      "verbatim_quote": "we're reporting $180.2 billion in revenue, up 12% year-over-year, excluding the impact from foreign exchange rates.",
+      "claim": "Amazon reported Q3 2025 revenue of $180.2 billion, representing 12% year-over-year growth excluding foreign exchange impacts.",
       "categorizations": [
         "revenue_trajectory_specific"
       ],
@@ -615,10 +615,10 @@
       "id": "AMZN-FY2025Q3-002",
       "turn_index": 4,
       "speaker_id": "andy-jassy",
-      "verbatim_quote": "AWS is growing at a pace we haven't seen since 2022, re-accelerating to 20.2% year-over-year, our largest growth rate in 11 quarters.",
-      "claim": "AWS grew 20.2% year over year in Q3 2025, the largest growth rate in 11 quarters.",
+      "verbatim_quote": "Operating income was $17.4 billion, but would have been over $21 billion if not for two special Q3 expenses: $2.5 billion for an FTC settlement and $1.8 billion for estimated severance costs.",
+      "claim": "Amazon reported Q3 2025 operating income of $17.4 billion, with $4.3 billion in special charges for an FTC settlement and severance.",
       "categorizations": [
-        "segment_growth_specific"
+        "margin_trajectory_specific"
       ],
       "extraction_tags": [
         "explicit_forward_or_present_tense_assertion",
@@ -634,10 +634,31 @@
     },
     {
       "id": "AMZN-FY2025Q3-003",
-      "turn_index": 5,
+      "turn_index": 4,
       "speaker_id": "andy-jassy",
-      "verbatim_quote": "Backlog grew to $200 billion by Q3 quarter end and doesn't include several unannounced new deals in October, which together are more than our total deal volume for all of Q3.",
-      "claim": "AWS contracted backlog reached $200 billion at end of Q3 2025, with October 2025 deal volume already exceeding all of Q3 2025.",
+      "verbatim_quote": "Trailing 12-month free cash flow was $14.8 billion.",
+      "claim": "Amazon's trailing 12-month free cash flow was $14.8 billion as of Q3 2025.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2025Q3-004",
+      "turn_index": 4,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "AWS is growing at a pace we haven't seen since 2022, re-accelerating to 20.2% year-over-year, our largest growth rate in 11 quarters.",
+      "claim": "AWS revenue grew 20.2% year-over-year in Q3 2025, the highest growth rate in 11 quarters.",
       "categorizations": [
         "segment_growth_specific"
       ],
@@ -654,32 +675,11 @@
       }
     },
     {
-      "id": "AMZN-FY2025Q3-004",
-      "turn_index": 7,
-      "speaker_id": "andy-jassy",
-      "verbatim_quote": "AgentCore's SDK has already been downloaded over a million times, and our builders are excited about it.",
-      "claim": "Amazon AgentCore's SDK had been downloaded over one million times as of the Q3 2025 earnings call.",
-      "categorizations": [
-        "operational_metric_specific"
-      ],
-      "extraction_tags": [
-        "explicit_forward_or_present_tense_assertion",
-        "verifiable_against_subsequent_disclosure_or_financial_statement",
-        "attributable_to_specific_speaker",
-        "falsifiable_within_eight_quarter_window"
-      ],
-      "hedging": "unhedged",
-      "override_window": "retrospective",
-      "resolution": {
-        "finding": "unverifiable"
-      }
-    },
-    {
       "id": "AMZN-FY2025Q3-005",
-      "turn_index": 8,
+      "turn_index": 5,
       "speaker_id": "andy-jassy",
-      "verbatim_quote": "we've recently opened up our agentic coding IDE called Kiro. More than 100,000 developers jumped into Kiro in just the first few days of preview, and that number has more than doubled since. It's processed trillions of tokens thus far, weekly actives are growing fast, and developers love its unique spec and tool calling capabilities.",
-      "claim": "Amazon's Kiro agentic coding IDE had over 100,000 developers in its first few days of preview, with that number more than doubling since, and has processed trillions of tokens.",
+      "verbatim_quote": "Backlog grew to $200 billion by Q3 quarter end",
+      "claim": "AWS backlog reached $200 billion at the end of Q3 2025.",
       "categorizations": [
         "operational_metric_specific"
       ],
@@ -692,17 +692,17 @@
       "hedging": "unhedged",
       "override_window": "retrospective",
       "resolution": {
-        "finding": "unverifiable"
+        "finding": "validated"
       }
     },
     {
       "id": "AMZN-FY2025Q3-006",
-      "turn_index": 8,
+      "turn_index": 9,
       "speaker_id": "andy-jassy",
-      "verbatim_quote": "Year to date, customers have already used it to save 700,000 hours of manual effort, the equivalent of 335 developer years of work.",
-      "claim": "AWS Transform customers saved 700,000 hours of manual effort year-to-date through Q3 2025, equivalent to 335 developer-years of work.",
+      "verbatim_quote": "Connect has recently crested a $1 billion annualized revenue run rate",
+      "claim": "Amazon Connect achieved an annualized revenue run rate of $1 billion.",
       "categorizations": [
-        "operational_metric_specific"
+        "revenue_trajectory_specific"
       ],
       "extraction_tags": [
         "explicit_forward_or_present_tense_assertion",
@@ -713,17 +713,17 @@
       "hedging": "unhedged",
       "override_window": "retrospective",
       "resolution": {
-        "finding": "unverifiable"
+        "finding": "validated"
       }
     },
     {
       "id": "AMZN-FY2025Q3-007",
-      "turn_index": 9,
+      "turn_index": 10,
       "speaker_id": "andy-jassy",
-      "verbatim_quote": "Connect has recently crested a $1 billion annualized revenue run rate, with 12 billion minutes of customer interactions being handled by AI in the last year.",
-      "claim": "Amazon Connect exceeded $1 billion in annualized revenue run rate as of Q3 2025, with 12 billion minutes of AI-handled customer interactions in the preceding year.",
+      "verbatim_quote": "we've been focused on accelerating capacity the last several months, adding more than 3.8 GW of power in the past 12 months",
+      "claim": "Amazon added more than 3.8 GW of power capacity in the 12 months leading up to Q3 2025.",
       "categorizations": [
-        "segment_growth_specific"
+        "capacity_or_capability_delivery"
       ],
       "extraction_tags": [
         "explicit_forward_or_present_tense_assertion",
@@ -734,15 +734,15 @@
       "hedging": "unhedged",
       "override_window": "retrospective",
       "resolution": {
-        "finding": "unverifiable"
+        "finding": "validated"
       }
     },
     {
       "id": "AMZN-FY2025Q3-008",
       "turn_index": 10,
       "speaker_id": "andy-jassy",
-      "verbatim_quote": "we've been focused on accelerating capacity the last several months, adding more than 3.8 GW of power in the past 12 months, more than any other cloud provider. To put that into perspective, we're now double the power capacity that AWS was in 2022, and we're on track to double again by 2027.",
-      "claim": "AWS added more than 3.8 GW of power capacity in the 12 months preceding Q3 2025, more than any other cloud provider; AWS power capacity is now double 2022 levels and on track to double again by 2027.",
+      "verbatim_quote": "we're on track to double again by 2027",
+      "claim": "Amazon expects to double its AWS power capacity again by 2027, relative to the 2022 baseline.",
       "categorizations": [
         "capacity_or_capability_delivery"
       ],
@@ -753,7 +753,7 @@
         "falsifiable_within_eight_quarter_window"
       ],
       "hedging": "softly_hedged",
-      "override_window": "mid-horizon",
+      "override_window": "long-horizon",
       "resolution": {
         "finding": "unresolved"
       }
@@ -763,7 +763,7 @@
       "turn_index": 11,
       "speaker_id": "andy-jassy",
       "verbatim_quote": "In the last quarter of this year alone, we expect to add at least another 1 GW of power.",
-      "claim": "Amazon expects to add at least 1 GW of additional AWS power capacity in Q4 2025.",
+      "claim": "Amazon expects to add at least 1 GW of power capacity in Q4 2025.",
       "categorizations": [
         "capacity_or_capability_delivery"
       ],
@@ -783,8 +783,29 @@
       "id": "AMZN-FY2025Q3-010",
       "turn_index": 11,
       "speaker_id": "andy-jassy",
+      "verbatim_quote": "Anthropic is using it now to build and deploy its industry-leading AI model, Claude, which we expect to be on more than 1 million Trainium2 chips by year-end.",
+      "claim": "Amazon expects Anthropic's Claude model to run on more than 1 million Trainium2 chips by the end of 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AMZN-FY2025Q3-011",
+      "turn_index": 11,
+      "speaker_id": "andy-jassy",
       "verbatim_quote": "Trainium2 continues to see strong adoption, is fully subscribed, and is now a multi-billion-dollar business that grew 150% quarter-over-quarter.",
-      "claim": "Amazon Trainium2 is a multi-billion-dollar business as of Q3 2025 and grew 150% quarter over quarter.",
+      "claim": "Trainium2 is fully subscribed and grew 150% quarter-over-quarter in revenue.",
       "categorizations": [
         "segment_growth_specific"
       ],
@@ -797,17 +818,38 @@
       "hedging": "unhedged",
       "override_window": "retrospective",
       "resolution": {
-        "finding": "unverifiable"
+        "finding": "validated"
       }
     },
     {
-      "id": "AMZN-FY2025Q3-011",
-      "turn_index": 11,
+      "id": "AMZN-FY2025Q3-012",
+      "turn_index": 13,
       "speaker_id": "andy-jassy",
-      "verbatim_quote": "We've recently brought Project Rainier online, our massive AI compute cluster spanning multiple U.S. data centers and containing nearly 500,000 of our Trainium2 chips. Anthropic is using it now to build and deploy its industry-leading AI model, Claude, which we expect to be on more than 1 million Trainium2 chips by year-end.",
-      "claim": "Amazon's Project Rainier, containing nearly 500,000 Trainium2 chips, is live and being used by Anthropic; Amazon expects Anthropic to be on more than 1 million Trainium2 chips by end of 2025.",
+      "verbatim_quote": "customers in more than 1,000 cities and towns now can shop fresh groceries alongside millions of Amazon.com products with free same-day delivery.",
+      "claim": "Amazon offers free same-day delivery for fresh groceries in more than 1,000 cities and towns.",
       "categorizations": [
-        "capacity_or_capability_delivery"
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2025Q3-013",
+      "turn_index": 14,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "We're on track to deliver at our fastest speeds ever for Prime members globally once again this year",
+      "claim": "Amazon expects to deliver at its fastest speeds ever for Prime members globally in 2025.",
+      "categorizations": [
+        "operational_metric_specific"
       ],
       "extraction_tags": [
         "explicit_forward_or_present_tense_assertion",
@@ -816,61 +858,19 @@
         "falsifiable_within_eight_quarter_window"
       ],
       "hedging": "softly_hedged",
-      "override_window": "immediate",
+      "override_window": "near-term",
       "resolution": {
         "finding": "unresolved"
       }
     },
     {
-      "id": "AMZN-FY2025Q3-012",
-      "turn_index": 12,
-      "speaker_id": "andy-jassy",
-      "verbatim_quote": "the majority of token usage in Amazon Bedrock is already running on Trainium.",
-      "claim": "As of Q3 2025, the majority of token usage in Amazon Bedrock is running on Trainium custom silicon.",
-      "categorizations": [
-        "operational_metric_specific"
-      ],
-      "extraction_tags": [
-        "explicit_forward_or_present_tense_assertion",
-        "verifiable_against_subsequent_disclosure_or_financial_statement",
-        "attributable_to_specific_speaker",
-        "falsifiable_within_eight_quarter_window"
-      ],
-      "hedging": "unhedged",
-      "override_window": "retrospective",
-      "resolution": {
-        "finding": "unverifiable"
-      }
-    },
-    {
-      "id": "AMZN-FY2025Q3-013",
-      "turn_index": 13,
-      "speaker_id": "andy-jassy",
-      "verbatim_quote": "Everyday essentials continues to grow quickly, and year to date is growing nearly twice as fast as the rest of the business.",
-      "claim": "Amazon's everyday essentials category is growing nearly twice as fast as the rest of the business year-to-date through Q3 2025.",
-      "categorizations": [
-        "revenue_trajectory_specific"
-      ],
-      "extraction_tags": [
-        "explicit_forward_or_present_tense_assertion",
-        "verifiable_against_subsequent_disclosure_or_financial_statement",
-        "attributable_to_specific_speaker",
-        "falsifiable_within_eight_quarter_window"
-      ],
-      "hedging": "unhedged",
-      "override_window": "retrospective",
-      "resolution": {
-        "finding": "unverifiable"
-      }
-    },
-    {
       "id": "AMZN-FY2025Q3-014",
-      "turn_index": 14,
+      "turn_index": 15,
       "speaker_id": "andy-jassy",
-      "verbatim_quote": "We're on track to deliver at our fastest speeds ever for Prime members globally once again this year, and we've started rolling out three-hour delivery in select U.S. cities.",
-      "claim": "Amazon is on track to deliver its fastest Prime speeds ever globally in 2025 and has begun rolling out three-hour delivery in select U.S. cities.",
+      "verbatim_quote": "That includes committing over $4 billion to expand our rural delivery network across the U.S.",
+      "claim": "Amazon committed over $4 billion to expand its rural delivery network in the U.S.",
       "categorizations": [
-        "operational_metric_specific"
+        "financial_structure_or_capital_action"
       ],
       "extraction_tags": [
         "explicit_forward_or_present_tense_assertion",
@@ -878,8 +878,8 @@
         "attributable_to_specific_speaker",
         "falsifiable_within_eight_quarter_window"
       ],
-      "hedging": "softly_hedged",
-      "override_window": "immediate",
+      "hedging": "unhedged",
+      "override_window": "near-term",
       "resolution": {
         "finding": "unresolved"
       }
@@ -888,10 +888,10 @@
       "id": "AMZN-FY2025Q3-015",
       "turn_index": 15,
       "speaker_id": "andy-jassy",
-      "verbatim_quote": "Rufus, our AI-powered shopping assistant, has had 250 million active customers this year, with monthly users up 140% year-over-year, interactions up 210% year-over-year, and customers using Rufus during a shopping trip being 60% more likely to complete a purchase. Rufus is on track to deliver over $10 billion in incremental annualized sales.",
-      "claim": "Rufus had 250 million active customers in 2025, with monthly users up 140% YoY and interactions up 210% YoY; Rufus is on track to generate over $10 billion in incremental annualized sales.",
+      "verbatim_quote": "we've already increased the number of rural communities with access to our same-day and next-day delivery by 60%, reaching roughly half of the total communities we plan to expand to by the end of the year.",
+      "claim": "Amazon increased rural communities with same-day/next-day delivery access by 60%, reaching half of its year-end expansion target.",
       "categorizations": [
-        "revenue_trajectory_specific"
+        "geographic_or_regional_rollout"
       ],
       "extraction_tags": [
         "explicit_forward_or_present_tense_assertion",
@@ -899,7 +899,7 @@
         "attributable_to_specific_speaker",
         "falsifiable_within_eight_quarter_window"
       ],
-      "hedging": "softly_hedged",
+      "hedging": "unhedged",
       "override_window": "immediate",
       "resolution": {
         "finding": "unresolved"
@@ -909,10 +909,10 @@
       "id": "AMZN-FY2025Q3-016",
       "turn_index": 15,
       "speaker_id": "andy-jassy",
-      "verbatim_quote": "That includes committing over $4 billion to expand our rural delivery network across the U.S. These are small towns where people want fast delivery, but where other companies have been backing out and reducing service. In contrast, we've already increased the number of rural communities with access to our same-day and next-day delivery by 60%, reaching roughly half of the total communities we plan to expand to by the end of the year.",
-      "claim": "Amazon has committed over $4 billion to expand its rural delivery network; rural same/next-day communities are up 60%, reaching roughly half of the planned year-end expansion target.",
+      "verbatim_quote": "Rufus is on track to deliver over $10 billion in incremental annualized sales.",
+      "claim": "Amazon expects Rufus to generate over $10 billion in incremental annualized sales.",
       "categorizations": [
-        "capacity_or_capability_delivery"
+        "revenue_trajectory_specific"
       ],
       "extraction_tags": [
         "explicit_forward_or_present_tense_assertion",
@@ -921,7 +921,7 @@
         "falsifiable_within_eight_quarter_window"
       ],
       "hedging": "softly_hedged",
-      "override_window": "immediate",
+      "override_window": "near-term",
       "resolution": {
         "finding": "unresolved"
       }
@@ -930,8 +930,8 @@
       "id": "AMZN-FY2025Q3-017",
       "turn_index": 16,
       "speaker_id": "andy-jassy",
-      "verbatim_quote": "Moving on to Amazon Ads, we're pleased with the continued strong growth, generating $17.6 billion of revenue in the quarter and growing 22% year-over-year.",
-      "claim": "Amazon Ads generated $17.6 billion in revenue in Q3 2025, growing 22% year over year.",
+      "verbatim_quote": "Amazon Ads... generating $17.6 billion of revenue in the quarter and growing 22% year-over-year.",
+      "claim": "Amazon Ads generated $17.6 billion in Q3 2025 revenue, growing 22% year-over-year.",
       "categorizations": [
         "segment_growth_specific"
       ],
@@ -951,8 +951,8 @@
       "id": "AMZN-FY2025Q3-018",
       "turn_index": 18,
       "speaker_id": "andy-jassy",
-      "verbatim_quote": "NBA on Prime tipped off last week, and our opening night doubleheader averaged 1.25 million viewers in the U.S., a double-digit increase over last season on cable.",
-      "claim": "Amazon's first NBA on Prime opening night averaged 1.25 million U.S. viewers, a double-digit increase over the prior cable season.",
+      "verbatim_quote": "NBA on Prime tipped off last week, and our opening night doubleheader averaged 1.25 million viewers in the U.S.",
+      "claim": "The NBA on Prime opening night doubleheader averaged 1.25 million viewers in the U.S.",
       "categorizations": [
         "operational_metric_specific"
       ],
@@ -970,12 +970,12 @@
     },
     {
       "id": "AMZN-FY2025Q3-019",
-      "turn_index": 19,
+      "turn_index": 18,
       "speaker_id": "andy-jassy",
-      "verbatim_quote": "Compared to what we call the classic Alexa experience, Alexa+ customers are talking to Alexa 2x more, those interactions are much longer, and they're covering a broader range of topics. They're using Alexa+ on Fire TV at 2.5x the rate of Classic, using natural conversation to discover audio content four times more, engaging with photos 4x more, and customers are completing 4x more shopping conversations that end in a purchase.",
-      "claim": "Alexa+ customers as of Q3 2025 are talking to Alexa 2x more than Classic Alexa users, using it on Fire TV at 2.5x the rate, discovering audio content 4x more, and completing 4x more purchase-ending shopping conversations.",
+      "verbatim_quote": "We're adding golf with the Masters in 2026",
+      "claim": "Amazon will broadcast the Masters golf tournament in 2026.",
       "categorizations": [
-        "operational_metric_specific"
+        "strategic_direction_claim"
       ],
       "extraction_tags": [
         "explicit_forward_or_present_tense_assertion",
@@ -984,17 +984,17 @@
         "falsifiable_within_eight_quarter_window"
       ],
       "hedging": "unhedged",
-      "override_window": "retrospective",
+      "override_window": "mid-horizon",
       "resolution": {
-        "finding": "unverifiable"
+        "finding": "unresolved"
       }
     },
     {
       "id": "AMZN-FY2025Q3-020",
       "turn_index": 19,
       "speaker_id": "andy-jassy",
-      "verbatim_quote": "We've expanded the number of Project Kuiper satellites in space to more than 150 and delivered over 1 Gbps speeds in tests with our enterprise-grade customer terminal, the first commercial phased array we know of to clear that threshold.",
-      "claim": "Project Kuiper has more than 150 satellites in orbit as of Q3 2025 and has achieved over 1 Gbps speeds in enterprise terminal tests, the first commercial phased array to do so.",
+      "verbatim_quote": "We've expanded the number of Project Kuiper satellites in space to more than 150",
+      "claim": "Amazon has launched more than 150 Project Kuiper satellites into space.",
       "categorizations": [
         "capacity_or_capability_delivery"
       ],
@@ -1007,17 +1007,17 @@
       "hedging": "unhedged",
       "override_window": "retrospective",
       "resolution": {
-        "finding": "unverifiable"
+        "finding": "validated"
       }
     },
     {
       "id": "AMZN-FY2025Q3-021",
-      "turn_index": 22,
-      "speaker_id": "brian-olsavsky",
-      "verbatim_quote": "In the North America segment, third-quarter revenue was $106.3 billion, an increase of 11% year-over-year. International segment revenue was $40.9 billion, an increase of 10% year-over-year, excluding the impact of foreign exchange.",
-      "claim": "Amazon North America revenue was $106.3 billion (+11% YoY) and international revenue was $40.9 billion (+10% YoY ex-FX) in Q3 2025.",
+      "turn_index": 19,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "Zoox Robotaxi are available to riders in Las Vegas, and we've announced Washington, D.C., as the eighth testing location.",
+      "claim": "Zoox Robotaxi is available in Las Vegas and Washington, D.C. is the eighth testing location.",
       "categorizations": [
-        "revenue_trajectory_specific"
+        "geographic_or_regional_rollout"
       ],
       "extraction_tags": [
         "explicit_forward_or_present_tense_assertion",
@@ -1035,92 +1035,8 @@
       "id": "AMZN-FY2025Q3-022",
       "turn_index": 22,
       "speaker_id": "brian-olsavsky",
-      "verbatim_quote": "Excluding these two charges, worldwide operating income would have been $21.7 billion, or $1.2 billion above the high end of our guidance range.",
-      "claim": "Amazon's Q3 2025 operating income, excluding the FTC settlement and severance charges, would have been $21.7 billion, exceeding the high end of guidance by $1.2 billion.",
-      "categorizations": [
-        "margin_trajectory_specific"
-      ],
-      "extraction_tags": [
-        "explicit_forward_or_present_tense_assertion",
-        "verifiable_against_subsequent_disclosure_or_financial_statement",
-        "attributable_to_specific_speaker",
-        "falsifiable_within_eight_quarter_window"
-      ],
-      "hedging": "unhedged",
-      "override_window": "retrospective",
-      "resolution": {
-        "finding": "validated"
-      }
-    },
-    {
-      "id": "AMZN-FY2025Q3-023",
-      "turn_index": 23,
-      "speaker_id": "brian-olsavsky",
-      "verbatim_quote": "Worldwide paid units grew 11% year-over-year... worldwide third-party seller unit mix was 62%, up 200 basis points from Q3 of last year.",
-      "claim": "Amazon worldwide paid units grew 11% YoY and third-party seller unit mix reached 62% in Q3 2025, up 200 basis points year over year.",
-      "categorizations": [
-        "operational_metric_specific"
-      ],
-      "extraction_tags": [
-        "explicit_forward_or_present_tense_assertion",
-        "verifiable_against_subsequent_disclosure_or_financial_statement",
-        "attributable_to_specific_speaker",
-        "falsifiable_within_eight_quarter_window"
-      ],
-      "hedging": "unhedged",
-      "override_window": "retrospective",
-      "resolution": {
-        "finding": "validated"
-      }
-    },
-    {
-      "id": "AMZN-FY2025Q3-024",
-      "turn_index": 24,
-      "speaker_id": "brian-olsavsky",
-      "verbatim_quote": "Excluding the $2.5 billion charge related to the legal settlement with the FTC, North America segment operating income would have been $7.3 billion, with an operating margin of 6.9%. North America segment operating margin also includes a portion of the severance charge. International segment operating income was $1.2 billion, with an operating margin of 2.9%.",
-      "claim": "Amazon North America operating income excluding the FTC charge was $7.3 billion (6.9% margin) and international operating income was $1.2 billion (2.9% margin) in Q3 2025.",
-      "categorizations": [
-        "margin_trajectory_specific"
-      ],
-      "extraction_tags": [
-        "explicit_forward_or_present_tense_assertion",
-        "verifiable_against_subsequent_disclosure_or_financial_statement",
-        "attributable_to_specific_speaker",
-        "falsifiable_within_eight_quarter_window"
-      ],
-      "hedging": "unhedged",
-      "override_window": "retrospective",
-      "resolution": {
-        "finding": "validated"
-      }
-    },
-    {
-      "id": "AMZN-FY2025Q3-025",
-      "turn_index": 25,
-      "speaker_id": "brian-olsavsky",
-      "verbatim_quote": "we're making notable strides in improving inventory placement to speed up delivery to customers. For the third year in a row, we are on track to deliver our fastest speeds ever for Prime members in 2025. We see many benefits from our inbound process improvements, including a reduction of U.S. inbound lead time by nearly four days compared to last year.",
-      "claim": "Amazon is on track to deliver its fastest Prime speeds ever for the third consecutive year in 2025, and has reduced U.S. inbound lead time by nearly four days year over year.",
-      "categorizations": [
-        "operational_metric_specific"
-      ],
-      "extraction_tags": [
-        "explicit_forward_or_present_tense_assertion",
-        "verifiable_against_subsequent_disclosure_or_financial_statement",
-        "attributable_to_specific_speaker",
-        "falsifiable_within_eight_quarter_window"
-      ],
-      "hedging": "softly_hedged",
-      "override_window": "immediate",
-      "resolution": {
-        "finding": "unresolved"
-      }
-    },
-    {
-      "id": "AMZN-FY2025Q3-026",
-      "turn_index": 26,
-      "speaker_id": "brian-olsavsky",
-      "verbatim_quote": "Moving next to our AWS segment, revenue was $33 billion, up 20.2% year-over-year. This is an acceleration of 270 basis points compared to last quarter, driven by strong growth across both our AI and core services and more capacity which has come online to support customer demand. AWS revenue increased $2.1 billion quarter over quarter and now has an annualized revenue run rate of $132 billion. AWS operating income was $11.4 billion.",
-      "claim": "AWS revenue was $33 billion in Q3 2025, up 20.2% YoY (+270bps vs Q2), with $132 billion annualized run rate, and AWS operating income of $11.4 billion.",
+      "verbatim_quote": "North America segment, third-quarter revenue was $106.3 billion, an increase of 11% year-over-year.",
+      "claim": "North America segment revenue was $106.3 billion in Q3 2025, up 11% year-over-year.",
       "categorizations": [
         "segment_growth_specific"
       ],
@@ -1137,13 +1053,97 @@
       }
     },
     {
-      "id": "AMZN-FY2025Q3-027",
-      "turn_index": 27,
+      "id": "AMZN-FY2025Q3-023",
+      "turn_index": 22,
       "speaker_id": "brian-olsavsky",
-      "verbatim_quote": "Now turning to our cash CapEx, which was $34.2 billion in Q3. We've now spent $89.9 billion so far this year.",
-      "claim": "Amazon's Q3 2025 cash CapEx was $34.2 billion, bringing the year-to-date 2025 total to $89.9 billion.",
+      "verbatim_quote": "International segment revenue was $40.9 billion, an increase of 10% year-over-year, excluding the impact of foreign exchange.",
+      "claim": "International segment revenue was $40.9 billion in Q3 2025, up 10% year-over-year excluding FX.",
       "categorizations": [
-        "financial_structure_or_capital_action"
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2025Q3-024",
+      "turn_index": 23,
+      "speaker_id": "brian-olsavsky",
+      "verbatim_quote": "Worldwide paid units grew 11% year-over-year.",
+      "claim": "Worldwide paid units grew 11% year-over-year in Q3 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2025Q3-025",
+      "turn_index": 23,
+      "speaker_id": "brian-olsavsky",
+      "verbatim_quote": "in Q3, worldwide third-party seller unit mix was 62%, up 200 basis points from Q3 of last year.",
+      "claim": "Worldwide third-party seller unit mix was 62% in Q3 2025, up 200 basis points year-over-year.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2025Q3-026",
+      "turn_index": 24,
+      "speaker_id": "brian-olsavsky",
+      "verbatim_quote": "North America segment operating income was $4.8 billion, with an operating margin of 4.5%.",
+      "claim": "North America segment operating income was $4.8 billion with a 4.5% margin in Q3 2025.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2025Q3-027",
+      "turn_index": 24,
+      "speaker_id": "brian-olsavsky",
+      "verbatim_quote": "International segment operating income was $1.2 billion, with an operating margin of 2.9%.",
+      "claim": "International segment operating income was $1.2 billion with a 2.9% margin in Q3 2025.",
+      "categorizations": [
+        "margin_trajectory_specific"
       ],
       "extraction_tags": [
         "explicit_forward_or_present_tense_assertion",
@@ -1159,12 +1159,12 @@
     },
     {
       "id": "AMZN-FY2025Q3-028",
-      "turn_index": 28,
+      "turn_index": 25,
       "speaker_id": "brian-olsavsky",
-      "verbatim_quote": "Looking ahead, we expect our full-year cash CapEx to be approximately $125 billion in 2025, and we expect that amount will increase in 2026.",
-      "claim": "Amazon expects full-year 2025 cash CapEx of approximately $125 billion and expects CapEx to increase further in 2026.",
+      "verbatim_quote": "we're making notable strides in improving inventory placement to speed up delivery to customers. For the third year in a row, we are on track to deliver our fastest speeds ever for Prime members in 2025.",
+      "claim": "Amazon is on track to deliver its fastest speeds ever for Prime members in 2025.",
       "categorizations": [
-        "financial_structure_or_capital_action"
+        "operational_metric_specific"
       ],
       "extraction_tags": [
         "explicit_forward_or_present_tense_assertion",
@@ -1180,10 +1180,115 @@
     },
     {
       "id": "AMZN-FY2025Q3-029",
-      "turn_index": 29,
+      "turn_index": 25,
       "speaker_id": "brian-olsavsky",
-      "verbatim_quote": "our third-quarter net income of $21.2 billion includes a pre-tax gain of $9.5 billion related to our investment in Anthropic.",
-      "claim": "Amazon's Q3 2025 net income of $21.2 billion includes a $9.5 billion pre-tax gain from its Anthropic investment.",
+      "verbatim_quote": "we're making notable strides in improving inventory placement... including a reduction of U.S. inbound lead time by nearly four days compared to last year.",
+      "claim": "Amazon reduced U.S. inbound lead time by nearly four days compared to the prior year.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2025Q3-030",
+      "turn_index": 26,
+      "speaker_id": "brian-olsavsky",
+      "verbatim_quote": "Advertising revenue was $17.7 billion, and growth accelerated for the third consecutive quarter.",
+      "claim": "Advertising revenue was $17.7 billion in Q3 2025, with growth accelerating for the third consecutive quarter.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2025Q3-031",
+      "turn_index": 26,
+      "speaker_id": "brian-olsavsky",
+      "verbatim_quote": "AWS segment, revenue was $33 billion, up 20.2% year-over-year.",
+      "claim": "AWS revenue was $33 billion in Q3 2025, up 20.2% year-over-year.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2025Q3-032",
+      "turn_index": 27,
+      "speaker_id": "brian-olsavsky",
+      "verbatim_quote": "AWS revenue increased $2.1 billion quarter over quarter and now has an annualized revenue run rate of $132 billion.",
+      "claim": "AWS revenue increased $2.1 billion quarter-over-quarter, reaching an annualized run rate of $132 billion.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2025Q3-033",
+      "turn_index": 27,
+      "speaker_id": "brian-olsavsky",
+      "verbatim_quote": "AWS operating income was $11.4 billion",
+      "claim": "AWS operating income was $11.4 billion in Q3 2025.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2025Q3-034",
+      "turn_index": 27,
+      "speaker_id": "brian-olsavsky",
+      "verbatim_quote": "cash CapEx, which was $34.2 billion in Q3. We've now spent $89.9 billion so far this year.",
+      "claim": "Cash CapEx was $34.2 billion in Q3 2025, with $89.9 billion spent year-to-date.",
       "categorizations": [
         "financial_structure_or_capital_action"
       ],
@@ -1200,11 +1305,116 @@
       }
     },
     {
-      "id": "AMZN-FY2025Q3-030",
+      "id": "AMZN-FY2025Q3-035",
+      "turn_index": 28,
+      "speaker_id": "brian-olsavsky",
+      "verbatim_quote": "Looking ahead, we expect our full-year cash CapEx to be approximately $125 billion in 2025",
+      "claim": "Amazon expects full-year 2025 cash CapEx to be approximately $125 billion.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AMZN-FY2025Q3-036",
+      "turn_index": 28,
+      "speaker_id": "brian-olsavsky",
+      "verbatim_quote": "we expect that amount will increase in 2026.",
+      "claim": "Amazon expects cash CapEx to increase in 2026.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AMZN-FY2025Q3-037",
+      "turn_index": 29,
+      "speaker_id": "brian-olsavsky",
+      "verbatim_quote": "our third-quarter net income of $21.2 billion includes a pre-tax gain of $9.5 billion related to our investment in Anthropic.",
+      "claim": "Q3 2025 net income was $21.2 billion, including a $9.5 billion pre-tax gain from the Anthropic investment.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2025Q3-038",
       "turn_index": 33,
       "speaker_id": "andy-jassy",
-      "verbatim_quote": "we brought in quite a bit of capacity, as I mentioned in my opening comments, 3.8 GW of capacity in the last year, with another gigawatt plus coming in the fourth quarter. We expect to double our overall capacity by the end of 2027.",
-      "claim": "Amazon expects to double its overall AWS power and data center capacity by end of 2027, with at least 1 GW of additional capacity coming in Q4 2025.",
+      "verbatim_quote": "We expect to double our overall capacity by the end of 2027.",
+      "claim": "Amazon expects to double its overall AWS capacity by the end of 2027.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "long-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AMZN-FY2025Q3-039",
+      "turn_index": 34,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "Trainium3 should preview at the end of this year with much fuller volumes coming in the beginning of 2026.",
+      "claim": "Trainium3 is expected to preview at the end of 2025 with fuller volumes in early 2026.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AMZN-FY2025Q3-040",
+      "turn_index": 40,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "I expect Trainium3 will be about 40% better than Trainium2",
+      "claim": "Amazon expects Trainium3 to be approximately 40% better in price performance than Trainium2.",
       "categorizations": [
         "capacity_or_capability_delivery"
       ],
@@ -1221,53 +1431,11 @@
       }
     },
     {
-      "id": "AMZN-FY2025Q3-031",
-      "turn_index": 34,
-      "speaker_id": "andy-jassy",
-      "verbatim_quote": "Trainium3 should preview at the end of this year with much fuller volumes coming in the beginning of 2026.",
-      "claim": "Amazon's Trainium3 chip is expected to preview at end of 2025 with fuller volume availability beginning in early 2026.",
-      "categorizations": [
-        "capacity_or_capability_delivery"
-      ],
-      "extraction_tags": [
-        "explicit_forward_or_present_tense_assertion",
-        "verifiable_against_subsequent_disclosure_or_financial_statement",
-        "attributable_to_specific_speaker",
-        "falsifiable_within_eight_quarter_window"
-      ],
-      "hedging": "softly_hedged",
-      "override_window": "immediate",
-      "resolution": {
-        "finding": "unresolved"
-      }
-    },
-    {
-      "id": "AMZN-FY2025Q3-032",
-      "turn_index": 40,
-      "speaker_id": "andy-jassy",
-      "verbatim_quote": "I expect Trainium3 will be about 40% better than Trainium2, and Trainium2 is already very advantaged on price performance.",
-      "claim": "Amazon expects Trainium3 to deliver approximately 40% better price performance than Trainium2.",
-      "categorizations": [
-        "competitive_or_market_position_claim"
-      ],
-      "extraction_tags": [
-        "explicit_forward_or_present_tense_assertion",
-        "verifiable_against_subsequent_disclosure_or_financial_statement",
-        "attributable_to_specific_speaker",
-        "falsifiable_within_eight_quarter_window"
-      ],
-      "hedging": "softly_hedged",
-      "override_window": "immediate",
-      "resolution": {
-        "finding": "unresolved"
-      }
-    },
-    {
-      "id": "AMZN-FY2025Q3-033",
+      "id": "AMZN-FY2025Q3-041",
       "turn_index": 48,
       "speaker_id": "andy-jassy",
-      "verbatim_quote": "If you look at our entire grocery business, if I don't even count Whole Foods Market and Fresh, in the last 12 months, it's over $100 billion of gross merchandising sales, which would make us a top-three grocery in the U.S.",
-      "claim": "Amazon's grocery business excluding Whole Foods and Fresh generated over $100 billion in gross merchandising sales in the 12 months preceding Q3 2025, making it a top-three U.S. grocer.",
+      "verbatim_quote": "in the last 12 months, it's over $100 billion of gross merchandising sales",
+      "claim": "Amazon's grocery business (excluding Whole Foods and Fresh) generated over $100 billion in gross merchandising sales in the last 12 months.",
       "categorizations": [
         "revenue_trajectory_specific"
       ],
@@ -1280,15 +1448,15 @@
       "hedging": "unhedged",
       "override_window": "retrospective",
       "resolution": {
-        "finding": "unverifiable"
+        "finding": "validated"
       }
     },
     {
-      "id": "AMZN-FY2025Q3-034",
-      "turn_index": 51,
+      "id": "AMZN-FY2025Q3-042",
+      "turn_index": 49,
       "speaker_id": "andy-jassy",
-      "verbatim_quote": "We've now expanded that to 1,000 cities around the U.S. We'll be in 2,300 by the end of the year.",
-      "claim": "Amazon's perishable grocery same-day delivery service is available in 1,000 U.S. cities as of Q3 2025 and will expand to 2,300 cities by end of 2025.",
+      "verbatim_quote": "We'll expand our Whole Foods physical presence over the coming years here.",
+      "claim": "Amazon plans to expand its Whole Foods physical presence over the coming years.",
       "categorizations": [
         "geographic_or_regional_rollout"
       ],
@@ -1299,7 +1467,70 @@
         "falsifiable_within_eight_quarter_window"
       ],
       "hedging": "softly_hedged",
+      "override_window": "long-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AMZN-FY2025Q3-043",
+      "turn_index": 51,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "We've now expanded that to 1,000 cities around the U.S. We'll be in 2,300 by the end of the year.",
+      "claim": "Amazon expanded perishable grocery same-day delivery to 1,000 U.S. cities and expects to reach 2,300 by year-end.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
       "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AMZN-FY2025Q3-044",
+      "turn_index": 56,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "We have over a million robots in our fulfillment network at this point.",
+      "claim": "Amazon has over one million robots in its fulfillment network.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2025Q3-045",
+      "turn_index": 56,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "I expect that we'll have more over a period of time.",
+      "claim": "Amazon expects to increase the number of robots in its fulfillment network over time.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "long-horizon",
       "resolution": {
         "finding": "unresolved"
       }

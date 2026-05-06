@@ -1,0 +1,702 @@
+{
+  "company_id": "real",
+  "company_name": "Real Brokerage",
+  "ticker": "REAX",
+  "period": "FY2025_Q4",
+  "call_label": "Q4 2025",
+  "recipient": {
+    "name": "Ravi Jani",
+    "title": "CFO"
+  },
+  "findings": {
+    "meta": {
+      "element": 1,
+      "type": "findings",
+      "company_id": "real",
+      "company_name": "Real Brokerage",
+      "ticker": "REAX",
+      "recipient": {
+        "name": "Ravi Jani",
+        "title": "CFO"
+      },
+      "reference_call": "FY2025_Q4",
+      "reference_label": "Q4 2025",
+      "corpus_size": 11
+    },
+    "findings": [
+      {
+        "id": "volume",
+        "label": "Commitment volume",
+        "sentence": "Real Brokerage generated 57 forward-looking commitments in your Q4 2025 earnings call, the highest count of any company in our eleven-company corpus for that quarter — two ahead of Alphabet, Microsoft, Netflix, and Nvidia, which each produced 55.\n",
+        "anchor": {
+          "value": 57,
+          "unit": "commitments",
+          "call": "Q4 2025"
+        },
+        "rank": 1,
+        "tied_at_rank_2": [
+          "Alphabet",
+          "Microsoft",
+          "Netflix",
+          "Nvidia"
+        ],
+        "tied_count": 55
+      },
+      {
+        "id": "conviction",
+        "label": "Conviction",
+        "sentence": "Your unhedged commitment rate of 81% in Q4 2025 is the second highest in the corpus, behind only Alphabet at 95% — every other company fell below 77%.\n",
+        "anchor": {
+          "value": 81,
+          "unit": "pct_unhedged",
+          "call": "Q4 2025"
+        },
+        "rank": 2,
+        "rank_1": {
+          "company": "Alphabet",
+          "value": 95
+        },
+        "rank_3": {
+          "company": "eXp Realty",
+          "value": 77
+        }
+      },
+      {
+        "id": "category_shift",
+        "label": "Category shift",
+        "sentence": "For six consecutive quarters — Q1 2024 through Q2 2025 — operational metrics were Real's single largest commitment category every time; in Q4 2025 that position shifted to margin trajectory for the first time, as margin commitments rose from 6 (12% of total) in Q2 2025 to 17 (30%) in Q4 2025 while operational commitments fell from 18 to 10.\n",
+        "streak": {
+          "category": "operational_metric_specific",
+          "length": 6,
+          "from_call": "Q1 2024",
+          "through_call": "Q2 2025"
+        },
+        "break_call": "Q4 2025",
+        "new_leader": "margin_trajectory_specific",
+        "shift": {
+          "margin": {
+            "from_count": 6,
+            "from_pct": 12,
+            "to_count": 17,
+            "to_pct": 30,
+            "from_call": "Q2 2025",
+            "to_call": "Q4 2025"
+          },
+          "operational": {
+            "from_count": 18,
+            "from_pct": 35,
+            "to_count": 10,
+            "to_pct": 18,
+            "from_call": "Q2 2025",
+            "to_call": "Q4 2025"
+          }
+        }
+      }
+    ],
+    "call_history": {
+      "note": "Q3 2025 not in corpus",
+      "calls": [
+        {
+          "label": "Q1 2024",
+          "period": "FY2024_Q1",
+          "total_statements": 52,
+          "unhedged_pct": 75,
+          "top_category": "operational_metric_specific",
+          "operational_metric_specific": {
+            "count": 16,
+            "pct": 31
+          },
+          "margin_trajectory_specific": {
+            "count": 13,
+            "pct": 25
+          }
+        },
+        {
+          "label": "Q2 2024",
+          "period": "FY2024_Q2",
+          "total_statements": 50,
+          "unhedged_pct": 78,
+          "top_category": "operational_metric_specific",
+          "operational_metric_specific": {
+            "count": 18,
+            "pct": 36
+          },
+          "margin_trajectory_specific": {
+            "count": 13,
+            "pct": 26
+          }
+        },
+        {
+          "label": "Q3 2024",
+          "period": "FY2024_Q3",
+          "total_statements": 45,
+          "unhedged_pct": 84,
+          "top_category": "operational_metric_specific",
+          "operational_metric_specific": {
+            "count": 18,
+            "pct": 40
+          },
+          "margin_trajectory_specific": {
+            "count": 9,
+            "pct": 20
+          }
+        },
+        {
+          "label": "Q4 2024",
+          "period": "FY2024_Q4",
+          "total_statements": 65,
+          "unhedged_pct": 65,
+          "top_category": "operational_metric_specific",
+          "operational_metric_specific": {
+            "count": 24,
+            "pct": 37
+          },
+          "margin_trajectory_specific": {
+            "count": 18,
+            "pct": 28
+          }
+        },
+        {
+          "label": "Q1 2025",
+          "period": "FY2025_Q1",
+          "total_statements": 47,
+          "unhedged_pct": 74,
+          "top_category": "operational_metric_specific",
+          "operational_metric_specific": {
+            "count": 16,
+            "pct": 34
+          },
+          "margin_trajectory_specific": {
+            "count": 8,
+            "pct": 17
+          }
+        },
+        {
+          "label": "Q2 2025",
+          "period": "FY2025_Q2",
+          "total_statements": 51,
+          "unhedged_pct": 84,
+          "top_category": "operational_metric_specific",
+          "operational_metric_specific": {
+            "count": 18,
+            "pct": 35
+          },
+          "margin_trajectory_specific": {
+            "count": 6,
+            "pct": 12
+          }
+        },
+        {
+          "label": "Q4 2025",
+          "period": "FY2025_Q4",
+          "total_statements": 57,
+          "unhedged_pct": 81,
+          "top_category": "margin_trajectory_specific",
+          "operational_metric_specific": {
+            "count": 10,
+            "pct": 18
+          },
+          "margin_trajectory_specific": {
+            "count": 17,
+            "pct": 30
+          }
+        }
+      ]
+    },
+    "corpus_comparison": {
+      "quarter": "Q4 2025",
+      "companies": [
+        {
+          "company_id": "real",
+          "company_name": "Real Brokerage",
+          "subject": true,
+          "total_statements": 57,
+          "unhedged_pct": 81
+        },
+        {
+          "company_id": "alphabet",
+          "company_name": "Alphabet",
+          "total_statements": 55,
+          "unhedged_pct": 95
+        },
+        {
+          "company_id": "microsoft",
+          "company_name": "Microsoft",
+          "total_statements": 55,
+          "unhedged_pct": 73
+        },
+        {
+          "company_id": "netflix",
+          "company_name": "Netflix",
+          "total_statements": 55,
+          "unhedged_pct": 62
+        },
+        {
+          "company_id": "nvidia",
+          "company_name": "Nvidia",
+          "total_statements": 55,
+          "unhedged_pct": 65
+        },
+        {
+          "company_id": "exp",
+          "company_name": "eXp Realty",
+          "total_statements": 51,
+          "unhedged_pct": 77
+        },
+        {
+          "company_id": "apple",
+          "company_name": "Apple",
+          "total_statements": 50,
+          "unhedged_pct": 68
+        },
+        {
+          "company_id": "meta",
+          "company_name": "Meta",
+          "total_statements": 49,
+          "unhedged_pct": 67
+        },
+        {
+          "company_id": "oracle",
+          "company_name": "Oracle",
+          "total_statements": 46,
+          "unhedged_pct": 74
+        },
+        {
+          "company_id": "amazon",
+          "company_name": "Amazon",
+          "total_statements": 38,
+          "unhedged_pct": 74
+        },
+        {
+          "company_id": "tesla",
+          "company_name": "Tesla",
+          "total_statements": 0,
+          "unhedged_pct": null
+        }
+      ]
+    }
+  },
+  "spotlight": {
+    "meta": {
+      "element": 2,
+      "type": "commitment_spotlight",
+      "company_id": "real",
+      "company_name": "Real Brokerage",
+      "ticker": "REAX",
+      "recipient": {
+        "name": "Ravi Jani",
+        "title": "CFO"
+      },
+      "reference_call": "FY2025_Q4",
+      "reference_label": "Q4 2025",
+      "call_date": "2026-03-05T00:00:00.000Z",
+      "call_title": "Real Brokerage Q4 2025 Earnings Call Transcript",
+      "call_url": "https://www.marketbeat.com/earnings/reports/2026-3-5-the-real-brokerage-inc-stock/"
+    },
+    "statement": {
+      "id": "REAX-FY2025Q4-047",
+      "claim": "The company expects year-over-year improvements in GAAP and non-GAAP profitability metrics for full-year 2026.\n",
+      "verbatim_quote": "which should result in year-over-year improvements in both GAAP and non-GAAP profitability metrics for the full-year 2026",
+      "speaker": {
+        "id": "ravi-jani",
+        "name": "Ravi Jani",
+        "role": "CFO at The Real Brokerage"
+      },
+      "location": {
+        "turn_index": 21,
+        "timestamp": "00:17:23"
+      },
+      "passage": {
+        "before": "On a full-year basis, we expect the fundamental trends of organic growth significantly outpacing the broader industry to persist. We also remain confident in our ability to drive revenue and gross profit growth at a faster rate than operating expenses,",
+        "highlight": "which should result in year-over-year improvements in both GAAP and non-GAAP profitability metrics for the full-year 2026",
+        "after": ". More details on our results and key operating metrics can be found in the earnings press release and investor presentation that accompany this call. I'll now turn it back to Tamir."
+      },
+      "classification": {
+        "hedging": {
+          "value": "softly_hedged",
+          "label": "Softly hedged",
+          "explanation": "The CFO qualified the commitment with \"should result\" rather than asserting it as certain. The claim is stated as a confident expectation, not a guarantee."
+        },
+        "override_window": {
+          "value": "mid-horizon",
+          "label": "Mid-horizon",
+          "range": "12–24 months",
+          "explanation": "The commitment covers full-year 2026. With the call on March 5, 2026, resolution requires the FY2026 annual report, expected approximately nine months from the call date."
+        },
+        "categorizations": [
+          {
+            "id": "margin_trajectory_specific",
+            "label": "Margin trajectory"
+          }
+        ],
+        "resolution": {
+          "finding": "unresolved",
+          "label": "Unresolved",
+          "as_of": "2026-05-05T00:00:00.000Z",
+          "explanation": "FY2026 results have not yet been reported. This commitment is active and will be evaluated against the full-year 2026 earnings disclosure."
+        }
+      },
+      "extraction_tags": [
+        {
+          "id": "explicit_forward_or_present_tense_assertion",
+          "label": "Explicit forward assertion"
+        },
+        {
+          "id": "verifiable_against_subsequent_disclosure_or_financial_statement",
+          "label": "Verifiable against subsequent disclosure"
+        },
+        {
+          "id": "attributable_to_specific_speaker",
+          "label": "Attributable to specific speaker"
+        },
+        {
+          "id": "falsifiable_within_eight_quarter_window",
+          "label": "Falsifiable within eight-quarter window"
+        }
+      ]
+    }
+  },
+  "comparison": {
+    "meta": {
+      "element": 3,
+      "type": "comparison_table",
+      "company_id": "real",
+      "company_name": "Real Brokerage",
+      "ticker": "REAX",
+      "recipient": {
+        "name": "Ravi Jani",
+        "title": "CFO"
+      },
+      "peer_company_id": "exp",
+      "peer_company_name": "eXp Realty",
+      "peer_ticker": "EXPI",
+      "brief_date": "2026-05-05T00:00:00.000Z"
+    },
+    "scope": {
+      "label": "Trailing four calls per company",
+      "real": {
+        "calls": [
+          "FY2024_Q4",
+          "FY2025_Q1",
+          "FY2025_Q2",
+          "FY2025_Q4"
+        ],
+        "labels": [
+          "Q4 2024",
+          "Q1 2025",
+          "Q2 2025",
+          "Q4 2025"
+        ],
+        "note": "Q3 2025 not in corpus",
+        "total_statements": 220
+      },
+      "exp": {
+        "calls": [
+          "FY2025_Q1",
+          "FY2025_Q2",
+          "FY2025_Q3",
+          "FY2025_Q4"
+        ],
+        "labels": [
+          "Q1 2025",
+          "Q2 2025",
+          "Q3 2025",
+          "Q4 2025"
+        ],
+        "total_statements": 204
+      }
+    },
+    "metrics": [
+      {
+        "id": "statements_per_call",
+        "label": "Statements per call",
+        "scope": "t4q_average",
+        "real": {
+          "value": 55,
+          "range": {
+            "min": 47,
+            "max": 65
+          },
+          "by_call": {
+            "FY2024_Q4": 65,
+            "FY2025_Q1": 47,
+            "FY2025_Q2": 51,
+            "FY2025_Q4": 57
+          }
+        },
+        "exp": {
+          "value": 51,
+          "range": {
+            "min": 44,
+            "max": 55
+          },
+          "by_call": {
+            "FY2025_Q1": 44,
+            "FY2025_Q2": 54,
+            "FY2025_Q3": 55,
+            "FY2025_Q4": 51
+          }
+        },
+        "edge": {
+          "leader": "real",
+          "delta": 4,
+          "direction": "higher_is_more"
+        },
+        "interpretation": "Real generates more commitments per call on average, but with wider variance (47–65 vs 44–55). The 65-statement Q4 2024 call is an outlier; the two companies are effectively similar in recent quarters."
+      },
+      {
+        "id": "unhedged_pct",
+        "label": "Unhedged %",
+        "scope": "t4q_aggregate",
+        "note": "Aggregate across all statements in the trailing four calls, not an average of per-call rates.",
+        "real": {
+          "value": 75.5,
+          "numerator": 166,
+          "denominator": 220,
+          "by_call": {
+            "FY2024_Q4": {
+              "unhedged": 42,
+              "total": 65,
+              "pct": 65
+            },
+            "FY2025_Q1": {
+              "unhedged": 35,
+              "total": 47,
+              "pct": 74
+            },
+            "FY2025_Q2": {
+              "unhedged": 43,
+              "total": 51,
+              "pct": 84
+            },
+            "FY2025_Q4": {
+              "unhedged": 46,
+              "total": 57,
+              "pct": 81
+            }
+          }
+        },
+        "exp": {
+          "value": 80.9,
+          "numerator": 165,
+          "denominator": 204,
+          "by_call": {
+            "FY2025_Q1": {
+              "unhedged": 37,
+              "total": 44,
+              "pct": 84
+            },
+            "FY2025_Q2": {
+              "unhedged": 39,
+              "total": 54,
+              "pct": 72
+            },
+            "FY2025_Q3": {
+              "unhedged": 50,
+              "total": 55,
+              "pct": 91
+            },
+            "FY2025_Q4": {
+              "unhedged": 39,
+              "total": 51,
+              "pct": 76
+            }
+          }
+        },
+        "edge": {
+          "leader": "exp",
+          "delta": 5.4,
+          "direction": "higher_is_more"
+        },
+        "interpretation": "eXp edges Real on T4Q aggregate, but the picture reverses in the most recent quarter: Real 81% vs eXp 76% in Q4 2025. Real's T4Q drag comes from Q4 2024 (65%), its highest-volume call and one that included more qualified guidance."
+      },
+      {
+        "id": "validation_rate",
+        "label": "Validation rate",
+        "scope": "t4q_aggregate",
+        "real": {
+          "value": 63.6,
+          "numerator": 140,
+          "denominator": 220,
+          "unresolved": 80,
+          "not_validated": 0,
+          "by_call": {
+            "FY2024_Q4": {
+              "validated": 34,
+              "total": 65,
+              "pct": 52
+            },
+            "FY2025_Q1": {
+              "validated": 30,
+              "total": 47,
+              "pct": 64
+            },
+            "FY2025_Q2": {
+              "validated": 35,
+              "total": 51,
+              "pct": 69
+            },
+            "FY2025_Q4": {
+              "validated": 41,
+              "total": 57,
+              "pct": 72
+            }
+          }
+        },
+        "exp": {
+          "value": 78.9,
+          "numerator": 161,
+          "denominator": 204,
+          "unresolved": 43,
+          "not_validated": 0,
+          "by_call": {
+            "FY2025_Q1": {
+              "validated": 35,
+              "total": 44,
+              "pct": 80
+            },
+            "FY2025_Q2": {
+              "validated": 43,
+              "total": 54,
+              "pct": 80
+            },
+            "FY2025_Q3": {
+              "validated": 50,
+              "total": 55,
+              "pct": 91
+            },
+            "FY2025_Q4": {
+              "validated": 33,
+              "total": 51,
+              "pct": 65
+            }
+          }
+        },
+        "edge": {
+          "leader": "exp",
+          "delta": 15.3,
+          "direction": "higher_is_more"
+        },
+        "interpretation": "The largest gap in the table: eXp resolves 79% of its commitments against subsequent disclosures vs Real's 64%. The difference is not accuracy — neither company has a single not_validated statement in the corpus. It is forward-looking density: Real carries 80 unresolved statements in trailing four calls vs eXp's 43. Real is on the hook for nearly twice as many future claims."
+      },
+      {
+        "id": "top_category",
+        "label": "Top category",
+        "scope": "most_recent_call",
+        "real": {
+          "call": "FY2025_Q4",
+          "label": "Q4 2025",
+          "value": "margin_trajectory_specific",
+          "display_label": "Margin trajectory",
+          "count": 17,
+          "pct": 30,
+          "t4q_context": "First margin-leading quarter in seven calls; operational metric led the prior six quarters (T4Q: ops 68, margin 49)."
+        },
+        "exp": {
+          "call": "FY2025_Q4",
+          "label": "Q4 2025",
+          "value": "operational_metric_specific",
+          "display_label": "Operational metric",
+          "count": 20,
+          "pct": 39,
+          "t4q_context": "Operational metric led all four trailing calls without exception (T4Q: ops 86, second-place capacity delivery 23)."
+        },
+        "edge": {
+          "leader": null,
+          "direction": "qualitative"
+        },
+        "interpretation": "Real shifted its commitment center of gravity to margin in Q4 2025 for the first time, while eXp held consistent operational-metric focus across all four trailing calls. These are different investor communication strategies, not a better/worse comparison."
+      },
+      {
+        "id": "override_window_distribution",
+        "label": "Override window mix",
+        "scope": "t4q_aggregate",
+        "real": {
+          "total": 220,
+          "retrospective": {
+            "count": 140,
+            "pct": 64
+          },
+          "forward_looking": {
+            "count": 72,
+            "pct": 33
+          },
+          "indefinite": {
+            "count": 8,
+            "pct": 4
+          },
+          "forward_detail": {
+            "immediate": {
+              "count": 41,
+              "pct": 19
+            },
+            "near_term": {
+              "count": 19,
+              "pct": 9
+            },
+            "mid_horizon": {
+              "count": 12,
+              "pct": 5
+            },
+            "long_horizon": {
+              "count": 0,
+              "pct": 0
+            }
+          }
+        },
+        "exp": {
+          "total": 204,
+          "retrospective": {
+            "count": 161,
+            "pct": 79
+          },
+          "forward_looking": {
+            "count": 41,
+            "pct": 20
+          },
+          "indefinite": {
+            "count": 2,
+            "pct": 1
+          },
+          "forward_detail": {
+            "immediate": {
+              "count": 8,
+              "pct": 4
+            },
+            "near_term": {
+              "count": 28,
+              "pct": 14
+            },
+            "mid_horizon": {
+              "count": 1,
+              "pct": 0
+            },
+            "long_horizon": {
+              "count": 4,
+              "pct": 2
+            }
+          }
+        },
+        "edge": {
+          "leader": "real",
+          "delta": 13,
+          "direction": "higher_forward_is_more_committed"
+        },
+        "interpretation": "Real commits 33% of its statements to forward-looking windows vs eXp's 20%. Structurally different: Real leans on immediate claims (19%) while eXp leans on near-term (14%). Real also carries the only material mid-horizon share (5% vs 0%), consistent with management giving full-year guidance that extends beyond the next quarter."
+      }
+    ]
+  },
+  "footer": {
+    "meta": {
+      "element": 4,
+      "type": "footer",
+      "company_id": "real",
+      "company_name": "Real Brokerage",
+      "recipient": {
+        "name": "Ravi Jani",
+        "title": "CFO"
+      }
+    },
+    "text": "We produced this analysis on Real Brokerage using only public earnings call transcripts. We would welcome thirty minutes to walk you through the longitudinal patterns and comparative context behind these findings."
+  }
+}
