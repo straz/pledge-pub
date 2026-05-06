@@ -1,0 +1,1856 @@
+{
+  "company_id": "compass",
+  "title": "Compass Q4 2025 Earnings Call Transcript",
+  "datetime": "2026-02-26T22:00:00Z",
+  "period": "FY2025_Q4",
+  "location": "",
+  "url": "https://www.marketbeat.com/earnings/reports/2026-2-26-compass-inc-stock/",
+  "people": [
+    {
+      "id": "operator",
+      "name": "Operator",
+      "role": ""
+    },
+    {
+      "id": "soham-bhonsle",
+      "name": "Soham Bhonsle",
+      "role": "Head of Investor Relations at Compass, Inc"
+    },
+    {
+      "id": "robert-reffkin",
+      "name": "Robert Reffkin",
+      "role": "Founder and CEO at Compass, Inc"
+    },
+    {
+      "id": "scott-wahlers",
+      "name": "Scott Wahlers",
+      "role": "CFO at Compass, Inc"
+    },
+    {
+      "id": "jason-helfstein",
+      "name": "Jason Helfstein",
+      "role": "Managing Director and Head of Internet Research at Oppenheimer"
+    },
+    {
+      "id": "dae-lee",
+      "name": "Dae Lee",
+      "role": "VP of Equity Research at JPMorgan"
+    },
+    {
+      "id": "alec-brondolo",
+      "name": "Alec Brondolo",
+      "role": "Senior Equity Research Associate at Wells Fargo"
+    },
+    {
+      "id": "ryan-mckeveny",
+      "name": "Ryan McKeveny",
+      "role": "Managing Director of Equity Research at Zelman"
+    },
+    {
+      "id": "",
+      "name": "",
+      "role": "Analyst at Deutsche Bank"
+    },
+    {
+      "id": "michael-ng",
+      "name": "Michael Ng",
+      "role": "Managing Director of Global Investment Research at Goldman Sachs"
+    },
+    {
+      "id": "elizabeth-langan",
+      "name": "Elizabeth Langan",
+      "role": "Assistant VP of Equity Research at Barclays"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:00:00",
+      "text": "Hello, everyone. Thank you for joining us, and welcome to the Compass, Inc. 2025 Q4 earnings call. After today's prepared remarks, we will host a question and answer session. If you would like to ask a question, please press star one on your telephone keypad. To withdraw your question, press star one again. I would now like to turn our call over to Soham Bhonsle, Head of Investor Relations. Please go ahead."
+    },
+    {
+      "speaker_id": "soham-bhonsle",
+      "speaker_name": "Soham Bhonsle",
+      "speaker_role": "Head of Investor Relations at Compass, Inc",
+      "timestamp": "00:00:28",
+      "text": "Thank you very much, operator, good afternoon, everybody, and thank you for joining the Compass fourth quarter 2025 earnings call. Joining us today will be Robert Reffkin, our Founder and CEO, and Scott Wahlers, our Chief Financial Officer. In discussing our company's performance, we will refer to some non-GAAP measures. You can find the reconciliation of these non-GAAP measures to the most directly comparable GAAP measures in our fourth quarter 2025 earnings release posted on our investor relations website. Any discussion regarding organic revenue, organic OpEx, organic transactions, or organic GTV excludes activity from businesses we acquired since October 1, 2024. We will make forward-looking statements that are based on our current expectations, forecasts, and assumptions and involve risks and uncertainties."
+    },
+    {
+      "speaker_id": "soham-bhonsle",
+      "speaker_name": "Soham Bhonsle",
+      "speaker_role": "Head of Investor Relations at Compass, Inc",
+      "timestamp": "00:01:24",
+      "text": "These statements include our guidance for the first quarter of 2026, the recently closed Anywhere transaction, and full year 2026 and beyond, including comments related to our expectations or operational achievements. Our actual results may differ materially from these statements. You can find more information about risks, uncertainties, and other factors that could affect our results in the most recent annual report on Form 10-K, filed with the SEC and available on our investor relations website. You should not place undue reliance on any forward-looking statements. All information in this presentation is as of today's date, February 26th. We expressly disclaim any obligation to update this information. I will now turn the call over to Robert Reffkin. Robert?"
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass, Inc",
+      "timestamp": "00:02:19",
+      "text": "Good afternoon, and thank you for joining us for our fourth quarter conference call. I am thrilled to speak with you today for the first time as CEO and Chairman of our newly combined company, which serves 340,000 real estate professionals and over 2,000 franchise broker-owners across 120 countries and territories. On today's call, I will be discussing five topics. First, I will provide a quick recap of our record Q4 in 2025 results. Second, I'll discuss the historic Rocket Redfin partnership we just announced and how it significantly expands home seller choice and provides extraordinary value to our real estate professionals. Third, I'll touch on our four sustainable financial advantages. Fourth, an update on our integration and cost synergy efforts. I'll end by touching on AI and why I believe it will become a structural tailwind for our business."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass, Inc",
+      "timestamp": "00:03:23",
+      "text": "Starting with our Q4 results. In Q4, Compass delivered record fourth quarter revenue of $1.7 billion, delivered record fourth quarter adjusted EBITDA of $58 million. Both our revenue and adjusted EBITDA came in above the high end of our guide. We also delivered record fourth quarter adjusted EBITDA margin, delivered the best organic principal agent recruiting quarter for Q4, as we added 830 principal agents. The Compass platform hit a Q4 record of 20 average weekly sessions per agent. We grew our Q4 title and escrow revenue to record levels. We grew our mortgage JV earnings to record Q4 levels. Lastly, we grew our title and escrow attach in our legacy markets to all-time highs in Q4."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass, Inc",
+      "timestamp": "00:04:16",
+      "text": "2025 was also a record year for Compass, as we generated approximately $7 billion in revenue, surpassing our prior peak of $6.4 billion in 2021, when the housing market was approximately 50% above current levels of annualized home sales. We generated adjusted EBITDA of $293 million, which was the highest ever in our history, and we produced operating cash flow of $217 million, which is also an all-time high for the company. None of these results would have been possible without each and every member of the Compass team. I want to sincerely thank the entire team for their maniacal execution and unwavering hard work in what has been, by any objective measure, one of the toughest housing markets in a generation."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass, Inc",
+      "timestamp": "00:05:08",
+      "text": "Let me touch on the unprecedented step we took today to ensure home seller choice through our partnership with Rocket Redfin. At Compass, we firmly believe that home sellers deserve the right to freely market their home when, where, and how they want. We also believe that home sellers should also have the right to publicly market their listings without negative insights such as days on market and price drop history, amongst others. Currently, however, the Zillow ban forces home sellers to give them their listings within 24 hours of publicly marketing a property, even if they don't want to be on Zillow, and places negative insights such as days on market and price drop history on all listings. This is just wrong."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass, Inc",
+      "timestamp": "00:05:54",
+      "text": "Home sellers should have the freedom to publicly market their home wherever and however they want, without the fear of being banned off a platform. The Rocket Redfin partnership we announced today stands up for home seller choice as it provides homeowners the flexibility in how they introduce their homes to the market and does not subject homeowners to any negative insights for listings off Zillow. There are four highly accretive pillars to this partnership. First, our agents will have the opportunity to receive 1.2 million high intent leads from redfin.com and Rocket Mortgage over the course of our three-year strategic alliance. The partnership is also structured in a way to provide us with an increase in lead flow in each of the three years, with potential upside in year three depending on conversion rates."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass, Inc",
+      "timestamp": "00:06:44",
+      "text": "Second, our unique inventory will be on redfin.com, with all leads on these listings routed directly to our listing agents across all of our brands, including but not limited to @properties, Better Homes and Gardens Real Estate, CENTURY 21, Christie's International Real Estate, Coldwell Banker, Compass, Corcoran, ERA, and Sotheby's International Realty. This will supercharge the amount of unique inventory publicly marketed on redfin.com in our brokerage websites because more homeowners will choose to become sellers. For example, homeowners who are reluctant to put their homes for sale for fear of negative insights or due to the time of the year before the fall market, in the winter, over the summer, will now have access to 60 million monthly active users without the risk of days on market or price drop history, and their Coming Soon listings will be prioritized on Redfin."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass, Inc",
+      "timestamp": "00:07:40",
+      "text": "This will bring more inventory to the market because it eliminates the artificial barrier that home sellers have to list their home, such as days on market, price drop history. Keep in mind, only 4 million people buy homes a year, so 60 million consumers reflects 15 times the amount of buyers that are buying a year. Third, with this partnership, we are reclaiming the digital yard sign for our agents and our brokerage brands as our agent's name and their brokerage affiliation will be prominently displayed on each unique listing. This benefit cannot be understated as it will significantly expand consumer awareness of our agents and our nine brokerage brands."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass, Inc",
+      "timestamp": "00:08:24",
+      "text": "We believe the partnership will make home buying more affordable by increasing the amount of inventory on the market that otherwise would not be there, and by offering home buyers one percentage point off their mortgage rate in year one or up to $6,000 in lender paid credits through Rocket Mortgage. I would like to discuss the four sustainable financial advantages we are focused on going forward, including a higher than industry revenue per transaction, a leading cost to serve position in the industry, an expanding LTV per agent, and lastly, lower customer acquisition costs. Starting with our higher than industry revenue per transaction. We expect to achieve this by becoming the leader in delivering value-added services for real estate professionals through platform-driven attach as opposed to just the traditional channels used by other brokerages."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass, Inc",
+      "timestamp": "00:09:22",
+      "text": "This includes current services such as title and escrow, mortgage, home insurance, home warranty, and moving services, also potential future services we may consider, such as solar, home security, and other agent services such as property marketing, business spend, digital ads, property videos, 3D renderings, real estate sign production, open house brochures, photography, and more. With an incremental TAM of more than $150 billion from these value-added services, Compass's potential revenue per transaction could be multiples above the industry average, creating a sustainable financial advantage relative to our competitors. Our second sustainable financial advantage will be to have the lowest cost to serve position in the industry. Since 2021, we have already reduced our cost to serve per transaction at Compass by over 30%, driven by platform improvements, process optimization, offshoring, and AI."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass, Inc",
+      "timestamp": "00:10:24",
+      "text": "However, with Anywhere, we see significant opportunity to lower our cost to serve further as we, one, build a best-in-class centralized services operation that'll be the most efficient in the industry. Two, offshore more back-end operations. Three, leverage AI to automate workflows and expand self-service tools on the platform. As early proof of how AI can help lower our combined cost to serve, in the five short months since we rolled out an enterprise-wide AI learn effort at Compass, the team has already identified potential annualized efficiencies in the vicinity of $20 million, 2% of our Compass OPEX, which should allow us to limit OPEX growth as the business grows. At Anywhere, approximately two-thirds of all documents in their brokerage business are already processed through AI-driven automation."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass, Inc",
+      "timestamp": "00:11:18",
+      "text": "Anywhere's AI-based document assignment engine already operates at 89% accuracy and will continue to learn from the largest transaction data set in the industry. Furthermore, Anywhere is also extending their capabilities through agentic AI, including automation of wire claims to accelerate resolution and help agents get paid faster, which lowers cost but also improves the agent experience. By doing all of the above and ultimately establishing the lowest cost to serve position in the industry, we believe we will be able to drive better brokerage incremental margins than in the past, which should serve us well, particularly as industry volumes begin to normalize. Our third sustainable financial advantage will be our expanding LTV per agent...."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass, Inc",
+      "timestamp": "00:12:09",
+      "text": "As we bring more than 340,000 of our real estate professionals onto one connected platform. By connecting our franchise broker-owners and real estate professionals through one seamless platform, we will scale our best-in-class listing tools, coaching innovative marketing programs, and AI capabilities to help grow their business and help them make more money by better serving their clients. As we scale our offerings in a tech-forward manner, we believe we'll be able to drive better agent and franchise retention, higher agent and franchise productivity, higher attach on value-added services, improved agent outcomes, and lower recruiting costs. Our fourth sustainable financial advantage will be our declining cost of customer acquisition as we execute on our strategy to become the number one destination for buyers to find real estate professionals and homes for sale."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass, Inc",
+      "timestamp": "00:13:05",
+      "text": "As awareness around our unique inventory grows via the Rocket Redfin partnership, we believe more and more home buyers will seek out our agents' listings and our agents for their advice. This will lower our customer acquisition cost as our share of voice in the market increases and should provide our agents with incremental business opportunities. Bringing it all together, by combining our four sustainable financial advantages with what will continue to be a maniacal focus on OpEx and cost synergies, we believe we will build a more durable business model, where adjusted EBITDA grows faster than revenue growth in the future. Let me provide an update on our integration efforts and cost synergy targets. First, on integration. I want to start by saying how pleased I am by how well both our management teams are working together."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass, Inc",
+      "timestamp": "00:13:59",
+      "text": "Since close, we've made great progress by deploying best practices in integration, including establishing a transformation office that will be the single control tower to ensure we are achieving our targets, setting a clear roadmap to create a more efficient organization across each of our business units, and quickly creating clarity around the organization's spans and layers. Additionally, in the 6.5 weeks since closing the transaction, I've had the opportunity to spend time with countless employees, franchise broker-owners, real estate professionals across all of Anywhere's six brands in many, many markets. Two themes have emerged from my conversations. First, there is broad-based excitement to be a part of the transformation our companies are going through. Second, the agents and broker-owners are really excited to get access to the technology platform."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass, Inc",
+      "timestamp": "00:14:53",
+      "text": "This excitement is bearing itself out in the numbers as well, as Anywhere's GCI retention rate in its top two quartile of agents, representing 91% of Anywhere's own brokerage GCI over the trailing 12-month period, hit the highest level ever recorded in the month of January. Shifting over to our cost synergies. On our Q3 earnings call back in November, we stated a target of realizing $150 million in synergies in the first year and $300 million in net cost synergies over three years. I'm pleased to say that since close, just the 6.5 weeks since close, we have actioned approximately $175 million in cost synergies."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass, Inc",
+      "timestamp": "00:15:43",
+      "text": "Based on the pace at which the team is moving, as well as their ability to collaborate and share data, I am making a CEO commitment to action $250 million of cost synergies in the first year. As we spent more time working together as a collective team, we have increased confidence in our cost synergy opportunity. I'm now making a CEO commitment to action $400 million in net cost synergies over three years. I look forward to updating you on our progress against our improved goals in the coming quarters. I want to end by talking about the three components of our business that not only protect us from the threats of AI, but strengthen our business in the context of AI. The first is our proprietary data. The second is trust."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass, Inc",
+      "timestamp": "00:16:35",
+      "text": "I want to be clear, Compass isn't in the business of brokering information. It's in the business of brokering trust, we believe trust will become even more valuable in a world with AI. Third is the positive network effects driven by our 340,000 agents, which strengthens our platform. Starting with proprietary data, we all know that AI is less of a threat for companies with proprietary data, we all know that the Zillow ban and approximately 40% of MLSs have restricted rules that force brokerages to make their proprietary data public. With the Rocket Redfin partnership and the efforts I expect Compass and Rocket to take, I'm confident that MLSs and Zillow will no longer be in a position to force brokerages to make their proprietary data public."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass, Inc",
+      "timestamp": "00:17:32",
+      "text": "We currently already have more than 20,000 Make Me Sell listings that are only available at Compass. With the Rocket Redfin partnership, we believe we will have a large number of Coming Soon and Private Exclusive listings that will help grow our proprietary data. Our second pillar is trust. Compass is not a traditional SaaS company, as we operate in the high trust advisory business. This distinction is significant. AI can replicate software features. We don't believe it can replicate trusted human judgment in a highly emotional, high-stakes, high-ticket transaction. Buying a home is not like any other purchase. It's one of the most significant and complicated transactions in people's lives. Buying a home is also much more than just searching for a property."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass, Inc",
+      "timestamp": "00:18:28",
+      "text": "A buyer seeks out a real estate professional because they know they will need the expertise and emotional support when negotiating and navigating the purchase of a home. They seek out a real estate professional not just for information that is already available online, but for information on what's going to happen in the future, such as when the neighbor a few doors over might be ready for the next move because their kids just graduated college. They seek out a professional to serve as the last line of defense during a walkthrough at the closing. When the agent they are working with spots uneven floors or smells a wet basement and helps them negotiate a seller credit. I've been reading the same AI reports as everyone else. The reports that are addressing what could happen in a potential future for real estate."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass, Inc",
+      "timestamp": "00:19:20",
+      "text": "The quick summary is my AI agent will sell my house to your AI agent. They will do the best job, and no one else is needed in the transaction process. In our 13 years with Compass, I've seen a lot of things. I remember in the beginning, the biggest pain points for people were fake rental listings. We started off in the rental space. You would see a listing, it was fake. You'd reach out to the agent, they will tell you they can show you the listing, and then last minute switch it up and say, \"Listing is gone, but I have something else to show you.\" AI will do that on steroids. The writers in some of these reports assume that real estate is clean and fair and that everyone is playing nice."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass, Inc",
+      "timestamp": "00:20:06",
+      "text": "In real life, you have thousands of fake AI agents generating fake listings to bait you. Hundreds of fake AI agents will give AI agents false lowball bids to try and get them to price drop. Fake AI agents will list fake listings to try to change comp prices to get higher prices. It's going to get wild. I think the value of Compass will skyrocket in that world. The only solution will be closed networks of trust. People think Compass's core is brokering information. It's not. It's brokering trust. In the very near future, unless you have a great agent that is real, transacting with agents that our network deems trustworthy, you will not be able to transact safely. The MLS data will be corrupted. Open sites will be filled with noise. Private listings and private networks with real people will be the only trusted source."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass, Inc",
+      "timestamp": "00:21:05",
+      "text": "I just don't see a meaningful amount of buyers letting a bot negotiate with a seller's agent. If that were the case, then you would already be seeing people buying homes based off of Zestimate. You'd see people selling homes based off Zestimate, and they're not doing that. Real estate is highly personal, and the value of a home isn't solely determined based on the generic data and facts about the home. The value is driven by a buyer's and seller's personal connection to the home. In this world, Compass's value proposition will strengthen as we build a highly trusted environment for buyers, sellers, and agents to own and manage their data with uncompromising privacy."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass, Inc",
+      "timestamp": "00:21:49",
+      "text": "For the same reasons the internet did not replace agents but actually increased consumers' use of them over the past 20 years, we believe that the winners of the future will not be the companies that simply have AI, but those that use it to amplify trusted agents at scale, like Compass. Our third and final pillar is positive network effects of our 340,000 real estate professionals that strengthens our platform. This network serves as a large, continuous positive feedback loop for our platform. We believe as agentic AI becomes more common, the platforms with the most domain experts actively training and interacting with the system will win. Our agents are encoding real-world, localized transactional logic into our platform every single day, creating a network effect that cannot be replicated by horizontal AI tools or legacy brokerages."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass, Inc",
+      "timestamp": "00:22:45",
+      "text": "At Compass, we are using AI to eliminate friction, allowing our agents to focus on winning and closing clients, and by fully integrating it into the agent workflow to maximize productivity. By giving 340,000 real estate professionals countless hours back every week, allowing them to focus on winning listings, advising clients, and closing deals, we are going to help them to close more transactions. When evaluating Compass through this lens, we believe we possess the exact pillars to thrive in the world of agentic AI. With that, I will now hand it over to Scott."
+    },
+    {
+      "speaker_id": "scott-wahlers",
+      "speaker_name": "Scott Wahlers",
+      "speaker_role": "CFO at Compass, Inc",
+      "timestamp": "00:23:22",
+      "text": "Thanks, Robert. Q4 was a landmark quarter for Compass, setting all-time Q4 records, both financially and operationally. Revenue reached $1.7 billion, a 23% increase year-over-year, beating the high end of our guidance. Even on an organic basis, excluding M&A, we grew 11.3%. For the 19th consecutive quarter, every quarter since our IPO, Compass outperformed the market, including during Q4 with organic transactions of 5.6% versus a 1% market increase. Quarterly principal agent retention was a solid 96.8%. During the quarter, we added 830 principal agents, which was a fourth quarter record, despite not being able to recruit any of the Anywhere agents due to the pending merger during Q4."
+    },
+    {
+      "speaker_id": "scott-wahlers",
+      "speaker_name": "Scott Wahlers",
+      "speaker_role": "CFO at Compass, Inc",
+      "timestamp": "00:24:16",
+      "text": "Know that because Anywhere does not have the same agent count methodology for principal agents as Compass does, we do not intend to provide principal agent count starting in Q1. We will continue to provide total agent counts. Gross Transaction Value was $65.6 billion in the fourth quarter, an increase of 21.6% from a year ago, reflecting the 19.7% increase in total transactions, combined with an increase in average selling price of about 2%. The increase in our average selling price was closer to 5% on an organic basis. Our acquisitions over the past year primarily operate in markets with lower average selling prices compared to our organic average selling price, which brings down the overall average."
+    },
+    {
+      "speaker_id": "scott-wahlers",
+      "speaker_name": "Scott Wahlers",
+      "speaker_role": "CFO at Compass, Inc",
+      "timestamp": "00:25:04",
+      "text": "Our commissions and other related expense as a percentage of revenue was 81.5% for the quarter, compared to Q4 of last year at 82.5%, or an improvement of over 100 basis points year-over-year, primarily driven by the impact of our January 2025 acquisition of Christie's International Real Estate, which has more favorable margins. Excluding M&A, our commissions and other related expense as a percentage of revenue improved 13 basis points for the quarter versus a year ago. This is due to a positive impact from higher margin new development and title revenue, partially offset by about 10 basis points attributable to the impact of geo mix on the brokerage business."
+    },
+    {
+      "speaker_id": "scott-wahlers",
+      "speaker_name": "Scott Wahlers",
+      "speaker_role": "CFO at Compass, Inc",
+      "timestamp": "00:25:45",
+      "text": "Our total non-GAAP operating expenses were $259 million in Q4, an increase from $224 million of OpEx in the year ago period, which was largely driven by M&A, including the OpEx we assumed from the January 2025 acquisition of Christie's International Real Estate and a number of other brokerage and title companies we acquired this year. Excluding the impact of M&A, our non-GAAP OpEx was up only about 1%. I'd like to also point out that even on a full year basis, when excluding the additional OpEx assumed from M&A, our organic OpEx was only up 1% over 2024. We have demonstrated discipline to manage organic OpEx growth to within 3%-4% annually, and this past year, we greatly exceeded that goal."
+    },
+    {
+      "speaker_id": "scott-wahlers",
+      "speaker_name": "Scott Wahlers",
+      "speaker_role": "CFO at Compass, Inc",
+      "timestamp": "00:26:31",
+      "text": "Adjusted EBITDA was $58.3 million, a strong improvement of 249% from adjusted EBITDA of $16.7 million a year ago. Adjusted EBITDA exceeded the high end of our original guidance range by 19% and also represented a record level of adjusted EBITDA for any fourth quarter period. Adjusted EBITDA benefited from the higher revenue, better gross margins, and a continued strong discipline on operating expenses. During the fourth quarter, we incurred $10.6 million of transaction expenses related to the announced merger with Anywhere, primarily legal fees and investment banking fees, which is shown in the Anywhere merger transaction and integration expense line on the P&L, and is excluded from our non-GAAP operating expenses for purposes of calculating adjusted EBITDA."
+    },
+    {
+      "speaker_id": "scott-wahlers",
+      "speaker_name": "Scott Wahlers",
+      "speaker_role": "CFO at Compass, Inc",
+      "timestamp": "00:27:21",
+      "text": "You'll see the expenses on this line jump in Q1 as we recognize the expenses in connection with the closing of the transaction and additional expenses throughout 2026 as we drive our integration efforts, which I'll touch on a little later. Stock-based compensation expense in the quarter was $57.5 million and in line with our guidance. As a reminder, during our Q1 results last year, we explained that our stock-based compensation levels would be elevated during the second, third, and fourth quarters of 2025 due to a change in our methodology for granting employee equity and the accounting rules related to that change. These higher priced awards will start to vest out at the end of Q1, and you'll begin to see a step down beginning in Q2 of 2026 on the base Compass business."
+    },
+    {
+      "speaker_id": "scott-wahlers",
+      "speaker_name": "Scott Wahlers",
+      "speaker_role": "CFO at Compass, Inc",
+      "timestamp": "00:28:07",
+      "text": "This decline is expected to be partially offset, with some levels of incremental expense coming through from the Anywhere employee base. We'll provide more details next quarter as we finalize this impact. As you consider your models, you should expect that stock-based compensation on a consolidated basis will not exceed $50 million in any future quarter, beginning in Q2 of this year. That said, as part of the change in control severance provisions for some of the former Anywhere executives, there will be an incremental one-time charge for stock-based compensation recorded in Q1. GAAP net loss was $42.6 million in Q4, compared to GAAP net loss of $40.5 million a year ago."
+    },
+    {
+      "speaker_id": "scott-wahlers",
+      "speaker_name": "Scott Wahlers",
+      "speaker_role": "CFO at Compass, Inc",
+      "timestamp": "00:28:47",
+      "text": "However, excluding the $10.6 million in deal-related expenses from the Anywhere transaction, GAAP net loss would have been $32 million, an $8.5 million improvement compared to the year-ago period. Our basic weighted average share count for the fourth quarter was 572 million, which was in line with our prior guidance. As for cash, we generated $42.2 million in free cash flow in the fourth quarter, which represented the eighth consecutive quarter of positive free cash flow generation. We ended the fourth quarter with $199 million of cash and cash equivalents on the balance sheet."
+    },
+    {
+      "speaker_id": "scott-wahlers",
+      "speaker_name": "Scott Wahlers",
+      "speaker_role": "CFO at Compass, Inc",
+      "timestamp": "00:29:25",
+      "text": "On January 7, 2026, we completed the issuance of $1 billion in convertible notes at a highly attractive coupon of just a quarter of a percentage point, which was used to pay off Anywhere's revolver of $500 million at the closing. Using the 0.25% coupon on the convertible debt to pay off Anywhere's revolver at higher interest rates, provided for immediate annualized cash interest savings of $25 million. The convertible debt offering has a conversion price of $15.98 per share and was structured with a capped call derivative instrument to protect shareholders from dilution up to a conversion price of $23.68 per share."
+    },
+    {
+      "speaker_id": "scott-wahlers",
+      "speaker_name": "Scott Wahlers",
+      "speaker_role": "CFO at Compass, Inc",
+      "timestamp": "00:30:08",
+      "text": "After considering the cost of the cap call and the related issuance costs, the net proceeds received on the fundraise were $880 million. We have moved aggressively on synergies. In just seven weeks, we have already actioned $175 million of our cost synergy target. The heavy lifting of headcount and vendor consolidation is already underway. Some of the remaining synergies will involve deeper operational integration, which naturally takes longer to execute. However, the progress to date in such a short period of time following the close of the transaction certainly de-risks our ability to attain our full cost synergy goals and provides early proof points on what we can deliver together as a combined company."
+    },
+    {
+      "speaker_id": "scott-wahlers",
+      "speaker_name": "Scott Wahlers",
+      "speaker_role": "CFO at Compass, Inc",
+      "timestamp": "00:30:53",
+      "text": "It is important to distinguish between actions taken and the timing of the realization of these actions in the financial statements and where the benefit will be realized in the financial statements. On the timing point, some of these actions taken to date had an immediate effect, such as day one personnel reductions. Other actions have terms ranging over the next three, six or nine months as the case of certain personnel reductions with associated retention periods or vendor contracts with varying end dates. Some new operating leases that we entered into to consolidate space or move to smaller square footage don't take effect until the fourth quarter of this year or early 2027. Additionally, because these actions were completed at various points throughout the first quarter, including this week, there will only be a modest benefit to Q1."
+    },
+    {
+      "speaker_id": "scott-wahlers",
+      "speaker_name": "Scott Wahlers",
+      "speaker_role": "CFO at Compass, Inc",
+      "timestamp": "00:31:45",
+      "text": "To help with your models on the bookends, you could plan for $5 million of realization in Q1 of 2026 and $44 million of realization in Q4 of 2026, with some level of quarterly increases between those two data points. The $44 million to be realized in Q4 of 2026 represents 25% of the $175 million already actioned. In the aggregate, this would result in about $100 million realized in 2026. These cost synergies will be realized either as reduced operating expenses in the P&L or reduced capitalization to the balance sheet. In either case, they will benefit free cash flow. Historically, Anywhere has capitalized a large amount of technology labor to its balance sheet, approximately $80 million in 2025."
+    },
+    {
+      "speaker_id": "scott-wahlers",
+      "speaker_name": "Scott Wahlers",
+      "speaker_role": "CFO at Compass, Inc",
+      "timestamp": "00:32:37",
+      "text": "As part of our cost synergy work, a significant portion of the projects that have been subject to capitalization in the past will be cut as we shift the technology focus to the Compass platform. Therefore, of the roughly $100 million in synergies to be realized in 2026 that I just referenced, I'd assume slightly more than half will be reflected as reduced CapEx in 2026, and the remaining will be reflected as reduced OpEx in 2026. Since our cost synergies were just actioned in the last six and a half weeks, these are still directional estimates, but next quarter I'll be able to provide you a better distribution of how the synergies will be reflected in our financials."
+    },
+    {
+      "speaker_id": "scott-wahlers",
+      "speaker_name": "Scott Wahlers",
+      "speaker_role": "CFO at Compass, Inc",
+      "timestamp": "00:33:16",
+      "text": "As a last point on this topic, note that there will be cost to achieve these action synergies during Q1 and in future quarters, which will include in the merger transaction and integration line in the P&L, which will be excluded from adjusted EBITDA but will impact cash flow. For modeling purposes as a placeholder, you could assume up to 50% of action synergies for an estimate of the costs to achieve. Turning to financial guidance for Q1, which now includes the impact of the Anywhere transaction. For the first quarter of 2026, we expect consolidated revenue, including the revenue from the Anywhere transaction, in the range of $2.55 billion-$2.75 billion."
+    },
+    {
+      "speaker_id": "scott-wahlers",
+      "speaker_name": "Scott Wahlers",
+      "speaker_role": "CFO at Compass, Inc",
+      "timestamp": "00:34:00",
+      "text": "While Q1 is the seasonally lightest quarter, we've observed softness in specific markets in January and particularly February due to the extreme winter weather and record snowfall across most of the country. Per NAR, January existing home sales in the U.S. of 3.9 million units were down 4.4% from last January, with Winter Storm Fern being a call-out in their release as many closings were delayed. This is also supported by MBA's data point that mortgage purchase applications fell 14% in the final week of January and the first week of February as much of the country was snowed in. Q1 is our toughest year-over-year comparison in 2026 as we grew total revenue by 29% and organic revenue grew by 15% in Q1 of last year. To be clear, we believe these are short-term, weather-driven timing issues."
+    },
+    {
+      "speaker_id": "scott-wahlers",
+      "speaker_name": "Scott Wahlers",
+      "speaker_role": "CFO at Compass, Inc",
+      "timestamp": "00:34:54",
+      "text": "The structural health of the housing market remains sound. With mortgage rates at three-year lows, stable financial markets, and positive year-over-year inventory growth, we are optimistic heading into the spring selling season. For Q1 revenue guidance, keep in mind that while the revenue from the Anywhere transaction is included in Q1, the first eight days of the quarter are excluded as we close the transaction on January 9th. We expect consolidated adjusted EBITDA to be in the range of $15 million-$35 million. Since Q1 is the first quarter that will include Anywhere's results, I'll provide some color on the contributions to the adjusted EBITDA line. However, we're quickly integrating this transaction, so going forward, we won't be providing guidance or actual results on a separate company basis."
+    },
+    {
+      "speaker_id": "scott-wahlers",
+      "speaker_name": "Scott Wahlers",
+      "speaker_role": "CFO at Compass, Inc",
+      "timestamp": "00:35:44",
+      "text": "Breaking down the consolidated adjusted EBITDA guide for Q1, essentially all of the contribution is expected to come from Compass, whereas the contribution to the adjusted EBITDA guidance in Q1 from the Anywhere entities is negative. If you further unpack the Anywhere portion of the adjusted EBITDA guide, there are a few items that you should take into consideration. First, consistent with Anywhere's public comments on its Q3 2025 earnings, Anywhere saw an elevated level of expense related to its employees' long-term incentive plan, or LTIP. Anywhere's LTIP is comprised of cash-settled RSUs, which require mark-to-market accounting through its P&L. The run-up in Anywhere stock price, especially at the time of the September 22nd announcement of the transaction, drove higher operating expenses in its Q3 period."
+    },
+    {
+      "speaker_id": "scott-wahlers",
+      "speaker_name": "Scott Wahlers",
+      "speaker_role": "CFO at Compass, Inc",
+      "timestamp": "00:36:32",
+      "text": "Anywhere's continued stock appreciation through the January ninth, 2026, closing date will also drive higher OpEx from the LTIP in Q1, as these awards continue to vest in future periods. Second, Anywhere disclosed during its Q3 earnings release that it experienced a significant spike in healthcare benefit costs in Q3, and that higher level of expense continued through Q4, and is expected to be the new baseline in 2026. Third, as a result of the purchase accounting for the Anywhere transaction, we're required to reset the straight-line rent calculations of the Anywhere office leases for GAAP accounting purposes over the remaining lease periods following January ninth, which has the effect of increasing the amount of GAAP rent expense we'll recognize post-acquisition by about $4 million-$5 million per quarter going forward, or $16 million-$20 million on the full year."
+    },
+    {
+      "speaker_id": "scott-wahlers",
+      "speaker_name": "Scott Wahlers",
+      "speaker_role": "CFO at Compass, Inc",
+      "timestamp": "00:37:25",
+      "text": "While this doesn't change the cash commitments of the office leases, it's a normal purchase accounting adjustment that increases GAAP rent expense. When you add up the expenses for these three items, the LTIP, the healthcare costs, and the GAAP rent item, compared to the Q1 period of last year, it amounts to an incremental expense in the range of $15 million-$20 million in the first quarter guide for the Anywhere component, or seventeen and a half million dollars at the midpoint. Adjusting for these items, our adjusted EBITDA guidance for Q1 would have been $32.5 million-$47.5 million. We expect our weighted average share count for the first quarter to be between 720 million-730 million shares."
+    },
+    {
+      "speaker_id": "scott-wahlers",
+      "speaker_name": "Scott Wahlers",
+      "speaker_role": "CFO at Compass, Inc",
+      "timestamp": "00:38:10",
+      "text": "This includes the impact of the 167 million shares that we issued in January for the Anywhere transaction. For OpEx, while we are not providing a specific range for the full year at this time, as we're completing the purchase accounting process, to provide some direction for your models, be sure to consider in your baseline the standard inflation assumption we use of 3%-4% on both the historical Compass and Anywhere OpEx, an incremental $20 million of annualized OpEx from the wraparound effect of midyear 2025 M&A. The $16 million-$20 million increase that I referenced earlier in GAAP operating lease expenses as a result of the purchase accounting reset. Of course, these items will be offset by the net cost synergies that we realize in year."
+    },
+    {
+      "speaker_id": "scott-wahlers",
+      "speaker_name": "Scott Wahlers",
+      "speaker_role": "CFO at Compass, Inc",
+      "timestamp": "00:38:57",
+      "text": "We'll provide additional updates on OpEx next quarter after we finalize our purchase accounting for the transaction. A few thoughts on cash balances and debt levels. As you think about cash levels, note that Compass ended the year with $199 million of cash, and as a frame of reference, Anywhere's cash as of year-end was $139 million. January cash activity reflects $880 million of net proceeds from the convertible debt issuance, partially offset by $500 million used to repay Anywhere's revolver, and approximately $175 million of day one transaction cash outflows. Note that transaction costs and the cash used for costs to achieve will run through the operating cash flow line."
+    },
+    {
+      "speaker_id": "scott-wahlers",
+      "speaker_name": "Scott Wahlers",
+      "speaker_role": "CFO at Compass, Inc",
+      "timestamp": "00:39:43",
+      "text": "Additionally, payments for Anywhere's annual employee bonus and LTIP programs are scheduled for payout in the first quarter and will also come through the operating cash flow line. As a result, we will report materially negative free cash flow in Q1. We will return to free cash flow positive in future quarters, excluding the impact of any one-time items for the transaction and the cost to achieve our cost synergies. Finally, regarding debt levels, we now have long-term debt of $3.15 billion, which includes the $1 billion of newly issued convertible debt, plus $2.15 billion of Anywhere's four tranches of notes that we assumed as part of the closing of the transaction."
+    },
+    {
+      "speaker_id": "scott-wahlers",
+      "speaker_name": "Scott Wahlers",
+      "speaker_role": "CFO at Compass, Inc",
+      "timestamp": "00:40:25",
+      "text": "We don't expect to prepay any of the debt in advance of at least April of 2027 due to the nature of the call provisions on the two tranches of debt with the highest interest rates. For clarity, when I refer to the $3.15 billion of debt, I'm specifically excluding the securitization facilities for Anywhere's Cartus business and Compass's Concierge activity, as these securitization facilities are more operational in nature. As a reminder, in November 2025, we replaced our revolving credit facility with a new facility that originally had a capacity of $250 million. That capacity automatically increased to a half a billion dollars at the time of the closing of the Anywhere transaction in January, and remains fully undrawn at this time. I would now like to turn the call over to the operator to begin Q&A."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:41:23",
+      "text": "We will now begin the question and answer session. Please limit yourself to one question and one follow-up. If you would like to ask a question, please press star one on your telephone keypad. To withdraw your question, press star one again. Please pick up your handset when asking a question, and if you're muted locally, please remember to unmute your device. Please stand by while we compile the Q&A roster. Your first question comes from the line of Dae Lee with JPMorgan. Your line is open. Please go ahead. Your question comes from Jason Helfstein with Oppenheimer. Your line is open. Please go ahead."
+    },
+    {
+      "speaker_id": "jason-helfstein",
+      "speaker_name": "Jason Helfstein",
+      "speaker_role": "Managing Director and Head of Internet Research at Oppenheimer",
+      "timestamp": "00:42:36",
+      "text": "Hey, everybody. Thanks for all the disclosure. Definitely take us some time to unpack this, but appreciate kind of all of it. When we have talked to folks who've been kind of bearish on your exclusive strategy, the pushback has been, well, if Zillow can get all of the other brokerages to work with them exclusively, doesn't that, like, tilt the scale? Clearly, you know, you getting, it seems like, you know, Redfin to partner with you, that would kind of now moot that point. Maybe elaborate on, you know, I guess is there anything that you see now that could be an impediment to kind of the three-phase marketing strategy working now that you're partnering with Redfin? I guess just how should we think about the economics for Redfin as part of this transaction?"
+    },
+    {
+      "speaker_id": "jason-helfstein",
+      "speaker_name": "Jason Helfstein",
+      "speaker_role": "Managing Director and Head of Internet Research at Oppenheimer",
+      "timestamp": "00:43:29",
+      "text": "Is there anything you can share? Not transaction, but agreement. Thank you."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass, Inc",
+      "timestamp": "00:43:33",
+      "text": "You know, absolutely. On your first question on things that can get in the way of the exclusive strategy. Look, the exclusive strategy, as you know very well, is just homeowner choice. If you're asking Will things get in the way of homeowner choice or can they permanently get in the way of homeowner choice? I don't think so. In the, in choice versus control, homeowner choice versus platform control, homeowner choice will win because it's the seller's home. It's not a platform's home, it's the seller's home. What we're doing is we're competing on giving as many options as possible to the seller, so they can market their home when, where, and how they feel. Since the last launch, we launched Undisclosed Address."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass, Inc",
+      "timestamp": "00:44:20",
+      "text": "As you know, the Zillow ban bans the listing address on and won't put it on that portal's site if it markets outside of the portal for more than 24 hours. Our agents came to us, and they said, \"Hey, why don't you let me Undisclosed Address?\" Because if that portal doesn't know the address, they can't ban it. That's just one of many things that are coming through the pipeline, you know, where we will just continue to give sellers more choice. No seller wants less choices. They want more choices. The feedback on this isn't just great for not have being banned by the dominant portal in the industry."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass, Inc",
+      "timestamp": "00:45:07",
+      "text": "It's also great because it allows sellers, the privacy when they want to get public exposure, but without the risk. There are people that want public exposure. Let's say you're getting, you know, you're getting divorced. You don't want your kids to know, and you're moving, and you want to public market your home, but you don't want the address there. There's so many different reasons that this provides that more choices provide value. In terms of the economics, I'll highlight it this way. I've already had, through this call, I mean, it looks like over five agents reach out to me asking if they can talk about coming to Compass because of the leads."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass, Inc",
+      "timestamp": "00:45:50",
+      "text": "We have $1.2 million Rocket Mortgage Redfin leads that will come to our agents as part of this. All the agents in our network of brands. That makes it something that agents want to stay for, feel value for, want to come for. Your broker-owners, your franchise affiliates, it makes them feel, see value and wants to come and stay and continue their franchise agreements. In addition to those leads, This is an exclusive partnership, our listing agents will be able to go to you, the seller, and say, \"Jason, you have a very special home. You say you want $3 million for it. I think it's probably worth $2.7 million."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass, Inc",
+      "timestamp": "00:46:39",
+      "text": "If you list with anyone else and you're wrong, you're gonna have a price drop that's gonna hurt the value of your home. You may have extended days on market. But we have a partnership with Redfin where I can publicly market your listing to 60 million buyers. No days on market, no negative insights. This changes everything. This is historic. This will change the way people sell and buy homes, because it will give all of our agents and our network of brands a huge advantage when they're pitching, when they're in the living room with the seller trying to get the business. I think the number of listings will grow as a result, bringing new inventory to this company and to the market."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass, Inc",
+      "timestamp": "00:47:16",
+      "text": "You have the buyer inquiries going directly to the listing agents for all of these, which is a huge value add for the agents. And again, lastly, the listings will be prioritized on Redfin. You know, this is something that shows the listing agents that we are fighting for them to have more choices. We are fighting for them and their sellers to have more options. While others are banning and fining them for not giving up their content to them, we're advocating for them."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass, Inc",
+      "timestamp": "00:47:51",
+      "text": "This, you know, this is a moment where, you know, we are fighting for agents to be able to not be banned and fined by dominant platforms and be able to market and meet their fiduciary duty to their sellers. In terms of the financial, we're not sharing that at this time. We probably will in one of the upcoming quarters. You can kind of do your math on what you think the 1.2 million leads would equal."
+    },
+    {
+      "speaker_id": "jason-helfstein",
+      "speaker_name": "Jason Helfstein",
+      "speaker_role": "Managing Director and Head of Internet Research at Oppenheimer",
+      "timestamp": "00:48:19",
+      "text": "Appreciate the color. Thank you."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:48:30",
+      "text": "Your next question comes from the line of Dae Lee with JPMorgan. Your line is open. Please go ahead."
+    },
+    {
+      "speaker_id": "dae-lee",
+      "speaker_name": "Dae Lee",
+      "speaker_role": "VP of Equity Research at JPMorgan",
+      "timestamp": "00:48:39",
+      "text": "Great. Great. Thanks for taking my questions. Sorry, I dropped earlier. Currently, I'm in an AI policy to keep me from getting disconnected. First one, on that topic, I mean, I agree that real estate is personal and emotional, like, as we think about consumers getting more transparency and self-serve tools, like, how do you think about helping your agents communicate their value propositions of that personal and emotional element? Do you feel like you can give them a differentiated AI-enabled value that can, you know, convince consumers to pay those rates and keep the per-transaction economics resilient? Secondly, maybe for Scott, for the combined entity, how should we think about the commission as percent of revenue on a blended basis in 2026?"
+    },
+    {
+      "speaker_id": "dae-lee",
+      "speaker_name": "Dae Lee",
+      "speaker_role": "VP of Equity Research at JPMorgan",
+      "timestamp": "00:49:30",
+      "text": "On a normalized basis, what kind of, free cash flow conversion should we expect?"
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass, Inc",
+      "timestamp": "00:49:37",
+      "text": "First, on AI and value, like I say, a couple of things. Technology, the internet would have. A lot of the things that we were seeing now would have happened, they have said for the last 20 years about the internet. Over the last 20 years, people are using buyer agents more than they were 20 years ago. Just go look at it year after year after year. It's higher than it's ever been. Now, why is that? I think it goes a little bit to the theme I was saying earlier on the call, which is the internet led to a bunch of fake accounts, fake listings, fake postings, and a lot of garbage. We think about, you know, fake news. News was a lot more credible before than today."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass, Inc",
+      "timestamp": "00:50:23",
+      "text": "Now, today, you're, you know, for me, I, I go to Bloomberg. I can trust it. Trust, in the era of more technology, more AI, you're just gonna have less trust and more fake stuff. In our industry with AI, it won't just be fake accounts, fake listings, fake offers. It'll be fake documentation, fake reviews, fake negotiations, fake identities, fake videos, and it's really gonna be all over the place, and that's where agents come in. They shift they deal with all the noise, and they make sure that what you see is real, and what you see is accurate, and that your time is well valued. For a transaction that is literally the most expensive transaction you're gonna make, whether you buy or sell, to pay for certainty has a price, right?"
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass, Inc",
+      "timestamp": "00:51:08",
+      "text": "Confidence has a price. Emotional, you know, the emotional confidence to know that you're not gonna be taken advantage of because you have a great advocate in front of you, but, you know, there's a price for that. Yeah, I think that I'm very confident that, you know, people will continue to pay for the value of the real estate professional. Now, I call it AI for AI, Artificial Intelligence to empower Agent Intelligence. We have AI all throughout our platform, the current environment will let us build faster, build more, build cheaper, and to integrate AI in more exciting ways in the future than we have in the past. This is only going to, I think, help."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass, Inc",
+      "timestamp": "00:51:52",
+      "text": "You know, real estate isn't a transaction, it's a process. You know, technology can eliminate an event, a transaction, but not a process. You know, you have to find the person and build a relationship. Let's call a seller. You have to meet them in person. You have to explain, \"Why work with me? Why work with my firm? What can I provide? What tools I have, what programs do I have?\" You, you're gonna stage it. You're gonna do deep cleaning, cosmetic repair, you know, do flooring, roofing. You know, that, \"Hey, I can't do that.\" You, you're gonna schedule appointments, you're gonna take photos. You're gonna decide which photo is the best photo."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass, Inc",
+      "timestamp": "00:52:25",
+      "text": "Yes, you're gonna use AI to determine which photo is the best photo, but your judgment's gonna be on top of it. And judgment will be more valuable than before because of all the noise in the system."
+    },
+    {
+      "speaker_id": "scott-wahlers",
+      "speaker_name": "Scott Wahlers",
+      "speaker_role": "CFO at Compass, Inc",
+      "timestamp": "00:52:39",
+      "text": "Yeah, Dae, I'll take your question on the gross margin. You know, obviously, we don't have a gross margin line on the P&L, but we talk about gross margin in a shorthand way to recognize the remaining difference after subtracting commissions from revenue. On that basis, on a consolidated level, you can absolutely expect gross margin to go up in the future as a result of the franchise business and the title business coming in from Anywhere that just doesn't have any direct commission expense related to it. Even if you tease out just the brokerage business, margins will also go up as the margins for the Anywhere owned brokerage are better than the gross margins on the Compass side."
+    },
+    {
+      "speaker_id": "scott-wahlers",
+      "speaker_name": "Scott Wahlers",
+      "speaker_role": "CFO at Compass, Inc",
+      "timestamp": "00:53:16",
+      "text": "One way to estimate, get an estimate of what that could look like, is if you look at the pro forma financials that were included in the 8-K we filed, when we announced the transaction. You'll see some estimates there. I'd also note that going forward, we will be providing segment disclosures on the combined business and breaking out the owned brokerage from the franchise business, and then separately, the integrated services, businesses, which will include title and the Cartus relocation, facility. You'll have a lot better information on that next quarter. It's a little bit too early for me to give you those exact numbers now, as we're still bringing that information together."
+    },
+    {
+      "speaker_id": "scott-wahlers",
+      "speaker_name": "Scott Wahlers",
+      "speaker_role": "CFO at Compass, Inc",
+      "timestamp": "00:53:55",
+      "text": "And then on the, on the cash flow, look at, you know, 78%, 70%-80% conversion from EBITDA to free cash flow is probably still a good rule of thumb. We've generally been a little bit on the high end of that range, and it might be more to the lower end of that range, because the one thing you need to consider now going forward is interest expense, which will drive that shift. The, the one call-out, though, is, as I said in the prepared remarks, there's a lot of expenses that will be going out this quarter, in particular, Q1, and for the full year 2026, directly related to this transaction. We're gonna be negative free cash flow for the first quarter, and that'll."
+    },
+    {
+      "speaker_id": "scott-wahlers",
+      "speaker_name": "Scott Wahlers",
+      "speaker_role": "CFO at Compass, Inc",
+      "timestamp": "00:54:35",
+      "text": "You know, you have to kind of look at it on a normalized basis after backing out the $175 million I talked about for transaction expenses and the cost to achieve the synergies. But on a go-forward basis, I think that 70%-80%, adjusted for interest, is probably a reasonable flow-through effect."
+    },
+    {
+      "speaker_id": "dae-lee",
+      "speaker_name": "Dae Lee",
+      "speaker_role": "VP of Equity Research at JPMorgan",
+      "timestamp": "00:54:53",
+      "text": "Got it. Thank you."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:54:56",
+      "text": "Your next question comes from the line of Alec Brondolo with Wells Fargo. Your line is open. Please proceed."
+    },
+    {
+      "speaker_id": "alec-brondolo",
+      "speaker_name": "Alec Brondolo",
+      "speaker_role": "Senior Equity Research Associate at Wells Fargo",
+      "timestamp": "00:55:05",
+      "text": "Hey, thanks so much. I really appreciate the question. Maybe, Robert, one for you. I think that there's two ways that you could have taken this Private Exclusive strategy. Obviously, you settled on the strategy of kind of syndicating the Private Exclusive to Redfin and Rocket in exchange for a lead. I think another direction you could have taken the strategy would have been to syndicate the Private Exclusives onto Compass.com exclusively and try to build traffic into the [own] real estate portal and then develop lead flow over time that way. Could you maybe just help us understand why you went with kind of this modality or this deal over the other one that I proposed? Thank you."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass, Inc",
+      "timestamp": "00:55:43",
+      "text": "Thanks for asking. Look, we in Compass International Holdings have nine incredible sites, all that would connect to our that we're building to connect into our listing platform that has everything from first contact to cash and close for our real estate professionals and their buyers and sellers, all the key buy-side flows, all the key sell-side flows. So yes, we're still building that, investing in that. Those sites I expect to get more and more traffic over time. During the life of this three-year agreement, I think this is a great opportunity to partner with one of the best companies in our space."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass, Inc",
+      "timestamp": "00:56:34",
+      "text": "You know, I think the Rocket Redfin partner shows that another large participant in the industry agrees with our position on home seller choice as it relates to, you know, you know, you know everything that's happening in the market. It'll be nice to have a company of its size and scale advocating for home seller choice alongside us, so we won't be the only one out there. There's other big brokerages, but it'll be nice to have someone really with the resources of a Rocket, you know, behind us advocating all the necessary and important ways. I think that's. That can't be overstated because it, the primary barrier to all this..."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass, Inc",
+      "timestamp": "00:57:18",
+      "text": "This time next year, we should have 200,000 listings that are on our sites, that are publicly on our sites, that are where anyone can search it, that are not on other sites, to bring the consumer to us. That's. It's just that simple. In 2018, 90% of our listings before Clear Cooperation, 90% of them started off as publicly searchable listings on our site as Coming Soons, and for on average 11 days. It was bringing the consumer to our site to search as any normal company would if you weren't being restricted by a nongovernmental entities like NAR. NAR came out with a rule, the Clear Cooperation rule, that said any public marketing of a listing, after 24 hours, you must put in MLS."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass, Inc",
+      "timestamp": "00:58:12",
+      "text": "We were no longer able to have the natural advantage of having these listings on our site. Now with Compass International Holdings and these nine incredible brands, we have over 700,000 listings, I believe, together. What's 90% of that? That's over half a million. Those listings should, without restrictions, if you just take what the world was like in 2018. If you eliminated the Clear Cooperation rule, which is only being enforced in 40% of markets now. 60% of them are giving you the choice in the MLSs. If you eliminate the Zillow ban, which bans anyone that advertises off of Zillow. I mean, just again, imagine if Google banned everyone that advertised off Google, what would the world say?"
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass, Inc",
+      "timestamp": "00:58:58",
+      "text": "But if we eliminate those two things, then we will be able to have hundreds of thousands of listings on our sites, and that's the most important thing for having the independence of the consumer traffic and the demand of consumer traffic that we can give to both our sellers and our agents. We try to do that alone. We continue to try, and we will advocate, but I don't see a scenario where the MLSs will continue to enforce these restrictive rules with Redfin with Rocket on our side. Because, it... One, for two reasons. One, because we now have more resources. Two, because they're going to lose their moral narrative. Their moral narrative, these listings are hidden."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass, Inc",
+      "timestamp": "00:59:57",
+      "text": "These are hidden listings for transparency, fair housing, double-ended, these companies are trying double-ended deals, all that stuff. Hold on. When we're giving our public Coming Soon listings to you, let's just take a market like CRMLS in L.A. or in Dallas, NTREIS, or in Seattle, Northwest MLS. Let's just take all three of those markets. We're gonna give our public listings to Rocket Redfin, publicly searchable with 60 million people. In each of those markets, what's going to happen is that MLS is going to send our agents a fine for up to $5,000. $5,000. I'm gonna look at that piece of paper yeah, and the agent's gonna say, \"Can you help me?\" Yes, we will help them. What are you gonna tell the public then? Is that..."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass, Inc",
+      "timestamp": "01:00:46",
+      "text": "Are you telling me that you're fining the agent $5,000 for marketing that listing publicly on searchable by 60 million people on Redfin, these sites, that you're doing that to protect fair housing? Are you doing that to protect transparency? Are you doing that to ensure that we're not double ending deals? Are you doing this not to protect transparency, but protect your own business model? Right?"
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass, Inc",
+      "timestamp": "01:01:08",
+      "text": "That's, it's gonna expose that. I just, again, that with plus the resources, I think the era of MLSs fining agents for marketing outside the MLS and forcing agents to give their sellers the marketing option of one single thing, the uncompetitive marketing option of one-size-fits-all market option of one single thing, the MLS, versus the dozens of things that would have happened in the free market to help the seller market their home freely, I think that's over. That just really leaves you know, the dominant portal. I think we'll see in the weeks and months ahead how we address that."
+    },
+    {
+      "speaker_id": "alec-brondolo",
+      "speaker_name": "Alec Brondolo",
+      "speaker_role": "Senior Equity Research Associate at Wells Fargo",
+      "timestamp": "01:01:47",
+      "text": "Perfect. Thank you so much."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "01:01:51",
+      "text": "Your next question comes from the line of Ryan McKeveny with Zelman. Your line is open. Please go ahead."
+    },
+    {
+      "speaker_id": "ryan-mckeveny",
+      "speaker_name": "Ryan McKeveny",
+      "speaker_role": "Managing Director of Equity Research at Zelman",
+      "timestamp": "01:01:58",
+      "text": "Hey, thank you, congrats on the results. On the strategic alliance with Rocket Redfin, I guess, first question actually is partially about Anywhere, but ties to the alliance. What's the status of integration of Private Exclusives or Coming Soons from the Anywhere side of things, whether company-owned or franchised into kind of the existing Compass platform? Is that already integrated? If not, what's the timeline for that? Similarly, you know, what should we think about the timeline for either the Coming Soons that'll show up on Redfin versus Private Exclusives showing up on Redfin, and will that initially be, you know, kind of Compass, what I'll call Compass standalone, or will that be across the Anywhere business as well? Thank you."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass, Inc",
+      "timestamp": "01:02:44",
+      "text": "We're launching our technology to all the owned brokerages in our network of brands in July, that's when they will be able to share all of the inventory and access it in all the different ways that Compass has been able to do before. We're launching for the franchise broker owners in January. We have ways to accelerate, and I believe we will be able to give an option towards the end of next month for anyone to be able to create Coming Soons or Private Exclusives in the platform. Again, that'll be ready at the end of next month, then they will have the option to have it go onto Redfin."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass, Inc",
+      "timestamp": "01:03:39",
+      "text": "I would expect the vast majority, you know, 90, you know, 5%+ of our Coming Soon and Private Exclusive to go onto Redfin. That's, it's up for the seller and the agent to do, because we believe in choice. There really is no reason not to get that incremental exposure."
+    },
+    {
+      "speaker_id": "ryan-mckeveny",
+      "speaker_name": "Ryan McKeveny",
+      "speaker_role": "Managing Director of Equity Research at Zelman",
+      "timestamp": "01:04:00",
+      "text": "Got it. That makes sense. I guess on the comments about embedding Rocket Mortgage into the Compass International Holdings platform, I guess what does this mean for like Guaranteed Rate Affinity, OriginPoint side of the business? Any thoughts or anything we should know about on that side of things?"
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass, Inc",
+      "timestamp": "01:04:18",
+      "text": "The way I think about it is Guaranteed Rate is they're our partner, our in-person partner. They're in our offices. While the way I think about it is that Guaranteed, Rocket Mortgage is our digital partner. Guaranteed Rate, you know, the incredible LOs, you know, local partner in the offices, and the relationships at the sales meetings versus the digital partner on our site. Ultimately what we're doing is we're expanding mortgage options for home buyers with this partnership."
+    },
+    {
+      "speaker_id": "ryan-mckeveny",
+      "speaker_name": "Ryan McKeveny",
+      "speaker_role": "Managing Director of Equity Research at Zelman",
+      "timestamp": "01:04:55",
+      "text": "Got it. Thank you very much."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "01:05:00",
+      "text": "Your next question comes from the line of Benjamin Black with Deutsche Bank. Your line is open. Please go ahead."
+    },
+    {
+      "speaker_id": "",
+      "speaker_name": "",
+      "speaker_role": "Analyst at Deutsche Bank",
+      "timestamp": "01:05:07",
+      "text": "Hi, this is Jeff on for Ben. Thanks for taking my question. Maybe just as a quick follow-up on the alliance and the option for home sellers after their Coming Soon goes on Redfin. Are you looking to do that nationally and across, or are you gonna be focusing on the 60% of like MLSs where they're already sort of okay with it? Or maybe with just some color there on how if that'll be more regional or what the options are for sellers. Thanks."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass, Inc",
+      "timestamp": "01:05:42",
+      "text": "Yeah. Well, thank you for asking. No, I am incredibly excited in Northwest MLS with our dear friend, Justin Haag, the CEO, to publicly give listings to Redfin where, you know, where Redfin is headquartered. Again, when we get a fine, when one of our individual agents gets a fine for doing what was in their client's best interest, when at their client's request, we'll share that with Rocket. We'll say, \"Rocket, we wanted to give you these listings that would help the seller, help the agent, help you, Rocket, help redfin.com.\" When those moments happen, I think we'll be able to respond accordingly. Again, I just, I don't think that these..."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass, Inc",
+      "timestamp": "01:06:34",
+      "text": "I believe, this is my personal view, I think this alliance is marks the end of the restrictions that MLSs have had on agents and sellers on how they market homes. When they're restricting the agent and home seller, they're gonna be restricting Rocket."
+    },
+    {
+      "speaker_id": "",
+      "speaker_name": "",
+      "speaker_role": "Analyst at Deutsche Bank",
+      "timestamp": "01:06:58",
+      "text": "Got it. Thank you."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "01:07:06",
+      "text": "Your next question comes from the line of Michael Ng with Goldman Sachs. Your line is open. Please go ahead."
+    },
+    {
+      "speaker_id": "michael-ng",
+      "speaker_name": "Michael Ng",
+      "speaker_role": "Managing Director of Global Investment Research at Goldman Sachs",
+      "timestamp": "01:07:14",
+      "text": "Hey, good afternoon. Thank you for the question. First, Robert, I was wondering if you could talk a little bit about the listing agent referral program and, you know, how that would play out in success. You know, does that translate into, you know, market share gains? You know, who ends up ultimately kind of footing the referral fee? Does that come out of the, you know, buy-side agent's pocket and does that show up in the commission rate? You know, second, as a follow-up on the Compass Rocket partnership, you know, that's great to see. You know, is the relationship exclusive or could other brokerages that, you know, wanna pursue or are Coming Soon or Private Exclusive strategy also strike a similar partnership with Rocket? Thank you."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass, Inc",
+      "timestamp": "01:08:07",
+      "text": "I'll start with the second question. The relationship is exclusive. On the first question, the new listing agent lead and referral program we launched. It gives agents the choice to be the only person ever to get the buyer inquiry on their listing, which some agents want. Also gives the choice for them to have someone else get it if they either aren't getting it in enough time or if the, you know, they're on vacation. The dream of the second version is something like this. You're a listing agent. You get to decide if you don't pick up the phone because in a certain amount of time, how much time, you know, you..."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass, Inc",
+      "timestamp": "01:09:02",
+      "text": "10 minutes, five minutes, 15 minutes, anywhere in that range you can choose, then it will go to either someone on your team, someone in the company, a pre-selected number of buyer agents you like working with. You can choose a different time, and a different group of people, depending on if you're on vacation, if it's late at night, if it's after 5 o'clock on Fridays where you're working with, you know, with your family, it's date night. We're trying to give as much flexibility as possible for people to say when they want their inquiry and when they don't and how they would frame it and who they would give it to. To honor those listing agents who do give it to others, that it would..."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass, Inc",
+      "timestamp": "01:09:42",
+      "text": "there'd be a 10% referral fee given back to them by those buyer agents. There's, yeah, Compass has the traditional referral fee as well."
+    },
+    {
+      "speaker_id": "michael-ng",
+      "speaker_name": "Michael Ng",
+      "speaker_role": "Managing Director of Global Investment Research at Goldman Sachs",
+      "timestamp": "01:09:57",
+      "text": "Great. Thank you, Robert."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "01:10:02",
+      "text": "Your next question comes from the line of Matt Bouley with Barclays. Your line is open. Please go ahead."
+    },
+    {
+      "speaker_id": "elizabeth-langan",
+      "speaker_name": "Elizabeth Langan",
+      "speaker_role": "Assistant VP of Equity Research at Barclays",
+      "timestamp": "01:10:10",
+      "text": "Hi, you have Elizabeth Langan on for Matt today. Thank you for taking the questions. You gave a helpful color on the cost synergy side, but I was wondering if you could touch specifically on the revenue synergy side, you know, just generally how you're thinking about the potential for the combined company as a whole, and then if you had any details or comments around how you're thinking about the future of the title or the franchise business as well."
+    },
+    {
+      "speaker_id": "scott-wahlers",
+      "speaker_name": "Scott Wahlers",
+      "speaker_role": "CFO at Compass, Inc",
+      "timestamp": "01:10:37",
+      "text": "Yeah, you know, we're really kind of focused, as you can tell from our comments and our trajectory on the cost synergies. We're focusing most heavily right now on the cost synergies, less so on the revenue. I think that'll come over time. Like, one item that I'd call out on the revenue synergies that comes across on the title side is really the scale of having the two title entities together. You know, between what Compass does on title, what the Anywhere side does on title, we're in the $450 million-$500 million of title revenue here. It's quite large and, you know, upwards of about 40 different service areas throughout the country."
+    },
+    {
+      "speaker_id": "scott-wahlers",
+      "speaker_name": "Scott Wahlers",
+      "speaker_role": "CFO at Compass, Inc",
+      "timestamp": "01:11:18",
+      "text": "There's areas where Compass brokerage operations before, but we didn't have any local title operations to attach title onto that brokerage transaction. Now, with the different service areas we're picking up through the Anywhere transaction, we do. Vice versa, there's areas where Anywhere have brokerage operations, Compass has title that can be used. That, that'll effectively provide some lift on title. You know, that's one example of some of the opportunities out there, but at this point in time, we're really kind of focused heads down on the cost synergies, which is gonna give us great lift to free cash flow generation and the ability for us to start to pay down that debt."
+    },
+    {
+      "speaker_id": "elizabeth-langan",
+      "speaker_name": "Elizabeth Langan",
+      "speaker_role": "Assistant VP of Equity Research at Barclays",
+      "timestamp": "01:12:00",
+      "text": "All right. Thank you very much."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "01:12:06",
+      "text": "With that, I will now turn the call back over to Compass's Founder and CEO, Robert Reffkin, to close this out. Robert?"
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass, Inc",
+      "timestamp": "01:12:14",
+      "text": "Thank you everyone for joining our call today. I just wanna end by thanking all of our employees, all of our agents for all their incredible hard work. Together, you know, we really did something special. We delivered the strongest fourth quarter in our history, the strongest year in our history, and I look forward to building upon our strong momentum in 2026 together with the Anywhere team. With that, have a great rest of your day."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "01:12:42",
+      "text": "This concludes our call today. You may now disconnect."
+    }
+  ],
+  "statements": [
+    {
+      "id": "COMP-FY2025Q4-001",
+      "turn_index": 4,
+      "speaker_id": "robert-reffkin",
+      "verbatim_quote": "In Q4, Compass delivered record fourth quarter revenue of $1.7 billion, delivered record fourth quarter adjusted EBITDA of $58 million.",
+      "claim": "Compass reported Q4 2025 revenue of $1.7 billion and adjusted EBITDA of $58 million.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "COMP-FY2025Q4-002",
+      "turn_index": 4,
+      "speaker_id": "robert-reffkin",
+      "verbatim_quote": "We also delivered record fourth quarter adjusted EBITDA margin, delivered the best organic principal agent recruiting quarter for Q4, as we added 830 principal agents.",
+      "claim": "Compass added 830 principal agents in Q4 2025, a record for the quarter.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "COMP-FY2025Q4-003",
+      "turn_index": 4,
+      "speaker_id": "robert-reffkin",
+      "verbatim_quote": "The Compass platform hit a Q4 record of 20 average weekly sessions per agent.",
+      "claim": "The Compass platform achieved 20 average weekly sessions per agent in Q4 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "COMP-FY2025Q4-004",
+      "turn_index": 5,
+      "speaker_id": "robert-reffkin",
+      "verbatim_quote": "2025 was also a record year for Compass, as we generated approximately $7 billion in revenue... We generated adjusted EBITDA of $293 million... and we produced operating cash flow of $217 million",
+      "claim": "Compass generated approximately $7 billion in revenue, $293 million in adjusted EBITDA, and $217 million in operating cash flow for full year 2025.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "COMP-FY2025Q4-005",
+      "turn_index": 7,
+      "speaker_id": "robert-reffkin",
+      "verbatim_quote": "First, our agents will have the opportunity to receive 1.2 million high intent leads from redfin.com and Rocket Mortgage over the course of our three-year strategic alliance.",
+      "claim": "Compass agents will receive 1.2 million high-intent leads from Redfin and Rocket Mortgage over the three-year partnership.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "COMP-FY2025Q4-006",
+      "turn_index": 12,
+      "speaker_id": "robert-reffkin",
+      "verbatim_quote": "in the five short months since we rolled out an enterprise-wide AI learn effort at Compass, the team has already identified potential annualized efficiencies in the vicinity of $20 million, 2% of our Compass OPEX",
+      "claim": "Compass has identified potential annualized AI-driven efficiencies of approximately $20 million (2% of Compass OpEx).",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "COMP-FY2025Q4-007",
+      "turn_index": 17,
+      "speaker_id": "robert-reffkin",
+      "verbatim_quote": "since close, just the 6.5 weeks since close, we have actioned approximately $175 million in cost synergies.",
+      "claim": "Compass has actioned approximately $175 million in cost synergies within 6.5 weeks of the Anywhere transaction close.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "COMP-FY2025Q4-008",
+      "turn_index": 18,
+      "speaker_id": "robert-reffkin",
+      "verbatim_quote": "I am making a CEO commitment to action $250 million of cost synergies in the first year.",
+      "claim": "Compass commits to actioning $250 million in cost synergies in the first year post-transaction.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "COMP-FY2025Q4-009",
+      "turn_index": 18,
+      "speaker_id": "robert-reffkin",
+      "verbatim_quote": "I'm now making a CEO commitment to action $400 million in net cost synergies over three years.",
+      "claim": "Compass commits to actioning $400 million in net cost synergies over three years.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "COMP-FY2025Q4-010",
+      "turn_index": 20,
+      "speaker_id": "robert-reffkin",
+      "verbatim_quote": "We currently already have more than 20,000 Make Me Sell listings that are only available at Compass.",
+      "claim": "Compass has more than 20,000 Make Me Sell listings exclusively available on its platform.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "COMP-FY2025Q4-011",
+      "turn_index": 27,
+      "speaker_id": "scott-wahlers",
+      "verbatim_quote": "Revenue reached $1.7 billion, a 23% increase year-over-year... Even on an organic basis, excluding M&A, we grew 11.3%.",
+      "claim": "Compass Q4 2025 revenue was $1.7 billion, a 23% YoY increase, with 11.3% organic growth.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "COMP-FY2025Q4-012",
+      "turn_index": 27,
+      "speaker_id": "scott-wahlers",
+      "verbatim_quote": "For the 19th consecutive quarter... Compass outperformed the market, including during Q4 with organic transactions of 5.6% versus a 1% market increase.",
+      "claim": "Compass organic transactions grew 5.6% in Q4 2025, outperforming the 1% market increase.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "COMP-FY2025Q4-013",
+      "turn_index": 27,
+      "speaker_id": "scott-wahlers",
+      "verbatim_quote": "Quarterly principal agent retention was a solid 96.8%.",
+      "claim": "Compass principal agent retention was 96.8% in Q4 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "COMP-FY2025Q4-014",
+      "turn_index": 28,
+      "speaker_id": "scott-wahlers",
+      "verbatim_quote": "Gross Transaction Value was $65.6 billion in the fourth quarter, an increase of 21.6% from a year ago",
+      "claim": "Compass Gross Transaction Value was $65.6 billion in Q4 2025, a 21.6% YoY increase.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "COMP-FY2025Q4-015",
+      "turn_index": 29,
+      "speaker_id": "scott-wahlers",
+      "verbatim_quote": "Our commissions and other related expense as a percentage of revenue was 81.5% for the quarter, compared to Q4 of last year at 82.5%",
+      "claim": "Compass commissions and related expenses were 81.5% of revenue in Q4 2025, down from 82.5% in Q4 2024.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "COMP-FY2025Q4-016",
+      "turn_index": 30,
+      "speaker_id": "scott-wahlers",
+      "verbatim_quote": "Our total non-GAAP operating expenses were $259 million in Q4... Excluding the impact of M&A, our non-GAAP OpEx was up only about 1%.",
+      "claim": "Compass non-GAAP OpEx was $259 million in Q4 2025, with organic OpEx up approximately 1% YoY.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "COMP-FY2025Q4-017",
+      "turn_index": 31,
+      "speaker_id": "scott-wahlers",
+      "verbatim_quote": "Adjusted EBITDA was $58.3 million, a strong improvement of 249% from adjusted EBITDA of $16.7 million a year ago.",
+      "claim": "Compass adjusted EBITDA was $58.3 million in Q4 2025, a 249% increase from $16.7 million in Q4 2024.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "COMP-FY2025Q4-018",
+      "turn_index": 31,
+      "speaker_id": "scott-wahlers",
+      "verbatim_quote": "During the fourth quarter, we incurred $10.6 million of transaction expenses related to the announced merger with Anywhere",
+      "claim": "Compass incurred $10.6 million in transaction expenses related to the Anywhere merger in Q4 2025.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "COMP-FY2025Q4-019",
+      "turn_index": 32,
+      "speaker_id": "scott-wahlers",
+      "verbatim_quote": "Stock-based compensation expense in the quarter was $57.5 million and in line with our guidance.",
+      "claim": "Compass stock-based compensation expense was $57.5 million in Q4 2025.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "COMP-FY2025Q4-020",
+      "turn_index": 33,
+      "speaker_id": "scott-wahlers",
+      "verbatim_quote": "As you consider your models, you should expect that stock-based compensation on a consolidated basis will not exceed $50 million in any future quarter, beginning in Q2 of this year.",
+      "claim": "Consolidated stock-based compensation will not exceed $50 million per quarter starting in Q2 2026.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "COMP-FY2025Q4-021",
+      "turn_index": 33,
+      "speaker_id": "scott-wahlers",
+      "verbatim_quote": "GAAP net loss was $42.6 million in Q4, compared to GAAP net loss of $40.5 million a year ago.",
+      "claim": "Compass GAAP net loss was $42.6 million in Q4 2025, compared to $40.5 million in Q4 2024.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "COMP-FY2025Q4-022",
+      "turn_index": 34,
+      "speaker_id": "scott-wahlers",
+      "verbatim_quote": "we generated $42.2 million in free cash flow in the fourth quarter... We ended the fourth quarter with $199 million of cash and cash equivalents on the balance sheet.",
+      "claim": "Compass generated $42.2 million in free cash flow and ended Q4 2025 with $199 million in cash and equivalents.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "COMP-FY2025Q4-023",
+      "turn_index": 35,
+      "speaker_id": "scott-wahlers",
+      "verbatim_quote": "On January 7, 2026, we completed the issuance of $1 billion in convertible notes at a highly attractive coupon of just a quarter of a percentage point",
+      "claim": "Compass issued $1 billion in convertible notes at a 0.25% coupon on January 7, 2026.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "COMP-FY2025Q4-024",
+      "turn_index": 35,
+      "speaker_id": "scott-wahlers",
+      "verbatim_quote": "Using the 0.25% coupon on the convertible debt to pay off Anywhere's revolver at higher interest rates, provided for immediate annualized cash interest savings of $25 million.",
+      "claim": "The convertible debt issuance provided immediate annualized cash interest savings of $25 million.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "COMP-FY2025Q4-025",
+      "turn_index": 36,
+      "speaker_id": "scott-wahlers",
+      "verbatim_quote": "After considering the cost of the cap call and the related issuance costs, the net proceeds received on the fundraise were $880 million.",
+      "claim": "Net proceeds from the convertible debt fundraise were $880 million after costs.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "COMP-FY2025Q4-026",
+      "turn_index": 38,
+      "speaker_id": "scott-wahlers",
+      "verbatim_quote": "To help with your models on the bookends, you could plan for $5 million of realization in Q1 of 2026 and $44 million of realization in Q4 of 2026",
+      "claim": "Compass expects to realize $5 million in cost synergies in Q1 2026 and $44 million in Q4 2026.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "COMP-FY2025Q4-027",
+      "turn_index": 38,
+      "speaker_id": "scott-wahlers",
+      "verbatim_quote": "In the aggregate, this would result in about $100 million realized in 2026.",
+      "claim": "Compass expects to realize approximately $100 million in cost synergies in 2026.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "COMP-FY2025Q4-028",
+      "turn_index": 39,
+      "speaker_id": "scott-wahlers",
+      "verbatim_quote": "of the roughly $100 million in synergies to be realized in 2026 that I just referenced, I'd assume slightly more than half will be reflected as reduced CapEx in 2026, and the remaining will be reflected as reduced OpEx in 2026.",
+      "claim": "Of the $100 million in 2026 synergies, slightly more than half will be reduced CapEx and the rest reduced OpEx.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "COMP-FY2025Q4-029",
+      "turn_index": 40,
+      "speaker_id": "scott-wahlers",
+      "verbatim_quote": "For the first quarter of 2026, we expect consolidated revenue, including the revenue from the Anywhere transaction, in the range of $2.55 billion-$2.75 billion.",
+      "claim": "Compass expects Q1 2026 consolidated revenue to be between $2.55 billion and $2.75 billion.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "COMP-FY2025Q4-030",
+      "turn_index": 42,
+      "speaker_id": "scott-wahlers",
+      "verbatim_quote": "We expect consolidated adjusted EBITDA to be in the range of $15 million-$35 million.",
+      "claim": "Compass expects Q1 2026 consolidated adjusted EBITDA to be between $15 million and $35 million.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "COMP-FY2025Q4-031",
+      "turn_index": 44,
+      "speaker_id": "scott-wahlers",
+      "verbatim_quote": "we're required to reset the straight-line rent calculations of the Anywhere office leases... which has the effect of increasing the amount of GAAP rent expense we'll recognize post-acquisition by about $4 million-$5 million per quarter going forward, or $16 million-$20 million on the full year.",
+      "claim": "Purchase accounting will increase GAAP rent expense by $4 million-$5 million per quarter ($16 million-$20 million annually).",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "COMP-FY2025Q4-032",
+      "turn_index": 45,
+      "speaker_id": "scott-wahlers",
+      "verbatim_quote": "Adjusting for these items, our adjusted EBITDA guidance for Q1 would have been $32.5 million-$47.5 million.",
+      "claim": "Adjusted for LTIP, healthcare, and rent items, Q1 2026 adjusted EBITDA guidance would have been $32.5 million-$47.5 million.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "COMP-FY2025Q4-033",
+      "turn_index": 45,
+      "speaker_id": "scott-wahlers",
+      "verbatim_quote": "We expect our weighted average share count for the first quarter to be between 720 million-730 million shares.",
+      "claim": "Compass expects Q1 2026 weighted average share count to be between 720 million and 730 million.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "COMP-FY2025Q4-034",
+      "turn_index": 46,
+      "speaker_id": "scott-wahlers",
+      "verbatim_quote": "be sure to consider in your baseline the standard inflation assumption we use of 3%-4% on both the historical Compass and Anywhere OpEx",
+      "claim": "Compass advises using a 3%-4% inflation assumption on historical Compass and Anywhere OpEx for modeling.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "COMP-FY2025Q4-035",
+      "turn_index": 46,
+      "speaker_id": "scott-wahlers",
+      "verbatim_quote": "an incremental $20 million of annualized OpEx from the wraparound effect of midyear 2025 M&A.",
+      "claim": "Compass expects an incremental $20 million in annualized OpEx from the wraparound effect of mid-2025 M&A.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "COMP-FY2025Q4-036",
+      "turn_index": 47,
+      "speaker_id": "scott-wahlers",
+      "verbatim_quote": "As a result, we will report materially negative free cash flow in Q1. We will return to free cash flow positive in future quarters",
+      "claim": "Compass will report materially negative free cash flow in Q1 2026 but expects to return to positive FCF in future quarters.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "COMP-FY2025Q4-037",
+      "turn_index": 48,
+      "speaker_id": "scott-wahlers",
+      "verbatim_quote": "Finally, regarding debt levels, we now have long-term debt of $3.15 billion, which includes the $1 billion of newly issued convertible debt, plus $2.15 billion of Anywhere's four tranches of notes",
+      "claim": "Compass has long-term debt of $3.15 billion, including $1 billion in new convertible debt and $2.15 billion assumed from Anywhere.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "COMP-FY2025Q4-038",
+      "turn_index": 49,
+      "speaker_id": "scott-wahlers",
+      "verbatim_quote": "We don't expect to prepay any of the debt in advance of at least April of 2027 due to the nature of the call provisions on the two tranches of debt with the highest interest rates.",
+      "claim": "Compass does not expect to prepay any debt before April 2027 due to call provisions.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "COMP-FY2025Q4-039",
+      "turn_index": 49,
+      "speaker_id": "scott-wahlers",
+      "verbatim_quote": "That capacity automatically increased to a half a billion dollars at the time of the closing of the Anywhere transaction in January, and remains fully undrawn at this time.",
+      "claim": "Compass's revolving credit facility capacity increased to $500 million and remains fully undrawn.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "COMP-FY2025Q4-040",
+      "turn_index": 69,
+      "speaker_id": "scott-wahlers",
+      "verbatim_quote": "On that basis, on a consolidated level, you can absolutely expect gross margin to go up in the future as a result of the franchise business and the title business coming in from Anywhere",
+      "claim": "Consolidated gross margin is expected to increase due to the addition of Anywhere's franchise and title businesses.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "COMP-FY2025Q4-041",
+      "turn_index": 70,
+      "speaker_id": "scott-wahlers",
+      "verbatim_quote": "going forward, we will be providing segment disclosures on the combined business and breaking out the owned brokerage from the franchise business, and then separately, the integrated services, businesses",
+      "claim": "Compass will provide segment disclosures breaking out owned brokerage, franchise, and integrated services in future reports.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "COMP-FY2025Q4-042",
+      "turn_index": 71,
+      "speaker_id": "scott-wahlers",
+      "verbatim_quote": "78%, 70%-80% conversion from EBITDA to free cash flow is probably still a good rule of thumb.",
+      "claim": "Compass suggests a 70%-80% conversion rate from EBITDA to free cash flow as a modeling rule of thumb.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "COMP-FY2025Q4-043",
+      "turn_index": 87,
+      "speaker_id": "robert-reffkin",
+      "verbatim_quote": "We're launching our technology to all the owned brokerages in our network of brands in July, that's when they will be able to share all of the inventory and access it in all the different ways that Compass has been able to do before.",
+      "claim": "Compass will launch its technology platform to all owned brokerages in July 2026.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "COMP-FY2025Q4-044",
+      "turn_index": 87,
+      "speaker_id": "robert-reffkin",
+      "verbatim_quote": "We're launching for the franchise broker owners in January.",
+      "claim": "Compass will launch its technology platform for franchise broker-owners in January 2027.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "COMP-FY2025Q4-045",
+      "turn_index": 87,
+      "speaker_id": "robert-reffkin",
+      "verbatim_quote": "I believe we will be able to give an option towards the end of next month for anyone to be able to create Coming Soons or Private Exclusives in the platform.",
+      "claim": "Compass expects to enable Coming Soon and Private Exclusive listing creation in the platform by the end of March 2026.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "COMP-FY2025Q4-046",
+      "turn_index": 88,
+      "speaker_id": "robert-reffkin",
+      "verbatim_quote": "I would expect the vast majority, you know, 90, you know, 5%+ of our Coming Soon and Private Exclusive to go onto Redfin.",
+      "claim": "Compass expects 95% or more of its Coming Soon and Private Exclusive listings to be syndicated to Redfin.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "COMP-FY2025Q4-047",
+      "turn_index": 101,
+      "speaker_id": "robert-reffkin",
+      "verbatim_quote": "there'd be a 10% referral fee given back to them by those buyer agents.",
+      "claim": "Compass's listing agent referral program includes a 10% referral fee paid by buyer agents to listing agents.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "COMP-FY2025Q4-048",
+      "turn_index": 105,
+      "speaker_id": "scott-wahlers",
+      "verbatim_quote": "between what Compass does on title, what the Anywhere side does on title, we're in the $450 million-$500 million of title revenue here.",
+      "claim": "The combined company generates $450 million-$500 million in title revenue.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    }
+  ]
+}

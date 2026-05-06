@@ -1,0 +1,1676 @@
+{
+  "company_id": "compass",
+  "title": "Compass Q1 2024 Earnings Call Transcript",
+  "datetime": "2024-05-08T22:00:00Z",
+  "period": "FY2024_Q1",
+  "location": "",
+  "url": "https://www.marketbeat.com/earnings/reports/2024-5-8-compass-inc-stock/",
+  "people": [
+    {
+      "id": "operator",
+      "name": "Operator",
+      "role": ""
+    },
+    {
+      "id": "richard-simonelli",
+      "name": "Richard Simonelli",
+      "role": "Senior VP of Investor Relations at Compass"
+    },
+    {
+      "id": "robert-reffkin",
+      "name": "Robert Reffkin",
+      "role": "Founder and CEO at Compass"
+    },
+    {
+      "id": "kalani-reelitz",
+      "name": "Kalani Reelitz",
+      "role": "CFO at Compass"
+    },
+    {
+      "id": "jason-helfstein",
+      "name": "Jason Helfstein",
+      "role": "Managing Director at Oppenheimer"
+    },
+    {
+      "id": "soham-bhonsle",
+      "name": "Soham Bhonsle",
+      "role": "Analyst at BTIG"
+    },
+    {
+      "id": "anika-dholakia",
+      "name": "Anika Dholakia",
+      "role": "Analyst at Barclays"
+    },
+    {
+      "id": "ryan-mckeveny",
+      "name": "Ryan McKeveny",
+      "role": "Managing Director at Zelman"
+    },
+    {
+      "id": "jeff-seiner",
+      "name": "Jeff Seiner",
+      "role": "VP of Equity Research at Deutsche Bank"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:00:00",
+      "text": "Thank you for standing by. My name is Kathleen and I will be your conference operator today. At this time, I would like to welcome everyone to the Compass Q1 2024 financial results. All lines have been placed on mute to prevent any background noise. After the speaker's remarks, there will be a question-and-answer session. If you would like to ask a question during this time, simply press star followed by the number one on your telephone keypad. If you would like to withdraw your question, press the star one again. Thank you. I would now like to turn the call over to Richard Simonelli, Senior Vice President Investor Relations. Please go ahead."
+    },
+    {
+      "speaker_id": "richard-simonelli",
+      "speaker_name": "Richard Simonelli",
+      "speaker_role": "Senior VP of Investor Relations at Compass",
+      "timestamp": "00:00:42",
+      "text": "Thank you, operator, and good afternoon to all of you. Thank you for joining the Compass Q1 earnings call. Joining us today will be Robert Reffkin, our Founder and Chief Executive Officer, and Kalani Reelitz, our Chief Financial Officer. In discussing our company's performance, we will refer to some Non-GAAP measures. You'll find the reconciliation of these Non-GAAP measures to the most directly comparable GAAP measures in our Q1 2024 earnings release posted on our Investor Relations website. We will be making forward-looking statements that are based on our current expectations, forecasts, and assumptions, and involve risks and uncertainties. These statements include our guidance for the Q2 of 2024 and full year 2024, including comments related to our operating expenses and free cash flow, as well as our expectations for operational achievements."
+    },
+    {
+      "speaker_id": "richard-simonelli",
+      "speaker_name": "Richard Simonelli",
+      "speaker_role": "Senior VP of Investor Relations at Compass",
+      "timestamp": "00:01:38",
+      "text": "Our actual results may differ materially from these statements, and you can find out more information about risks, uncertainties, and other factors that could affect our results in our most recent annual report on Form 10-K and quarterly reports on Form 10-Q filed with the SEC and available on our Investor Relations website. You should not place undue reliance on any forward-looking statements. All information in this presentation is as of today's date, May 8th, and we expressly disclaim any obligation to update this information. I'll now turn the call over to Robert Reffkin. Robert?"
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass",
+      "timestamp": "00:02:18",
+      "text": "Thank you for joining us today for our Q1 2024 results conference call. We had strong Q1 results with revenue towards the higher end of our guidance range and Adjusted EBITDA that exceeded our guidance range, and with our agents continuing to outperform the market. I am pleased to say that in Q1 2024, in a historically challenged market and the slowest quarter of the year, Compass generated positive Free cash flow. This proves that our focus on cost reductions and cash generation while still investing in agent growth in our proprietary technology platform are working."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass",
+      "timestamp": "00:03:00",
+      "text": "We grew revenue considerably. In Q1 2024, we generated an increase in revenue of 10% year-over-year as we increased transactions 7.1% from a year ago. This compares favorably to the 3.5% decline in transactions for an entire market in the Q1. We grew market share considerably."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass",
+      "timestamp": "00:03:25",
+      "text": "In Q1 2024, our quarterly market share increased 26 basis points year-over-year and 35 basis points on a sequential basis compared to Q4 2023. This is a testament to our agent productivity, which is further enhanced by a proprietary technology platform. I have shared repeatedly that Compass has the best agents in the industry, and they are demonstrating their skill and experience navigating this difficult market. We continue to grow our agent base considerably. Our principal agent count has increased by nearly 1,000 agents between Q1 2023 and Q1 2024. This is a 7.3% increase, which is in stark contrast to industry trends. The vast majority of agents that come to Compass tell us that the platform is the number one reason that they join."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass",
+      "timestamp": "00:04:21",
+      "text": "Originally, we organically in Q1 2024, we recruited 518 principal agents, the highest quarterly count since we ceased using cash and equity sign-on bonuses. Just last month, in April, we added more than 1,000 principal agents with our creative acquisition of Latter & Blum, the largest agency in the Gulf South and New Orleans. We are growing total agents faster than the market. At Compass, the number of total agents increased 2.1% year-over-year, while our three largest public company competitors by agent count reported decreases of 2%, decreases of 5%, and decrease of 6% in the same period. Moreover, this includes a reduction of over 1,000 non-productive agents in the last two quarters. As a reminder, Latter & Blum is not in these numbers. Our balance sheet is strong. We ended Q1 with $165 million in cash and cash equivalents and no outstanding draws on our credit facility."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass",
+      "timestamp": "00:05:29",
+      "text": "We continue to drive cost improvements internally. We remain laser-focused on driving efficiencies and reducing costs using technology. These improvements are also positively contributing to free cash flow. We reduced our OpEx in the Q1 to $211 million, an increase of $32 million from Q1 2023 OpEx of $243 million. We also reduced OpEx sequentially from Q4 2023 OpEx of $224 million."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass",
+      "timestamp": "00:06:00",
+      "text": "As always, Kalani, our Chief Financial Officer, will walk you through the financials later on this call. Moving on to the market, I still believe 2024 will be better than 2023 and that 2025 will be better than 2024 with the Mid-cycle coming in 2026. My opinion is influenced by the following: One, inventory is up 33% from a year ago. More inventory leads to more sales."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass",
+      "timestamp": "00:06:31",
+      "text": "Two, the percentage of all-cash home buyers is at the highest level in over two years, with the stock market near an all-time high. Home buyers are less reliant on mortgages. Three, the percentage of sellers with 4% mortgage rates or below is approaching 50% after dropping from approximately 75% at the peak. At this rate, we believe in two years, only approximately 25% of people may still have 4% mortgage rates or below, nearly eliminating the biggest bottleneck to the mid-cycle real estate market. And four, we now have over two years of pent-up demand, assuming 2024 is just modestly better than 2023. This will end up being a three-year housing downturn, forcing many people to live and remain in homes that they don't want to be in. We believe when rates come down, it will create a massive surge in transactions."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass",
+      "timestamp": "00:07:30",
+      "text": "The longer this lasts, the stronger the market bounce back will be. As I mentioned on the last call, assuming we continue to add net agents annually, maintain or modestly improve our agent economics, and keep our $600 million of annual cost savings with minimal inflationary growth of 3%-4% in 2025 and beyond, we believe that is a formula for generating hundreds and hundreds of millions of dollars in Adjusted EBITDA and free cash flow as the market recovers to a more normalized mid-cycle annual home sales level of 5.4-5.6 million homes. But in the meantime, as I mentioned on our last earnings call, we have conservatively budgeted for a flat year on transactions and have brought our OpEx to that level."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass",
+      "timestamp": "00:08:20",
+      "text": "We expect to be free cash flow positive in 2024, even after the cost of the first payment related to our litigation settlement, which we agreed to in April 2024 and which we expect to make in the Q2. The number one question we are getting from investors is, \"What is the settlement having on the business? What effect is it having?\" To help with this question, let me share with you five facts as well as five beliefs. Let's start with the facts. One, buyers are using buyer agents now more than ever. In 2023, 89% of buyers use an agent, which is up from 75% just 20 years ago in 2003. Two, buyer agreements are not new and are already required in half of the states in which Compass operates. Thousands of Compass agents have been getting buyer representation agreements signed for years with no issue."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass",
+      "timestamp": "00:09:38",
+      "text": "Three, 90% of our agents have been trained and are prepared for the rules. Since the verdict, we have provided our agents with 57 national training sessions and hundreds of local training sessions. With these efforts, I've seen our agents transition from initially being worried to now being confident. Four, per NAR RealTrends, commissions were 5.5% in 2023. That compares to 5.1% just 20 years earlier in 2003. Five, the industry has not seen a noticeable change in either the percentage of sellers that offer a buyer agent's commission nor in the average commission amount they are paying the buyer's agent. We reviewed the MLS data in the markets generating the majority of our revenue since the announcement of the NAR settlement on March 15th. Here is what we found. More than 99% of new listings since March included offers to pay the buyer agent."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass",
+      "timestamp": "00:10:55",
+      "text": "Furthermore, more than 96% of all listings included offers to pay 2% or more, and more than 67% are offering to pay 2.5% or more. To date, we are not hearing from agents that any of these numbers are coming down. We believe the sensational press has caused significantly more reaction than what we expect to see from the actual rule changes. Specifically, the headlines since the March 15th NAR settlement have led to sellers asking if they need to pay a buyer agent more than ever before. The result of those conversations is that sellers felt more than 99% of the time that it was still in their interest to provide a commission to buyer's agents. Now, here are some of our beliefs after conversations with hundreds of our agents across the country. One, we believe there will be little impact on the professional full-time agents."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass",
+      "timestamp": "00:12:10",
+      "text": "Compass is composed of experienced full-time agents with very strong repeat and referral business. Two, we believe that agents will increasingly need to be able to sell their brokerage's value proposition to communicate that to buyers, in that Compass has the best value proposition for buyers of any brokerage firm. For example, Compass has access to off-market inventory through Compass Private Exclusives and Compass Coming Soon, which is particularly important in a low-inventory environment. Another example being buyer technology tools like Compass Collections, like Compass Digital Tour Sheets, like Compass CMA, and the client dashboard launching in less than a year. Three, we believe real estate agents are project managing a highly complex multi-month process where they can often be coordinating between over a dozen different parties: loan officers, title officers, home inspectors, home appraisers, painters, stagers, photographers, videographers, agents on the other side, and so on."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass",
+      "timestamp": "00:13:22",
+      "text": "We do not believe this important role will be displaced or discounted. Four, we believe the percentage of buyers and sellers that will use an agent will continue to be at the 90% level. Buying and selling a home is the biggest financial decision that most people make in their lifetime. However, for decades, people have been declaring that there will be a decline in the use of the real estate agent. In the last 20 years, since the rise of the internet, we've seen so many attempts to replace the agent, such as for sale by owner companies. Then you had the aggregators, and then you had the discounters, then you had the iBuyers, and then the Power Buyers. Yet, despite all of these attempts to disrupt the real estate agent, buyers and sellers are using agents more than ever before."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass",
+      "timestamp": "00:14:17",
+      "text": "In the last 20 years, the percentage of buyers using an agent has increased from 75% in 2003 to 89% in 2023. Finally, we believe the vast majority of buyers and sellers prefer to pay for value over receiving a discount. If saving money on commissions was the most important thing to a seller, the majority of home sales would be for sale by owner. Obviously, that is not the case. In every market we know of, there are countless agents and brokerages that offer low commission rates. Discounters are not new and have been operating in the market for decades. Many of these discount firms have either gone out of business or have not gained traction. In fact, one of the largest public companies in residential real estate today is a professional discounter, offering the majority of the country discounted commissions with salaried agents for decades."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass",
+      "timestamp": "00:15:30",
+      "text": "This company can go to every seller and say, \"We have more than 50 million visitors on our site a month, more internet exposure than every other brokerage firm in the country combined for your listing, and we only charge 1%.\" However, after 20 years of offering discounts, they have only 0.8% market share. That is the proof that buyers and sellers are speaking with their checkbooks and that they prefer professional advice over a discount."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass",
+      "timestamp": "00:16:08",
+      "text": "In closing, I believe Compass is approaching an inflection point. We have done the hard work. We have brought expenses down and continued to grow our agent count and inventory advantage. The market will inevitably come back, and when the Fed cuts rates, we will be in a position to thrive. I want to thank the entire Compass team of employees and agents."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass",
+      "timestamp": "00:16:35",
+      "text": "I see their commitment to making Compass successful with their incredible dedication and determination. It has allowed us to be named the number one real estate brokerage by sales volume in the United States for three years in a row and to have a strong foundation for the future. I will now pass it over to Kalani."
+    },
+    {
+      "speaker_id": "kalani-reelitz",
+      "speaker_name": "Kalani Reelitz",
+      "speaker_role": "CFO at Compass",
+      "timestamp": "00:16:59",
+      "text": "Thank you, Robert. Before getting into financials, I wanted to give you some details on our operations. In the Q1, we processed 38,449 transactions, an increase of 7.1% from a year ago, which compares favorably to the 3.5% decline in transactions for the entire residential real estate market in the Q1, as reported by National Association of Realtors. Our market share for Q1 2024 was 4.76%, up 26 basis points year-over-year and up 35 basis points sequentially from Q4 2023. Historically, we disclosed our principal agent count as an average for each quarter, which reflects the average of the principal agent count as of the end of each of the three months in any given quarter."
+    },
+    {
+      "speaker_id": "kalani-reelitz",
+      "speaker_name": "Kalani Reelitz",
+      "speaker_role": "CFO at Compass",
+      "timestamp": "00:17:47",
+      "text": "We've been consistent with that since our IPO, and the logic was to avoid the choppiness that can sometimes occur as a result of using a specific date at the end of the quarter versus an average across the quarter. However, the feedback we've received from many analysts and investors is that this was a confusing metric. As a result, on a go-forward basis, we'll disclose our principal agent count as of the last day of the quarter. On this basis, as of March 31st, 2024, we had 14,591 principal agents compared to 13,601 as of March 31st, 2023, an increase of 990 year-over-year or 7.3%. Our team recruited 518 principal agents in the Q1, which was a strong recruiting quarter for us. Historically, the Q1 tends to be a higher-than-average quarter for attrition, and we saw that again this Q1."
+    },
+    {
+      "speaker_id": "kalani-reelitz",
+      "speaker_name": "Kalani Reelitz",
+      "speaker_role": "CFO at Compass",
+      "timestamp": "00:18:43",
+      "text": "Our net principal agent count shows a net decline of 92 in Q1, but this number includes more than 100 principal agents who exited that had no production in the prior 12 months, and therefore their absence will have no impact on our financials. Let me now turn to our Q1 financial results and our guidance for the Q2. Our Q1 revenue was $1.05 billion, an increase of 10% from a year ago period, which was towards the higher end of our guidance range of $975 million to $1.075 billion. Gross transaction value was $40.1 billion in the Q1, an increase of 9.6% from a year ago, reflecting the 7.1% increase in total transactions combined with a slight increase in average selling price. Our Non-GAAP commission expense as a percent of revenue was 81.8%, an increase of 39 basis points from Q1 of last year."
+    },
+    {
+      "speaker_id": "kalani-reelitz",
+      "speaker_name": "Kalani Reelitz",
+      "speaker_role": "CFO at Compass",
+      "timestamp": "00:19:41",
+      "text": "The majority of this, or about 25 of the 39 basis points, is attributable to the acquisitions we closed since the year ago period that were made in markets with lower average splits than our overall brokerage. Our total Non-GAAP operating expenses, excluding commissions and other related expenses, were $211 million for the Q1. This reflects a reduction in expense of $32 million or 13% from Q1 a year ago. Even after considering the added expenses we assumed related to each of the three brokerage acquisitions we completed in 2023 and our Florida title acquisition this past January. I'm very pleased that the continued cost discipline is in place across the organization, and we've committed to it as a management team, and it's become part of the culture of how we operate as a company."
+    },
+    {
+      "speaker_id": "kalani-reelitz",
+      "speaker_name": "Kalani Reelitz",
+      "speaker_role": "CFO at Compass",
+      "timestamp": "00:20:31",
+      "text": "That said, it's important to note that Q1 OpEx figure is the low watermark for OpEx for the 2024 quarters, as there is some anticipated inflation to consider beginning in Q2, in particular related to the effect of compensation increases for our staff coming out of our annual performance cycle at the end of March, the additional OpEx we assumed from Latter & Blum acquisition that closed in April, and the seasonal increase in agent marketing expenses typically seen in the Q2. As a reminder, the Non-GAAP operating expenses we refer to exclude certain expenses that exclude from the calculation of adjusted EBITDA, including stock compensation, depreciation, and amortization, and in this quarter, the $57.5 million charge related to the class action litigation settlement. We've included tables on pages 12 and 13 in our Q1 investor deck that reconcile these amounts to our GAAP operating expenses."
+    },
+    {
+      "speaker_id": "kalani-reelitz",
+      "speaker_name": "Kalani Reelitz",
+      "speaker_role": "CFO at Compass",
+      "timestamp": "00:21:28",
+      "text": "Our adjusted EBITDA for the Q1 was a negative $20.1 million, which was slightly better than the favorable end of our guidance range of a negative $22 million to negative $40 million, and an improvement of 70% over the adjusted EBITDA loss of $67 million a year ago. Our GAAP net loss for the Q1 was $133 million, which reflects the full charge of the $57.5 million settlement for the class action lawsuit that we previously disclosed. We took the full P&L charge during Q1. However, we expect that half of this amount will be paid in cash in Q2 of 2024 and the other half in Q2 of 2025. Free cash flow for the Q1 was positive $5.9 million, which compares very favorably to negative $59 million of free cash flow in the year ago quarter."
+    },
+    {
+      "speaker_id": "kalani-reelitz",
+      "speaker_name": "Kalani Reelitz",
+      "speaker_role": "CFO at Compass",
+      "timestamp": "00:22:18",
+      "text": "It's extremely rewarding to see the results of our efforts over the past two years that have allowed us to generate positive free cash flow in the Q1, which is a seasonally weak quarter for the brokerage industry. As we consider full-year performance, it's important to note that our positive cash flow in Q1 is partially due to a couple of timing items that will have offsetting effects later in the year. First, many of the fees that are billed to our agents occur at the beginning of the calendar year, so our cash flow in the early part of the year is aided by the timing of when the fees are paid, and it will have an offsetting effect later in the year."
+    },
+    {
+      "speaker_id": "kalani-reelitz",
+      "speaker_name": "Kalani Reelitz",
+      "speaker_role": "CFO at Compass",
+      "timestamp": "00:22:53",
+      "text": "Second, we tend to see seasonal impacts to working capital that are favorable in the first two quarters of the year when the cash collections from our brokerage commissions are higher at the end of each of these quarters compared to the beginning of these quarters. The opposite is generally true in Q3, and especially in Q4 when seasonality impacts working capital in a negative way. These two timing items should be neutral for the year but can create choppiness for individual quarters within the year. For those listening to the call that are modeling cash flow for the year, you should not assume a similar conversion of Adjusted EBITDA to free cash flow for the remaining quarters of 2024."
+    },
+    {
+      "speaker_id": "kalani-reelitz",
+      "speaker_name": "Kalani Reelitz",
+      "speaker_role": "CFO at Compass",
+      "timestamp": "00:23:27",
+      "text": "With that said, I have maintained since I started here at Compass that we will be focused on free cash flow, and over the last six quarters, our operations and finance teams are delivering on that relentless focus, and the results are becoming more and more evident each quarter. We ended the Q1 with $166 million of cash and cash equivalents on our balance sheet, and we have no outstanding draws on our revolving line of credit. We believe we are well positioned to react to continued market challenges. Now, turning to our financial guidance for Q2 of 2024, we expect revenue in the range of $1.6 billion-$1.7 billion, and we expect Adjusted EBITDA to be in the range of $55 million-$75 million."
+    },
+    {
+      "speaker_id": "kalani-reelitz",
+      "speaker_name": "Kalani Reelitz",
+      "speaker_role": "CFO at Compass",
+      "timestamp": "00:24:08",
+      "text": "Last quarter, we stated that for the full year of 2024, we are targeting a Non-GAAP OpEx level between $855 million-$875 million with a midpoint of $865 million. As a reminder, the midpoint of this range equates to $850 million for the company's core OpEx plus the additional $15 million of OpEx from two acquisitions we closed in September 2023. We are maintaining that range for the current business but are increasing the total range by $12 million on both the low and high end to consider the additional OpEx for the balance of 2024 that we assumed for the Latter & Blum acquisition that we just closed in April. We expect this acquisition to be accretive to adjusted EBITDA in 2024, but the additional OpEx needs to be considered. Additionally, we are reiterating our expectation to be free cash flow positive for the full year of 2024."
+    },
+    {
+      "speaker_id": "kalani-reelitz",
+      "speaker_name": "Kalani Reelitz",
+      "speaker_role": "CFO at Compass",
+      "timestamp": "00:24:59",
+      "text": "I'll end by saying thank you again to our agents and team members for all that you do for Compass, and I would now like to turn the call over to the operator to begin Q&A."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:25:09",
+      "text": "Thank you. We will now begin the question and answer session. If you have dialed in and would like to ask a question, please press star one on your telephone keypad to raise your hand and join the queue. If you would like to withdraw your question, simply press star one again. If you are called upon to ask your question and listening via loudspeaker on your device, please pick up your handset and ensure that your phone is not on mute when asking your question. Again, please press star one to join the queue. Your first question comes from the line of Jason Helfstein of Oppenheimer. Please go ahead."
+    },
+    {
+      "speaker_id": "jason-helfstein",
+      "speaker_name": "Jason Helfstein",
+      "speaker_role": "Managing Director at Oppenheimer",
+      "timestamp": "00:25:48",
+      "text": "Thanks, everybody. Two questions. So Robert, just first, maybe give us your thoughts on H2, just raw thoughts as we're all trying to work through our models. And then secondly, it seemed like agent productivity improved in the quarter. Was this calling less productive agents or from kind of improvements in workflow or other factors or a combination of both? Thank you."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass",
+      "timestamp": "00:26:17",
+      "text": "So on the first question, the key constraint to transactions last year, it wasn't buyer demand. It was lack of inventory. And so what is making me more positive about this year than last year is more inventory. Like I mentioned in the call, there's 33% more inventory today than there was this time last year. It looks like we may have in the weeks ahead more inventory coming to the market than anytime in the last three years. And so that, to me, leads me feeling positive about the H2. Of course, mortgage rates, do they go to eight, 8+? Do they stay where they are? Do they go to the 6s? That will have as big of an impact as inventory. But assuming that mortgage rates stay where they are right now, I would expect the H2 of the year to be better than last year."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass",
+      "timestamp": "00:27:17",
+      "text": "Let's also keep in mind, remember, H2 of last year was 8% mortgage rates. So you had lower inventory. You had 8% mortgage rates for the first time in well over a decade, and it came right in front of the fall market. And so it's hard to see circumstances that could lead to it being worse than it was last year, or another way to say it is, it's hard to see it not being better than it was last year. In terms of why are agents more productive, we mentioned on the last call, we mentioned on this call as well, that we've been separating ways with agents that are not producing because they take away resources from our other agents, and we have limited resources, and we want to give it to agents that are producing."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass",
+      "timestamp": "00:28:10",
+      "text": "That, along with technology and coaching and training, we believe makes them more productive. I think we mentioned in the last call and the call before, we had something called the Back to Basics Challenge. It was a 100-day challenge for the first 100 days of the year where we had national awards, local awards for in total, there were hundreds of different awards and categories for agents that developed their repeat and referral business the most through in-person connections. There are specific ways that we recommended how they would do that, and they had to log in every in-person interaction in the Compass platform. We believe that also is contributing to the outperformance."
+    },
+    {
+      "speaker_id": "jason-helfstein",
+      "speaker_name": "Jason Helfstein",
+      "speaker_role": "Managing Director at Oppenheimer",
+      "timestamp": "00:28:58",
+      "text": "Thank you."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:29:01",
+      "text": "Your next question comes from the line of Soham Bhonsle, BTIG. Please go ahead."
+    },
+    {
+      "speaker_id": "soham-bhonsle",
+      "speaker_name": "Soham Bhonsle",
+      "speaker_role": "Analyst at BTIG",
+      "timestamp": "00:29:07",
+      "text": "Hey, guys. Good evening. Robert, first, maybe on market share on the unit count side, I guess wondering if you could give us some more color. If there were certain markets or price points where you think you took more share, and who do you think you're sort of taking this share from today?"
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass",
+      "timestamp": "00:29:29",
+      "text": "Yeah. So who are we taking? Okay. So let me start with, I think, in down markets, the best agents gain market share and the best brokerages gain market share. It's been that way forever. We are a company of top agents. The average Compass agent sells more than the average agent in the country. So I think they're gaining market share on balance from lower producers in the industry that are having a harder time competing. At the company level, we are also gaining market share. I think the entities that are having the harder time, I would say, are the boutique brokerages. I think over the last five years, a brokerage firm is required to offer agents more than they were five years ago, more in terms of technology, more in terms of coaching and training."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass",
+      "timestamp": "00:30:38",
+      "text": "It's harder for a small firm to be able to stay competitive."
+    },
+    {
+      "speaker_id": "soham-bhonsle",
+      "speaker_name": "Soham Bhonsle",
+      "speaker_role": "Analyst at BTIG",
+      "timestamp": "00:30:43",
+      "text": "Got it. And then, Kalani, on the OpEx side, I think so you said $850 million at the core, but then acquisitions get you to $865 million from the 20-23 acquisitions. Now you're raising that midpoint, I guess, by $12 million, so that's $877 million at the midpoint. But I guess the question is, what gets you to the low end of that guide, right? Because you've kept the low end sort of still open, so I'm just wondering what gets you there. And then, I guess, high end, the $887 million, I guess, is that just more M&A from here?"
+    },
+    {
+      "speaker_id": "kalani-reelitz",
+      "speaker_name": "Kalani Reelitz",
+      "speaker_role": "CFO at Compass",
+      "timestamp": "00:31:17",
+      "text": "Yeah. So I think we think about OpEx in those two pieces, right? The core at $850, and I think, importantly, we are on track to deliver that, and then the additive and accretive acquisitions. I think to answer your question directly, what gets us to the low end, I think we've seen continued diligence, right? Cost for us and cost discipline is an ongoing muscle now. It is a core competency. And so we are continuously looking at new ways to cut cost, to save cost, to just, quite frankly, be more efficient. So as I think about the lower end, it's just our continued focus and ability to kind of drive more efficiencies, everything from looking at AI on marketing and robotics in our back office. We have a Lean Six Sigma team, right? Those folks are working actively."
+    },
+    {
+      "speaker_id": "kalani-reelitz",
+      "speaker_name": "Kalani Reelitz",
+      "speaker_role": "CFO at Compass",
+      "timestamp": "00:32:04",
+      "text": "They can drive us to the bottom of that range. I think the top end is probably either more acquisitions or a bit of some agent expenses if the market comes back and we see some of the small variable marketing expenses pop a little more."
+    },
+    {
+      "speaker_id": "soham-bhonsle",
+      "speaker_name": "Soham Bhonsle",
+      "speaker_role": "Analyst at BTIG",
+      "timestamp": "00:32:19",
+      "text": "Okay. And in fact, we'll just squeeze one more in. Robert, wanted to get your thoughts on the M&A environment out there. You touched on the boutiques and the challenges there. So maybe are you hearing more concern from them in what could develop going forward, and sort of what's your appetite to continue to consolidate? Thank you."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass",
+      "timestamp": "00:32:36",
+      "text": "Yeah. I'll pass on to Kalani, but as I speak to the brokerage firm owners, there is more interest in selling to Compass than ever before and by a huge margin. Of course, there's the natural driver of difficult industry dynamics, whether market or the broader dynamics, the ones I addressed earlier. But I think on top of that, when I'm speaking to the brokerage owners, what I'm hearing from them say is when agents are coming to Compass now, they're saying that they're coming for the technology. And remember, it took $1.6 billion for us to build this. I don't believe it'll be built by another brokerage firm. And the unintended consequence, one of the unforeseen consequences of discontinuing all equity and cash incentives to hire agents is that before, brokerage firm owners would always say, \"Oh, the agent just came for money."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass",
+      "timestamp": "00:33:43",
+      "text": "The agent came for money.\" But when we stopped that, then an agent left, the brokerage owner had to say, \"Oh, well, there must actually be something better at Compass.\" And so now, through that now almost two years, I think brokerage owners are realizing that we have a real competitive advantage of what we built that isn't just financial. It's in terms of the value that we can provide an agent that they cannot. But then secondly, the impact of understanding the value of the technology is a lot of brokerage owners, they really care about their agents. We all do."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass",
+      "timestamp": "00:34:20",
+      "text": "And they don't want to merge with or sell to a brokerage firm where they can't look their agents in the eye and say, \"I promise you life is going to be better.\" But now, with the conviction around the platform, all this is going on the market more broadly, they can look agents in the eye and say, \"Trust me, this is going to be better for you.\" And that really changes the level of interest from brokerage owners. But I'll pass on to Kalani."
+    },
+    {
+      "speaker_id": "kalani-reelitz",
+      "speaker_name": "Kalani Reelitz",
+      "speaker_role": "CFO at Compass",
+      "timestamp": "00:34:50",
+      "text": "Yeah. I would just add a few things. One, just that excitement, we're seeing the advantage being seen not only from M&A but also organically, as we mentioned, one of our highest growth quarters. And so that advantage is organic, inorganic. I think from M&A, Soham, we do believe M&A allows us to quickly move into new markets. You saw that with Latter & Blum. It also allows us to expand our presence in top markets and grow that inventory. I think we firmly believe that our ability to amortize our platform across more agents, our ability to drive continuing growth and inventory for us will lead to further margin expansion and value creation."
+    },
+    {
+      "speaker_id": "kalani-reelitz",
+      "speaker_name": "Kalani Reelitz",
+      "speaker_role": "CFO at Compass",
+      "timestamp": "00:35:31",
+      "text": "I think, look, we're extremely pleased with the partners that we've brought on over the last 12-18 months, and I think you'll see us continue to review accretive deals that are favorable terms to Compass going forward."
+    },
+    {
+      "speaker_id": "soham-bhonsle",
+      "speaker_name": "Soham Bhonsle",
+      "speaker_role": "Analyst at BTIG",
+      "timestamp": "00:35:44",
+      "text": "All right, guys. Thank you."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:35:47",
+      "text": "Your next question comes from the line of Matthew Bouley from Barclays. Please go ahead."
+    },
+    {
+      "speaker_id": "anika-dholakia",
+      "speaker_name": "Anika Dholakia",
+      "speaker_role": "Analyst at Barclays",
+      "timestamp": "00:35:55",
+      "text": "Good evening. You have Anika Dholakia on for Matt. Thanks for taking my question. So first off, in your prepared remarks, you spoke to commissions at that 5.5% level. I'm just curious, looking ahead, where you think this will trend. Do you assume that this kind of stays the same, and it's just the way that it's communicated and displayed that changes, or is there maybe risk that we can see some further compression? Thanks."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass",
+      "timestamp": "00:36:22",
+      "text": "Yeah. Yeah. Just given the sensitive nature of the topic, we're not going to expand on it beyond what we said on the call earlier."
+    },
+    {
+      "speaker_id": "anika-dholakia",
+      "speaker_name": "Anika Dholakia",
+      "speaker_role": "Analyst at Barclays",
+      "timestamp": "00:36:34",
+      "text": "Okay. And then on my second question, could you speak to some of the cost efforts that you guys have been taking? And maybe if this sluggish market or backdrop persists, is there risk that you might pause on some of these efforts and maybe risk your OpEx target? Thanks."
+    },
+    {
+      "speaker_id": "kalani-reelitz",
+      "speaker_name": "Kalani Reelitz",
+      "speaker_role": "CFO at Compass",
+      "timestamp": "00:36:52",
+      "text": "Yeah. Thanks, Anika, for the question. Look, I think I mentioned in the last question, Soham, I think from OpEx and from cost, we started 12-18 months ago with kind of a need to run cost programs that take cost out of our organization. I think what it has built for us is a core competency around both cost and continuous improvement. We have executed about 95% of our activity that's needed to achieve the $850 million of OpEx, that core OpEx we talked about in 2024. The remaining is really just timing items, think contracts. I think what's exciting about our cost and our efficiency efforts is we're starting to move from kind of that hard status quo cuts that were needed early on in the market to more continuous improvement, right? So we are looking at and have actually implemented some AI from a marketing standpoint."
+    },
+    {
+      "speaker_id": "kalani-reelitz",
+      "speaker_name": "Kalani Reelitz",
+      "speaker_role": "CFO at Compass",
+      "timestamp": "00:37:45",
+      "text": "We're looking at robotics and have automation in our back office. We have a Lean Six Sigma team that's really driving process improvement. And so we'll kind of continue to do this as a regular thing. I think, one, it allows us to be agile if the market turns. I don't think it slows us down or we stop. I think these are things that actually both cut costs and also make process improvements, so we're making it easier for everybody. But it also, in good and bad times, allows us to fuel our own growth and fund our own growth. And so we'll continue with those types of things. If we have to move harder, faster, I think we've proven our ability to be agile, and it's something we think about almost every day."
+    },
+    {
+      "speaker_id": "anika-dholakia",
+      "speaker_name": "Anika Dholakia",
+      "speaker_role": "Analyst at Barclays",
+      "timestamp": "00:38:25",
+      "text": "Great. Thank you both. Good luck."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:38:28",
+      "text": "Again, if you would like to ask a question, please press star one on your telephone keypad. Your next question comes from the line of Ryan McKeveny of Zelman. Please go ahead."
+    },
+    {
+      "speaker_id": "ryan-mckeveny",
+      "speaker_name": "Ryan McKeveny",
+      "speaker_role": "Managing Director at Zelman",
+      "timestamp": "00:38:43",
+      "text": "Hi. Thank you. Nice job on the quarter. I wanted to go back to Latter & Blum. Obviously, great brokerage, strong history, great leadership team, so congrats on that deal. I guess my question is, considering all the noise out there right now, settlements, litigation, etc., maybe some more color on just kind of what gave you the confidence to make that acquisition now and maybe talk to us how you're thinking about the risk-reward of acquisitions going forward. So that would be kind of part one. And the second aspect of it, what I think is rather interesting about the deal as well is the Gulf markets are obviously much lower price, significantly lower ASP than a lot of your geographies. So to some degree, could we think of the Compass platform operating in the same ways as existing markets?"
+    },
+    {
+      "speaker_id": "ryan-mckeveny",
+      "speaker_name": "Ryan McKeveny",
+      "speaker_role": "Managing Director at Zelman",
+      "timestamp": "00:39:37",
+      "text": "Are there differences we should be thinking about in terms of the opportunity within a lower-priced market for things like productivity? Any thoughts there would be helpful. Thank you."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass",
+      "timestamp": "00:39:50",
+      "text": "Yeah. So, let me start with the second question. You get a platform that will work in the same way. And there are great agents there, just like every other market, that operate their business with the same workflows as every other market. The difference is ASP. But the tools and programs and offerings and platform that we have will help them create success and better serve their buyers and sellers, just like every other market. So we feel good about that. On the former question, what gave us confidence? Look, it's an accretive deal, transaction, with one of the most respected names in the space and with incredible leadership, incredible culture. Very proud to have them join the Compass family."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass",
+      "timestamp": "00:40:48",
+      "text": "Consistent with what I shared in my prepared remarks, we don't view there being as much; the facts aren't supporting that as much is happening as the headlines. And that creates opportunity as well. With our agent, it creates opportunity to coach them, train them, make them feel confident. With other brokerage firms, it creates opportunity to say, \"Hey, let's come together, and let's create success together.\" And so I see this, for sure, more as an opportunity than a challenge, this entire environment. And I believe we'll look back a year from now and say, \"Well, there were tremendous positives that came out of it."
+    },
+    {
+      "speaker_id": "ryan-mckeveny",
+      "speaker_name": "Ryan McKeveny",
+      "speaker_role": "Managing Director at Zelman",
+      "timestamp": "00:41:36",
+      "text": "That's very helpful. Apologies if I missed this one. I think last quarter, you talked about expecting to launch the first phase of Compass Client Dashboard in 2024. Any updates in that regard? Thank you."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass",
+      "timestamp": "00:41:51",
+      "text": "Yes. So we're launching our pre-release test in Q4. And we're very excited. Thanks for asking about it. I believe it's going to be a transformational moment for the company. For agents, for sure, it's going to give them a huge edge. And it'll be great for clients. It'll be the first thing 95% of what we built, you can't go to compass.com and see as a consumer, buyer, seller because it's all for agents. This will be something that the public will be able to see. The problem it solves is that agents are almost too good at their job. They hide the clients from their pain because you're trying not to stress them out. And there's so much going on. And so at the end of a transaction, does the buyer or seller, do they really remember all that the agent has done for them?"
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass",
+      "timestamp": "00:42:44",
+      "text": "Do they remember all the phone calls, all the emails, all the texts, how quickly the agent responded, how early in the morning, how late at night? Do they remember how many evaluation reports, CMAs, they created? Do they remember how many Compass Collections they had, how many tours they took them on, how many open houses they performed, how many people came to those open houses they had to negotiate with, how many different people they had to schedule appointments with, how many people they negotiated for on their behalf? They don't even tell them all the time they're negotiating, trying to make things happen. And so what this will do is it'll put the majority of those events in a beautiful client dashboard that will almost be like a visual receipt of all that the agent has done for them. There'll be three different buckets."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass",
+      "timestamp": "00:43:29",
+      "text": "One, the entire for buyers and separate one for sellers. But the first bucket, we call it timelines and tasks. So the entire process timeline. Remember, we talked earlier about agents are actually project managers managing a highly complex process across multiple months, upwards of 12 different people. The entire process will be there in a Gantt chart form, just like when merger investment bankers meet with people. When I was in investment banking, we had the Gantt chart, the entire process, and they would coordinate the lawyers and the accountants. That will all be visual in this place with all the tasks and who does what. The second are the documents. So all the documents from the beginning, middle, to the end of the transaction living there in one place."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass",
+      "timestamp": "00:44:17",
+      "text": "Lastly, it will be all of the things that the agent is currently sending to them by email will be living in there. And that would be all the digital tour sheets, the CMAs, the Compass collections, the listing insights, the open house report and feedback, and much more. But we're really excited by that. Again, believe it will give the Compass agents a huge edge in helping to communicate their value. And I believe it's the kind of thing that when buyers and sellers at the end of the transaction, for them, it will be the kind of thing that will encourage them to even more refer our agents to their friends."
+    },
+    {
+      "speaker_id": "ryan-mckeveny",
+      "speaker_name": "Ryan McKeveny",
+      "speaker_role": "Managing Director at Zelman",
+      "timestamp": "00:45:01",
+      "text": "Great to hear. Thank you, Robert."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:45:04",
+      "text": "Your next question comes from the line of Ben Black of Deutsche Bank. Please go ahead."
+    },
+    {
+      "speaker_id": "jeff-seiner",
+      "speaker_name": "Jeff Seiner",
+      "speaker_role": "VP of Equity Research at Deutsche Bank",
+      "timestamp": "00:45:12",
+      "text": "Hi. This is Jeff Seiner on for Ben. Thanks for taking my question. Can you just kind of give an update on how you're thinking on the commission split trends over the immediate to sort of long term, just given some of the moving parts like recent broker acquisitions, the principal agent growth, and then maybe sort of what's coming down the pike with the regulatory front and the NAR settlement to the extent maybe that's increased. You talked about increased training needs or increased red tape. Any thoughts on how that could may or may not have an impact on kind of the commission splits going forward?"
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass",
+      "timestamp": "00:45:52",
+      "text": "I'll let Kalani answer more broadly. But I do believe that brokerage firms will be more valuable to agents because of the NAR settlements than before. And here's why. Historically, almost every agent has a listing presentation. Again, I'm an investment banker. I'm here with you. I'm pitching myself. I'm pitching the company. What can I do for you? What can the company do for you? Oh, the company has international, blah, blah, network, all that stuff, and relationships everywhere. And then you go into the valuation, and here's the process timeline. And the agents have a listing presentation where when you go with a seller, they say, \"Here's why you want to work with me. I've been in the business for 10 years. I do all this in your neighborhood. Here's my team.\" Then they go to the brokerage."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass",
+      "timestamp": "00:46:51",
+      "text": "The brokerage, for a seller, we have international exposure at Compass. We have more, we are number one in more top markets than any other brokerage firm in the country. And for you as a seller, we have listing insights. We have open house apps to give you feedback. We have Collections for valuations and CMAs and all the different tools. We have Compass Concierge. We can frontload the cost of staging to make your home move-in ready because people today want things they want to pick up their bags from New York, go to Dallas, and drop them in. They don't want to renovate homes. And they also need, they don't have vision to see what the space will look like. So you stage it so it looks elegant. And then it'll sell for more money and less time."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass",
+      "timestamp": "00:47:41",
+      "text": "So those are some examples of in that listing presentation, how you talk about the company. And those words were Compass Concierge and the tools and the national network. But when it comes to buyers, historically, I'd say less than 5% of agents, much less, less than 1% of agents have a presentation for buyers. I believe the reason why that is is because historically, agents weren't asking for buyers to sign as much the compensation agreement upfront as they were, of course, with sellers. That's where the money is. But now that's moving to buyers as well with the buyer's representation agreement where it will include compensation in all of these agreements."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass",
+      "timestamp": "00:48:31",
+      "text": "And so that is making agents feel like they need to have a buyer presentation that says, \"Here's why you want to work with me, and here's why you want to work with my company.\" And that's why I referenced earlier, \"Well, you want to work with me and my company because, well, my company is a low-inventory environment. And Compass has access to more unique inventory than almost any other brokerage firm because of Compass Coming Soon and Compass Private Exclusives. Oh, I can also help you. It's a highly complicated process.\" And almost all the other brokerage firms, they're just going to have to send you links of listings from different sites. It'll be on your text message and WhatsApp email. It'll be very complicated. Here, everything will be in Compass Collections. It'll make it really simple for you."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass",
+      "timestamp": "00:49:13",
+      "text": "And by the way, if you want your spouse or your daughter or your mom or dad to be on it, everyone could be on and look at it at the exact same time. We could all comment. It's like a Pinterest board for the buyer process. And of course, Digital Tour Sheets. So you know where you're going. It's on your phone after you've gone. It's all recorded in the Digital Tour Sheet and some of the other tools like Client Dashboard that are coming soon. And so I say all that to highlight that brokerages will be more valuable to agents going forward because you'll need them not just for the seller conversation but for the buyer conversation. And because of that, I think it will empower brokerages that have a good value proposition to buyers. It will empower them to charge a fair split."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass",
+      "timestamp": "00:50:10",
+      "text": "I'll pass it on to Kalani."
+    },
+    {
+      "speaker_id": "kalani-reelitz",
+      "speaker_name": "Kalani Reelitz",
+      "speaker_role": "CFO at Compass",
+      "timestamp": "00:50:14",
+      "text": "Yeah. No, well said, Robert. I think long-term, for all the reasons Robert said, I do think as a brokerage, we will provide more and more value to agents. I think you should, and we do expect margin over time to increase for all the reasons Robert mentioned, plus the mix as we continue to recruit the right set of agents and balance that portfolio, as well as our title and escrow and our overall integrated services continue to grow. We think there's a tremendous opportunity there. So I think long-term, we see lots of tailwinds. I think as we think about short-term, we're going to kind of see headwinds and tailwinds pretty cross each other out a little bit in the short term, right? The headwinds for us from a rate perspective in 2024 is going to be M&A."
+    },
+    {
+      "speaker_id": "kalani-reelitz",
+      "speaker_name": "Kalani Reelitz",
+      "speaker_role": "CFO at Compass",
+      "timestamp": "00:51:02",
+      "text": "So the acquisitions that we did in September, including Latter & Blum, will have some impact. If you think about the decline this quarter, two-thirds of it was M&A that will continue. And then I think we do see some headwinds on just geographic mix. For example, the other third, the majority of the remaining drag on year over year is geographic mix, really our East Coast, New York, becoming a slightly smaller part of our portfolio and offsetting some of the with favorable margins there. So I think short-term, we can expect kind of headwinds and tailwinds to cross each other out. But I definitely think over time and expect over time for margin to be accretive to us for all of those reasons as we drive more value for our agents."
+    },
+    {
+      "speaker_id": "jeff-seiner",
+      "speaker_name": "Jeff Seiner",
+      "speaker_role": "VP of Equity Research at Deutsche Bank",
+      "timestamp": "00:51:54",
+      "text": "Great. That was really helpful. Maybe quickly, just in a similar vein, given all the benefits, Robert, that you highlighted in maybe helping agents navigate this regulatory landscape and I know, obviously, you guys have been acquisitive in the recent times, do you think this regulation could almost be a drive of industry consolidation going forward around the brokers who maybe have the capabilities or the ability to offer and provide that platform for agents to kind of succeed and sort of under the new rules?"
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass",
+      "timestamp": "00:52:32",
+      "text": "Yes. It's hard for me to see a scenario where in the years to come, there's not near record levels of industry consolidation."
+    },
+    {
+      "speaker_id": "jeff-seiner",
+      "speaker_name": "Jeff Seiner",
+      "speaker_role": "VP of Equity Research at Deutsche Bank",
+      "timestamp": "00:52:45",
+      "text": "Got it. Really helpful. Thank you."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:52:50",
+      "text": "We have a follow-up question from Soham Bhonsle of BTIG. Please go ahead."
+    },
+    {
+      "speaker_id": "soham-bhonsle",
+      "speaker_name": "Soham Bhonsle",
+      "speaker_role": "Analyst at BTIG",
+      "timestamp": "00:52:56",
+      "text": "Hey, guys. This is less of a question, more just something that we've been thinking about. And it's around the idea that, look, historically, brokers, when they had a listing, they would go on the MLS, and then it would then get syndicated to the portals out there. But as we sort of go forward, I mean, the power I'm just trying to think about the shift in power here because at the end of the day, the listing sits with the brokerage, and you guys can decide sort of where you want to put that. And if the MLS, debatable, right? What's the value there long-term, right? Will agents continue to go there? I don't know. Maybe you have a view there. But I'm just curious on your thoughts around you touched on Robert's sort of off-market listings and maybe private listing services and things like that."
+    },
+    {
+      "speaker_id": "soham-bhonsle",
+      "speaker_name": "Soham Bhonsle",
+      "speaker_role": "Analyst at BTIG",
+      "timestamp": "00:53:44",
+      "text": "So I'm curious, where do you see that going? Is there an opportunity here for you to maybe even monetize some of the listings in a different way than you ever did before? So just curious. That's an open-ended question."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass",
+      "timestamp": "00:54:01",
+      "text": "Yeah. So look, let me start by sharing why private exclusives are valuable for some sellers as well as Coming Soon. So private exclusives mean that they're off-market, not searchable in the public domain. One of the reasons why is days on market is the killer of value. See, forcing sellers to show price drop history is the killer of value because if you're a seller, you wanted to aspirationally list it for a number, and then you have the buyers aren't there. You do a price drop. Buyers aren't there. Do another price drop, then the sharks come out. And so we have a fiduciary responsibility to our sellers to help them maximize value. And private exclusives allow you to test the market privately as opposed to publicly."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass",
+      "timestamp": "00:55:09",
+      "text": "You can have pricing parties with your agents where you bring them in, and then you can test the market in pricing. Also, you shouldn't have to sell your privacy to sell your home. If you want to sell your home, you shouldn't have to sell your privacy. But those are some of the reasons why private exclusives are good for sellers. Coming Soons, and we see them a lot in certain markets, less so in others. What Coming Soons do is they create tension. So think about a movie trailer. Movie trailers don't launch their first trailer three days before the first showing like people do with open houses. They launch maybe the first trailer two months before with a 15-second trailer, then a month later with a 30-second trailer, then a week before."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass",
+      "timestamp": "00:56:01",
+      "text": "You have a minute trailer, then you get a line around the block for the movie. Coming Soons, the right Coming Soons strategy, a month before with one photo. Then you add more photo, add more content, add more descriptions. And then that tension can create a line around the block for a home to get a lot of people to that open house. And also, if you look at some of the most sophisticated people in real estate, real estate developers, they can sell a home off a floor plan. And what they do is they say, \"Hey, it's not fully available yet, but here's the floor plans. If you want to come in, I can show it to you. It's going to go to live, it's going to be completely live in two months."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass",
+      "timestamp": "00:56:41",
+      "text": "But if you want to put in an offer now, you can.\" It creates tension. So we, as existing agents, have to be professional marketers to maximize home value sales for sellers. That's a fiduciary responsibility. So I just wanted to share that. Yeah, look, I appreciate the question."
+    },
+    {
+      "speaker_id": "soham-bhonsle",
+      "speaker_name": "Soham Bhonsle",
+      "speaker_role": "Analyst at BTIG",
+      "timestamp": "00:57:03",
+      "text": "All right. Thank you."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:57:08",
+      "text": "There are no further questions. I will now turn the conference back over to Robert Reffkin for closing remarks."
+    },
+    {
+      "speaker_id": "robert-reffkin",
+      "speaker_name": "Robert Reffkin",
+      "speaker_role": "Founder and CEO at Compass",
+      "timestamp": "00:57:17",
+      "text": "Thank you for joining today's call. Yeah, in the midst of this difficult residential real estate market, we have aggressively taken control over what we can control and made Compass stronger than ever. It is starting to show in our financial results. I'm very passionate about what we are doing. Hopefully, as you can see, one day, we will return to a normal market. The hard work we have put in as agents and employees at Compass will lead to even greater success. Thank you."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:57:48",
+      "text": "Ladies and gentlemen, that."
+    }
+  ],
+  "statements": [
+    {
+      "id": "COMP-FY2024Q1-001",
+      "turn_index": 3,
+      "speaker_id": "robert-reffkin",
+      "verbatim_quote": "Compass generated positive Free cash flow.",
+      "claim": "Compass generated positive free cash flow in Q1 2024.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "COMP-FY2024Q1-002",
+      "turn_index": 4,
+      "speaker_id": "robert-reffkin",
+      "verbatim_quote": "we generated an increase in revenue of 10% year-over-year",
+      "claim": "Compass revenue increased 10% year-over-year in Q1 2024.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "COMP-FY2024Q1-003",
+      "turn_index": 4,
+      "speaker_id": "robert-reffkin",
+      "verbatim_quote": "we increased transactions 7.1% from a year ago",
+      "claim": "Compass transactions increased 7.1% year-over-year in Q1 2024.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "COMP-FY2024Q1-004",
+      "turn_index": 5,
+      "speaker_id": "robert-reffkin",
+      "verbatim_quote": "our quarterly market share increased 26 basis points year-over-year",
+      "claim": "Compass market share increased 26 basis points year-over-year in Q1 2024.",
+      "categorizations": [
+        "competitive_or_market_position_claim"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "COMP-FY2024Q1-005",
+      "turn_index": 5,
+      "speaker_id": "robert-reffkin",
+      "verbatim_quote": "Our principal agent count has increased by nearly 1,000 agents between Q1 2023 and Q1 2024. This is a 7.3% increase",
+      "claim": "Compass principal agent count increased by nearly 1,000 agents (7.3%) year-over-year in Q1 2024.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "COMP-FY2024Q1-006",
+      "turn_index": 6,
+      "speaker_id": "robert-reffkin",
+      "verbatim_quote": "we recruited 518 principal agents",
+      "claim": "Compass recruited 518 principal agents organically in Q1 2024.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "COMP-FY2024Q1-007",
+      "turn_index": 6,
+      "speaker_id": "robert-reffkin",
+      "verbatim_quote": "we added more than 1,000 principal agents with our creative acquisition of Latter & Blum",
+      "claim": "Compass added more than 1,000 principal agents via the Latter & Blum acquisition in April 2024.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "COMP-FY2024Q1-008",
+      "turn_index": 6,
+      "speaker_id": "robert-reffkin",
+      "verbatim_quote": "the number of total agents increased 2.1% year-over-year",
+      "claim": "Compass total agent count increased 2.1% year-over-year in Q1 2024.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "COMP-FY2024Q1-009",
+      "turn_index": 6,
+      "speaker_id": "robert-reffkin",
+      "verbatim_quote": "We ended Q1 with $165 million in cash and cash equivalents and no outstanding draws on our credit facility.",
+      "claim": "Compass ended Q1 2024 with $165 million in cash and cash equivalents and no outstanding credit facility draws.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "COMP-FY2024Q1-010",
+      "turn_index": 7,
+      "speaker_id": "robert-reffkin",
+      "verbatim_quote": "We reduced our OpEx in the Q1 to $211 million",
+      "claim": "Compass operating expenses were $211 million in Q1 2024.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "COMP-FY2024Q1-011",
+      "turn_index": 10,
+      "speaker_id": "robert-reffkin",
+      "verbatim_quote": "we have conservatively budgeted for a flat year on transactions",
+      "claim": "Compass has budgeted for flat transaction volume in 2024.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "COMP-FY2024Q1-012",
+      "turn_index": 11,
+      "speaker_id": "robert-reffkin",
+      "verbatim_quote": "We expect to be free cash flow positive in 2024",
+      "claim": "Compass expects to generate positive free cash flow for the full year 2024.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "COMP-FY2024Q1-013",
+      "turn_index": 11,
+      "speaker_id": "robert-reffkin",
+      "verbatim_quote": "we expect to make in the Q2",
+      "claim": "Compass expects to make the first payment related to the litigation settlement in Q2 2024.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "COMP-FY2024Q1-014",
+      "turn_index": 12,
+      "speaker_id": "robert-reffkin",
+      "verbatim_quote": "90% of our agents have been trained and are prepared for the rules.",
+      "claim": "90% of Compass agents have been trained and are prepared for the new NAR rules as of the call date.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "unverifiable"
+      }
+    },
+    {
+      "id": "COMP-FY2024Q1-015",
+      "turn_index": 12,
+      "speaker_id": "robert-reffkin",
+      "verbatim_quote": "More than 99% of new listings since March included offers to pay the buyer agent.",
+      "claim": "More than 99% of new listings since March 15, 2024, included offers to pay the buyer agent.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "unverifiable"
+      }
+    },
+    {
+      "id": "COMP-FY2024Q1-016",
+      "turn_index": 13,
+      "speaker_id": "robert-reffkin",
+      "verbatim_quote": "more than 96% of all listings included offers to pay 2% or more",
+      "claim": "More than 96% of all listings included offers to pay 2% or more in commission.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "unverifiable"
+      }
+    },
+    {
+      "id": "COMP-FY2024Q1-017",
+      "turn_index": 13,
+      "speaker_id": "robert-reffkin",
+      "verbatim_quote": "more than 67% are offering to pay 2.5% or more",
+      "claim": "More than 67% of listings are offering to pay 2.5% or more in commission.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "unverifiable"
+      }
+    },
+    {
+      "id": "COMP-FY2024Q1-018",
+      "turn_index": 14,
+      "speaker_id": "robert-reffkin",
+      "verbatim_quote": "the client dashboard launching in less than a year",
+      "claim": "The Compass client dashboard will launch in less than a year from the call date.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "COMP-FY2024Q1-019",
+      "turn_index": 20,
+      "speaker_id": "kalani-reelitz",
+      "verbatim_quote": "we processed 38,449 transactions",
+      "claim": "Compass processed 38,449 transactions in Q1 2024.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "COMP-FY2024Q1-020",
+      "turn_index": 20,
+      "speaker_id": "kalani-reelitz",
+      "verbatim_quote": "Our market share for Q1 2024 was 4.76%",
+      "claim": "Compass market share was 4.76% in Q1 2024.",
+      "categorizations": [
+        "competitive_or_market_position_claim"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "COMP-FY2024Q1-021",
+      "turn_index": 21,
+      "speaker_id": "kalani-reelitz",
+      "verbatim_quote": "on a go-forward basis, we'll disclose our principal agent count as of the last day of the quarter.",
+      "claim": "Compass will disclose principal agent count as of the last day of the quarter going forward.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "COMP-FY2024Q1-022",
+      "turn_index": 21,
+      "speaker_id": "kalani-reelitz",
+      "verbatim_quote": "as of March 31st, 2024, we had 14,591 principal agents",
+      "claim": "Compass had 14,591 principal agents as of March 31, 2024.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "COMP-FY2024Q1-023",
+      "turn_index": 22,
+      "speaker_id": "kalani-reelitz",
+      "verbatim_quote": "Our Q1 revenue was $1.05 billion",
+      "claim": "Compass Q1 2024 revenue was $1.05 billion.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "COMP-FY2024Q1-024",
+      "turn_index": 22,
+      "speaker_id": "kalani-reelitz",
+      "verbatim_quote": "Gross transaction value was $40.1 billion in the Q1",
+      "claim": "Compass gross transaction value was $40.1 billion in Q1 2024.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "COMP-FY2024Q1-025",
+      "turn_index": 22,
+      "speaker_id": "kalani-reelitz",
+      "verbatim_quote": "Our Non-GAAP commission expense as a percent of revenue was 81.8%",
+      "claim": "Compass Non-GAAP commission expense as a percent of revenue was 81.8% in Q1 2024.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "COMP-FY2024Q1-026",
+      "turn_index": 23,
+      "speaker_id": "kalani-reelitz",
+      "verbatim_quote": "Our total Non-GAAP operating expenses, excluding commissions and other related expenses, were $211 million for the Q1.",
+      "claim": "Compass total Non-GAAP operating expenses excluding commissions were $211 million in Q1 2024.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "COMP-FY2024Q1-027",
+      "turn_index": 25,
+      "speaker_id": "kalani-reelitz",
+      "verbatim_quote": "Our adjusted EBITDA for the Q1 was a negative $20.1 million",
+      "claim": "Compass adjusted EBITDA was negative $20.1 million in Q1 2024.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "COMP-FY2024Q1-028",
+      "turn_index": 25,
+      "speaker_id": "kalani-reelitz",
+      "verbatim_quote": "Our GAAP net loss for the Q1 was $133 million",
+      "claim": "Compass GAAP net loss was $133 million in Q1 2024.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "COMP-FY2024Q1-029",
+      "turn_index": 25,
+      "speaker_id": "kalani-reelitz",
+      "verbatim_quote": "we expect that half of this amount will be paid in cash in Q2 of 2024 and the other half in Q2 of 2025.",
+      "claim": "Compass expects to pay half of the $57.5 million settlement in Q2 2024 and the other half in Q2 2025.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "COMP-FY2024Q1-030",
+      "turn_index": 25,
+      "speaker_id": "kalani-reelitz",
+      "verbatim_quote": "Free cash flow for the Q1 was positive $5.9 million",
+      "claim": "Compass free cash flow was positive $5.9 million in Q1 2024.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "COMP-FY2024Q1-031",
+      "turn_index": 28,
+      "speaker_id": "kalani-reelitz",
+      "verbatim_quote": "We ended the Q1 with $166 million of cash and cash equivalents on our balance sheet",
+      "claim": "Compass ended Q1 2024 with $166 million in cash and cash equivalents.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "COMP-FY2024Q1-032",
+      "turn_index": 28,
+      "speaker_id": "kalani-reelitz",
+      "verbatim_quote": "we expect revenue in the range of $1.6 billion-$1.7 billion",
+      "claim": "Compass expects Q2 2024 revenue to be in the range of $1.6 billion to $1.7 billion.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "COMP-FY2024Q1-033",
+      "turn_index": 28,
+      "speaker_id": "kalani-reelitz",
+      "verbatim_quote": "we expect Adjusted EBITDA to be in the range of $55 million-$75 million",
+      "claim": "Compass expects Q2 2024 Adjusted EBITDA to be in the range of $55 million to $75 million.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "COMP-FY2024Q1-034",
+      "turn_index": 29,
+      "speaker_id": "kalani-reelitz",
+      "verbatim_quote": "we are targeting a Non-GAAP OpEx level between $855 million-$875 million with a midpoint of $865 million",
+      "claim": "Compass targets full-year 2024 Non-GAAP OpEx between $855 million and $875 million, with a midpoint of $865 million.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "COMP-FY2024Q1-035",
+      "turn_index": 29,
+      "speaker_id": "kalani-reelitz",
+      "verbatim_quote": "We expect this acquisition to be accretive to adjusted EBITDA in 2024",
+      "claim": "Compass expects the Latter & Blum acquisition to be accretive to adjusted EBITDA in 2024.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "COMP-FY2024Q1-036",
+      "turn_index": 29,
+      "speaker_id": "kalani-reelitz",
+      "verbatim_quote": "we are reiterating our expectation to be free cash flow positive for the full year of 2024.",
+      "claim": "Compass reiterates its expectation to be free cash flow positive for the full year 2024.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "COMP-FY2024Q1-037",
+      "turn_index": 42,
+      "speaker_id": "kalani-reelitz",
+      "verbatim_quote": "we are on track to deliver that",
+      "claim": "Compass is on track to deliver core OpEx of $850 million in 2024.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "COMP-FY2024Q1-038",
+      "turn_index": 48,
+      "speaker_id": "kalani-reelitz",
+      "verbatim_quote": "we firmly believe that our ability to amortize our platform across more agents... will lead to further margin expansion",
+      "claim": "Compass believes amortizing its platform across more agents will lead to further margin expansion.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "heavily_hedged",
+      "override_window": "long-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "COMP-FY2024Q1-039",
+      "turn_index": 49,
+      "speaker_id": "kalani-reelitz",
+      "verbatim_quote": "you'll see us continue to review accretive deals that are favorable terms to Compass going forward.",
+      "claim": "Compass will continue to review accretive deals with favorable terms going forward.",
+      "categorizations": [
+        "strategic_direction_claim"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "indefinite",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "COMP-FY2024Q1-040",
+      "turn_index": 55,
+      "speaker_id": "kalani-reelitz",
+      "verbatim_quote": "We have executed about 95% of our activity that's needed to achieve the $850 million of OpEx",
+      "claim": "Compass has executed about 95% of the activity needed to achieve $850 million of core OpEx in 2024.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "unverifiable"
+      }
+    },
+    {
+      "id": "COMP-FY2024Q1-041",
+      "turn_index": 55,
+      "speaker_id": "kalani-reelitz",
+      "verbatim_quote": "we are looking at and have actually implemented some AI from a marketing standpoint.",
+      "claim": "Compass has implemented some AI from a marketing standpoint.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "unverifiable"
+      }
+    },
+    {
+      "id": "COMP-FY2024Q1-042",
+      "turn_index": 56,
+      "speaker_id": "kalani-reelitz",
+      "verbatim_quote": "We're looking at robotics and have automation in our back office.",
+      "claim": "Compass has automation in its back office and is looking at robotics.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "unverifiable"
+      }
+    },
+    {
+      "id": "COMP-FY2024Q1-043",
+      "turn_index": 64,
+      "speaker_id": "robert-reffkin",
+      "verbatim_quote": "we're launching our pre-release test in Q4",
+      "claim": "Compass will launch the pre-release test of the Client Dashboard in Q4 2024.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "COMP-FY2024Q1-044",
+      "turn_index": 77,
+      "speaker_id": "kalani-reelitz",
+      "verbatim_quote": "we do expect margin over time to increase",
+      "claim": "Compass expects margin to increase over time.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "long-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "COMP-FY2024Q1-045",
+      "turn_index": 78,
+      "speaker_id": "kalani-reelitz",
+      "verbatim_quote": "I definitely think over time and expect over time for margin to be accretive to us",
+      "claim": "Compass expects margin to be accretive over time.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "long-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "COMP-FY2024Q1-046",
+      "turn_index": 80,
+      "speaker_id": "robert-reffkin",
+      "verbatim_quote": "It's hard for me to see a scenario where in the years to come, there's not near record levels of industry consolidation.",
+      "claim": "Compass expects near record levels of industry consolidation in the years to come.",
+      "categorizations": [
+        "competitive_or_market_position_claim"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "heavily_hedged",
+      "override_window": "long-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    }
+  ]
+}

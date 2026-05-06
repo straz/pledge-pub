@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T16:51:20.255Z",
+  "generated_at": "2026-05-06T17:28:13.867Z",
   "companies": [
     {
       "id": "alphabet",
@@ -2310,6 +2310,203 @@
             "by_resolution": {
               "validated": 26,
               "unresolved": 19
+            }
+          },
+          "fiscal_label": "Q1 2024"
+        }
+      ]
+    },
+    {
+      "id": "compass",
+      "name": "Compass",
+      "ticker": "COMP",
+      "calls": [
+        {
+          "period": "FY2026_Q1",
+          "title": "Compass Q1 2026 Earnings Call Transcript",
+          "datetime": "2026-05-05T22:00:00Z",
+          "statement_count": 58,
+          "stats": {
+            "by_hedging": {
+              "unhedged": 37,
+              "softly_hedged": 15,
+              "heavily_hedged": 6
+            },
+            "by_category": {
+              "margin_trajectory_specific": 17,
+              "financial_structure_or_capital_action": 24,
+              "operational_metric_specific": 13,
+              "capacity_or_capability_delivery": 3,
+              "revenue_trajectory_specific": 8,
+              "segment_growth_specific": 1
+            },
+            "by_resolution": {
+              "unresolved": 27,
+              "validated": 31
+            }
+          },
+          "fiscal_label": "Q1 2026"
+        },
+        {
+          "period": "FY2025_Q4",
+          "title": "Compass Q4 2025 Earnings Call Transcript",
+          "datetime": "2026-02-26T22:00:00Z",
+          "statement_count": 48,
+          "stats": {
+            "by_hedging": {
+              "unhedged": 37,
+              "softly_hedged": 11
+            },
+            "by_category": {
+              "revenue_trajectory_specific": 5,
+              "margin_trajectory_specific": 14,
+              "operational_metric_specific": 11,
+              "financial_structure_or_capital_action": 17,
+              "capacity_or_capability_delivery": 3
+            },
+            "by_resolution": {
+              "validated": 18,
+              "unresolved": 30
+            }
+          },
+          "fiscal_label": "Q4 2025"
+        },
+        {
+          "period": "FY2025_Q3",
+          "title": "Compass Q3 2025 Earnings Call Transcript",
+          "datetime": "2025-11-04T22:00:00Z",
+          "statement_count": 44,
+          "stats": {
+            "by_hedging": {
+              "softly_hedged": 10,
+              "unhedged": 33,
+              "heavily_hedged": 1
+            },
+            "by_category": {
+              "financial_structure_or_capital_action": 5,
+              "revenue_trajectory_specific": 5,
+              "margin_trajectory_specific": 19,
+              "operational_metric_specific": 9,
+              "segment_growth_specific": 3,
+              "strategic_direction_claim": 3,
+              "capacity_or_capability_delivery": 1,
+              "competitive_or_market_position_claim": 1
+            },
+            "by_resolution": {
+              "unresolved": 18,
+              "validated": 26
+            }
+          },
+          "fiscal_label": "Q3 2025"
+        },
+        {
+          "period": "FY2025_Q2",
+          "title": "Compass Q2 2025 Earnings Call Transcript",
+          "datetime": "2025-07-30T22:00:00Z",
+          "statement_count": 45,
+          "stats": {
+            "by_hedging": {
+              "unhedged": 25,
+              "softly_hedged": 18,
+              "heavily_hedged": 2
+            },
+            "by_category": {
+              "revenue_trajectory_specific": 4,
+              "margin_trajectory_specific": 15,
+              "operational_metric_specific": 12,
+              "geographic_or_regional_rollout": 1,
+              "segment_growth_specific": 2,
+              "capacity_or_capability_delivery": 5,
+              "strategic_direction_claim": 3,
+              "competitive_or_market_position_claim": 1,
+              "financial_structure_or_capital_action": 5
+            },
+            "by_resolution": {
+              "validated": 25,
+              "unresolved": 20
+            }
+          },
+          "fiscal_label": "Q2 2025"
+        },
+        {
+          "period": "FY2024_Q4",
+          "title": "Compass Q4 2024 Earnings Call Transcript",
+          "datetime": "2025-02-18T22:00:00Z",
+          "statement_count": 43,
+          "stats": {
+            "by_hedging": {
+              "unhedged": 34,
+              "softly_hedged": 9
+            },
+            "by_category": {
+              "financial_structure_or_capital_action": 9,
+              "margin_trajectory_specific": 13,
+              "revenue_trajectory_specific": 6,
+              "operational_metric_specific": 12,
+              "segment_growth_specific": 1,
+              "competitive_or_market_position_claim": 1,
+              "geographic_or_regional_rollout": 1
+            },
+            "by_resolution": {
+              "validated": 24,
+              "unresolved": 19
+            }
+          },
+          "fiscal_label": "Q4 2024"
+        },
+        {
+          "period": "FY2024_Q2",
+          "title": "Compass Q2 2024 Earnings Call Transcript",
+          "datetime": "2024-07-31T22:00:00Z",
+          "statement_count": 45,
+          "stats": {
+            "by_hedging": {
+              "unhedged": 25,
+              "softly_hedged": 18,
+              "heavily_hedged": 2
+            },
+            "by_category": {
+              "financial_structure_or_capital_action": 15,
+              "revenue_trajectory_specific": 3,
+              "operational_metric_specific": 8,
+              "competitive_or_market_position_claim": 3,
+              "margin_trajectory_specific": 9,
+              "capacity_or_capability_delivery": 3,
+              "geographic_or_regional_rollout": 2,
+              "strategic_direction_claim": 2
+            },
+            "by_resolution": {
+              "validated": 22,
+              "unresolved": 22,
+              "unverifiable": 1
+            }
+          },
+          "fiscal_label": "Q2 2024"
+        },
+        {
+          "period": "FY2024_Q1",
+          "title": "Compass Q1 2024 Earnings Call Transcript",
+          "datetime": "2024-05-08T22:00:00Z",
+          "statement_count": 46,
+          "stats": {
+            "by_hedging": {
+              "unhedged": 30,
+              "softly_hedged": 14,
+              "heavily_hedged": 2
+            },
+            "by_category": {
+              "financial_structure_or_capital_action": 8,
+              "revenue_trajectory_specific": 3,
+              "operational_metric_specific": 14,
+              "competitive_or_market_position_claim": 3,
+              "margin_trajectory_specific": 13,
+              "capacity_or_capability_delivery": 4,
+              "strategic_direction_claim": 1
+            },
+            "by_resolution": {
+              "validated": 21,
+              "unresolved": 18,
+              "unverifiable": 7
             }
           },
           "fiscal_label": "Q1 2024"
