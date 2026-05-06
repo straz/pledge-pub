@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T17:28:13.867Z",
+  "generated_at": "2026-05-06T18:36:32.377Z",
   "companies": [
     {
       "id": "alphabet",
@@ -2510,6 +2510,179 @@
             }
           },
           "fiscal_label": "Q1 2024"
+        }
+      ]
+    },
+    {
+      "id": "anywhere",
+      "name": "Anywhere Real Estate",
+      "ticker": "HOUS",
+      "calls": [
+        {
+          "period": "FY2025_Q3",
+          "title": "Anywhere Real Estate Q3 2025 Earnings Call Transcript",
+          "datetime": "2025-11-04T22:00:00Z",
+          "statement_count": 44,
+          "stats": {
+            "by_hedging": {
+              "heavily_hedged": 1,
+              "unhedged": 36,
+              "softly_hedged": 7
+            },
+            "by_category": {
+              "financial_structure_or_capital_action": 6,
+              "operational_metric_specific": 16,
+              "revenue_trajectory_specific": 1,
+              "margin_trajectory_specific": 10,
+              "competitive_or_market_position_claim": 2,
+              "segment_growth_specific": 8,
+              "geographic_or_regional_rollout": 1,
+              "capacity_or_capability_delivery": 2
+            },
+            "by_resolution": {
+              "unresolved": 5,
+              "validated": 39
+            }
+          },
+          "fiscal_label": "Q3 2025"
+        },
+        {
+          "period": "FY2025_Q2",
+          "title": "Anywhere Real Estate Q2 2025 Earnings Call Transcript",
+          "datetime": "2025-07-29T22:00:00Z",
+          "statement_count": 40,
+          "stats": {
+            "by_hedging": {
+              "softly_hedged": 18,
+              "heavily_hedged": 1,
+              "unhedged": 21
+            },
+            "by_category": {
+              "financial_structure_or_capital_action": 7,
+              "revenue_trajectory_specific": 3,
+              "margin_trajectory_specific": 5,
+              "operational_metric_specific": 12,
+              "geographic_or_regional_rollout": 3,
+              "segment_growth_specific": 7,
+              "capacity_or_capability_delivery": 3,
+              "strategic_direction_claim": 3
+            },
+            "by_resolution": {
+              "unresolved": 13,
+              "validated": 27
+            }
+          },
+          "fiscal_label": "Q2 2025"
+        },
+        {
+          "period": "FY2025_Q1",
+          "title": "Anywhere Real Estate Q1 2025 Earnings Call Transcript",
+          "datetime": "2025-04-29T22:00:00Z",
+          "statement_count": 40,
+          "stats": {
+            "by_hedging": {
+              "softly_hedged": 20,
+              "unhedged": 20
+            },
+            "by_category": {
+              "financial_structure_or_capital_action": 6,
+              "revenue_trajectory_specific": 2,
+              "margin_trajectory_specific": 8,
+              "operational_metric_specific": 11,
+              "segment_growth_specific": 10,
+              "capacity_or_capability_delivery": 3,
+              "geographic_or_regional_rollout": 1
+            },
+            "by_resolution": {
+              "unresolved": 14,
+              "validated": 26
+            }
+          },
+          "fiscal_label": "Q1 2025"
+        },
+        {
+          "period": "FY2024_Q4",
+          "title": "Anywhere Real Estate Q4 2024 Earnings Call Transcript",
+          "datetime": "2025-02-13T22:00:00Z",
+          "statement_count": 47,
+          "stats": {
+            "by_hedging": {
+              "softly_hedged": 20,
+              "unhedged": 26,
+              "heavily_hedged": 1
+            },
+            "by_category": {
+              "financial_structure_or_capital_action": 13,
+              "margin_trajectory_specific": 12,
+              "operational_metric_specific": 12,
+              "segment_growth_specific": 9,
+              "geographic_or_regional_rollout": 1,
+              "revenue_trajectory_specific": 2
+            },
+            "by_resolution": {
+              "unresolved": 18,
+              "validated": 28,
+              "unverifiable": 1
+            }
+          },
+          "fiscal_label": "Q4 2024"
+        },
+        {
+          "period": "FY2024_Q3",
+          "title": "Anywhere Real Estate Q3 2024 Earnings Call Transcript",
+          "datetime": "2024-11-07T22:00:00Z",
+          "statement_count": 35,
+          "stats": {
+            "by_hedging": {
+              "heavily_hedged": 1,
+              "softly_hedged": 9,
+              "unhedged": 25
+            },
+            "by_category": {
+              "financial_structure_or_capital_action": 10,
+              "revenue_trajectory_specific": 2,
+              "margin_trajectory_specific": 7,
+              "operational_metric_specific": 10,
+              "segment_growth_specific": 4,
+              "geographic_or_regional_rollout": 1,
+              "capacity_or_capability_delivery": 1,
+              "strategic_direction_claim": 1
+            },
+            "by_resolution": {
+              "unresolved": 9,
+              "validated": 26
+            }
+          },
+          "fiscal_label": "Q3 2024"
+        },
+        {
+          "period": "FY2024_Q2",
+          "title": "Anywhere Real Estate Q2 2024 Earnings Call Transcript",
+          "datetime": "2024-08-01T22:00:00Z",
+          "statement_count": 35,
+          "stats": {
+            "by_hedging": {
+              "unhedged": 18,
+              "softly_hedged": 15,
+              "heavily_hedged": 2
+            },
+            "by_category": {
+              "financial_structure_or_capital_action": 9,
+              "revenue_trajectory_specific": 2,
+              "margin_trajectory_specific": 7,
+              "operational_metric_specific": 7,
+              "segment_growth_specific": 5,
+              "geographic_or_regional_rollout": 2,
+              "capacity_or_capability_delivery": 2,
+              "competitive_or_market_position_claim": 1,
+              "strategic_direction_claim": 1
+            },
+            "by_resolution": {
+              "validated": 18,
+              "unresolved": 17
+            }
+          },
+          "fiscal_label": "Q2 2024"
         }
       ]
     }

@@ -1,0 +1,1514 @@
+{
+  "company_id": "anywhere",
+  "title": "Anywhere Real Estate Q2 2024 Earnings Call Transcript",
+  "datetime": "2024-08-01T22:00:00Z",
+  "period": "FY2024_Q2",
+  "location": "",
+  "url": "https://www.marketbeat.com/earnings/reports/2024-8-1-anywhere-real-estate-inc-stock/",
+  "people": [
+    {
+      "id": "operator",
+      "name": "Operator",
+      "role": ""
+    },
+    {
+      "id": "alicia-swift",
+      "name": "Alicia Swift",
+      "role": "Head of Investor Relations at Anywhere Real Estate"
+    },
+    {
+      "id": "ryan-schneider",
+      "name": "Ryan Schneider",
+      "role": "CEO and President at Anywhere Real Estate"
+    },
+    {
+      "id": "charlotte-simonelli",
+      "name": "Charlotte Simonelli",
+      "role": "CFO at Anywhere Real Estate"
+    },
+    {
+      "id": "soham-bhonsle",
+      "name": "Soham Bhonsle",
+      "role": "VP and Senior Analyst at BTIG"
+    },
+    {
+      "id": "anthony-paolone",
+      "name": "Anthony Paolone",
+      "role": "Executive Director at JPMorgan"
+    },
+    {
+      "id": "matthew-bouley",
+      "name": "Matthew Bouley",
+      "role": "Senior Equity Research Analyst at Barclays"
+    },
+    {
+      "id": "tommy-mcjoynt",
+      "name": "Tommy McJoynt",
+      "role": "Director at KBW"
+    },
+    {
+      "id": "john-campbell",
+      "name": "John Campbell",
+      "role": "Managing Director at Stephens"
+    },
+    {
+      "id": "ryan-mckeveny",
+      "name": "Ryan McKeveny",
+      "role": "Managing Director at Zelman & Associates"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:00:00",
+      "text": "Good morning and welcome to the Anywhere Real Estate second quarter 2024 earnings conference call via webcast. Today's call is being recorded, and a written transcript will be made available in the investor information section of the company's website tomorrow. A webcast replay will also be made available on the company's website. At this time, I would like to turn the conference over to Anywhere Senior Vice President, Alicia Swift. Please go ahead, Alicia."
+    },
+    {
+      "speaker_id": "alicia-swift",
+      "speaker_name": "Alicia Swift",
+      "speaker_role": "Head of Investor Relations at Anywhere Real Estate",
+      "timestamp": "00:00:33",
+      "text": "Thank you, Eric. Good morning and welcome to the second quarter 2024 earnings conference call for Anywhere Real Estate. On the call with me today are Anywhere CEO and President Ryan Schneider and Chief Financial Officer, Charlotte Simonelli. As shown on slide 3 of the presentation, the company will be making statements about its future results and other forward-looking statements during this call. These statements are based on the current expectation and the current economic environment. Forward-looking statements, estimates, and projections are inherently subject to significant economic, competitive, antitrust, and other litigation, regulatory, and other uncertainties and contingencies, many of which are beyond the control of management, including, among others, industry and macroeconomic developments. Actual results may differ materially from those expressed or implied in the forward-looking statements. As we've shared before, we have two large expected one-time free cash flow headwinds."
+    },
+    {
+      "speaker_id": "alicia-swift",
+      "speaker_name": "Alicia Swift",
+      "speaker_role": "Head of Investor Relations at Anywhere Real Estate",
+      "timestamp": "00:01:31",
+      "text": "The first headwind is our approved $83.5 million litigation settlement and a reminder that $10 million of that was paid in 2023. In the second quarter of 2024, we paid $20 million of this, which means there is $53.5 million remaining, which will be due when appeals are resolved. The appeals timing is uncertain, depending on developments in the proceedings, and could be delayed until 2025. Second, the 1999 Cendant legacy tax matter, approximately $40 million is due shortly after notice is received, which has not yet happened, but still anticipated in 2024. We previously estimated over $100 million of these free cash flow headwinds in 2024, and our current best guess is approximately $60 million for 2024. For further discussion of these matters, see our SEC periodic reports, including the Form 10-Q we filed this morning."
+    },
+    {
+      "speaker_id": "alicia-swift",
+      "speaker_name": "Alicia Swift",
+      "speaker_role": "Head of Investor Relations at Anywhere Real Estate",
+      "timestamp": "00:02:27",
+      "text": "Our free cash flow estimates referenced do not include any potential impacts relating to the implementation of industry settlement practice changes, which remain uncertain. The reference to core franchise in these remarks is the franchise segment excluding relocation and lease. Important assumptions and factors that could cause actual results to differ materially from those in the forward-looking statements are specified in our earnings release issued today, as well as in our annual and quarterly SEC filings. For those who listen to the rebroadcast of this presentation, we remind you that the remarks made herein are as of today, August 1st, and have not been updated subsequent to the initial earnings call. Now I will turn the call over to our CEO and President, Ryan Schneider."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:03:12",
+      "text": "Thank you, Alicia. Good morning. Anywhere Real Estate delivered powerful financial results in the second quarter. We are demonstrating success delivering on what we can control, leveraging our strategic strengths across advantage areas like franchise, luxury, and scaled ancillary services, and building financial octane for the future. Real estate remains in a tough part of the cycle. Macroeconomic uncertainty continues to impact housing, including elevated mortgage rates and very limited supply, putting 2024 on track to be another historically low year for home sale transactions. The practice changes coming out of the industry-wide litigation settlement are creating uncertainty. While the entire industry faces these two uncertainties, we are using this time of change to position us for growth and further differentiate versus the competition. During the second quarter of 2024, we delivered $1.7 billion of revenue and $139 million of operating EBITDA."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:04:09",
+      "text": "We realized approximately $30 million of cost savings and increased our full-year savings target to $120 million. We grew transaction volume 3% year-over-year, consistent with the market results. The dynamics we are seeing include continued unit transaction weakness driven by the combination of high interest rates and the lock-in effect hurting supply. Units declined in about 40 states, including many of the largest like California, Texas, and Florida. There was about 8% price growth in our portfolio versus the prior year, with more than 90% of the country seeing price gains and over 10 states having double-digit price growth, including some of the largest like Florida, New Jersey, and California. We generated $83 million of free cash flow in the quarter, excluding the $20 million litigation settlement payment. We received final court approval for our nationwide settlement in the sell-side antitrust class action cases."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:05:06",
+      "text": "We are incredibly focused on ensuring our agents and franchisees are prepared for the upcoming industry practice changes and are best positioned to win in the market. Attending to our strategic progress in the quarter, we continue to leverage our competitive advantages to transform Anywhere Real Estate with strategic investments to drive growth and streamline operations. Some examples include: We are disproportionately invested in luxury, and we love our luxury leadership results. Our Corcoran and Sotheby's International Realty brands volume meaningfully outperformed both the market and our book, including having positive year-over-year unit growth. Our Coldwell Banker Global Luxury agents also substantially outperformed the market and our book in both units and price. We had over $310 million-plus transactions in the quarter, with our volume from $10 million-plus deals up 41% versus the prior year."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:06:05",
+      "text": "This includes multiple record sales in different geographies, a number of iconic properties, and 15 sales above $50 million. We currently have over 1,000 $10 million-plus listings and over 25 listings above $50 million active in our portfolio. We continue to strategically grow our great franchise business. We expanded with over 15 new franchisees joining us in the quarter, including in high-growth geographies like Florida, North Carolina, Tennessee, and Colorado. Each of our six brands added new franchisees, and we are excited to continue growing this business we love. We expanded our Upward Title JV offering to franchisees into its sixth state, and we have five more states in the pipeline. We love the Upward Title momentum in the business because it opens new earnings opportunities for our franchisees. It enhances our value proposition, deepens our relationship with participating franchisees, and we like the economics."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:07:05",
+      "text": "We remain relentlessly focused on simplifying, automating, and streamlining our operations for speed, quality, and cost benefits. You can see that in the progress of our cost agenda with $60 million realized year to date and us increasing our annual target to $120 million. As we told you last quarter, we are integrating and digitizing our brokerage and title operations. This benefits agents and consumers, makes it easier to capture title and mortgage economics, and contributes to a lower cost base. Since we last spoke to you, we've doubled our implementation to two-thirds of the country, and we will finish our national rollout later this year. Finally, we are actively engaging and executing our AI agenda to drive innovation, speed, quality, and lower costs across many parts of our company, with recent successes deploying new generative AI solutions in marketing and in multiple operational areas."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:07:59",
+      "text": "So, for example, we recently introduced new AI capabilities to Listing Concierge. Using photos from the home, our generative AI tool automatically drafts listing descriptions, photo captions, and property tags for the over 50% of our Coldwell Banker Realty agents who utilize this great product. And our brokerage operation team that processes transactions receives around 15,000 documents every single day. Leveraging generative AI, we are automating much of this work, including opening emails, recognizing documents, reviewing them, and applying them to the appropriate transaction. This substantial automation not only lets us accomplish these tasks faster, but lets us operate 24/7, delivers better quality with meaningfully lower error rates, and critically, lowers our costs. I'm excited by our strategic progress as we invest in the business for the future. And remember, our other top capital allocation priority is reducing debt."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:08:58",
+      "text": "I continue to believe the medium-term outlook for housing should be quite strong, fueled by demographic trends and a continued desire for homeownership. Anywhere has a proven track record of delivery, and we are seizing this moment to further transform our company to capture greater strategic and financial results in the future, especially in stronger housing markets. Now, before I turn over to Charlotte, I'd like to discuss the August 17th industry practice changes mandated by the National Association of Realtors Litigation Settlement. While we expect there to be challenges and uncertainty as these complex changes are implemented, there's an opportunity for Anywhere and our agents and franchisees to embrace the future with confidence and differentially succeed, something we've been focused on delivering for our agents and franchisees since we announced our settlement in Q3 of 2023. One of the key changes is mandatory buyer agreements."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:09:52",
+      "text": "We support these agreements for the transparency they offer consumers. Anywhere is committed to a thoughtful rollout of buyer agreements with two core concepts guiding our approach. The first is simplicity. Buyer agreements must be clear, concise, and free of legal jargon. So, for example, if the agreement cannot be understood and executed electronically in just a few minutes before showing a home, it's too complex. The other principle is flexibility. Consumers and agents will likely want different options for buyer agreements depending on the scenario. For example, we envision consumers and agents wanting a buyer agreement that just covers showing a home, or a buyer agreement that helps a customer purchase a specific home, or a buyer agreement that covers a multi-month journey to find the right home for a family."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:10:41",
+      "text": "And to this end, we're providing multiple buyer agreement templates so consumers and agents can select the version that best suits their needs. Another significant change is the display of buyer broker compensation. We believe voluntary offers of buyer broker compensation help sellers secure the best offer for their home and the highest certainty in their transaction. We encourage agents to educate sellers on their options and, as always, to act in the seller's best interests. And to date, we see sellers in the market continuing to see value in offers of buyer broker compensation. And we will be displaying offers of buyer broker compensation on our owned brokerage websites. Now, remember, these changes affect everyone in the industry, and that means opportunity for those of us who can best embrace the new reality and help agents and franchisees navigate it successfully."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:11:33",
+      "text": "We believe we're in a unique position to do that the best. We have an advantage because of our first mover decision to settle commission-related litigation last year, as we've been implementing the changes for longer than others. We have a nationwide network of agents and franchisees that provide us insights on how these industry practice changes are playing out differently across both geographies and price points. Having more data and insights enables us to adjust faster and adopt best practices better than our competitors who don't have our scale. We're leveraging these advantages to cut through the noise and to clarify confusion. Frankly, the industry needs more leadership helping real estate professionals navigate these changes."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:12:17",
+      "text": "And that's why Sue Yannaccone, the CEO of Anywhere Brands and Anywhere Advisors, and I recently launched Anywhere Voices, a new publicly available series to provide guidance to the industry and its professionals as we all navigate the future. And we delivered our first session in mid-July focused on buyer agreements. I remain incredibly proud of the excellence our affiliated agents, franchisees, and employees have demonstrated during this ongoing industry uncertainty. And while the road ahead may present challenges, we believe our agents and franchisees will be best positioned to succeed as we lead real estate to what's next. With that, let me turn over to Charlotte."
+    },
+    {
+      "speaker_id": "charlotte-simonelli",
+      "speaker_name": "Charlotte Simonelli",
+      "speaker_role": "CFO at Anywhere Real Estate",
+      "timestamp": "00:12:54",
+      "text": "Good morning, everyone. Our second quarter financials demonstrate our continued resiliency with volume growth, strong profitability, and solid Free Cash Flow generation. We believe Anywhere's unique strengths and continued holistic financial discipline drive differentiated performance versus our competitive set and will enable us to emerge even stronger when the housing market improves. I will now highlight our second quarter financial results. Q2 revenue was $1.7 billion, essentially flat versus prior year, as transaction volume growth was offset by softness in relocation. We are encouraged by two consecutive quarters' volume growth and are optimistic for housing to recover. Q2 Operating EBITDA was $139 million, an increase of $13 million versus prior year due to 3% transaction volume growth and lower expenses across the enterprise."
+    },
+    {
+      "speaker_id": "charlotte-simonelli",
+      "speaker_name": "Charlotte Simonelli",
+      "speaker_role": "CFO at Anywhere Real Estate",
+      "timestamp": "00:13:58",
+      "text": "We delivered approximately $30 million of cost savings in the second quarter and are increasing our full-year cost savings target by $20 million-$120 million this year. We continue to prudently manage our cash. Cash on hand at the end of Q2 was $128 million, and Q2 free cash flow was $63 million. Free cash flow excluding our partial legal settlement payment was $83 million. And if you exclude timing on our securitization working capital, free cash flow was about $100 million, which was in line with Q2 2023 on a like-for-like basis. During the quarter, we paid down a portion of the revolver balance to end the quarter at $410 million, which now sits at $400 million. Now let me go into more detail on our business segment performance. Our Anywhere Brands business, which includes leads and relocation, generated $159 million in Operating EBITDA."
+    },
+    {
+      "speaker_id": "charlotte-simonelli",
+      "speaker_name": "Charlotte Simonelli",
+      "speaker_role": "CFO at Anywhere Real Estate",
+      "timestamp": "00:15:02",
+      "text": "Operating EBITDA decreased $5 million year-over-year primarily due to lower client volumes in the relocation business. We love our core franchise business and its margin stability over time. In Q2, our core franchise margins were approximately 73%, our strongest performance over the last seven quarters. Our Q2 Anywhere Advisors operating EBITDA was $4 million, up $14 million versus prior year due to higher volume and lower operating and marketing costs. Commission splits in Q2 were 80.5%, up 40 basis points year-over-year. The increase was attributable to higher brokerage volumes, particularly in higher split rate markets such as California. Agent mix as our top agents continued to take greater share of transactions, and the remainder of the increase, about one-third, coming from other non-core items such as lower new development business and lower company-generated leads due to the softness mentioned in the relocation business."
+    },
+    {
+      "speaker_id": "charlotte-simonelli",
+      "speaker_name": "Charlotte Simonelli",
+      "speaker_role": "CFO at Anywhere Real Estate",
+      "timestamp": "00:16:10",
+      "text": "These increases in splits were partially offset by reduced amortization of prior recruiting and retention payments and some reclasses for one of our brands. The average broker commission rate declined in Q2 versus prior year for both brands and advisors by 4 and 7 basis points respectively. The decline is driven in part by the meaningful outperformance of our luxury portfolio, especially the substantial volume growth Ryan mentioned on transactions north of $10 million, many of which we spoke about during our Q1 earnings call. We love the economics of these high-end transactions independent of their effect on ABCR. The decline versus prior year is also driven by a tough prior year comparator as ABCR increased in 2023. Other than the luxury effect, our Q2 results are similar to what we saw in Q2 2022."
+    },
+    {
+      "speaker_id": "charlotte-simonelli",
+      "speaker_name": "Charlotte Simonelli",
+      "speaker_role": "CFO at Anywhere Real Estate",
+      "timestamp": "00:17:06",
+      "text": "Remember, ABCR fluctuates by quarter and annually depending on the market, price mix, and geography. Anywhere Integrated Services generated $9 million in operating EBITDA in Q2. Operating EBITDA declined $1 million year-over-year due to a decrease in the mortgage JV earnings. Title EBITDA would have increased slightly, excluding the mortgage JV. Title purchase closings were down 1% versus prior year in the quarter, which is an improved trend versus Q1. Moving on to cost. We have delivered approximately $60 million of cost savings year to date and are increasing our full-year cost savings target by $20 million-$120 million this year. The increase is driven by our relentless focus on driving efficiency in our business, and we continue to focus on streamlining processes, reimagining roles and footprints, and using generative AI to automate certain tasks."
+    },
+    {
+      "speaker_id": "charlotte-simonelli",
+      "speaker_name": "Charlotte Simonelli",
+      "speaker_role": "CFO at Anywhere Real Estate",
+      "timestamp": "00:18:06",
+      "text": "Ryan shared examples of where we are leveraging AI, and let me remind you, this can meaningfully improve the speed and quality of our operations and reduce our costs. We're excited by these results and also by the opportunities that remain in front of us to drive further cost savings. To give further clarity on our cost structure, here are some additional details as per reported business segments. The brand's business segment with its high margins is approximately 75% fixed and 25% variable. Our owned brokerage business is approximately 85% variable, including commission expense, and 15% fixed. We have driven the fixed percentage down 5 percentage points in the last 5 years as we continue to optimize our ways of working. Title expenses are approximately 70% fixed and 30% variable."
+    },
+    {
+      "speaker_id": "charlotte-simonelli",
+      "speaker_name": "Charlotte Simonelli",
+      "speaker_role": "CFO at Anywhere Real Estate",
+      "timestamp": "00:19:02",
+      "text": "All that said, we are benefiting from improved margins on each of these businesses year-over-year in spite of continued historically low volumes, which further inflate the fixed percentages. We believe as we continue to drive cost savings, this will further favorably impact our results, especially in more normal housing markets. Our focus on optimizing our balance sheet is always a priority. We will address our Term Loan A by Q4, which will be approximately $190 million at that time. We are evaluating many options, including repaying it with a combination of our revolver and free cash flow or refinancing it with other debt. Our free cash flow delivery is quite strong in both good and bad markets given the stability of our free cash flow generation in the last three quarters of each year."
+    },
+    {
+      "speaker_id": "charlotte-simonelli",
+      "speaker_name": "Charlotte Simonelli",
+      "speaker_role": "CFO at Anywhere Real Estate",
+      "timestamp": "00:19:56",
+      "text": "For example, in 2023 and 2022, some of the most challenging years for housing in decades, we generated approximately $105 million and $197 million of free cash flow respectively before any one-time items in the last three quarters of those years. And we expect our full-year 2024 free cash flow, excluding one-time items, to be about $100 million as favorable working capital, robust savings programs, and our cash management discipline will help counterbalance yet another tough year in housing. This free cash flow generation is a true differentiator in our industry and gives us tremendous flexibility to continue to invest for the future and reduce debt, which remains a top capital allocation priority. Overall, our second quarter results highlight Anywhere's resilience and strategic focus. We remain committed to driving efficiency, managing costs, and optimizing our balance sheet."
+    },
+    {
+      "speaker_id": "charlotte-simonelli",
+      "speaker_name": "Charlotte Simonelli",
+      "speaker_role": "CFO at Anywhere Real Estate",
+      "timestamp": "00:20:58",
+      "text": "As we navigate the current housing market, our unique strengths position us for continued success and growth. Let me now turn the call back to Ryan for some closing remarks."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:21:08",
+      "text": "Thank you, Charlotte. I'm proud of how the Anywhere team is leading and delivering through the challenging housing market and the ongoing industry uncertainty. We continue to seize this moment to further transform our company, leveraging our market-leading position, including resilient profitability, luxury leadership, scaled ancillary services, and some of the most iconic brands in the industry with the best agent and franchise networks. We are executing on what we can control, delivering on our strategic agenda and utilizing our competitive advantages to position us for future growth, to outperform the market, and to deliver value for our agents, franchisees, and shareholders. With that said, we will now take your questions."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:21:53",
+      "text": "We'll now begin the question and answer session. In order to ask a question, press star then the number one on your telephone keypad. We ask that all participants limit themselves to one question and one or two follow-up questions. Your first question comes from the line of Soham Bhonsle with BTIG. Please go ahead."
+    },
+    {
+      "speaker_id": "soham-bhonsle",
+      "speaker_name": "Soham Bhonsle",
+      "speaker_role": "VP and Senior Analyst at BTIG",
+      "timestamp": "00:22:17",
+      "text": "Hey, guys. Good morning. Ryan, I guess first one for you. One of your peers last night sort of painted a picture that suggests that there could be some thought given to sort of managing their inventory more tightly going forward. You sort of noted your intent to display commissions on your own listings on the website. So I'm just wondering, how does this, in your view, sort of change agent workflow or consumer behavior as we go forward? Then maybe just highlight any other ways that you're looking to leverage sort of your combined market share on units, which is still the largest in the industry. Thanks."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:22:51",
+      "text": "Can you say what you mean by this? I'm sorry, I don't fully understand the question. Maybe you could give it to me again. What is the."
+    },
+    {
+      "speaker_id": "soham-bhonsle",
+      "speaker_name": "Soham Bhonsle",
+      "speaker_role": "VP and Senior Analyst at BTIG",
+      "timestamp": "00:23:02",
+      "text": "Yeah. So I think I'm talking about just inventory being managed more tightly going forward by brokerages potentially, and then how you think just displaying commissions on your website can change workflow for either the agent and then just consumer behavior going forward?"
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:23:22",
+      "text": "Well, look, displaying commissions on our website and our franchisees displaying it on their website and competitors displaying it on their website, I tend to think that's a good thing just because it shares the information that people want out there in the ecosystem. And there was even a push three or four years ago by a lot of constituents in the world to display that stuff publicly, which we've done. And so we're going to keep doing it. So that's pretty easy. Look, inventory is pretty tough out there right now, but we have a market-leading position. I think what your question really gets to is, and we'll see, is just bluntly what role the MLSs play in the future. If MLSs don't do a good job serving their customers, then scale companies like us may have other options for how we display and use our inventory."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:24:19",
+      "text": "If MLSs do a good job serving their customers, who are the agents, then we may kind of continue as is. But I think that's one of the TBDs of how the ecosystem evolves. And I talked about the complexity of all the industry changes. You have 500 MLSs writing different rules at the moment, which will be an interesting thing to watch kind of play out. But look, we love our advantage position, right? I mean, to your point, if there is a change in how inventory is managed in our industry, we're going to be the number one beneficiary of it, right? Because across our six brands and our networks, we have by far the most."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:24:58",
+      "text": "So I don't have a crystal ball, but I think we've got a little bit of a track record of being more thoughtful about this than most people, whether it's in terms of kind of how we approach the litigation and the differential success there or what we're doing now to position our agents and franchisees to do better and kind of what happens with our inventory. No matter how the market evolves, we're going to be in the advantage position with our scale. So it's a great topic, but it is wound up in kind of the future of the MLSs, and it's way too early to say what's the winning approach. But we have the asset that you would want, which is the most scale, no matter how that plays out."
+    },
+    {
+      "speaker_id": "soham-bhonsle",
+      "speaker_name": "Soham Bhonsle",
+      "speaker_role": "VP and Senior Analyst at BTIG",
+      "timestamp": "00:25:43",
+      "text": "Yep. Okay. And then, Charlotte, on splits this quarter, you sort of walked through the moving parts there, but it was higher than sort of the last few quarters. And so how should we just be thinking about it sort of in the back half of the year here and just give us sort of, yeah, any other moving parts there? Thank you."
+    },
+    {
+      "speaker_id": "charlotte-simonelli",
+      "speaker_name": "Charlotte Simonelli",
+      "speaker_role": "CFO at Anywhere Real Estate",
+      "timestamp": "00:26:00",
+      "text": "Yeah. I mean, I think we expect the full year to look sort of similar to what we experienced in the quarter. This agent mix thing is a phenomenon that's been with us a while. And then when you add in the results that we had in the quarter with all the luxury overdelivery and some of the geography that we saw, assuming those things continue, we expect the full year to kind of look like what we saw in Q2."
+    },
+    {
+      "speaker_id": "soham-bhonsle",
+      "speaker_name": "Soham Bhonsle",
+      "speaker_role": "VP and Senior Analyst at BTIG",
+      "timestamp": "00:26:26",
+      "text": "Great. Thank you."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:26:32",
+      "text": "Your next question comes from the line of Anthony Paolone with JPMorgan. Please go ahead."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:26:41",
+      "text": "Hey, Tony."
+    },
+    {
+      "speaker_id": "anthony-paolone",
+      "speaker_name": "Anthony Paolone",
+      "speaker_role": "Executive Director at JPMorgan",
+      "timestamp": "00:26:41",
+      "text": "Yeah. Good morning. Hi. So, Ryan, I appreciate the brackets around sort of how you guys are approaching the buyer agreements. Maybe can you give us an example perhaps of what an agreement where the buyer just wants to be shown a house and what that looks like versus some of the other examples you gave?"
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:27:02",
+      "text": "Sure. I'll just kind of go through all three. And again, there's tons of versions of these, but I'll give you one thing that happens all the time, right? Somebody flies down to Florida, wants to see a neighborhood and see some houses, but has no idea where they're going with their life and their future. That probably lends itself to just a showing agreement, right? You don't have to get into all the compensation and stuff like that. You just agree, \"Look, I'm going to show you the homes.\" And that's kind of how the world works today, right? People show homes and neighborhoods all the time with kind of no, \"We'll see what comes of it.\" But that meets the requirements of the mandatory agreements, but just gives people kind of an easy, flexible way to do it."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:27:47",
+      "text": "We call it a touring agreement, and you can see people using that a lot. Second is, I'm a customer. I know the home I want to actually go after. I contract with the agent, \"Hey, let's go bid on this home.\" And the nice thing about that is if you're bidding on a specific home, you can negotiate the compensation, but you also know what seller-offer compensation is being given on that home. So you can just write that into the buyer agreement, and boom, you're on your way. And then the third is a little more kind of, \"Hey, I know I want a home. It's probably going to be a long journey. Let's do an agreement for 180 days to take me on this journey.\" And that one probably has a little more flexibility or nuances to it."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:28:36",
+      "text": "But the point is, I think just we want it to be flexible and simple. And the idea that there's one agreement that's going to cover all these cases, I don't think it probably works. And that's when you also get into a bunch of stuff and agreements that don't apply to people, and you got to start crossing stuff out. So we're taking this flexibility and simplicity approach. Put our agreements to be public. If other people want to use them, that's great, right? And we'll learn from others' agreements if someone does a better one. But we just think there's enough difference in how people actually approach buying a home or looking at homes that it lends itself to different types of agreements."
+    },
+    {
+      "speaker_id": "anthony-paolone",
+      "speaker_name": "Anthony Paolone",
+      "speaker_role": "Executive Director at JPMorgan",
+      "timestamp": "00:29:13",
+      "text": "I understand. I mean, the showing one sounds fairly simple. At what point does there need to be some agreement on dollars and cents as to what's actually paid there?"
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:29:24",
+      "text": "Well, everything's negotiable, so agents and customers can do whatever they want. But for us, the showing agreement is kind of just how the world works today. And I don't recommend agents put a lot of time into compensation for just giving somebody a neighborhood tour or showing one home. But when you get into a, \"Here's homes we want to bid on,\" or, \"I want to be in a longer-term relationship here,\" then absolutely you want the compensation there. And again, like I said, if you know the home, you can go look up the seller-offer compensation, and you can put that in the agreement, and boom, you're on your way on that side, plus anything else you negotiate. And if you're on a longer-term one, then you do have to come to an agreement, including what you want to do with seller-offers of comp."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:30:12",
+      "text": "But it'll be easier, I think, if you know what your customer is trying to accomplish as opposed to a single form."
+    },
+    {
+      "speaker_id": "anthony-paolone",
+      "speaker_name": "Anthony Paolone",
+      "speaker_role": "Executive Director at JPMorgan",
+      "timestamp": "00:30:24",
+      "text": "Got it. Understand. And then just my follow-up is, any color around what July and August, what the pipeline sort of looks like?"
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:30:36",
+      "text": "Look, so I've got the data through July 26th, so it's accurate through then. I haven't got the later. A couple of things. Look, the real trends are about the same. If you look at the market, units are down and prices are up. The one thing we all got to watch out for is July has 2 more business days than last year, Tony. So if people don't adjust for that, July actually looks quite strong, units up and price up meaningfully. If you adjust for the 2 business days, you see this trend of still a struggle in units, but price is still up. So the headline numbers are units up and price up, but the real numbers are unit weakness continuing, but price is up in July. So very similar to the trends in the market that we saw in Q2."
+    },
+    {
+      "speaker_id": "anthony-paolone",
+      "speaker_name": "Anthony Paolone",
+      "speaker_role": "Executive Director at JPMorgan",
+      "timestamp": "00:31:28",
+      "text": "Okay. Great. Thank you."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:31:34",
+      "text": "Next question comes from the line of Matthew Bouley with Barclays. Please go ahead."
+    },
+    {
+      "speaker_id": "matthew-bouley",
+      "speaker_name": "Matthew Bouley",
+      "speaker_role": "Senior Equity Research Analyst at Barclays",
+      "timestamp": "00:31:42",
+      "text": "Morning, everyone. Thanks for taking the questions."
+    },
+    {
+      "speaker_id": "matthew-bouley",
+      "speaker_name": "Matthew Bouley",
+      "speaker_role": "Senior Equity Research Analyst at Barclays",
+      "timestamp": "00:31:45",
+      "text": "Of course."
+    },
+    {
+      "speaker_id": "matthew-bouley",
+      "speaker_name": "Matthew Bouley",
+      "speaker_role": "Senior Equity Research Analyst at Barclays",
+      "timestamp": "00:31:46",
+      "text": "So on the commission rates, the 7 basis points reduction on the brokerage side and then 4 basis points on the franchise side, is the difference between those two a good way to think about what the mixed headwind was that you mentioned with the higher-priced transactions? Obviously, trying to get a sense of kind of what's happening with core commission rates in the industry, if you could sort of tell on a like-for-like basis, are you starting to see more transactions occurring at lower commissions buy-side or sell-side? Thank you."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:32:21",
+      "text": "I think Charlotte covered it. Look, the big difference between advisors and brands is advisors skews even more luxury. And you heard the luxury numbers, especially at the high end, and the luxury effect on ABCR was bigger in advisors than it was in brands. But when we look at the data, we don't see any change in seller offers of compensation. We don't see any change in unrepresented buyers. What we did see was a heck of a lot of luxury success, and it affected both of our businesses, ABCR. But advisors do skew more luxury, hence the little bit bigger effect."
+    },
+    {
+      "speaker_id": "charlotte-simonelli",
+      "speaker_name": "Charlotte Simonelli",
+      "speaker_role": "CFO at Anywhere Real Estate",
+      "timestamp": "00:32:57",
+      "text": "Keep in mind what I said about our prior year comparator. In our book of business, last year, ABCR was actually up. So in our business, if you look versus two years ago, it's pretty consistent with what we saw then, excluding this luxury effect."
+    },
+    {
+      "speaker_id": "matthew-bouley",
+      "speaker_name": "Matthew Bouley",
+      "speaker_role": "Senior Equity Research Analyst at Barclays",
+      "timestamp": "00:33:15",
+      "text": "Got it. Okay. That's helpful. And secondly, there was a fair bit of talk last night with your competitor around kind of M&A and sort of consolidation towards the bigger players. From Anywhere's perspective, how are you thinking about that now going forward? Is there kind of any limits around how you think about M&A, whether it be either the balance sheet or sort of where some of these targets may be in the settlement with the NAR process, how that plays into M&A, just kind of your broader thoughts on that? Thank you."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:33:51",
+      "text": "Yeah. Look, I mean, I've been public. I think consolidation is inevitable. I think the bigger players, including us, will benefit from that. It's a little easier, probably on one dimension. It's a little easier on the settlement side because people have started to work out settlements. On the other, there is a lot of industry uncertainty here, right? We think it's inevitable. The big question for everybody is price, right? If there's one thing you need to remember about us is we are incredibly focused on margin, right? We're not going to do a bad deal just to show growth. Let's be blunt about that, right? And then so and the deal's got to be good for both sides. We're pro-M&A. We think we'll be a beneficiary of that. We think consolidation is inevitable, but it's got to be at good prices."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:34:47",
+      "text": "Just doing deals for deal's sake is not part of our gig. We'll see what happens, but we're for it. We don't have any restrictions. We got tons of liquidity. I've probably got more liquidity than anybody, is my guess. We got tons of liquidity. We're ready to go for the right things, but it's got to be a good deal. That's, again, a good deal for me is the bottom line, not the top line, right? I better be creating some value with the deal, not just growing the top line."
+    },
+    {
+      "speaker_id": "matthew-bouley",
+      "speaker_name": "Matthew Bouley",
+      "speaker_role": "Senior Equity Research Analyst at Barclays",
+      "timestamp": "00:35:22",
+      "text": "Got it. Thanks, Ryan. Good luck, guys."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:35:25",
+      "text": "Thanks, man."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:35:29",
+      "text": "Your next question comes from the line of Tommy McJoynt with KBW."
+    },
+    {
+      "speaker_id": "tommy-mcjoynt",
+      "speaker_name": "Tommy McJoynt",
+      "speaker_role": "Director at KBW",
+      "timestamp": "00:35:37",
+      "text": "Hey, good morning, guys."
+    },
+    {
+      "speaker_id": "charlotte-simonelli",
+      "speaker_name": "Charlotte Simonelli",
+      "speaker_role": "CFO at Anywhere Real Estate",
+      "timestamp": "00:35:39",
+      "text": "Good morning."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:35:40",
+      "text": "Tommy."
+    },
+    {
+      "speaker_id": "tommy-mcjoynt",
+      "speaker_name": "Tommy McJoynt",
+      "speaker_role": "Director at KBW",
+      "timestamp": "00:35:41",
+      "text": "Can you talk about just sort of the process of getting your house into shape for the upcoming business practice changes, thinking about the training programs for your agents, whether or not they've been mandatory, and then just whether is the onus going to be on you as the broker to sort of monitor and enforce your own agent base to make sure that they're kind of compliant with these new changes?"
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:36:05",
+      "text": "Well, a couple of things. So look, we've got our duty to supervise our agents is a critical thing, and we take it very seriously. And we apply it to everything, right? And we're here to support and help our agents, whether it's on data security or fair housing or anything else. So this is just another place where, of course, we're going to be good stewards of our responsibilities there. We're pumped about our rollout, man. We think we're in a great spot, especially on a relative basis, when we hear the stories from others. And again, part of that is because we kind of saw a little farther ahead, I think, on this stuff than others and have been working on it longer. But we've already got training being rolled out, agents, franchisees, etc. We're in kind of weekly kind of communication."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:36:55",
+      "text": "Sue and I, like I said, are even going public with some of our thoughts we want people to know. And we're getting a ton of learning from our nationwide network, right? There are parts of the market where there have been buyer agreements in place. We can share with each other. There are certain markets, by the way, where MLSs have made changes already that we already are learning from and kind of making us better kind of nationally. And so we're really excited about it. I mean, heck, we're doing things like we're telling our agents to invite a friend to some of our training on this stuff because they're not getting what they need from their brokers. So they're coming to our stuff, and that's both a recruiting opportunity but also making the industry better."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:37:42",
+      "text": "And then again, we're going to do another one of these Anywhere Voices series, totally open to the public. It'll be in the second half of August, and we'll take this stuff head-on for everybody. So we feel great. And I think we got a chance to have our folks be in a better position than a lot of others and potentially even get some recruiting and everything else from Anywhere's leadership here."
+    },
+    {
+      "speaker_id": "tommy-mcjoynt",
+      "speaker_name": "Tommy McJoynt",
+      "speaker_role": "Director at KBW",
+      "timestamp": "00:38:08",
+      "text": "Got it. And just has the process through which prospective home buyers sort of find and contact agents when starting their home search process, has that changed much over the last year? Thinking about sort of the dependence on the portals or kind of your own websites generating traffic or other advertising methods, have you seen much of a change kind of over the past year in that?"
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:38:31",
+      "text": "No. But most people don't find their agents online. Let's be incredibly clear about that, right? Most people find it through a really trusted referral. That's why the conversion rates on online leads are as low as they are, whether it's for portals or for other companies. But no, we have not seen a change in that."
+    },
+    {
+      "speaker_id": "tommy-mcjoynt",
+      "speaker_name": "Tommy McJoynt",
+      "speaker_role": "Director at KBW",
+      "timestamp": "00:38:53",
+      "text": "Got it. Thanks, Ryan."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:38:58",
+      "text": "Your next question comes from the line of John Campbell with Stephens. Please go ahead."
+    },
+    {
+      "speaker_id": "john-campbell",
+      "speaker_name": "John Campbell",
+      "speaker_role": "Managing Director at Stephens",
+      "timestamp": "00:39:06",
+      "text": "Hey, guys. Good morning."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:39:08",
+      "text": "Hey, John."
+    },
+    {
+      "speaker_id": "john-campbell",
+      "speaker_name": "John Campbell",
+      "speaker_role": "Managing Director at Stephens",
+      "timestamp": "00:39:09",
+      "text": "Hey. From a price growth standpoint, obviously, advisors and brands, that was well ahead of the market. You guys have called out the luxury strength. I know you've also got heavy exposure to the higher-priced Western region. That seems like that bounced back a good bit in the quarter as well. But two-part question. First, can you maybe unpack the overall price strength across those two components? Which one had the biggest influence? And then secondly, just looking ahead, do you expect kind of a similar dynamic where you feel like you can outpace the market relative to price growth?"
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:39:39",
+      "text": "Yeah. So we saw a lot of what you talked about, right? I mean, we saw literally, like I said, kind of 10 states with double-digit price growth. New Jersey, California, Massachusetts had really strong price growth. But we even saw it in the Southeast, right? Georgia, North Carolina had double-digit price growth in our book. Florida did also. So we saw a lot of that. And I think there's clearly a demand-supply thing happening out there that does show up on the price side. So what's the second? Can you repeat the second part of your question?"
+    },
+    {
+      "speaker_id": "john-campbell",
+      "speaker_name": "John Campbell",
+      "speaker_role": "Managing Director at Stephens",
+      "timestamp": "00:40:17",
+      "text": "Just looking ahead, if you expect kind of a similar dynamic, do you feel like you're positioned to outpace the market from here?"
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:40:23",
+      "text": "Yeah. I mean, yes, just because of the supply and demand thing. Now, again, I would rather have stronger units and less price growth. I think it'd be healthier for the market. I think get more people into homes, etc. But we kind of have the geographic and then the luxury skew that we've got. And we're getting a benefit from both the strength and luxury driving some of our success there, as well as the geographic thing driving some of the success there that you talked about. And so, like I said to Tony's question, again, in July, if you adjust for the business days, we're seeing the same thing, some unit pressure, but our prices are up pretty meaningfully in the first 26 days of July. So we're doing that."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:41:06",
+      "text": "And you get these Coldwell Banker Global Luxury agents and how they're crushing it and then what Corcoran and Sotheby's International Realty are doing. I think the trends that we're differentiating on will continue."
+    },
+    {
+      "speaker_id": "john-campbell",
+      "speaker_name": "John Campbell",
+      "speaker_role": "Managing Director at Stephens",
+      "timestamp": "00:41:21",
+      "text": "Okay. That's helpful. And then on the additional $20 million in cost savings, Charlotte, maybe if you could talk to or give some flavor on where you're sourcing those savings from. And then if you could remind us of what your kind of multi-year cost reduction target is and where you expect to be, how much of that you expect to capture by the end of the year."
+    },
+    {
+      "speaker_id": "charlotte-simonelli",
+      "speaker_name": "Charlotte Simonelli",
+      "speaker_role": "CFO at Anywhere Real Estate",
+      "timestamp": "00:41:41",
+      "text": "Yeah. So where the savings are coming from, I think it lends to what Ryan talked about in the transformation of our business. As we go forward, we're looking to literally transform how we operate. And so this is more about advancing our journey. I think it's exciting, some of the developments in using generative AI. And so basically, the extra $20 million is us just trying to pull forward and drive the agenda faster. I think you saw a lot of that last year too, where we increased our target as the year went on just because we're moving with a little more speed and agility at driving the cost savings. So it's going to hit the same line items that it always does because it's relative to where the costs sit in the business."
+    },
+    {
+      "speaker_id": "charlotte-simonelli",
+      "speaker_name": "Charlotte Simonelli",
+      "speaker_role": "CFO at Anywhere Real Estate",
+      "timestamp": "00:42:23",
+      "text": "If he's speaking about the brokerage and title integration, which is where the majority of the costs are in our business, you can expect that it's going to hit there. But it's exciting because it's a better quality product. It's faster. It's better for the agents. So we're really excited about it. As far as a multi-year journey, you can see what we've delivered over the past several years. It's on average $100 million or greater. So we haven't given a prospective target for the next couple of years. But I think our last five years' track record sort of speaks for itself. Being in the two worst housing market years and decades, we're pushing it as hard as we can. Now, we have to deliver service and quality, so we're not going to do it at the expense of our business."
+    },
+    {
+      "speaker_id": "charlotte-simonelli",
+      "speaker_name": "Charlotte Simonelli",
+      "speaker_role": "CFO at Anywhere Real Estate",
+      "timestamp": "00:43:10",
+      "text": "While the market is actually softer, we're using that time to actually drive this stuff faster."
+    },
+    {
+      "speaker_id": "john-campbell",
+      "speaker_name": "John Campbell",
+      "speaker_role": "Managing Director at Stephens",
+      "timestamp": "00:43:18",
+      "text": "Makes a lot of sense. Thanks, Charlotte Simonelli."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:43:22",
+      "text": "Thanks, John."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:43:25",
+      "text": "Your next question comes from the line of Ryan McKeveny with Zelman & Associates. Please go ahead."
+    },
+    {
+      "speaker_id": "ryan-mckeveny",
+      "speaker_name": "Ryan McKeveny",
+      "speaker_role": "Managing Director at Zelman & Associates",
+      "timestamp": "00:43:35",
+      "text": "Hey, good morning. Thank you for taking the questions. Ryan, I wanted to drill in a little on the unit transactions. So down about 5% year-over-year, but you called out the growth in Corcoran and Sotheby's. So I guess when we think about the brands or the pieces of the business that are down more than 5%, I guess, would you attribute that mostly to just the price point dynamics, geographies, less luxury exposure? And if not, I guess I'm just wondering, are there opportunities or strategies you have in place to potentially reinvigorate some of the growth within those non-luxury brands that might be on the underperforming side of the scale? Thank you."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:44:19",
+      "text": "Yeah. It's a great question, Ryan. And look, we love our franchise business, which is anchored in some of our more mass market brands like Century 21 and ERA and others. But the biggest driver, bluntly, is the price point thing, right? I mean, our luxury businesses kind of speak for themselves, and they're doing awesome, and they obviously play in the luxury area. But our average price point in some of our mass market brands is more in that $300,000-$400,000 area. And if you look at the data that other people publicly put out for the market, that's the part of the market that has the biggest challenges in terms of inventory, in terms of listings, in terms of units, etc. And so I actually think that whole segment of the market lags the overall market numbers."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:45:12",
+      "text": "And because some of our brands play there, we obviously are subject to some of that effect, and it just kind of plays out with the portfolio dynamics you talked about. Now, but we're excited to do anything we can to grow those brands. And like I talked about, every one of our franchise brands added new franchisees in the quarter, and that includes all of our ones that play at those kind of lower price points kind of thing. Those companies are big participants in the Upward Title joint venture that's helping to grow and drive their economics and our economics and then deepen our relationships."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:45:46",
+      "text": "And so we love all of them, but there is that market dynamic that right now is, frankly, a bit of a tailwind for us on luxury, even though we are outperforming the competition on luxury, but is a bit of a headwind for anyone playing in that pure mass market area. And it does show up in the mix in our book."
+    },
+    {
+      "speaker_id": "ryan-mckeveny",
+      "speaker_name": "Ryan McKeveny",
+      "speaker_role": "Managing Director at Zelman & Associates",
+      "timestamp": "00:46:08",
+      "text": "Thank you. That's helpful. And then a more qualitative one. Last quarter, you mentioned some single-family rental companies partnering up with you to sell some homes directly to consumers. I guess, curious, are you seeing that continue? And bigger picture, is your sense that that's kind of a mixed thing where a single-family rental owner is selling to a consumer instead of another buyer because there's just not as much kind of incremental SFR demand? Or is your sense like is there a bigger macro trend of investors or SFR companies actually looking to meaningfully exit portfolios at this time, or is it more just repositioning and things like that? Thank you."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:46:50",
+      "text": "Yeah. So I don't pretend to speak for them. You should ask them, obviously. But let me tell you a couple of things. So first off, we like partnering with SFR buyers and sellers because it's a great way for us to help them generate more leads for us, generate more transactions for us. And we have some relationships that are continuing. I met with another SFR prospect CEO. I don't know if it was Monday of this week or Friday of last week, but it was relatively recently. Or it was last week. It was last week. So we continue to actually look into that. Look, I think most of what's happening is not anybody exiting the business. I think it's that they've shifted from selling blocks of homes to other SFR buyers to realizing at today's price points that they're better off selling direct to consumers."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:47:37",
+      "text": "That is a different model. That's why someone like us, not just to sell the home, but to do the title work, for example, can be a really good partner. And the sense I get from talking to multiple of them and partnering with a few of them is they're just, they've got to kind of continually trim their portfolio around the margins. They're going to still be buyers. They're going to be sellers. But the numbers add up to a meaningful number of transactions for us to help them with. And we like it as kind of a niche area that we think with our scaled ancillary services, our integrated brokerage and title that we can do a good job for them. And so we continue to like it. But that's how I see it."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:48:19",
+      "text": "But again, I don't want to speak for them strategically, but it's more trimming and inflow and outflow than it is anybody exiting the business."
+    },
+    {
+      "speaker_id": "ryan-mckeveny",
+      "speaker_name": "Ryan McKeveny",
+      "speaker_role": "Managing Director at Zelman & Associates",
+      "timestamp": "00:48:29",
+      "text": "Sure. That makes a lot of sense. Thank you very much."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:48:32",
+      "text": "Great."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:48:35",
+      "text": "Your next question comes from the line of Anthony Paolone with JPMorgan. Please go ahead."
+    },
+    {
+      "speaker_id": "anthony-paolone",
+      "speaker_name": "Anthony Paolone",
+      "speaker_role": "Executive Director at JPMorgan",
+      "timestamp": "00:48:43",
+      "text": "Thanks. Hopefully, I just got two quick maybe follow-ups for Charlotte. One, can you maybe give us a sense as to what relo revenues were in the quarter and same thing for the year ago quarter? Just trying to understand what the drag was there."
+    },
+    {
+      "speaker_id": "charlotte-simonelli",
+      "speaker_name": "Charlotte Simonelli",
+      "speaker_role": "CFO at Anywhere Real Estate",
+      "timestamp": "00:48:57",
+      "text": "Yeah. So in the first quarter, relo was down because the prior year comparator was still strong. There were still higher volumes. In the current quarter, if you look at the total reported brand segment, it was a pretty material piece of the decline in revenue. So that's why we called it out. I think the good news is we're starting to see a little bit of stabilization in that business, but it was definitely a drag on the quarter."
+    },
+    {
+      "speaker_id": "anthony-paolone",
+      "speaker_name": "Anthony Paolone",
+      "speaker_role": "Executive Director at JPMorgan",
+      "timestamp": "00:49:30",
+      "text": "Okay. And then just second one, any forecast for CapEx for the full year?"
+    },
+    {
+      "speaker_id": "charlotte-simonelli",
+      "speaker_name": "Charlotte Simonelli",
+      "speaker_role": "CFO at Anywhere Real Estate",
+      "timestamp": "00:49:38",
+      "text": "Yeah. We've tried to be super judicious with our cash. I think you can see how we trimmed it last year. We're kind of probably in line with what we spent last year. Hopefully, it's more of a shift to some of these transformation-type projects, a little more on the tech side, but similar to what we spent last year."
+    },
+    {
+      "speaker_id": "anthony-paolone",
+      "speaker_name": "Anthony Paolone",
+      "speaker_role": "Executive Director at JPMorgan",
+      "timestamp": "00:49:59",
+      "text": "Okay. Thank you."
+    },
+    {
+      "speaker_id": "charlotte-simonelli",
+      "speaker_name": "Charlotte Simonelli",
+      "speaker_role": "CFO at Anywhere Real Estate",
+      "timestamp": "00:50:01",
+      "text": "Thanks, Tony."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:50:05",
+      "text": "Ladies and gentlemen, this concludes today's conference. Thank you all for joining, and you may now disconnect."
+    }
+  ],
+  "statements": [
+    {
+      "id": "HOUS-FY2024Q2-001",
+      "turn_index": 2,
+      "speaker_id": "alicia-swift",
+      "verbatim_quote": "In the second quarter of 2024, we paid $20 million of this, which means there is $53.5 million remaining, which will be due when appeals are resolved.",
+      "claim": "Anywhere Real Estate paid $20 million of the litigation settlement in Q2 2024, leaving $53.5 million remaining.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q2-002",
+      "turn_index": 2,
+      "speaker_id": "alicia-swift",
+      "verbatim_quote": "Second, the 1999 Cendant legacy tax matter, approximately $40 million is due shortly after notice is received, which has not yet happened, but still anticipated in 2024.",
+      "claim": "Approximately $40 million for the Cendant legacy tax matter is anticipated to be due in 2024.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q2-003",
+      "turn_index": 2,
+      "speaker_id": "alicia-swift",
+      "verbatim_quote": "We previously estimated over $100 million of these free cash flow headwinds in 2024, and our current best guess is approximately $60 million for 2024.",
+      "claim": "The company estimates approximately $60 million in free cash flow headwinds for full-year 2024.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q2-004",
+      "turn_index": 4,
+      "speaker_id": "ryan-schneider",
+      "verbatim_quote": "During the second quarter of 2024, we delivered $1.7 billion of revenue and $139 million of operating EBITDA.",
+      "claim": "Anywhere Real Estate reported $1.7 billion in revenue and $139 million in operating EBITDA for Q2 2024.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q2-005",
+      "turn_index": 5,
+      "speaker_id": "ryan-schneider",
+      "verbatim_quote": "We realized approximately $30 million of cost savings and increased our full-year savings target to $120 million.",
+      "claim": "The company realized approximately $30 million in cost savings in Q2 2024 and raised its full-year savings target to $120 million.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q2-006",
+      "turn_index": 5,
+      "speaker_id": "ryan-schneider",
+      "verbatim_quote": "We grew transaction volume 3% year-over-year, consistent with the market results.",
+      "claim": "Transaction volume grew 3% year-over-year in Q2 2024.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q2-007",
+      "turn_index": 5,
+      "speaker_id": "ryan-schneider",
+      "verbatim_quote": "There was about 8% price growth in our portfolio versus the prior year, with more than 90% of the country seeing price gains and over 10 states having double-digit price growth...",
+      "claim": "The company's portfolio saw approximately 8% price growth year-over-year in Q2 2024.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q2-008",
+      "turn_index": 5,
+      "speaker_id": "ryan-schneider",
+      "verbatim_quote": "We generated $83 million of free cash flow in the quarter, excluding the $20 million litigation settlement payment.",
+      "claim": "Free cash flow for Q2 2024 was $83 million, excluding the litigation settlement payment.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q2-009",
+      "turn_index": 6,
+      "speaker_id": "ryan-schneider",
+      "verbatim_quote": "We had over $310 million-plus transactions in the quarter, with our volume from $10 million-plus deals up 41% versus the prior year.",
+      "claim": "Volume from transactions over $10 million increased 41% year-over-year in Q2 2024.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q2-010",
+      "turn_index": 7,
+      "speaker_id": "ryan-schneider",
+      "verbatim_quote": "We expanded with over 15 new franchisees joining us in the quarter, including in high-growth geographies like Florida, North Carolina, Tennessee, and Colorado.",
+      "claim": "Over 15 new franchisees joined the company in Q2 2024.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q2-011",
+      "turn_index": 7,
+      "speaker_id": "ryan-schneider",
+      "verbatim_quote": "We expanded our Upward Title JV offering to franchisees into its sixth state, and we have five more states in the pipeline.",
+      "claim": "The Upward Title JV offering expanded to a sixth state in Q2 2024, with five additional states in the pipeline.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q2-012",
+      "turn_index": 8,
+      "speaker_id": "ryan-schneider",
+      "verbatim_quote": "You can see that in the progress of our cost agenda with $60 million realized year to date and us increasing our annual target to $120 million.",
+      "claim": "The company has realized $60 million in cost savings year-to-date as of Q2 2024.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q2-013",
+      "turn_index": 8,
+      "speaker_id": "ryan-schneider",
+      "verbatim_quote": "Since we last spoke to you, we've doubled our implementation to two-thirds of the country, and we will finish our national rollout later this year.",
+      "claim": "The company has implemented brokerage and title integration in two-thirds of the country and plans to complete the national rollout by the end of 2024.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q2-014",
+      "turn_index": 15,
+      "speaker_id": "charlotte-simonelli",
+      "verbatim_quote": "Q2 revenue was $1.7 billion, essentially flat versus prior year, as transaction volume growth was offset by softness in relocation.",
+      "claim": "Q2 2024 revenue was $1.7 billion, essentially flat year-over-year.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q2-015",
+      "turn_index": 15,
+      "speaker_id": "charlotte-simonelli",
+      "verbatim_quote": "Q2 Operating EBITDA was $139 million, an increase of $13 million versus prior year due to 3% transaction volume growth and lower expenses across the enterprise.",
+      "claim": "Q2 2024 Operating EBITDA was $139 million, an increase of $13 million year-over-year.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q2-016",
+      "turn_index": 16,
+      "speaker_id": "charlotte-simonelli",
+      "verbatim_quote": "Cash on hand at the end of Q2 was $128 million, and Q2 free cash flow was $63 million.",
+      "claim": "Cash on hand was $128 million and free cash flow was $63 million at the end of Q2 2024.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q2-017",
+      "turn_index": 16,
+      "speaker_id": "charlotte-simonelli",
+      "verbatim_quote": "During the quarter, we paid down a portion of the revolver balance to end the quarter at $410 million, which now sits at $400 million.",
+      "claim": "The revolver balance ended Q2 2024 at $410 million and has since decreased to $400 million.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q2-018",
+      "turn_index": 16,
+      "speaker_id": "charlotte-simonelli",
+      "verbatim_quote": "Our Anywhere Brands business, which includes leads and relocation, generated $159 million in Operating EBITDA.",
+      "claim": "The Anywhere Brands business generated $159 million in Operating EBITDA in Q2 2024.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q2-019",
+      "turn_index": 17,
+      "speaker_id": "charlotte-simonelli",
+      "verbatim_quote": "In Q2, our core franchise margins were approximately 73%, our strongest performance over the last seven quarters.",
+      "claim": "Core franchise margins were approximately 73% in Q2 2024.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q2-020",
+      "turn_index": 17,
+      "speaker_id": "charlotte-simonelli",
+      "verbatim_quote": "Our Q2 Anywhere Advisors operating EBITDA was $4 million, up $14 million versus prior year due to higher volume and lower operating and marketing costs.",
+      "claim": "Anywhere Advisors operating EBITDA was $4 million in Q2 2024, an increase of $14 million year-over-year.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q2-021",
+      "turn_index": 17,
+      "speaker_id": "charlotte-simonelli",
+      "verbatim_quote": "Commission splits in Q2 were 80.5%, up 40 basis points year-over-year.",
+      "claim": "Commission splits were 80.5% in Q2 2024, up 40 basis points year-over-year.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q2-022",
+      "turn_index": 18,
+      "speaker_id": "charlotte-simonelli",
+      "verbatim_quote": "The average broker commission rate declined in Q2 versus prior year for both brands and advisors by 4 and 7 basis points respectively.",
+      "claim": "The average broker commission rate declined by 4 basis points for brands and 7 basis points for advisors in Q2 2024 compared to the prior year.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q2-023",
+      "turn_index": 19,
+      "speaker_id": "charlotte-simonelli",
+      "verbatim_quote": "Anywhere Integrated Services generated $9 million in operating EBITDA in Q2. Operating EBITDA declined $1 million year-over-year due to a decrease in the mortgage JV earnings.",
+      "claim": "Anywhere Integrated Services generated $9 million in operating EBITDA in Q2 2024, a decline of $1 million year-over-year.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q2-024",
+      "turn_index": 19,
+      "speaker_id": "charlotte-simonelli",
+      "verbatim_quote": "Title purchase closings were down 1% versus prior year in the quarter, which is an improved trend versus Q1.",
+      "claim": "Title purchase closings declined 1% year-over-year in Q2 2024.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q2-025",
+      "turn_index": 21,
+      "speaker_id": "charlotte-simonelli",
+      "verbatim_quote": "We will address our Term Loan A by Q4, which will be approximately $190 million at that time.",
+      "claim": "The company plans to address its Term Loan A, valued at approximately $190 million, by Q4 2024.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q2-026",
+      "turn_index": 22,
+      "speaker_id": "charlotte-simonelli",
+      "verbatim_quote": "And we expect our full-year 2024 free cash flow, excluding one-time items, to be about $100 million as favorable working capital, robust savings programs, and our cash management discipline will help counterbalance yet another tough year in housing.",
+      "claim": "The company expects full-year 2024 free cash flow, excluding one-time items, to be approximately $100 million.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q2-027",
+      "turn_index": 33,
+      "speaker_id": "charlotte-simonelli",
+      "verbatim_quote": "I think we expect the full year to look sort of similar to what we experienced in the quarter. This agent mix thing is a phenomenon that's been with us a while. And then when you add in the results that we had in the quarter with all the luxury overdelivery and some of the geography that we saw, assuming those things continue, we expect the full year to kind of look like what we saw in Q2.",
+      "claim": "The company expects full-year commission splits to resemble Q2 2024 levels, assuming luxury overdelivery and geographic trends continue.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "heavily_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q2-028",
+      "turn_index": 45,
+      "speaker_id": "ryan-schneider",
+      "verbatim_quote": "If you adjust for the 2 business days, you see this trend of still a struggle in units, but price is still up. So the headline numbers are units up and price up, but the real numbers are unit weakness continuing, but price is up in July.",
+      "claim": "Adjusted for business days, July 2024 showed continued unit weakness but price increases.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q2-029",
+      "turn_index": 54,
+      "speaker_id": "ryan-schneider",
+      "verbatim_quote": "I think consolidation is inevitable. I think the bigger players, including us, will benefit from that.",
+      "claim": "The CEO believes industry consolidation is inevitable and that larger players like Anywhere will benefit.",
+      "categorizations": [
+        "competitive_or_market_position_claim"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "long-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q2-030",
+      "turn_index": 55,
+      "speaker_id": "ryan-schneider",
+      "verbatim_quote": "We're pro-M&A. We think we'll be a beneficiary of that. We think consolidation is inevitable, but it's got to be at good prices.",
+      "claim": "The company is open to M&A opportunities but will only pursue deals at favorable prices.",
+      "categorizations": [
+        "strategic_direction_claim"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "long-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q2-031",
+      "turn_index": 65,
+      "speaker_id": "ryan-schneider",
+      "verbatim_quote": "And then again, we're going to do another one of these Anywhere Voices series, totally open to the public. It'll be in the second half of August, and we'll take this stuff head-on for everybody.",
+      "claim": "The company will host another Anywhere Voices series session in the second half of August 2024.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q2-032",
+      "turn_index": 75,
+      "speaker_id": "ryan-schneider",
+      "verbatim_quote": "So we're doing that. And you get these Coldwell Banker Global Luxury agents and how they're crushing it and then what Corcoran and Sotheby's International Realty are doing. I think the trends that we're differentiating on will continue.",
+      "claim": "The company expects its differentiation trends in luxury and specific brands to continue.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q2-033",
+      "turn_index": 78,
+      "speaker_id": "charlotte-simonelli",
+      "verbatim_quote": "Basically, the extra $20 million is us just trying to pull forward and drive the agenda faster.",
+      "claim": "The additional $20 million in cost savings targets is driven by accelerating the transformation agenda.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q2-034",
+      "turn_index": 79,
+      "speaker_id": "charlotte-simonelli",
+      "verbatim_quote": "As far as a multi-year journey, you can see what we've delivered over the past several years. It's on average $100 million or greater. So we haven't given a prospective target for the next couple of years.",
+      "claim": "The company has not provided a prospective multi-year cost savings target for the next few years.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "long-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q2-035",
+      "turn_index": 98,
+      "speaker_id": "charlotte-simonelli",
+      "verbatim_quote": "We're kind of probably in line with what we spent last year. Hopefully, it's more of a shift to some of these transformation-type projects, a little more on the tech side, but similar to what we spent last year.",
+      "claim": "Full-year 2024 CapEx is expected to be similar to the previous year's spending.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "heavily_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1629 @@
+{
+  "company_id": "anywhere",
+  "title": "Anywhere Real Estate Q4 2024 Earnings Call Transcript",
+  "datetime": "2025-02-13T22:00:00Z",
+  "period": "FY2024_Q4",
+  "location": "",
+  "url": "https://www.marketbeat.com/earnings/reports/2025-2-13-anywhere-real-estate-inc-stock/",
+  "people": [
+    {
+      "id": "operator",
+      "name": "Operator",
+      "role": ""
+    },
+    {
+      "id": "alicia-swift",
+      "name": "Alicia Swift",
+      "role": "VP at Anywhere Real Estate"
+    },
+    {
+      "id": "ryan-schneider",
+      "name": "Ryan Schneider",
+      "role": "CEO and President at Anywhere Real Estate"
+    },
+    {
+      "id": "charlotte-simonelli",
+      "name": "Charlotte Simonelli",
+      "role": "CFO at Anywhere Real Estate"
+    },
+    {
+      "id": "matthew-bouley",
+      "name": "Matthew Bouley",
+      "role": "Managing Director at Barclays"
+    },
+    {
+      "id": "ryan-mckeveny",
+      "name": "Ryan McKeveny",
+      "role": "Managing Director and Equity Research Analyst at Zelman"
+    },
+    {
+      "id": "john-campbell",
+      "name": "John Campbell",
+      "role": "Managing Director and Equity Research Analyst at Stephens"
+    },
+    {
+      "id": "thomas-mcjoynt",
+      "name": "Thomas McJoynt",
+      "role": "Director of Equity Research at KBW"
+    },
+    {
+      "id": "nahom-tesfazghi",
+      "name": "Nahom Tesfazghi",
+      "role": "Equity Research Associate at JPMorgan"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:00:00",
+      "text": "Good morning and welcome to the Anywhere Real Estate Year-End 2024 Earnings Conference Call via webcast. Today's call is being recorded, and a written transcript will be made available in the investor information section of the company's website tomorrow. A webcast replay will also be made available on the company's website. At this time, I would like to turn the conference over to Anywhere Senior Vice President, Alicia Swift. Please go ahead, Alicia."
+    },
+    {
+      "speaker_id": "alicia-swift",
+      "speaker_name": "Alicia Swift",
+      "speaker_role": "VP at Anywhere Real Estate",
+      "timestamp": "00:00:27",
+      "text": "Thank you, Sarah. Good morning and welcome to the Year-End 2024 Earnings Conference Call for Anywhere Real Estate. On the call with me today are Anywhere CEO and President, Ryan Schneider, and Chief Financial Officer, Charlotte Simonelli. As shown on slide three of the presentation, the company will be making statements about this future result and other forward-looking statements during this call. These statements are based on the current expectation and the current economic environment. Forward-looking statements, estimates, and projections are inherently subject to significant economic, competitive, antitrust, and other litigation, regulatory, and other uncertainties and contingencies, many of which are beyond the control of management, including, among others, industry and macroeconomic developments, as well as uncertainty related to the California wildfires. Actual results may differ materially from those expressed or implied in the forward-looking statements."
+    },
+    {
+      "speaker_id": "alicia-swift",
+      "speaker_name": "Alicia Swift",
+      "speaker_role": "VP at Anywhere Real Estate",
+      "timestamp": "00:01:23",
+      "text": "Effective December 31st, 2024, the company updated its definition of Operating EBITDA to include adjustments for non-cash stock-based compensation and certain legal matters. These revisions enhance comparability with industry peers, and all the figures discussed in this call and in our reported materials are adjusted to reflect this change. The inclusion of these adjustments does not materially affect segment-level trends or conclusions previously disclosed. Reconciliations of operating EBITDA to the most directly comparable GAAP measure are provided for all periods reported. The references made to January in these remarks are preliminary results for the month. January 2025 has the same number of business days as January 2024. We have three large expected one-time free cash flow headwinds in 2025, which total approximately $115 million. The first headwind is our approved $83.5 million litigation settlement. We have made $30 million in payments."
+    },
+    {
+      "speaker_id": "alicia-swift",
+      "speaker_name": "Alicia Swift",
+      "speaker_role": "VP at Anywhere Real Estate",
+      "timestamp": "00:02:28",
+      "text": "The remaining $53.5 million will be due when the appeals are resolved. The timing of the appeals is uncertain, depending on the developments in the proceedings, and we currently expect the payment to occur no earlier than mid-2025. Second, the 1999 Cendant legacy tax matter of approximately $40 million is due shortly after the notice is received and is anticipated in 2025. Third, in January 2025, the company entered into a settlement of the Bumpus or TCPA litigation for $20 million. We anticipate making this payment in Q3 2025, which is subject to preliminary and final court approval. For further discussion of these matters, see our SEC periodic reports. The reference to core franchise in these remarks is the franchise segment excluding relocation and leads."
+    },
+    {
+      "speaker_id": "alicia-swift",
+      "speaker_name": "Alicia Swift",
+      "speaker_role": "VP at Anywhere Real Estate",
+      "timestamp": "00:03:20",
+      "text": "Important assumptions and factors that could cause actual results to differ materially from those in the forward-looking statements are specified in our earnings release issued today, as well as our annual and quarterly SEC filings. For those who listen to the rebroadcast of this presentation, we remind you that the remarks made herein are as of today, February 13th, and have not been updated subsequent to the initial earnings call. Now I will turn the call over to our CEO and President, Ryan Schneider."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:03:47",
+      "text": "Thank you, Alicia. Good morning, everyone. I was recently reminded of a famous da Vinci quote that states, \"People of accomplishment rarely sit back and let things happen to them. They go out and happen to things.\" And this is exactly what Anywhere Real Estate did in 2024 and is going to do in 2025. In 2024, we delivered industry-leading EBITDA. We helped our agents and franchisees navigate both the tough housing market and the industry practice changes with competitive edge. And we continue to invest in and accelerate our strategy, enhancing our market position to fuel growth and deliver long-term value for our stakeholders. As we take on 2025, we're prepared to lead with the same proactive energy to power our future success."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:04:34",
+      "text": "Now, reflecting on our 2024 performance, we generated $290 million of Operating EBITDA, up $35 million from the prior year, and delivered $50 million of free cash flow, $70 million excluding our $20 million litigation settlement payment. We closed the year with strong momentum, earning $52 million of Operating EBITDA in the fourth quarter, up $24 million year-over-year with 13% closed transaction volume growth. We exceeded our cost-saving target by 25%, achieving nearly $125 million in savings by simplifying, automating, and streamlining our operations. Now, looking ahead, we're focused on new technologies and automation to unlock new cost-saving opportunities that really didn't exist before. And we have targeted another $100 million for 2025, reinforcing our commitment to permanently lowering our cost base and enhancing our earnings power."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:05:31",
+      "text": "We accelerated our aggressive AI agenda, deploying Generative AI at scale across many parts of our business to drive better experiences faster and at lower cost. Our efforts include both customer-facing examples and internal solutions that are transforming how we operate. For example, our Listing Concierge product with its new AI integration drove significant adoption and was named Best Use of AI by a brokerage in 2024. New AI integration in our leads business is better identifying and targeting consumers most likely to become buyers. We are now able to better match these higher-quality leads with our best-performing agents faster than before, and these leads are seeing a 40+% improvement in conversion rate. Generative AI continues to improve our operations. We currently process about 15,000 documents a day to support our brokerage transactions."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:06:27",
+      "text": "With Generative AI, we have the ability to process these with fewer than half the team in a fraction of the time, with a significant reduction in error rates. And in our most recent pilot, we've seen error rates fall to as low as one in 5,000 documents processed. Now, turning to growth, we meaningfully expanded our luxury leadership across Sotheby's International Realty, Corcoran, and Coldwell Banker Global Luxury. Our luxury volume was up nearly 10% for the year and approximately 20% in the fourth quarter as we gained meaningful market share here. The most exciting thing about our luxury ops performance is the powerful unit growth, which grew 4% year-over-year for the full year and by 12% year-over-year in Q4, both substantially exceeding the market's unit results. We continue to lead the industry selling the most luxury homes at all luxury price points."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:07:19",
+      "text": "For example, we sold over $1,010-plus million homes in 2024 and have over $1,010+ listings in our current portfolio. Our Sotheby's Concierge Auction business, where we are paid both a buyer premium and a seller commission, continues to grow and had a $5 billion+ average sales price in 2024. This luxury success is driven by our distinctive value propositions and the talented agents who continue to flock to and stay with our great luxury brands. We grew our high-margin franchise network, adding 67 new franchisees in 2024, with 28 new franchisees in Q4. In Q4, we were especially proud of the addition of a 400-agent, long-time independent family-owned brokerage in the DC area to our growing Corcoran brand. We broadened our Upward Title joint venture from three to six states in 2024, with now over 20 franchise partners in place and three more states in the pipeline."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:08:25",
+      "text": "We love the Upward Title momentum in the business because it opens new earnings opportunities for us and our franchisees, enhances our value proposition, and deepens our relationship with participating franchisees. We successfully implemented complex industry practice changes, providing our network with clear guidance and innovative solutions, giving them a significant competitive edge. For instance, our KeySign product enables agents to effortlessly create and collect digitally signed buyer agreements by simply scanning a client's license with their mobile device. And finally, in late 2024, we launched Reimagine25 to transform how we operate as a company going forward, seizing new opportunities unlocked by Generative AI and other emerging technologies to deliver better experiences for our customers faster and at lower cost. Reimagine25 enables us as early adopters to jump-start a more innovative future and will serve as the foundation of our continued efforts to lower our cost base."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:09:28",
+      "text": "Now, turning to 2025, January started off much like the end of 2024. The housing market remains challenged, especially with a lack of supply and real pressure on the number of unit transactions. However, we had a robust January with 12% closed volume growth year-over-year, driven by price gains. And our open volume in January, while softer, was still positive at plus 4%, also driven by price gains. Now, even more important for 2025, there are two industry topics I want to be clear on. The first is NAR's Clear Cooperation Policy, which requires all listings to be put on the MLS within 24 hours of publicly marketing a property. Our position is that the rules should be relaxed to provide more flexibility to sellers."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:10:16",
+      "text": "However, we oppose a blanket repeal as we believe transparency and access to all available inventory are in the best interests of both sellers and buyers. Those advocating for full repeal are primarily advancing their own interests, as there's clearly an opportunity for players with listing scale to create private off-market listing networks that only select agents can access, which clearly could enhance near-term economics. But we believe this is bad for consumers, and we think it's best to do what's in the long-term interest of the consumer. However, let me be clear. We actually have the most listings in the industry across our brands. If the market evolves to favor private off-market listing networks, we are ready to capitalize, and we will ensure our agents and franchisees are never disadvantaged."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:11:05",
+      "text": "The scale of Anywhere offers significant benefits, and we're prepared to leverage all of our advantages to make sure our agents and franchisees have everything they need to succeed in a private listings world. The second topic is industry consolidation. We're seeing more firms looking to sell across brokerage, adjacent services, and PropTech. We're well-positioned to explore these opportunities, not only because of our liquidity, but also due to the competitive edge that we offer. We believe our assets enable us to provide unique solutions with the most synergies, the easiest integration, and ready-to-use technology. We would be excited to augment our growth through M&A opportunities at attractive economics. And to be clear, we will maintain a disciplined approach to profitability with deals that enhance the bottom line, not just the top line. With that, let me now turn it over to Charlotte for more details on 2024."
+    },
+    {
+      "speaker_id": "charlotte-simonelli",
+      "speaker_name": "Charlotte Simonelli",
+      "speaker_role": "CFO at Anywhere Real Estate",
+      "timestamp": "00:12:03",
+      "text": "Good morning, everyone. We ended 2024 with numerous successes. We generated meaningful Operating EBITDA. We over-delivered on cost savings. We successfully navigated through unprecedented industry uncertainty and helped our franchisees and agents implement practice changes with minimal impact to our financials. We reduced and lengthened our capital structure with the repayment of our Term Loan A and some debt repurchases. We saw agent commission split trends continue to moderate for yet another year. We prudently managed our cash, and we made significant progress on our strategy and exited the year with solid momentum. I will now highlight our Q4 and full year 2024 financial results. As Alicia mentioned in our opening, we have revised how we report Operating EBITDA to enhance comparability to industry peers. And all the figures discussed in this call and in our reported materials reflect this change."
+    },
+    {
+      "speaker_id": "charlotte-simonelli",
+      "speaker_name": "Charlotte Simonelli",
+      "speaker_role": "CFO at Anywhere Real Estate",
+      "timestamp": "00:13:11",
+      "text": "Q4 revenue was $1.4 billion, up 9% versus prior year. And Operating EBITDA was $52 million, an increase of 86% versus prior year, primarily due to higher transaction volume and cost savings, partially offset by foreign currency impacts and relocation, and some costs related to the acquisition of Doma in our underwriter JV. Full year revenue was $5.7 billion, up 1% versus prior year. And Operating EBITDA was $290 million, an increase of 14% versus prior year, primarily driven by higher operating margins as we continue to improve our cost structure. We realized nearly $125 million of cost savings, which was about 25% higher than our initial target, and achieved efficiencies across the enterprise, with the majority coming from our own brokerage and title businesses as we further integrate and simplify the real estate transaction."
+    },
+    {
+      "speaker_id": "charlotte-simonelli",
+      "speaker_name": "Charlotte Simonelli",
+      "speaker_role": "CFO at Anywhere Real Estate",
+      "timestamp": "00:14:13",
+      "text": "Total operating, marketing, and G&A expenses for the year totaled $1.71 billion, down $72 million versus prior year. About 40% of our realized cost savings were offset by growth-related costs and other inflationary items. Full year free cash flow was $70 million before the $20 million litigation payment made in the second quarter. Our full year free cash flow delivery was about $30 million below our target due to the timing of a tax refund, which was initially expected in Q4, but now anticipated in the first half of this year. Consistent with our capital allocation priorities, we used our free cash flow to invest in our future and to pay down debt."
+    },
+    {
+      "speaker_id": "charlotte-simonelli",
+      "speaker_name": "Charlotte Simonelli",
+      "speaker_role": "CFO at Anywhere Real Estate",
+      "timestamp": "00:15:01",
+      "text": "We continued to make selective investments to drive growth, including attracting new agents and franchisees at better margins, expanding our technology platform with new products and services, and streamlining our operations to deliver better experiences faster at lower cost. We also strengthened our balance sheet by pushing out maturities with no incremental interest expense and reducing overall debt by about $30 million. We will continue to opportunistically evaluate ways to improve our capital structure, and I am confident in our current position with no maturities due before March 2026 and ample liquidity remaining on our revolver. It's important to highlight that this year's achievements are a continuation of our long-term strategy to enhance our operating results and capital structure. Since 2019, including two of the worst years in housing in three decades, we have delivered almost $700 million of realized cost savings and reduced overall debt by $930 million."
+    },
+    {
+      "speaker_id": "charlotte-simonelli",
+      "speaker_name": "Charlotte Simonelli",
+      "speaker_role": "CFO at Anywhere Real Estate",
+      "timestamp": "00:16:08",
+      "text": "We have a proven track record of delivering on our commitments and achieving our goals, exceeding the cost-saving goals we put forth in our 2022 Investor Day. On top of these accomplishments, we continue to push ahead with transformation through Reimagine25, which Ryan mentioned. This ambitious multi-year transformation effort aims to set us up for greater growth and success in the future. It will contribute to our savings program for 2025 and beyond, leveraging technology to reduce manual processes and, importantly, enhance our value proposition and unlock growth opportunities. One example is innovating around agent support delivery, using cutting-edge technology to reduce in-person interactions and physical resources and instead focus on enhanced ready-now support throughout the transaction. Now, let me go into more detail on our full year business segment performance. Our Anywhere Brands business, which includes leads and relocation, generated $521 million in Operating EBITDA."
+    },
+    {
+      "speaker_id": "charlotte-simonelli",
+      "speaker_name": "Charlotte Simonelli",
+      "speaker_role": "CFO at Anywhere Real Estate",
+      "timestamp": "00:17:19",
+      "text": "Operating EBITDA was down $6 million, primarily due to foreign currency impacts in our relocation business. We remained confident in our core franchise business, which further expanded in the quarter and its robust margins. Our Anywhere Advisors operating EBITDA was negative $93 million, an increase of $42 million versus prior year, driven by higher revenue and lower operating and marketing costs. This business generated $226 million in operating EBITDA before the transfer of intercompany royalties and marketing fees paid to our franchise business. Agent commission splits were 80.3% in 2024, up 14 basis points versus the prior year, representing one of the best year-over-year results we've seen in a while. Our Q4 agent commission split rate was also 80.3%, down 7 basis points year-over-year and down 10 basis points sequentially from the prior year."
+    },
+    {
+      "speaker_id": "charlotte-simonelli",
+      "speaker_name": "Charlotte Simonelli",
+      "speaker_role": "CFO at Anywhere Real Estate",
+      "timestamp": "00:18:23",
+      "text": "This marks 11 consecutive quarters with our agent commission split rate about 80%, and this is all despite adding over 2,500 producing agents in 2024, underscoring our strong agent value proposition. Anywhere Integrated Services Operating EBITDA was -$13 million, an improvement of $3 million versus prior year. Operating EBITDA benefited year-over-year due to increases in both purchase and refi units, partially offset by increased labor costs and our continued investment to roll out Upward Title. Equity and earnings was impacted by a $5 million decrease in our underwriter JV, primarily related to the Doma acquisition in Q4. Before discussing specific guidance, I want to address the California wildfires. We are actively monitoring the devastating impact in the Greater Los Angeles area, with our primary focus on the safety of our people."
+    },
+    {
+      "speaker_id": "charlotte-simonelli",
+      "speaker_name": "Charlotte Simonelli",
+      "speaker_role": "CFO at Anywhere Real Estate",
+      "timestamp": "00:19:24",
+      "text": "Our hearts go out to our employees, affiliated agents, and franchisees who have been affected and forced to leave their homes. As of today, about 1,000 agents and a few of our own brokerage and title offices in that area have been impacted. We are proud of our team's resilience and our ability to seamlessly service our clients due in part to our virtual service delivery model. And while the financial impact on this region is uncertain, we do know that the effects of this broad-based devastation will be felt in Q1 and beyond. Now, turning to 2025. Given what we know today, we expect Operating EBITDA for the full year to be about $350 million, with the biggest swing factor being the housing market itself, which is inherently volatile."
+    },
+    {
+      "speaker_id": "charlotte-simonelli",
+      "speaker_name": "Charlotte Simonelli",
+      "speaker_role": "CFO at Anywhere Real Estate",
+      "timestamp": "00:20:18",
+      "text": "We expect to deliver about $100 million in cost savings this year, which will be offset in part by inflationary pressures and investments as we look to make significant progress transforming our business. We have proven our free cash flow delivery remains strong in both good and bad markets, and we anticipate our 2025 free cash flow, excluding one-time items, to be similar to 2024. Free cash flow, like EBITDA, is driven by the overall housing market and may be impacted by additional investments we make to drive growth and enhance our technology strategy."
+    },
+    {
+      "speaker_id": "charlotte-simonelli",
+      "speaker_name": "Charlotte Simonelli",
+      "speaker_role": "CFO at Anywhere Real Estate",
+      "timestamp": "00:20:56",
+      "text": "Our fourth quarter and full year results highlight Anywhere's financial discipline. We start 2025 with determination and confidence, reinforced by industry-leading profitability and solid cash flow generation. I am proud of what we have accomplished and even more excited for the future as we truly transform our business, accelerate growth, and lead the industry forward. Let me now turn the call back to Ryan for some closing remarks."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:21:28",
+      "text": "Thank you, Charlotte. Anywhere Real Estate's proven our ability to deliver results regardless of market conditions. In 2024, we navigated the housing market with resilience and determination, generating meaningful Operating EBITDA and free cash flow, investing in future growth, over-delivering on cost savings, and adapting to unprecedented industry changes. In 2025, Anywhere Real Estate will focus on executing our strategic agenda, reimagining how we operate, and leveraging our competitive advantages to drive growth, outperform the market, and deliver value for our agents, franchisees, and shareholders. The future is full of opportunities, and Anywhere Real Estate is ready to lead the industry to what's next. With that, we will take your questions."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:22:11",
+      "text": "Thank you. If you would like to ask a question, please press star one on your telephone keypad. If you would like to withdraw your question, simply press star one again. Please ensure that you're not on speakerphone and that your phone is not on mute when called upon. Thank you. Your first question comes from the line of Matthew Bouley with Barclays. Your line is open."
+    },
+    {
+      "speaker_id": "matthew-bouley",
+      "speaker_name": "Matthew Bouley",
+      "speaker_role": "Managing Director at Barclays",
+      "timestamp": "00:22:35",
+      "text": "Morning, everyone. Thank you for taking the questions. I guess first, I wanted to touch on the Operating EBITDA outlook for 2025, the $350 million. I guess a simple question, just sort of what are some of the underlying assumptions you're making within that around, I guess, transaction volumes, commission splits, commission rates? Obviously, we got the cost reductions in there, but just kind of any other pieces you can help us bridge to that EBITDA. Thank you."
+    },
+    {
+      "speaker_id": "charlotte-simonelli",
+      "speaker_name": "Charlotte Simonelli",
+      "speaker_role": "CFO at Anywhere Real Estate",
+      "timestamp": "00:23:05",
+      "text": "Yeah. So as I mentioned, the single biggest swing factor is going to be the housing market, and there's some pretty wide ranges in industry forecasts right now. So we've had to take a bit of a call on that. We're going to watch it together. We'll update quarterly as if anything changes in our assumptions on the housing market. But because the industry forecasts are so kind of wide as they normally are at this point in the year, I don't think it's smart to peg to any specific number. But obviously, we are giving guidance for the first time in a while, and so we feel good about where we sit today. We gave the numbers on cost savings. I think you can see over the last few years about the net impact of the cost savings."
+    },
+    {
+      "speaker_id": "charlotte-simonelli",
+      "speaker_name": "Charlotte Simonelli",
+      "speaker_role": "CFO at Anywhere Real Estate",
+      "timestamp": "00:23:47",
+      "text": "So hopefully, you can use some of the last year's analogs and some of the remarks I've made about what the add-backs are on investments and inflation to impact that. We feel good about the splits. We've had a lot of 11 consecutive quarters, around 80% for the commission splits. Those will obviously vary with volume as well. But again, 11 consecutive quarters is part of the reason, the consistency in that, that is enabling us to put a pin on some guidance for this year."
+    },
+    {
+      "speaker_id": "charlotte-simonelli",
+      "speaker_name": "Charlotte Simonelli",
+      "speaker_role": "CFO at Anywhere Real Estate",
+      "timestamp": "00:24:20",
+      "text": "As far as ABCR, we're the only ones who do report that, and the numbers that we've reported have been relatively consistent since the changes in the process. If things change, we'll update things, but what we're seeing is relatively consistent on ABCR. So obviously, a lot of volatility in housing in general, but I think the piece parts that we've laid out, there's a lot of there that has been pretty consistent, our cost savings and commission splits specifically. And so we'll continue to update you as the quarters go on, but feeling good about where we ended the year and feeling good about our momentum as we start the year."
+    },
+    {
+      "speaker_id": "matthew-bouley",
+      "speaker_name": "Matthew Bouley",
+      "speaker_role": "Managing Director at Barclays",
+      "timestamp": "00:25:04",
+      "text": "Okay. Got it. I guess what I'm hearing is a lot of consistency, and I guess correct me if I'm wrong. But second question, the comments you made around Clear Cooperation, kind of just when you talked about a relaxed Clear Cooperation, I guess my question is kind of what is that middle ground that you'd be looking for? Kind of what exactly are you advocating for and sort of how are you going to approach this in the coming weeks and months? Thank you."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:25:37",
+      "text": "Yeah. So our brokerage leader, Sue Yannaccone, and she runs our own franchise brokerage. In a lot of ways, she has the biggest job in real estate. She just did an editorial taking your question on exactly, trying to lay out, \"Look, the most frustrating thing about the debate going on in our industry is it's like an extreme debate. Either it must stay the same or it must be totally repealed.\" And so what Sue put out was some thoughts about, \"Hey, there are places where you may want to relax it a little bit for sellers. It doesn't have to be 24 hours, etc. But you do need to preserve the fact that over time, you want all sellers and buyers to be able to see all the inventory. It's to both of their benefit.\" And so we actually think the two extremes are both bad outcomes."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:26:27",
+      "text": "And so Sue put that out earlier this week. We'll continue to advocate for that. We're one of the only companies that has a dedicated government relations team in DC. And obviously, our trade group has some issues, and we got to take more leadership. But that's kind of where we're going. And I thought Sue's editorial was well done, Matt. And at the end of the day, the two extremes both have some real issues with them. The current extreme and the mandatory nature is a problem. We don't like mandatory things. We've been telling people to relax mandatory rules for a number of years. And since people didn't listen to us on the participation rule, we all paid dearly for that."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:27:17",
+      "text": "But on the flip side, again, just to kind of total repeal and moving the world to private listings network, I don't think it's good for the consumer. So we're in the relax, not repeal world. We've laid our position out in a couple of different forums now, and we'll continue to advocate for that. But let's be very clear. We are ready. If the world goes to private listings, we will not let our agents be disadvantaged. And we have more listings to make into private listings than anybody does. I think that's a short-sighted way for our industry to go. But we have the technology ready. We have the people ready. We've thought through all the issues of it, and we're ready. But it's not our recommendation."
+    },
+    {
+      "speaker_id": "matthew-bouley",
+      "speaker_name": "Matthew Bouley",
+      "speaker_role": "Managing Director at Barclays",
+      "timestamp": "00:28:12",
+      "text": "Got it. Well, thank you, Ryan and Charlotte. Good luck, guys."
+    },
+    {
+      "speaker_id": "charlotte-simonelli",
+      "speaker_name": "Charlotte Simonelli",
+      "speaker_role": "CFO at Anywhere Real Estate",
+      "timestamp": "00:28:14",
+      "text": "Thank you."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:28:15",
+      "text": "Thank you, Matt."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:28:17",
+      "text": "The next question comes from Ryan McKeveny with Zelman. Your line is open."
+    },
+    {
+      "speaker_id": "ryan-mckeveny",
+      "speaker_name": "Ryan McKeveny",
+      "speaker_role": "Managing Director and Equity Research Analyst at Zelman",
+      "timestamp": "00:28:24",
+      "text": "Hey, thank you, guys. Good morning. Wanted to ask on the franchise side. So it looks like the press release mentions you added 28 franchisees in 4Q and 67 in 2024. I guess maybe if you could talk to pipeline or interest from franchisees heading into 2025. And I guess I'm curious, is the pipeline or even those who have joined the network skewed towards established independent brokerages just converting to your brands, or are these kind of new players becoming franchisees? Thank you."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:29:02",
+      "text": "Yeah. Look, we like the pipeline. It feels good, kind of consistent with kind of the success we've had. I think the combination, Ryan, of the litigation in 2023 and these practice changes in 2024 have helped us on this dimension, right? The value proposition we offer to franchisees has a lot of good things in it, including the lead side, the brand side, some of the back office stuff, etc. But there are a lot of people who really realize the power of kind of being part of someone who can both take care of you better in litigation, but also help navigate industry practice changes. So we had a number of existing franchisees obviously join us. And that happens today. We just added some new ones in multiple states in the last two weeks that have all been public. And so that's been helpful."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:29:58",
+      "text": "And then others have seen things. We've had people join us because they've liked this Upward Title thing that we've done, right? As they're looking for new opportunities, they can get into that if they're part of our ecosystem. And so while we always have a few people who kind of start out from nothing as franchisees, when we talk about the 67 or the 28, we're talking about established companies of different sizes, including the 400-agent Corcoran franchisee down in D.C. now who have joined our company."
+    },
+    {
+      "speaker_id": "ryan-mckeveny",
+      "speaker_name": "Ryan McKeveny",
+      "speaker_role": "Managing Director and Equity Research Analyst at Zelman",
+      "timestamp": "00:30:33",
+      "text": "That's very helpful. Thank you. And Charlotte, just, I think, a clarification. I kind of missed this, and I'll check the transcript later, but maybe you can remind us. I think you made a comment about a tax refund that was expected last year that's now going to come this year, and potentially that is a benefit to EBITDA. I might have totally misheard that, but maybe you can revisit what that comment was."
+    },
+    {
+      "speaker_id": "charlotte-simonelli",
+      "speaker_name": "Charlotte Simonelli",
+      "speaker_role": "CFO at Anywhere Real Estate",
+      "timestamp": "00:30:57",
+      "text": "Yeah. It's just a benefit to free cash flow. It doesn't impact the EBITDA. So it's an explanation of we had given guidance that we expected our free cash flow in 2024, excluding one-time items and other things, to be about $100 million. And the tax refund was anticipated last year, and that's the reason why we now delivered free cash flow at $70 million. And it's just a timing thing. And we've even already gotten notice from the IRS that we should expect part of that already in the first quarter. So it's just a free cash flow timing thing, nothing to do with EBITDA."
+    },
+    {
+      "speaker_id": "ryan-mckeveny",
+      "speaker_name": "Ryan McKeveny",
+      "speaker_role": "Managing Director and Equity Research Analyst at Zelman",
+      "timestamp": "00:31:30",
+      "text": "Okay, and on the guide for free cash flow, the 70 you referenced is kind of ballpark the target we should be thinking about for 2025?"
+    },
+    {
+      "speaker_id": "charlotte-simonelli",
+      "speaker_name": "Charlotte Simonelli",
+      "speaker_role": "CFO at Anywhere Real Estate",
+      "timestamp": "00:31:37",
+      "text": "So I did say similar to prior year, so yes."
+    },
+    {
+      "speaker_id": "ryan-mckeveny",
+      "speaker_name": "Ryan McKeveny",
+      "speaker_role": "Managing Director and Equity Research Analyst at Zelman",
+      "timestamp": "00:31:41",
+      "text": "Okay. Thank you very much."
+    },
+    {
+      "speaker_id": "charlotte-simonelli",
+      "speaker_name": "Charlotte Simonelli",
+      "speaker_role": "CFO at Anywhere Real Estate",
+      "timestamp": "00:31:42",
+      "text": "But it's excluding those one-time items that Alicia referenced in her opening remarks."
+    },
+    {
+      "speaker_id": "ryan-mckeveny",
+      "speaker_name": "Ryan McKeveny",
+      "speaker_role": "Managing Director and Equity Research Analyst at Zelman",
+      "timestamp": "00:31:48",
+      "text": "Right. Okay. Got it. Thank you very much. Thanks."
+    },
+    {
+      "speaker_id": "charlotte-simonelli",
+      "speaker_name": "Charlotte Simonelli",
+      "speaker_role": "CFO at Anywhere Real Estate",
+      "timestamp": "00:31:50",
+      "text": "Sure."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:31:52",
+      "text": "The next question comes from John Campbell with Stephens. Your line is open."
+    },
+    {
+      "speaker_id": "john-campbell",
+      "speaker_name": "John Campbell",
+      "speaker_role": "Managing Director and Equity Research Analyst at Stephens",
+      "timestamp": "00:31:59",
+      "text": "Hey, guys. Good morning. Congrats on a great close to the year."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:32:03",
+      "text": "Thanks, John."
+    },
+    {
+      "speaker_id": "john-campbell",
+      "speaker_name": "John Campbell",
+      "speaker_role": "Managing Director and Equity Research Analyst at Stephens",
+      "timestamp": "00:32:04",
+      "text": "Sure. Ryan, I appreciate your clarity and the clear message on CCP. Just assuming that for some reason consumers end up being okay with the private networks and there's greater fragmentation, obviously you called out your industry-leading number of listings. So that's obviously a great start. You also mentioned just a second ago that you have the technology ready. Obviously, your largest competitor out there has pushed a new consumer app and seems to be lining up their site as more of a portal. I appreciate from a competitive standpoint, you might not want to show all your cards here, but maybe just talk high level how you'd look to leverage your leading position."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:32:40",
+      "text": "Look, I mean, you're right. We're not going to show our cards on this call. We'll show it to our agents, franchisees first, and then in the market. But look, the world's not that complicated, right? If you want to do a private listing network, it's just not that complicated. So you could map out exactly what we would provide and have and kind of corral across our owned and franchised brokerage network, and then how agents and consumers would interact with it. So it's not that complicated. And again, my thesis and my real public message is both we think that's a bad way for the industry to go, but if it goes there, we're going to be not only are we ready, but we think we do, frankly, pretty well relative to anybody. So that's a place that we're just very focused on."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:33:34",
+      "text": "And but again, over time, if buyers can't easily get access to all the inventory, I just think that's bad for sellers in terms of getting the best price on your house. I also think there's some fair housing issues on that. And if you're a seller and you can't get access to how other homes sold at what price, it hurts your ability to price your home. So again, I just don't think it's a great place for the industry to go, but we obviously have to be prepared. And my message is not only are we prepared, but we've got assets that would be advantageous on all of our competitors, we believe, just starting with the number of listings."
+    },
+    {
+      "speaker_id": "john-campbell",
+      "speaker_name": "John Campbell",
+      "speaker_role": "Managing Director and Equity Research Analyst at Stephens",
+      "timestamp": "00:34:23",
+      "text": "Yeah. That's great color. I appreciate all that. And then Charlotte, back to the $350 million EBITDA guidance. You mentioned the wide dispersion in the industry forecast. We're certainly seeing that as well. But just given how tied the P&L is to housing, I'm thinking you probably do have an internal forecast you're going with. I'm hoping you can maybe shed some light on that or maybe just talk to a rule of thumb sensitivity for, I don't know, every 100 basis points or so of volume swings."
+    },
+    {
+      "speaker_id": "charlotte-simonelli",
+      "speaker_name": "Charlotte Simonelli",
+      "speaker_role": "CFO at Anywhere Real Estate",
+      "timestamp": "00:34:47",
+      "text": "Yeah. We're not really coming off of what we've said in the past around sort of like the 15 million mark for the percentage of change in growth. It does depend on the unit volume, and the lower the units, sort of the lower the impact is because of title. But if you think about, I think you can actually probably, if you look through the other assumptions I've given you, you could probably even come up to what our own internal forecast is within a couple of percentage points, so."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:35:21",
+      "text": "And John, just to comment on your last question here, because we believe in you guys. Just know that. We believe in you. And this is the first time Charlotte and I have ever, in the month of February, given you a full year number, right? In the past, we've always kind of gone with the philosophy of, \"Hey, we're going to give you as many of the piece parts as we can. You put your volume forecast in, do the math, and you come up with a number,\" right? This year, we thought, \"We've heard your feedback, others, and we thought, let's try something a little bit different,\" which is we're giving you our view. And as Charlotte said, we'll update it every quarter."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:35:58",
+      "text": "Boy, this housing market's the thing. If you look back in time, that kind of really changes the world between February and the full year results often, but we hope this is interesting and helpful, and again, the nice thing is we have three more bites at the apple to update you as kind of the year evolved, but it is a different approach, and it'll be very interesting to see your feedback on, does it work better than what we had been doing on this dimension, but we're excited to try it, but we also recognize it might leave you a teeny bit frustrated that we're not giving you every single piece to add up to it, but that's a little more of turning it around in the old way, so anyway, we're excited, and we believe you guys will do great with it."
+    },
+    {
+      "speaker_id": "john-campbell",
+      "speaker_name": "John Campbell",
+      "speaker_role": "Managing Director and Equity Research Analyst at Stephens",
+      "timestamp": "00:36:51",
+      "text": "Appreciate that, guys."
+    },
+    {
+      "speaker_id": "charlotte-simonelli",
+      "speaker_name": "Charlotte Simonelli",
+      "speaker_role": "CFO at Anywhere Real Estate",
+      "timestamp": "00:36:54",
+      "text": "Thanks, John."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:36:56",
+      "text": "Once again, ladies and gentlemen, if you have a question, it is star one on your telephone keypad. Your next question comes from Tommy McJoynt with KBW. Your line is open."
+    },
+    {
+      "speaker_id": "thomas-mcjoynt",
+      "speaker_name": "Thomas McJoynt",
+      "speaker_role": "Director of Equity Research at KBW",
+      "timestamp": "00:37:11",
+      "text": "Hey, good morning, guys. Thanks for taking our questions."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:37:15",
+      "text": "Hey, Tommy."
+    },
+    {
+      "speaker_id": "thomas-mcjoynt",
+      "speaker_name": "Thomas McJoynt",
+      "speaker_role": "Director of Equity Research at KBW",
+      "timestamp": "00:37:15",
+      "text": "Yeah. So Ryan, last quarter, you gave some interesting commentary around home buyers given a choice of signing different agent engagement agreements, be it to look at one single house or part of a longer home buying journey. Do you have an update on any of the or any data points around that and kind of what those compensation agreements look like?"
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:37:34",
+      "text": "Yeah. Sure. Happy to do it. Partly because this is a chance to say I was a little bit wrong. We rolled out these kind of five different buyer agreements, Tommy. And you talked to some of them, right? Single house, multiple house, just go on a home tour, and then kind of the classic six months we're an exclusive relationship agreement, right? And part of the reason we rolled out the five is we weren't sure how consumers would react. And we didn't want people to just have a yes, no choice on one agreement. We wanted them some options. And the data, not just into November when we last talked or excuse me, October when we last talked, the data through January is it's almost all people signing the six-month exclusive agreement. North of 80% of our buyers are signing that agreement. And that just blows me away."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:38:30",
+      "text": "And it's awesome. And so frankly, we're probably going to end up discontinuing some of the other ones that just don't get much usage or much traction because consumers aren't really interested in them, and let's reduce the complexity and all that kind of stuff. And it's a testament to the power of the value that agents provide. And I don't think that stat, by the way, is unique to Anywhere. I don't have anyone else's data. But when I talk to agents at other firms and I talk to people in our industry, I think other people are getting using those same things more than 50% of the time. And it comes back to I do think that the agents are doing a very good job articulating their value to buyers and going on that journey to kind of make these people's lives better together."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:39:24",
+      "text": "And so the data has only gotten stronger on the use of the six-month exclusive since I talked to you in October. And we looked at it through mid-January or so. Is the last time I looked at it, late January data kind of thing. And so really excited by that. Still glad we were thoughtful about trying the different things to be prepared. You never know how the world's going to go. But it's gone in a way that's really consistent with agents adding a lot of value and communicating their value well. And consumers have voted with their feet. Very excited."
+    },
+    {
+      "speaker_id": "thomas-mcjoynt",
+      "speaker_name": "Thomas McJoynt",
+      "speaker_role": "Director of Equity Research at KBW",
+      "timestamp": "00:40:05",
+      "text": "Got it. And just on the same point, I'm sure it's a bit tough to track, but do you have any sense around if consumers are shopping around a bit more, maybe perhaps taking the six-month exclusive agreement from an Anywhere agent, comparing it to competitors when they're beginning this process, or any data around that?"
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:40:22",
+      "text": "I think the shopping is no different than it used to be, but I think the shopping happens before you get to the point you're talking about, right? I don't think a lot of people are taking two physical agreements and comparing them and then picking, right? I think consumers do a lot of their agent networking and interviewing and everything before they get to that conversation, right? And then the people who already have relationships with agents, from my talking to agents, they haven't seen a difference in their existing relationships looking at other people in terms of the percent of people they do repeat business with kind of thing. So I think the shopping happens, but I think the shopping happens more upstream than at the kind of let's negotiate and sign the buyer agreement point, Matt. Or Tommy, excuse me."
+    },
+    {
+      "speaker_id": "thomas-mcjoynt",
+      "speaker_name": "Thomas McJoynt",
+      "speaker_role": "Director of Equity Research at KBW",
+      "timestamp": "00:41:21",
+      "text": "Got it. Okay. And then just quickly switching over, you sound a little more constructive on the acquisition opportunity in the year ahead."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:41:29",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "thomas-mcjoynt",
+      "speaker_name": "Thomas McJoynt",
+      "speaker_role": "Director of Equity Research at KBW",
+      "timestamp": "00:41:30",
+      "text": "Do you envision that getting funded with equity or debt, or is there enough cash flow generation not going toward some of those one-off items and eventual debt reductions to fund those opportunities?"
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:41:40",
+      "text": "Look, I mentioned our liquidity. I don't think we're going to be an equity buyer. I think we're a cash buyer if we're going to buy stuff, typically. We got tons of liquidity, as Charlotte kind of talked about. We have positive free cash flow. The other thing is, remember, and I reference this, when you look at our ability to combine with others, especially in the brokerage area, we have the most synergies. And those synergies have two interesting things. One is you can get a bunch of them in year one in these deals, right?"
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:42:17",
+      "text": "The other thing, from a covenant standpoint, our covenants give us very good benefits to synergies of deals, even if they're unrealized. So they got to be good deals, of course. And we've seen some deals in the market that we wouldn't do. But boy, yeah, we think we could do some good stuff, especially as kind of the market feels like it's changing. After going into a third tough year, you can see a little more no-moss happening in not just brokerage, but in some adjacent services. And you can definitely see it in PropTech. I get that call every week, basically. Every two weeks."
+    },
+    {
+      "speaker_id": "thomas-mcjoynt",
+      "speaker_name": "Thomas McJoynt",
+      "speaker_role": "Director of Equity Research at KBW",
+      "timestamp": "00:43:04",
+      "text": "Thanks, Ryan."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:43:05",
+      "text": "Multiple times a month."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:43:11",
+      "text": "The final question comes from Nahom Tesfazghi with JPMorgan. Your line is open."
+    },
+    {
+      "speaker_id": "nahom-tesfazghi",
+      "speaker_name": "Nahom Tesfazghi",
+      "speaker_role": "Equity Research Associate at JPMorgan",
+      "timestamp": "00:43:19",
+      "text": "Hey, guys. Thanks for taking the question. Just one on my end, and I guess going back to the guidance, how much does the adjustment for non-cash compensation in legal matters impact the 2025 guidance of $350 million? Or, I guess, another way to say it, or I guess better put, is how much does that help the guide compared to the old definition?"
+    },
+    {
+      "speaker_id": "charlotte-simonelli",
+      "speaker_name": "Charlotte Simonelli",
+      "speaker_role": "CFO at Anywhere Real Estate",
+      "timestamp": "00:43:45",
+      "text": "I think what you'll see in the press release is the prior two years; it's a relatively small number. In 2023, that number was 12, I believe, on the full year, and 17 in 2024. It's not a material impact in the past two years."
+    },
+    {
+      "speaker_id": "ryan-schneider",
+      "speaker_name": "Ryan Schneider",
+      "speaker_role": "CEO and President at Anywhere Real Estate",
+      "timestamp": "00:44:03",
+      "text": "And the way I think about it, just looking at that information in the press release, is 2024 is a pretty tough housing market. But even with all those adjustments that you mentioned, we were able to grow our EBITDA by $35 million. And then in 2025, it's $60 million of EBITDA growth with all those adjustments, apples to apples now. So it's a kind of $60 million growth, apples to apples on that stuff. So there's no headwind or tailwind in the $60 million growth."
+    },
+    {
+      "speaker_id": "nahom-tesfazghi",
+      "speaker_name": "Nahom Tesfazghi",
+      "speaker_role": "Equity Research Associate at JPMorgan",
+      "timestamp": "00:44:43",
+      "text": "Got it. That makes sense. Thank you."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:44:48",
+      "text": "This concludes the question-and-answer session, and we'll conclude today's conference call. Thank you for joining. You may now disconnect."
+    }
+  ],
+  "statements": [
+    {
+      "id": "HOUS-FY2024Q4-001",
+      "turn_index": 2,
+      "speaker_id": "alicia-swift",
+      "verbatim_quote": "We have three large expected one-time free cash flow headwinds in 2025, which total approximately $115 million.",
+      "claim": "Anywhere Real Estate expects three one-time free cash flow headwinds totaling approximately $115 million in 2025.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q4-002",
+      "turn_index": 2,
+      "speaker_id": "alicia-swift",
+      "verbatim_quote": "The first headwind is our approved $83.5 million litigation settlement. We have made $30 million in payments.",
+      "claim": "Anywhere Real Estate has an approved $83.5 million litigation settlement, of which $30 million has been paid.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q4-003",
+      "turn_index": 3,
+      "speaker_id": "alicia-swift",
+      "verbatim_quote": "The remaining $53.5 million will be due when the appeals are resolved... we currently expect the payment to occur no earlier than mid-2025.",
+      "claim": "The remaining $53.5 million of the litigation settlement is expected to be paid no earlier than mid-2025.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q4-004",
+      "turn_index": 3,
+      "speaker_id": "alicia-swift",
+      "verbatim_quote": "Second, the 1999 Cendant legacy tax matter of approximately $40 million is due shortly after the notice is received and is anticipated in 2025.",
+      "claim": "A $40 million legacy tax matter is anticipated to be paid in 2025.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q4-005",
+      "turn_index": 3,
+      "speaker_id": "alicia-swift",
+      "verbatim_quote": "Third, in January 2025, the company entered into a settlement of the Bumpus or TCPA litigation for $20 million. We anticipate making this payment in Q3 2025, which is subject to preliminary and final court approval.",
+      "claim": "A $20 million TCPA litigation settlement payment is anticipated in Q3 2025, subject to court approval.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "heavily_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q4-006",
+      "turn_index": 6,
+      "speaker_id": "ryan-schneider",
+      "verbatim_quote": "we generated $290 million of Operating EBITDA, up $35 million from the prior year",
+      "claim": "Anywhere Real Estate generated $290 million in Operating EBITDA for full year 2024, an increase of $35 million year-over-year.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q4-007",
+      "turn_index": 6,
+      "speaker_id": "ryan-schneider",
+      "verbatim_quote": "delivered $50 million of free cash flow, $70 million excluding our $20 million litigation settlement payment.",
+      "claim": "Anywhere Real Estate delivered $50 million in free cash flow for full year 2024, or $70 million excluding a $20 million litigation payment.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q4-008",
+      "turn_index": 6,
+      "speaker_id": "ryan-schneider",
+      "verbatim_quote": "earning $52 million of Operating EBITDA in the fourth quarter, up $24 million year-over-year with 13% closed transaction volume growth.",
+      "claim": "Anywhere Real Estate earned $52 million in Operating EBITDA in Q4 2024, up $24 million year-over-year, with 13% closed transaction volume growth.",
+      "categorizations": [
+        "margin_trajectory_specific",
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q4-009",
+      "turn_index": 6,
+      "speaker_id": "ryan-schneider",
+      "verbatim_quote": "We exceeded our cost-saving target by 25%, achieving nearly $125 million in savings",
+      "claim": "Anywhere Real Estate achieved nearly $125 million in cost savings in 2024, exceeding its target by 25%.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q4-010",
+      "turn_index": 6,
+      "speaker_id": "ryan-schneider",
+      "verbatim_quote": "we have targeted another $100 million for 2025",
+      "claim": "Anywhere Real Estate has targeted $100 million in cost savings for 2025.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q4-011",
+      "turn_index": 7,
+      "speaker_id": "ryan-schneider",
+      "verbatim_quote": "these leads are seeing a 40+% improvement in conversion rate.",
+      "claim": "AI-integrated leads are seeing a 40% or greater improvement in conversion rate.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q4-012",
+      "turn_index": 7,
+      "speaker_id": "ryan-schneider",
+      "verbatim_quote": "We currently process about 15,000 documents a day to support our brokerage transactions.",
+      "claim": "Anywhere Real Estate processes approximately 15,000 documents per day for brokerage transactions.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "indefinite",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q4-013",
+      "turn_index": 8,
+      "speaker_id": "ryan-schneider",
+      "verbatim_quote": "we've seen error rates fall to as low as one in 5,000 documents processed.",
+      "claim": "In a recent pilot, document processing error rates fell to as low as one in 5,000 documents.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "unverifiable"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q4-014",
+      "turn_index": 8,
+      "speaker_id": "ryan-schneider",
+      "verbatim_quote": "Our luxury volume was up nearly 10% for the year and approximately 20% in the fourth quarter",
+      "claim": "Luxury volume increased nearly 10% for full year 2024 and approximately 20% in Q4 2024.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q4-015",
+      "turn_index": 8,
+      "speaker_id": "ryan-schneider",
+      "verbatim_quote": "powerful unit growth, which grew 4% year-over-year for the full year and by 12% year-over-year in Q4",
+      "claim": "Luxury unit growth increased 4% year-over-year for full year 2024 and 12% year-over-year in Q4 2024.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q4-016",
+      "turn_index": 9,
+      "speaker_id": "ryan-schneider",
+      "verbatim_quote": "we sold over $1,010-plus million homes in 2024",
+      "claim": "Anywhere Real Estate sold over $1.01 billion in homes in 2024.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q4-017",
+      "turn_index": 9,
+      "speaker_id": "ryan-schneider",
+      "verbatim_quote": "Our Sotheby's Concierge Auction business... had a $5 billion+ average sales price in 2024.",
+      "claim": "The Sotheby's Concierge Auction business had an average sales price of over $5 billion in 2024.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q4-018",
+      "turn_index": 9,
+      "speaker_id": "ryan-schneider",
+      "verbatim_quote": "We grew our high-margin franchise network, adding 67 new franchisees in 2024, with 28 new franchisees in Q4.",
+      "claim": "Anywhere Real Estate added 67 new franchisees in 2024, including 28 in Q4.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q4-019",
+      "turn_index": 9,
+      "speaker_id": "ryan-schneider",
+      "verbatim_quote": "We broadened our Upward Title joint venture from three to six states in 2024, with now over 20 franchise partners in place and three more states in the pipeline.",
+      "claim": "The Upward Title joint venture expanded to six states in 2024 with over 20 franchise partners, and three more states are in the pipeline.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q4-020",
+      "turn_index": 11,
+      "speaker_id": "ryan-schneider",
+      "verbatim_quote": "we had a robust January with 12% closed volume growth year-over-year",
+      "claim": "Anywhere Real Estate achieved 12% closed volume growth year-over-year in January 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q4-021",
+      "turn_index": 11,
+      "speaker_id": "ryan-schneider",
+      "verbatim_quote": "our open volume in January, while softer, was still positive at plus 4%",
+      "claim": "Open volume in January 2025 was positive at 4% year-over-year.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q4-022",
+      "turn_index": 15,
+      "speaker_id": "charlotte-simonelli",
+      "verbatim_quote": "Q4 revenue was $1.4 billion, up 9% versus prior year.",
+      "claim": "Q4 2024 revenue was $1.4 billion, up 9% year-over-year.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q4-023",
+      "turn_index": 15,
+      "speaker_id": "charlotte-simonelli",
+      "verbatim_quote": "Operating EBITDA was $52 million, an increase of 86% versus prior year",
+      "claim": "Q4 2024 Operating EBITDA was $52 million, an increase of 86% year-over-year.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q4-024",
+      "turn_index": 15,
+      "speaker_id": "charlotte-simonelli",
+      "verbatim_quote": "Full year revenue was $5.7 billion, up 1% versus prior year.",
+      "claim": "Full year 2024 revenue was $5.7 billion, up 1% year-over-year.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q4-025",
+      "turn_index": 15,
+      "speaker_id": "charlotte-simonelli",
+      "verbatim_quote": "Operating EBITDA was $290 million, an increase of 14% versus prior year",
+      "claim": "Full year 2024 Operating EBITDA was $290 million, an increase of 14% year-over-year.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q4-026",
+      "turn_index": 16,
+      "speaker_id": "charlotte-simonelli",
+      "verbatim_quote": "Total operating, marketing, and G&A expenses for the year totaled $1.71 billion, down $72 million versus prior year.",
+      "claim": "Total operating, marketing, and G&A expenses for full year 2024 were $1.71 billion, down $72 million year-over-year.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q4-027",
+      "turn_index": 16,
+      "speaker_id": "charlotte-simonelli",
+      "verbatim_quote": "Full year free cash flow was $70 million before the $20 million litigation payment made in the second quarter.",
+      "claim": "Full year 2024 free cash flow was $70 million before a $20 million litigation payment made in Q2.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q4-028",
+      "turn_index": 17,
+      "speaker_id": "charlotte-simonelli",
+      "verbatim_quote": "reducing overall debt by about $30 million.",
+      "claim": "Anywhere Real Estate reduced overall debt by approximately $30 million in 2024.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q4-029",
+      "turn_index": 17,
+      "speaker_id": "charlotte-simonelli",
+      "verbatim_quote": "no maturities due before March 2026 and ample liquidity remaining on our revolver.",
+      "claim": "Anywhere Real Estate has no debt maturities due before March 2026 and ample liquidity on its revolver.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q4-030",
+      "turn_index": 17,
+      "speaker_id": "charlotte-simonelli",
+      "verbatim_quote": "Since 2019... we have delivered almost $700 million of realized cost savings and reduced overall debt by $930 million.",
+      "claim": "Since 2019, Anywhere Real Estate has delivered almost $700 million in realized cost savings and reduced overall debt by $930 million.",
+      "categorizations": [
+        "margin_trajectory_specific",
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q4-031",
+      "turn_index": 18,
+      "speaker_id": "charlotte-simonelli",
+      "verbatim_quote": "Our Anywhere Brands business... generated $521 million in Operating EBITDA.",
+      "claim": "The Anywhere Brands business generated $521 million in Operating EBITDA for full year 2024.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q4-032",
+      "turn_index": 18,
+      "speaker_id": "charlotte-simonelli",
+      "verbatim_quote": "Operating EBITDA was down $6 million, primarily due to foreign currency impacts in our relocation business.",
+      "claim": "Anywhere Brands Operating EBITDA was down $6 million year-over-year, primarily due to foreign currency impacts.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q4-033",
+      "turn_index": 19,
+      "speaker_id": "charlotte-simonelli",
+      "verbatim_quote": "Our Anywhere Advisors operating EBITDA was negative $93 million, an increase of $42 million versus prior year",
+      "claim": "Anywhere Advisors Operating EBITDA was negative $93 million for full year 2024, an improvement of $42 million year-over-year.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q4-034",
+      "turn_index": 19,
+      "speaker_id": "charlotte-simonelli",
+      "verbatim_quote": "Agent commission splits were 80.3% in 2024, up 14 basis points versus the prior year",
+      "claim": "Agent commission splits were 80.3% in 2024, up 14 basis points year-over-year.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q4-035",
+      "turn_index": 19,
+      "speaker_id": "charlotte-simonelli",
+      "verbatim_quote": "Our Q4 agent commission split rate was also 80.3%, down 7 basis points year-over-year and down 10 basis points sequentially",
+      "claim": "Q4 2024 agent commission split rate was 80.3%, down 7 basis points year-over-year and 10 basis points sequentially.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q4-036",
+      "turn_index": 20,
+      "speaker_id": "charlotte-simonelli",
+      "verbatim_quote": "This marks 11 consecutive quarters with our agent commission split rate about 80%",
+      "claim": "Anywhere Real Estate has maintained an agent commission split rate of approximately 80% for 11 consecutive quarters.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q4-037",
+      "turn_index": 20,
+      "speaker_id": "charlotte-simonelli",
+      "verbatim_quote": "adding over 2,500 producing agents in 2024",
+      "claim": "Anywhere Real Estate added over 2,500 producing agents in 2024.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q4-038",
+      "turn_index": 20,
+      "speaker_id": "charlotte-simonelli",
+      "verbatim_quote": "Anywhere Integrated Services Operating EBITDA was -$13 million, an improvement of $3 million versus prior year.",
+      "claim": "Anywhere Integrated Services Operating EBITDA was negative $13 million for full year 2024, an improvement of $3 million year-over-year.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q4-039",
+      "turn_index": 21,
+      "speaker_id": "charlotte-simonelli",
+      "verbatim_quote": "As of today, about 1,000 agents and a few of our own brokerage and title offices in that area have been impacted.",
+      "claim": "Approximately 1,000 agents and several brokerage/title offices have been impacted by the California wildfires.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q4-040",
+      "turn_index": 21,
+      "speaker_id": "charlotte-simonelli",
+      "verbatim_quote": "we expect Operating EBITDA for the full year to be about $350 million",
+      "claim": "Anywhere Real Estate expects full year 2025 Operating EBITDA to be approximately $350 million.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q4-041",
+      "turn_index": 22,
+      "speaker_id": "charlotte-simonelli",
+      "verbatim_quote": "We expect to deliver about $100 million in cost savings this year",
+      "claim": "Anywhere Real Estate expects to deliver approximately $100 million in cost savings in 2025.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q4-042",
+      "turn_index": 22,
+      "speaker_id": "charlotte-simonelli",
+      "verbatim_quote": "we anticipate our 2025 free cash flow, excluding one-time items, to be similar to 2024.",
+      "claim": "Anywhere Real Estate anticipates 2025 free cash flow, excluding one-time items, to be similar to 2024 levels.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q4-043",
+      "turn_index": 42,
+      "speaker_id": "charlotte-simonelli",
+      "verbatim_quote": "we had given guidance that we expected our free cash flow in 2024, excluding one-time items and other things, to be about $100 million.",
+      "claim": "Anywhere Real Estate had previously guided for 2024 free cash flow of approximately $100 million, excluding one-time items.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q4-044",
+      "turn_index": 42,
+      "speaker_id": "charlotte-simonelli",
+      "verbatim_quote": "we've even already gotten notice from the IRS that we should expect part of that already in the first quarter.",
+      "claim": "Anywhere Real Estate expects to receive part of a tax refund in Q1 2025, per IRS notice.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q4-045",
+      "turn_index": 65,
+      "speaker_id": "ryan-schneider",
+      "verbatim_quote": "North of 80% of our buyers are signing that agreement.",
+      "claim": "More than 80% of buyers are signing the six-month exclusive agent agreement.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q4-046",
+      "turn_index": 79,
+      "speaker_id": "charlotte-simonelli",
+      "verbatim_quote": "In 2023, that number was 12, I believe, on the full year, and 17 in 2024.",
+      "claim": "The adjustment for non-cash compensation and legal matters was $12 million in 2023 and $17 million in 2024.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "HOUS-FY2024Q4-047",
+      "turn_index": 80,
+      "speaker_id": "ryan-schneider",
+      "verbatim_quote": "in 2025, it's $60 million of EBITDA growth with all those adjustments, apples to apples now.",
+      "claim": "Anywhere Real Estate expects $60 million of EBITDA growth in 2025 compared to 2024, on an apples-to-apples basis.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    }
+  ]
+}
