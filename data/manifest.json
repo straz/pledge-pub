@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T18:36:32.377Z",
+  "generated_at": "2026-05-08T20:43:50.050Z",
   "companies": [
     {
       "id": "alphabet",
@@ -1910,6 +1910,32 @@
       "name": "Real Brokerage",
       "ticker": "REAX",
       "calls": [
+        {
+          "period": "FY2026_Q1",
+          "title": "Real Brokerage Q1 2026 Earnings Call Transcript",
+          "datetime": "2026-05-07T22:00:00Z",
+          "statement_count": 51,
+          "stats": {
+            "by_hedging": {
+              "unhedged": 41,
+              "softly_hedged": 10
+            },
+            "by_category": {
+              "revenue_trajectory_specific": 5,
+              "margin_trajectory_specific": 13,
+              "financial_structure_or_capital_action": 8,
+              "operational_metric_specific": 15,
+              "segment_growth_specific": 4,
+              "geographic_or_regional_rollout": 4,
+              "capacity_or_capability_delivery": 2
+            },
+            "by_resolution": {
+              "validated": 37,
+              "unresolved": 14
+            }
+          },
+          "fiscal_label": "Q1 2026"
+        },
         {
           "period": "FY2025_Q4",
           "title": "Real Brokerage Q4 2025 Earnings Call Transcript",

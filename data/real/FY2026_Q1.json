@@ -1,0 +1,1856 @@
+{
+  "company_id": "real",
+  "title": "Real Brokerage Q1 2026 Earnings Call Transcript",
+  "datetime": "2026-05-07T22:00:00Z",
+  "period": "FY2026_Q1",
+  "location": "Miami, FL",
+  "url": "https://www.marketbeat.com/earnings/reports/2026-5-7-the-real-brokerage-inc-stock/",
+  "people": [
+    {
+      "id": "operator",
+      "name": "Operator",
+      "role": ""
+    },
+    {
+      "id": "alix-lumpkin",
+      "name": "Alix Lumpkin",
+      "role": "Chief Legal Officer at The Real Brokerage"
+    },
+    {
+      "id": "tamir-poleg",
+      "name": "Tamir Poleg",
+      "role": "Chairman and CEO at The Real Brokerage"
+    },
+    {
+      "id": "jenna-rozenblat",
+      "name": "Jenna Rozenblat",
+      "role": "COO at The Real Brokerage"
+    },
+    {
+      "id": "ravi-jani",
+      "name": "Ravi Jani",
+      "role": "CFO at The Real Brokerage"
+    },
+    {
+      "id": "naved-khan",
+      "name": "Naved Khan",
+      "role": "Managing Director in Equity Research at B. Riley Securities"
+    },
+    {
+      "id": "stephen-sheldon",
+      "name": "Stephen Sheldon",
+      "role": "Partner and Equity Research Analyst at William Blair"
+    },
+    {
+      "id": "jason-weaver",
+      "name": "Jason Weaver",
+      "role": "Managing Director and Head of Specialty Finance and Real Estate Research at JonesTrading"
+    },
+    {
+      "id": "nick-mcandrew",
+      "name": "Nick McAndrew",
+      "role": "Senior Equity Research Associate at Zelman & Associates"
+    },
+    {
+      "id": "michael-rindos",
+      "name": "Michael Rindos",
+      "role": "Senior Equity Research Analyst at Benchmark StoneX"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:00:00",
+      "text": "Good morning, ladies and gentlemen, and welcome to The Real Brokerage first quarter ended March 31st, 2026 earnings call. At this time, all participants have been placed on a listen-only mode, and we will open the floor for your questions and comments after the presentation. I will now turn the call over to Alexandra Lumpkin at The Real Brokerage. Ma'am, the floor is yours."
+    },
+    {
+      "speaker_id": "alix-lumpkin",
+      "speaker_name": "Alix Lumpkin",
+      "speaker_role": "Chief Legal Officer at The Real Brokerage",
+      "timestamp": "00:00:22",
+      "text": "Thanks, good morning. Thank you for standing by, welcome to The Real Brokerage conference call and webcast for the first quarter ended March 31, 2026. We appreciate everyone for joining us today. With me on the call today are Tamir Poleg, our Chairman and Chief Executive Officer, Jenna Rozenblat, our Chief Operating Officer, and Ravi Jani, our Chief Financial Officer. This morning, Real published an earnings press release, including results for the first quarter ended March 31, 2026. The press release, along with the consolidated financial statements and related management's discussion and analysis for the quarter, have been filed with the U.S. Securities and Exchange Commission on EDGAR and with the Canadian securities regulators on SEDAR."
+    },
+    {
+      "speaker_id": "alix-lumpkin",
+      "speaker_name": "Alix Lumpkin",
+      "speaker_role": "Chief Legal Officer at The Real Brokerage",
+      "timestamp": "00:01:06",
+      "text": "Before we get started, I'd like to remind everyone that statements made on this conference call that are not historical facts, including statements about future time periods, may be deemed to constitute forward-looking statements. Our actual results may differ materially from these forward-looking statements, and the risk factors that could cause these differences are detailed in our Canadian continuous disclosure documents and SEC reports. Real disclaims any intent or obligation to update these forward-looking statements except as expressly required by law. I'd like to turn the call over to Chairman and Chief Executive Officer, Tamir Poleg. Tamir, please proceed."
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:01:44",
+      "text": "Thank you, Alix. Good morning, everyone. I will cover our Q1 results and the RE/MAX transaction. Jenna will provide an update on key brokerage initiatives. Ravi will walk through our financials in greater detail. Then I'll come back to close. I'll start with a quick overview of our results. Real delivered another impressive first quarter. I think the numbers speak for themselves. Revenue of $466 million, up 32%. Operating loss of $3.4 million, improved by $1.8 million year-over-year. Adjusted EBITDA of $14.9 million increased 80%. Our unrestricted cash and investments balance increased by $13 million in the quarter to a record $62.9 million. All of this occurred in one of the softest markets we've seen in years."
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:02:30",
+      "text": "U.S. existing home sales were essentially flat at trough levels, and Canadian home sales activity declined mid-to-high single digits. Despite this, our agents closed nearly 42,000 transactions, up 25% year-over-year. Gross profit grew faster than operating expenses, and adjusted EBITDA grew 2.5x faster than revenue. That is the model working exactly as we designed. We ended the first quarter with approximately 33,500 agents, and as of May sixth, that number has grown to over 33,900. This is happening while agents across the industry are struggling, transaction volumes are down, and productivity is under pressure. The fact that we are both growing rapidly and improving retention in that environment demonstrates the value the platform delivers for agents. On our ancillary businesses, the progress we're making is starting to become very tangible."
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:03:22",
+      "text": "On Real Wallet, revenue more than tripled year-over-year to $436,000. We now have 8,000 active agents on the platform, which represents 23% of our total agent base, including 40% of those agents who generate over $150,000 in annual gross commissions. Weekly debit card spend has now exceeded $1 million a week. While deposit balances have grown to over $25 million, we ended the quarter with approximately $9 million of credit extended to agents across Canada and the U.S., and we are now seeing early data showing a direct link between Wallet adoption and lower agent churn. We're still in the early stages of what Real Wallet can become. I'm very excited to bring it to even more agents and following the RE/MAX closing franchisees across the country."
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:04:10",
+      "text": "On One Real Title, revenue increased 22% in the quarter. That is the strongest quarterly growth we have seen since Q1 of last year. We now operate 13 title joint ventures across 19 states, and we expect to open Colorado in the second quarter, bringing the total to 20 states. The state-based JV model is the right model to efficiently scale, and I am pleased that we are starting to see that play out in the numbers. On One Real Mortgage, revenue increased 20% year-over-year. Kate Gurevich, who joined as CEO in January, is focused on realigning the loan officer base with our current agent footprint while improving the cost structure. We are migrating to a new loan origination system in Q2, which will meaningfully reduce our per-file costs."
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:04:55",
+      "text": "Meanwhile, we are actively evaluating new lender partners to ensure we are offering clients a more comprehensive range of competitive financing options. I think mortgage is on the right track, we will continue to see that reflected in the numbers as the year progresses. Now, on RE/MAX. Last week, we announced a definitive agreement to acquire RE/MAX Holdings, Inc. in a transaction that implies an enterprise value for RE/MAX of approximately $880 million as of the transaction announcement date. I know this is top of mind for everyone on the call, let me tell you why we announced this transaction and why now. At its core, Real REMAX Group will unite an iconic real estate brand and franchise network with our innovative technology and the fastest-growing major public real estate brokerage. Real has built the platform, the technology, and the agent-aligned community and economics."
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:05:45",
+      "text": "RE/MAX has the brand recognition, the global network, and decades of trust with some of the most productive agents in the business. Together, we believe we can create a platform that is genuinely differentiated and purpose-built to be a leading presence in this industry for the next generation of real estate professionals and entrepreneurs. The financials are compelling. Based on 2025 results, RE/MAX generated approximately $94 million of high-margin adjusted EBITDA, mostly from recurring franchise fees, representing a transaction value of roughly 9x trailing adjusted EBITDA or about 7x post synergies. As a reminder, these figures are based on results at the bottom of the housing cycle. Last year, the combined Real and RE/MAX networks closed over 700,000 transaction sides in the United States alone. That reflects a significant opportunity to grow our ancillary title and mortgage businesses."
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:06:39",
+      "text": "To put some numbers around what that means, we estimate a 1% attachment rate on One Real Mortgage across that addressable transaction base would generate approximately $25 million of high-margin revenue for the combined company post-closing. Similarly, we estimate a 1% attachment rate on title would generate over $10 million of revenue for the combined company. Our goal over time is to be much higher than 1%, so you can see how these numbers can genuinely transform the P&L over time. We also see significant opportunity to utilize our AI-powered consumer home search portal, HeyLeo, to further nurture and monetize the 1 million annual leads generated across remax.com and remax.ca, given the brand's strong trust with consumers. RE/MAX is a brand built on production. The average RE/MAX agent closes over 10 transactions a year, roughly double the industry average."
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:07:32",
+      "text": "These are exactly the kind of high-producing full-time professionals that our technology platform and ancillary businesses are designed to support. Meanwhile, the cost synergy opportunity of $30 million is grounded in real visible and duplicative costs. Two public company cost structures, shared services, vendor contracts, nothing that we believe is aspirational. We are standing up our integration team now, and we will keep investors updated as we make additional progress. I also want to speak directly to agents on both sides of this combination because I know there are questions about what this means for you. The answer is straightforward. Real and RE/MAX will continue to operate as separate brands with separate and distinct value propositions. If you are a RE/MAX agent who thrives working in office side by side with your broker owner and your team, that is not changing."
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:08:21",
+      "text": "What you can look forward to is access to new technology tools and services that Real has built, which will be available to you upon closing. If you are a Real agent, you will continue to have all the flexibility and benefits of our model. Nothing about that changes. These are complementary businesses, each serving different agents in different ways, soon to be operating under one roof. When you have reZEN as your single system of record, Leo AI helping you run your business every day, Real Wallet getting you paid faster with access to lines of credit and integrated title and mortgage services all inside one ecosystem, it's really hard to walk away from that. Every tool we add makes the platform more valuable and every agent who joins makes the community stronger. I think Q1 is showing exactly that."
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:09:06",
+      "text": "With that, I'll hand it over to Jenna."
+    },
+    {
+      "speaker_id": "jenna-rozenblat",
+      "speaker_name": "Jenna Rozenblat",
+      "speaker_role": "COO at The Real Brokerage",
+      "timestamp": "00:09:08",
+      "text": "Thank you, Tamir, and good morning. We have several exciting updates on the brokerage operations front. Starting with leadership. In March, we named Jason Cassity as Chief Growth Officer, a newly created executive role designed to accelerate agent growth and continue building one of the industry's most innovative, collaborative agent communities. Before joining our executive team, Jason spent 13 years as a top-producing realtor and team leader in San Diego. He also served as a growth ambassador for Real, working closely with agents and leadership to attract top talent and strengthen community engagement. Jason stepped away from his personal production to ensure that every agent who joins Real, and soon the Real RE/MAX Group, has the tools, the technology, and the community they need to achieve their own greatness."
+    },
+    {
+      "speaker_id": "jenna-rozenblat",
+      "speaker_name": "Jenna Rozenblat",
+      "speaker_role": "COO at The Real Brokerage",
+      "timestamp": "00:10:01",
+      "text": "Jason will own agent acquisition, activation, and engagement strategy across our markets, partnering closely with our growth ambassador network and top teams and agents. We are very excited to welcome him into this role. Second, on operations. You will notice from our press release that our headcount efficiency ratio, defined as the number of agents per full-time brokerage employee, was 85 to one at the end of the first quarter. For context, during the quarter, we onboarded 34 full-time employees into roles that were previously performed by outside contractors, primarily in brokerage operations and compliance. From a P&L standpoint, this conversion is expected to be largely neutral. From a practical standpoint, bringing these roles in-house means our agents get better service, better support, and more hands-on local expertise."
+    },
+    {
+      "speaker_id": "jenna-rozenblat",
+      "speaker_name": "Jenna Rozenblat",
+      "speaker_role": "COO at The Real Brokerage",
+      "timestamp": "00:10:56",
+      "text": "Importantly, our new full-time brokers are being incentivized not just on agent satisfaction, but also on driving ancillary attachment rates in their markets. That aligns their personal success directly with the growth of One Real Title, One Real Mortgage, and Real Wallet, which is exactly the kind of structural change that compounds over time. Third, HeyLeo. In March, we officially beta launched HeyLeo, our consumer home search portal and AI relationship management platform to our agent base, and I want to share some early data. As a reminder, HeyLeo ingests live MLS data to allow buyers and agents to search, explore, and interact natively throughout the platform. We now have ingested 357 MLS and are on track to reach 400+ by the end of Q2, with full Canadian coverage already live."
+    },
+    {
+      "speaker_id": "jenna-rozenblat",
+      "speaker_name": "Jenna Rozenblat",
+      "speaker_role": "COO at The Real Brokerage",
+      "timestamp": "00:11:54",
+      "text": "Today, HeyLeo already covers over 85% of our agents' geographic distribution. That data foundation is what makes AI RM genuinely useful. We currently have 450 agents in the beta test, with another 4,500 on the wait list. This phased rollout is deliberate, as we want agents and their clients to have a great experience before we open the floodgates. We are seeing early success with HeyLeo re-engaging and providing tools for agents to nurture dormant leads, while early engagement data is also encouraging. We are seeing many client conversations with HeyLeo running to 10, 15, even 20+ messages covering property details, neighborhoods, schools, and ownership costs."
+    },
+    {
+      "speaker_id": "jenna-rozenblat",
+      "speaker_name": "Jenna Rozenblat",
+      "speaker_role": "COO at The Real Brokerage",
+      "timestamp": "00:12:45",
+      "text": "These are typical high-quality buyer interactions that our agents no longer have to manually respond to around the clock, and I'm very excited about rolling the platform out to our entire agent base as the product matures. Finally, on RE/MAX. I have taken on the role of chief integration officer for the combined company, and I want to share why I am so confident that we can deliver significant value, both at the company level and at the individual office level. That confidence comes from our DNA. We have spent over a decade using technology to streamline brokerage operations at scale, building reZEN, deploying Leo AI, and automating workflows that used to require manual intervention. We know how to run a lean, technology-enabled brokerage efficiently, and we know how to bring agents onto a platform in a way that enhances their businesses without disrupting what they have built."
+    },
+    {
+      "speaker_id": "jenna-rozenblat",
+      "speaker_name": "Jenna Rozenblat",
+      "speaker_role": "COO at The Real Brokerage",
+      "timestamp": "00:13:42",
+      "text": "That experience is directly transferable to RE/MAX franchisees, and it is the foundation of our on-the-ground integration approach. The RE/MAX franchise network is filled with thousands of franchisees who have built incredible businesses and who deserve the best tools, the best support, and the best technology the industry has to offer. I genuinely look forward to working with the RE/MAX team, agents, and franchisees to build the technology-enabled real estate platform of the future together. The opportunity in front of us is significant, and I believe we have exactly the right team and foundation to capture it. With that, I'll turn it over to Ravi."
+    },
+    {
+      "speaker_id": "ravi-jani",
+      "speaker_name": "Ravi Jani",
+      "speaker_role": "CFO at The Real Brokerage",
+      "timestamp": "00:14:26",
+      "text": "Thank you, Jenna, good morning, everyone. Consolidated revenue for the first quarter was $466 million, up 32% year-over-year. Growth was led by our North American brokerage segment, where closed transactions rose 25%, substantially outperforming the U.S. and Canadian home sales markets. Ancillary revenue of $3 million grew 34% year-over-year, with growth across the board. Real Wallet generated $436,000 in revenue in the first quarter, up nearly 250% from Q1 2025. One Real Title returned to double-digit growth despite the year-over-year headwind resulting from the shift to state-based joint ventures, which will anniversary in the second half of the year. Gross profit increased 24% to $42.2 million in the first quarter, compared to $33.9 million in the same period last year."
+    },
+    {
+      "speaker_id": "ravi-jani",
+      "speaker_name": "Ravi Jani",
+      "speaker_role": "CFO at The Real Brokerage",
+      "timestamp": "00:15:22",
+      "text": "Gross margin was 9.1%, compared to 9.6% in the prior year first quarter. The primary year-over-year driver was transaction mix, as approximately 40% of our closed transaction sides came from capped agents, up approximately 200 basis points year-over-year. Total operating expenses, including G&A, marketing, R&D, and acquisition-related costs, were $45.6 million in the first quarter, up 17% from $39.1 million last year. Operating expenses included approximately $300,000 in expenses related to the RE/MAX acquisition. As a percentage of revenue, operating expenses improved to 9.8%, down approximately 130 basis points from 11.1% a year ago, reflecting our commitment to grow OpEx at a slower pace than revenue and gross profit."
+    },
+    {
+      "speaker_id": "ravi-jani",
+      "speaker_name": "Ravi Jani",
+      "speaker_role": "CFO at The Real Brokerage",
+      "timestamp": "00:16:14",
+      "text": "I do want to flag that we expect Q2 operating expenses to reflect a more material step up in RE/MAX acquisition-related costs. We will break these out as non-recurring items in our disclosures. Operating loss improved to $3.4 million in the first quarter, compared to an operating loss of $5.2 million in the first quarter of 2025. Operating margin improved to -0.7% for the quarter from -1.5% in the prior period, reflecting strong growth and operating leverage. On a non-GAAP basis, adjusted EBITDA rose to $14.9 million in the first quarter, an 80% improvement from $8.3 million in Q1 2025."
+    },
+    {
+      "speaker_id": "ravi-jani",
+      "speaker_name": "Ravi Jani",
+      "speaker_role": "CFO at The Real Brokerage",
+      "timestamp": "00:16:58",
+      "text": "Real generated cash flow from operating activities of $23.3 million in the first quarter and ended the quarter with $62.9 million in unrestricted cash and short-term investments and continued to carry no debt. While we don't provide formal guidance, we expect Q2 revenue to improve sequentially, consistent with normal seasonal patterns in the housing market. Gross margin will follow a similar trajectory to prior years, declining through the year as more agents reach their annual commission cap, which is a natural function of our model. On operating expenses, we expect Q2 to reflect a step up in acquisition-related costs, which we will disclose in non-recurring items. On an underlying basis, we remain focused on the same discipline that drove our Q1 results, managing fixed costs to deliver continued year-over-year improvement in adjusted EBITDA."
+    },
+    {
+      "speaker_id": "ravi-jani",
+      "speaker_name": "Ravi Jani",
+      "speaker_role": "CFO at The Real Brokerage",
+      "timestamp": "00:17:49",
+      "text": "More details on our results and key operating metrics can be found in the earnings press release and investor presentation that accompany this call. I'll now turn it back to Tamir."
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:17:58",
+      "text": "Thank you, Ravi, and thank you, Jenna. I'd like to ask you all to imagine a world where buying a home is as seamless as any other digital experience. Where a buyer talks to an AI that knows every listing, every neighborhood, every school, and every mortgage rate. When the right property hits the market, that buyer is connected instantly to an experienced real estate agent who is ready and prepared to serve them. Where that agent then manages and closes the transaction on one platform, gets paid through it, finances their business through it, and offers integrated closing services without ever having to leave the ecosystem. Where every step of the most important financial decision of that client's life is connected, intelligent, and has less friction. That is the platform we are building, and that has been our vision since day one. We didn't have to pivot to AI."
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:18:47",
+      "text": "We didn't white label our way into fintech. We've built the infrastructure transaction by transaction, agent by agent, year after year, because we knew that someday technology would catch up to the vision. That day has arrived. With the RE/MAX transaction, we will soon have the network and the reach to bring it to life at a scale that we believe can transform how people buy and sell homes. You cannot vibe code this. You have to dream it, build it, and earn it. We have spent over a decade doing exactly that. I speak to you today as CEO, as a co-founder, and as one of the largest individual shareholders of this company. I have never been more excited about our future than I am right now."
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:19:28",
+      "text": "The opportunity in front of us is generational, and I deeply believe the best days of this company are ahead of us. Operator, please open the call for questions."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:19:37",
+      "text": "Certainly. Everyone at this time will be conducting a question-and-answer session for analysts. If you have any questions or comments, please press star one on your phone at this time. We do ask that while posing your question, please pick up your handset if you're listening on speakerphone to provide optimum sound quality. Once again, if you have any questions or comments, please press star one on your phone. Your first question's coming from Naved Khan from B. Riley Securities. Your line is live."
+    },
+    {
+      "speaker_id": "naved-khan",
+      "speaker_name": "Naved Khan",
+      "speaker_role": "Managing Director in Equity Research at B. Riley Securities",
+      "timestamp": "00:20:08",
+      "text": "Great. Thanks so much and congrats on the results. Just a couple of questions from me, please, both are related to ancillary. First question is, what kind of attach rates are you seeing from the agents who are part of the JVs? How is that trending? Secondarily, just in terms of participation of the agent on the JVs for title, where does that stand, and what are the steps you're taking to take that higher? Thank you."
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:20:44",
+      "text": "Hi, Naved. Thanks for the question. The attach rates on the JVs, we're seeing some JVs with attach rates of 40%, 50%. We have seen a couple with as high as 80%, the trajectory is obviously encouraging. As you know, the JVs are only on the title side. The participation of agents, I'm not sure I understood the question. Are you asking about how many agents actually opt-in into the JVs, or was it something else?"
+    },
+    {
+      "speaker_id": "naved-khan",
+      "speaker_name": "Naved Khan",
+      "speaker_role": "Managing Director in Equity Research at B. Riley Securities",
+      "timestamp": "00:21:18",
+      "text": "Yeah, that was the essence of the question. Like, what are you doing on your end to increase more agents participate and become part of the JV so that, you know, there's more volume flowing through it?"
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:21:30",
+      "text": "Sure. We wanna make sure that the JVs are valuable and that we're driving meaningful transactions through them. We are opening them up to the most productive teams and then most productive agents, and then we're trying to add more and more. Typically it's based on production, and we're happy that currently the ones that actually opted in are the ones that carry most of the transactions in each market. It's still an effort to add more, but it starts with the top producers in every market."
+    },
+    {
+      "speaker_id": "naved-khan",
+      "speaker_name": "Naved Khan",
+      "speaker_role": "Managing Director in Equity Research at B. Riley Securities",
+      "timestamp": "00:22:04",
+      "text": "Okay. Did you say in your prepared remarks that, the number of title JVs is going to 20?"
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:22:12",
+      "text": "No. We said that One Real Title is operating in 19 states, and we will be opening Colorado soon. That will be 20, and we have 13 JVs at the moment."
+    },
+    {
+      "speaker_id": "naved-khan",
+      "speaker_name": "Naved Khan",
+      "speaker_role": "Managing Director in Equity Research at B. Riley Securities",
+      "timestamp": "00:22:24",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:22:24",
+      "text": "13 out of the 19 carry JVs."
+    },
+    {
+      "speaker_id": "naved-khan",
+      "speaker_name": "Naved Khan",
+      "speaker_role": "Managing Director in Equity Research at B. Riley Securities",
+      "timestamp": "00:22:29",
+      "text": "Is, is there a gating factor in terms of why you can't have JVs in all of these 19 states?"
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:22:39",
+      "text": "No. That's the intention.[crosstalk]"
+    },
+    {
+      "speaker_id": "ravi-jani",
+      "speaker_name": "Ravi Jani",
+      "speaker_role": "CFO at The Real Brokerage",
+      "timestamp": "00:22:40",
+      "text": "Naved, some JVs."
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:22:43",
+      "text": "Oh, go ahead."
+    },
+    {
+      "speaker_id": "ravi-jani",
+      "speaker_name": "Ravi Jani",
+      "speaker_role": "CFO at The Real Brokerage",
+      "timestamp": "00:22:45",
+      "text": "Sorry. I, as you can say, some JVs do have, you know, span across more than one state."
+    },
+    {
+      "speaker_id": "naved-khan",
+      "speaker_name": "Naved Khan",
+      "speaker_role": "Managing Director in Equity Research at B. Riley Securities",
+      "timestamp": "00:22:52",
+      "text": "Got it."
+    },
+    {
+      "speaker_id": "ravi-jani",
+      "speaker_name": "Ravi Jani",
+      "speaker_role": "CFO at The Real Brokerage",
+      "timestamp": "00:22:52",
+      "text": "always one to one."
+    },
+    {
+      "speaker_id": "naved-khan",
+      "speaker_name": "Naved Khan",
+      "speaker_role": "Managing Director in Equity Research at B. Riley Securities",
+      "timestamp": "00:22:55",
+      "text": "Got it. Understood. Thank you, guys."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:22:59",
+      "text": "Thank you.[crosstalk]"
+    },
+    {
+      "speaker_id": "ravi-jani",
+      "speaker_name": "Ravi Jani",
+      "speaker_role": "CFO at The Real Brokerage",
+      "timestamp": "00:22:59",
+      "text": "Thanks, Naved."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:23:01",
+      "text": "Thank you. Your next question's coming from Stephen Sheldon from William Blair. Your line is live."
+    },
+    {
+      "speaker_id": "stephen-sheldon",
+      "speaker_name": "Stephen Sheldon",
+      "speaker_role": "Partner and Equity Research Analyst at William Blair",
+      "timestamp": "00:23:08",
+      "text": "Hey. Good morning. Thanks for taking my questions. First here, just wanted to see, I know, I know it's very early, but just what you can share about the feedback you've received so far from RE/MAX franchisees on the deal. you know, has there been much pushback? Then, I guess, how much interest have they shown, again, I know it's really early, how much interest have they shown in potentially adopting reZEN and your broader technology platform since, you know, that's something that won't be mandated upon them? I guess what's kind of the early feedback you're hearing from that network?"
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:23:46",
+      "text": "Sure. Thanks, Stephen. RE/MAX Management has been working very closely with the RE/MAX network and the franchisees. The initial feedback I think was a little bit of a mixed excitement and surprise. I think that, you know, naturally people don't really like change. At the beginning, there was a need to heavily communicate and kind of provide them the background and how management looks at the combination of the two companies. I think that very quickly it shifted to a lot of excitement on the RE/MAX network side. We also heard that many of them are starting to look into reZEN, trying to understand. We received some calls from Real agents who received calls from RE/MAX agents who wanted to learn more about the technology."
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:24:37",
+      "text": "There's definitely a lot of interest and a lot of excitement, and we will need to continue and communicate and make sure that there's a lot of clarity around the combination of the company and the companies and the timeline and what will be available to the RE/MAX network and when. I think that there is a lot of support to the combination and the merger of the two companies."
+    },
+    {
+      "speaker_id": "stephen-sheldon",
+      "speaker_name": "Stephen Sheldon",
+      "speaker_role": "Partner and Equity Research Analyst at William Blair",
+      "timestamp": "00:25:01",
+      "text": "Got it. Yeah, that's really good to hear. Maybe then with Ravi, on gross margins, I know there are always a lot of moving pieces, but just generally, how are you thinking about the trajectory over the rest of the year? You know, I heard the comment, you expect it kind of as normal to trend lower sequentially. How should we be thinking about year-over-year trends? You know, gross margins were down a little bit in 1Q relative to last year. Kind of how should we think about Should it continue to step down, I guess, year-over-year as we think about the rest of the year?"
+    },
+    {
+      "speaker_id": "ravi-jani",
+      "speaker_name": "Ravi Jani",
+      "speaker_role": "CFO at The Real Brokerage",
+      "timestamp": "00:25:36",
+      "text": "Thanks, Stephen. I appreciate the question. I think in Q2, well, you know, year-over-year decline, probably similar order of magnitude as you saw in Q1. As we get to the second half of the year, I think that the year-over-year pace is likely to be a little bit more flattish than relative to what you saw in the first half with respect to the decline. That's just because of the significant step-up we saw in post-cap transactions in the second half of last year. We wouldn't expect that same order of magnitude of year-over-year change. I think last year was a bit of a step change across the industry, where you saw the highest producing agents take an outsized share of transactions."
+    },
+    {
+      "speaker_id": "ravi-jani",
+      "speaker_name": "Ravi Jani",
+      "speaker_role": "CFO at The Real Brokerage",
+      "timestamp": "00:26:29",
+      "text": "While it could modestly tick up this year, I don't think it would be as impactful as you saw in the second half of last year. We would expect that year-over-year trend to sort of dissipate the second half of this year."
+    },
+    {
+      "speaker_id": "stephen-sheldon",
+      "speaker_name": "Stephen Sheldon",
+      "speaker_role": "Partner and Equity Research Analyst at William Blair",
+      "timestamp": "00:26:44",
+      "text": "Got it. If, you know, housing activity picks up and you start to see productivity kind of spread out across the agent base, then that could maybe start to support a better trajectory in gross profit when housing activity does pick up. Is that kind of the right way to think about it?"
+    },
+    {
+      "speaker_id": "ravi-jani",
+      "speaker_name": "Ravi Jani",
+      "speaker_role": "CFO at The Real Brokerage",
+      "timestamp": "00:27:01",
+      "text": "Yeah, absolutely. I think if you rewind the clock back to better markets, you did see higher gross margins because you saw a bigger percentage of the transaction pool being transacted by agents who are, you know, pre-cap. You saw a greater mix of revenue coming in at that 15% gross margin rather than that post-cap gross margin, which is in the single digits. That's been our thesis. I mean, the history proves that that is typically what happens. I'd say the other thing that we would expect to be a tailwind in the second half of the year is our ancillary businesses will continue to grow. You saw this year ancillary growth, you know, modestly actually outpaced the brokerage. Ancillaries were a 10 basis point gross margin tailwind in the quarter."
+    },
+    {
+      "speaker_id": "ravi-jani",
+      "speaker_name": "Ravi Jani",
+      "speaker_role": "CFO at The Real Brokerage",
+      "timestamp": "00:27:47",
+      "text": "Those are the two things that if you do see a market pick-up, in the second half of the year and beyond, you'll see just a greater contribution from pre-cap agents and transactions, as well as from ancillary services, which come at significantly higher margins than the brokerage."
+    },
+    {
+      "speaker_id": "stephen-sheldon",
+      "speaker_name": "Stephen Sheldon",
+      "speaker_role": "Partner and Equity Research Analyst at William Blair",
+      "timestamp": "00:28:05",
+      "text": "Makes sense. All right. Thank you."
+    },
+    {
+      "speaker_id": "ravi-jani",
+      "speaker_name": "Ravi Jani",
+      "speaker_role": "CFO at The Real Brokerage",
+      "timestamp": "00:28:08",
+      "text": "Thanks, Stephen."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:28:10",
+      "text": "Thank you. Your next question's coming from Jason Weaver from JonesTrading. Your line is live."
+    },
+    {
+      "speaker_id": "jason-weaver",
+      "speaker_name": "Jason Weaver",
+      "speaker_role": "Managing Director and Head of Specialty Finance and Real Estate Research at JonesTrading",
+      "timestamp": "00:28:16",
+      "text": "Hi. Good morning. Thanks for taking my question. I believe that you held an internal town hall on the date of the announcement of the or the combination. Can you speak about any of the early reads or concerns on agent perceptions around the combination with RE/MAX, and if you think that might influence any significant churn in the population?"
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:28:39",
+      "text": "Thank you, Jason. Yes, one of the first thing we did on that morning was to speak to our agent community and invite everybody to a town hall where we presented the transaction and answered a lot of questions. I think that overall, there was just immense enthusiasm and excitement around the transaction. Obviously, agents wanted to understand a little bit better what's what does it mean for them. Is the model changing? Is anything changing on the technology side? Is there anything changing on the revenue share program, on the stock purchase program? We told them, you know, that nothing changes for now. It's business as usual, obviously."
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:29:19",
+      "text": "We also indicated that this combination will allow us to invest even more in growth, in technology, in more, in just, strengthening the value proposition, both on the Real sides or on the Real model and on the RE/MAX model. The initial feedback was very supportive from Real's agent community."
+    },
+    {
+      "speaker_id": "jason-weaver",
+      "speaker_name": "Jason Weaver",
+      "speaker_role": "Managing Director and Head of Specialty Finance and Real Estate Research at JonesTrading",
+      "timestamp": "00:29:40",
+      "text": "Thank you. Good to hear. I was wondering if you could speak to any thoughts of further over-the-horizon expected synergies upon the longer scale integration of both companies?"
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:29:55",
+      "text": "Ravi, you wanna take that?"
+    },
+    {
+      "speaker_id": "ravi-jani",
+      "speaker_name": "Ravi Jani",
+      "speaker_role": "CFO at The Real Brokerage",
+      "timestamp": "00:29:58",
+      "text": "Yeah, sure. I'll let Tamir talk on some of the top-line synergies, which he addressed in his prepared remarks. You know, I think as you've seen in other M&A transactions in the sector, what you underwrite the transaction to is based on from a synergy standpoint, is sort of based on what you can see before you own the combined company and you can look under the hood. You know, kudos to Compass. They've done a great job of executing on their synergies in a very short period of time. I think you've seen in transactions in this sector and other sectors that once two players combine, there's always more opportunity than you'd think going in. We underwrote the transaction with $30 million of synergies."
+    },
+    {
+      "speaker_id": "ravi-jani",
+      "speaker_name": "Ravi Jani",
+      "speaker_role": "CFO at The Real Brokerage",
+      "timestamp": "00:30:45",
+      "text": "If, you know, once we own the businesses and we get the best athletes together and figure out how the go forward business looks, for, you know, the next decade, could that synergy number change? Yes, of course. I think we'll be vigilant and thoughtful in how we execute on that path. Needless to say that Real is a very efficient organization and we will continue to be very efficient as Real RE/MAX Group."
+    },
+    {
+      "speaker_id": "jason-weaver",
+      "speaker_name": "Jason Weaver",
+      "speaker_role": "Managing Director and Head of Specialty Finance and Real Estate Research at JonesTrading",
+      "timestamp": "00:31:12",
+      "text": "Thank you. I appreciate it.[crosstalk]"
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:31:13",
+      "text": "Jason, as I-"
+    },
+    {
+      "speaker_id": "jason-weaver",
+      "speaker_name": "Jason Weaver",
+      "speaker_role": "Managing Director and Head of Specialty Finance and Real Estate Research at JonesTrading",
+      "timestamp": "00:31:14",
+      "text": "Oh, sorry."
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:31:15",
+      "text": "As I mentioned it on my prepared remarks, we think that there's tremendous opportunity in just expanding title mortgage and the Real Wallet to the RE/MAX network, just with the 700,000 annual transactions in the U.S. Just capturing a portion of that will be huge for revenue at a high margin. remax.com and remax.ca generate roughly 1 million leads a year. Those are high intent leads. Those are folks that visited the websites, looked at properties and wanted to receive more information. We wanna put Leo to work on those websites so Leo can actually nurture the leads and then hand them over to an agent who's ready to transact and take the buyer through the process. We think that there is a potential to monetize significantly over there."
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:32:03",
+      "text": "Just generally speaking, I think that coming in with Real's growth mindset and just a stronger value proposition for the RE/MAX side, I think will help change the trajectory of the growth in agent count in the U.S. and Canada. We believe that with a stronger value proposition and the right messaging and the right energy, we can get RE/MAX back to growing their agent count in North America, and obviously create a platform where every agent in North America can find a home where there is no better alternative for anyone. They can choose either to be on the Real model or on the RE/MAX model, but they don't need to search anywhere else for a brokerage."
+    },
+    {
+      "speaker_id": "jason-weaver",
+      "speaker_name": "Jason Weaver",
+      "speaker_role": "Managing Director and Head of Specialty Finance and Real Estate Research at JonesTrading",
+      "timestamp": "00:32:51",
+      "text": "Thank you once again."
+    },
+    {
+      "speaker_id": "ravi-jani",
+      "speaker_name": "Ravi Jani",
+      "speaker_role": "CFO at The Real Brokerage",
+      "timestamp": "00:32:55",
+      "text": "Thanks, Jason."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:32:57",
+      "text": "Thank you. Your next question's coming from Nick McAndrew from Zelman & Associates. Your line is live."
+    },
+    {
+      "speaker_id": "nick-mcandrew",
+      "speaker_name": "Nick McAndrew",
+      "speaker_role": "Senior Equity Research Associate at Zelman & Associates",
+      "timestamp": "00:33:04",
+      "text": "Hey, guys. Thanks for taking my questions. Maybe just wanted to start, I think just given the franchising model of the RE/MAX business, and assuming you're planning on keeping the RE/MAX fee structure in place, do you see this as a way to reduce the cyclicality of the business? I guess just how different is the productivity profile of a legacy RE/MAX agent versus kind of a more mature Real agent today?"
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:33:37",
+      "text": "Ravi, or do you want me to take it?"
+    },
+    {
+      "speaker_id": "ravi-jani",
+      "speaker_name": "Ravi Jani",
+      "speaker_role": "CFO at The Real Brokerage",
+      "timestamp": "00:33:41",
+      "text": "Sure. If you wanna address the productivity point. Nick, the question was on the RE/MAX fee model and cyclicality. I mean, I think I can take that and Tamir can address the second part. For sure, I think the franchise model, and you've seen RE/MAX's results have been incredibly resilient throughout, you know, what's been a four-year downturn at this point. They've done an incredible job of protecting the bottom line, which reflects that, you know, franchise model, which is just stable and largely recurring with long-term contracts with franchisees. We think it's a really attractive model. It does reduce cyclicality. It does generate high margins in an asset-light nature."
+    },
+    {
+      "speaker_id": "ravi-jani",
+      "speaker_name": "Ravi Jani",
+      "speaker_role": "CFO at The Real Brokerage",
+      "timestamp": "00:34:32",
+      "text": "Look, there are a million reasons we're excited about the RE/MAX transaction and the RE/MAX business and, you know, the less cyclicality in the margins and revenue stream is one of the many."
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:34:49",
+      "text": "Yeah. On the productivity profile, RE/MAX agents in 2025 closed around 10.3 transactions per agent on average. Real side was around six. I believe we were number three in the industry. Obviously the RE/MAX agent productivity is way up there and by far the best in the industry. This is significantly important when we're talking about the potential for ancillary services attachment, because every agent that opts into a title JV or uses One Real Mortgage is a potential to drive 2x more transactions compared to a Real agent or any other agent in the industry on average. We don't necessarily only think about the number of agents that RE/MAX has. We think about the number of transactions that those agents are bringing."
+    },
+    {
+      "speaker_id": "nick-mcandrew",
+      "speaker_name": "Nick McAndrew",
+      "speaker_role": "Senior Equity Research Associate at Zelman & Associates",
+      "timestamp": "00:35:45",
+      "text": "Great. Yeah. Thanks, guys. That's really helpful. Then maybe just one on the cost side, just thinking about the headcount efficiency. I think moving to 85 to 1 from 94 to 1 last quarter. I guess just when you think about transitioning RE/MAX franchisees and agents onto reZEN, does the scale of the RE/MAX network meaningfully accelerate some of the internal AI investments you've already done in brokerage ops, just given that larger agent base?"
+    },
+    {
+      "speaker_id": "ravi-jani",
+      "speaker_name": "Ravi Jani",
+      "speaker_role": "CFO at The Real Brokerage",
+      "timestamp": "00:36:20",
+      "text": "I don't think they're necessarily related, right? Because the technology we're building is really quite scalable, right? It's already being used by 30,000 plus agents across North America and, you know, bringing on another 75,000 in North America, it's not gonna require, you know, a commensurate increase in our investment. I mean, technology is scalable by definition. I think the continued business will continue to invest heavily in AI and tech because that's in our DNA, and that's our competitive moat. I don't think it's gonna significantly change the level of intensity of investment, and that's because it's already quite intense, relative to peers and relative to our own budget."
+    },
+    {
+      "speaker_id": "ravi-jani",
+      "speaker_name": "Ravi Jani",
+      "speaker_role": "CFO at The Real Brokerage",
+      "timestamp": "00:37:14",
+      "text": "With that being said, you know, on the headcount efficiency ratio, I did wanna just point out that it is gonna be largely P&L neutral. It was a conversion of certain contractor roles to full-time employees, which Jenna mentioned in her script. It's really to drive better service, better local market expertise. Also the brokers that we brought on as full-time employees, a portion of their compensation is gonna be tied to driving ancillary attachment in their market. I think it's a win-win for our brokers, for our agents, and for the company."
+    },
+    {
+      "speaker_id": "nick-mcandrew",
+      "speaker_name": "Nick McAndrew",
+      "speaker_role": "Senior Equity Research Associate at Zelman & Associates",
+      "timestamp": "00:37:52",
+      "text": "Got it. Thanks, Ravi. That's helpful."
+    },
+    {
+      "speaker_id": "ravi-jani",
+      "speaker_name": "Ravi Jani",
+      "speaker_role": "CFO at The Real Brokerage",
+      "timestamp": "00:37:55",
+      "text": "Sure. Thanks, Nick."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:37:58",
+      "text": "Thank you. Once again, everyone, if you have any questions or comments, please press star then one on your phone. Your next question's coming from Michael Rindos from Benchmark StoneX. Your line is live."
+    },
+    {
+      "speaker_id": "michael-rindos",
+      "speaker_name": "Michael Rindos",
+      "speaker_role": "Senior Equity Research Analyst at Benchmark StoneX",
+      "timestamp": "00:38:12",
+      "text": "Hey, guys. Thanks for taking the question. Good morning. Can you talk a little bit about what the firm is doing to stimulate agent growth in markets with higher median sales prices?"
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:38:27",
+      "text": "Sure. Hi, Michael. As we communicated, we added Jason Cassity as our Chief Growth Officer about two months ago. Jason is now overhauling the entire growth strategy. We're starting to do more outreach. In the past, all of our agent growth has been organic, and we've been fielding inbound inquiries. Now we're starting to be a little bit more strategic in outreach and nurturing relationships with teams and individual agents in markets that we think are strategic for us. We also have the luxury division, where the luxury division focuses on the high-end properties in each market. We're kind of venturing slowly, slowly into higher price points in every market. I hope that answers the question."
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:39:17",
+      "text": "I also have to mention that following the announcement of joining forces with RE/MAX, we have seen tremendous inbound inquiries related to growth and a lot of interest, and our agents are having a lot of conversations with people that are interested in joining. We believe that once we close the transaction or even before that, we will see an uptick in growth. That uptick will very likely also be coming from agents that are more productive, care more about the branding, care more about being affiliated with a more established name. I think that that move establishes us as, you know, obviously one of the top brokerages, but it gives a lot of comfort to agents that are on higher-end markets."
+    },
+    {
+      "speaker_id": "michael-rindos",
+      "speaker_name": "Michael Rindos",
+      "speaker_role": "Senior Equity Research Analyst at Benchmark StoneX",
+      "timestamp": "00:40:04",
+      "text": "Okay. Thank you."
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:40:07",
+      "text": "Thanks, Michael."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:40:11",
+      "text": "Thank you. There are no further questions in the queue. I'll now hand the floor over to CFO Ravi Jani for questions from retail investors."
+    },
+    {
+      "speaker_id": "ravi-jani",
+      "speaker_name": "Ravi Jani",
+      "speaker_role": "CFO at The Real Brokerage",
+      "timestamp": "00:40:21",
+      "text": "Great. Thank you, Matthew. Now that we've completed the analyst Q&A, I'd like to address some of the questions that we were submitted through the Say Technologies Shareholders portal. We received a number of great questions this quarter, so I appreciate everybody who participated. Tamir, you addressed this a little bit in your prepared remarks, but how will Real increase revenue from the RE/MAX acquisition?"
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:40:47",
+      "text": "Well, thanks for the question. We believe that it starts with improving the value proposition for agents and franchisees. As you know, Real has been one of the only major publicly traded brokerages who consistently delivered strong organic growth through both strong and weak housing markets. We believe that comes from the combination of our technology platform, our flexible model, and highly collaborative agent community. By bringing tools like reZEN and Leo AI, Real Wallet, and our integrated services into the arsenal of RE/MAX franchisees and agents, we believe we can help drive stronger agent attraction, retention, and franchise growth."
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:41:26",
+      "text": "Beyond that, as I noted in my prepared remarks, the scale of the combined network creates a meaningful opportunity to grow our high-margin mortgage title and fintech businesses while creating the new revenue streams from website leads and just monetizing those website leads. While the transaction economics don't depend on these revenue opportunities, we certainly will be focusing on delivering them."
+    },
+    {
+      "speaker_id": "ravi-jani",
+      "speaker_name": "Ravi Jani",
+      "speaker_role": "CFO at The Real Brokerage",
+      "timestamp": "00:41:52",
+      "text": "Thanks, Tamir. I'll take the next question: Are you concerned about taking on debt, and what is the timeline to pay it down? We're approaching leverage very conservatively, and we're encouraged because both businesses are highly cash generative. They're asset light. RE/MAX brings recurring franchise revenue, which creates a lot of visibility into the future free cash flow of the company. Our first capital allocation priority post-close will be deleveraging, and we expect to reach the 2x net debt to adjusted EBITDA by the end of the second full fiscal year following close. As we de-lever, we'll see both a stronger balance sheet and stronger earnings as we reduce the associated interest expense. We think the debt balance is quite manageable."
+    },
+    {
+      "speaker_id": "ravi-jani",
+      "speaker_name": "Ravi Jani",
+      "speaker_role": "CFO at The Real Brokerage",
+      "timestamp": "00:42:41",
+      "text": "Even pro forma post-close, the leverage of the business will be lower than RE/MAX standalone. That's on a net leverage ratio basis. We'll continue to have the ability to invest in our agents, in our franchisees, in the tech platform and ancillary businesses. Full speed ahead on that while having significant cash to delever. Next question for Jenna. What is the plan to transition RE/MAX agents onto the Real platform? Will there be any changes to the model?"
+    },
+    {
+      "speaker_id": "jenna-rozenblat",
+      "speaker_name": "Jenna Rozenblat",
+      "speaker_role": "COO at The Real Brokerage",
+      "timestamp": "00:43:17",
+      "text": "Thanks, Ravi. These are great questions. First, Real and RE/MAX are gonna continue operating as distinct brands with their distinct models and value propositions. There's not gonna be any forced migration of RE/MAX agents or franchisees onto the Real model. They'll stay completely separate. What this does open up though, however, is access to the technology and services that we've built to help make agents' jobs easier and more efficient. That includes our proprietary software reZEN, Leo AI, Real Wallet, ancillary services, and consumer lead generation tools. You know, these tools are the same tools powering Real's operations, franchisees stand to benefit from the same operational efficiency that we've built into our own business."
+    },
+    {
+      "speaker_id": "ravi-jani",
+      "speaker_name": "Ravi Jani",
+      "speaker_role": "CFO at The Real Brokerage",
+      "timestamp": "00:44:07",
+      "text": "Thanks, Jenna. Last question for Tamir. What is the projected timeline to complete the acquisition of RE/MAX, and what are your three largest hurdles pertaining to the deal during this period of time?"
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:44:21",
+      "text": "Great question. On timeline, we expect to file the necessary documents over the next few weeks. The transaction, as you know, requires shareholder approvals on both sides and standard regulatory clearances. Based on typical timelines of for transactions of this type, we are targeting a close in the second half of the year, as we communicated before, and we will provide a more specific window as we get further into the process. On the three biggest things we are focused on, first, it's ensuring agent and franchisee retention through the transition. RE/MAX Network has built very deep relationships with the franchisees over many, many decades."
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:45:01",
+      "text": "The most important thing we can do between signing and closing is to communicate very clearly and demonstrating to RE/MAX agents and franchisees as well, and also Real agents that their businesses are going to be better and not disrupted by this combination. If we do that well, we hope that retention piece will just take care of itself. Second, operational stability on day one. When we close, agents and franchisees on both sides of the combination need to wake up and find their businesses running exactly as they were the day before. This is a non-negotiable for us at this point, and we are doing the integration planning work now before we close so that the day of close is going to be a boring day in the best possible way."
+    },
+    {
+      "speaker_id": "tamir-poleg",
+      "speaker_name": "Tamir Poleg",
+      "speaker_role": "Chairman and CEO at The Real Brokerage",
+      "timestamp": "00:45:48",
+      "text": "Then I would say third, just being laser-focused on delivering the synergies. We're targeting $30 million in run rate savings grounded in Real duplicative overhead and corporate costs. Synergies don't realize themselves. We need to work for that. They require thoughtful decision. They require disciplined execution and organizational alignment. We have a clear roadmap, and we are holding ourselves accountable to it. Those are the three, and we think about them honestly all day, every day."
+    },
+    {
+      "speaker_id": "ravi-jani",
+      "speaker_name": "Ravi Jani",
+      "speaker_role": "CFO at The Real Brokerage",
+      "timestamp": "00:46:24",
+      "text": "All right. Thanks, Tamir. With that concludes our shareholder Q&A. Matthew, could you please provide replay instructions and close the call?"
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:46:34",
+      "text": "Certainly. Ladies and gentlemen, this concludes today's conference call. Today's conference call will be available for replay. Our replay phone number is 877-481-4010. The replay code is 53761. Once again, the replay phone number is 877-481-4010. The replay code is 53761. You may disconnect your phone lines at this time, and have a wonderful day. Thank you for your participation."
+    }
+  ],
+  "statements": [
+    {
+      "id": "REAX-FY2026Q1-001",
+      "turn_index": 3,
+      "speaker_id": "tamir-poleg",
+      "verbatim_quote": "Revenue of $466 million, up 32%.",
+      "claim": "Real Brokerage reported Q1 2026 revenue of $466 million, representing a 32% year-over-year increase.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2026Q1-002",
+      "turn_index": 3,
+      "speaker_id": "tamir-poleg",
+      "verbatim_quote": "Operating loss of $3.4 million, improved by $1.8 million year-over-year.",
+      "claim": "Real Brokerage reported a Q1 2026 operating loss of $3.4 million, an improvement of $1.8 million year-over-year.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2026Q1-003",
+      "turn_index": 3,
+      "speaker_id": "tamir-poleg",
+      "verbatim_quote": "Adjusted EBITDA of $14.9 million increased 80%.",
+      "claim": "Real Brokerage reported Q1 2026 adjusted EBITDA of $14.9 million, an 80% increase year-over-year.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2026Q1-004",
+      "turn_index": 3,
+      "speaker_id": "tamir-poleg",
+      "verbatim_quote": "Our unrestricted cash and investments balance increased by $13 million in the quarter to a record $62.9 million.",
+      "claim": "Real Brokerage's unrestricted cash and investments balance increased by $13 million in Q1 2026 to $62.9 million.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2026Q1-005",
+      "turn_index": 4,
+      "speaker_id": "tamir-poleg",
+      "verbatim_quote": "our agents closed nearly 42,000 transactions, up 25% year-over-year.",
+      "claim": "Real Brokerage agents closed nearly 42,000 transactions in Q1 2026, a 25% increase year-over-year.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2026Q1-006",
+      "turn_index": 4,
+      "speaker_id": "tamir-poleg",
+      "verbatim_quote": "We ended the first quarter with approximately 33,500 agents, and as of May sixth, that number has grown to over 33,900.",
+      "claim": "Real Brokerage had approximately 33,500 agents at the end of Q1 2026 and over 33,900 agents as of May 6, 2026.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2026Q1-007",
+      "turn_index": 5,
+      "speaker_id": "tamir-poleg",
+      "verbatim_quote": "On Real Wallet, revenue more than tripled year-over-year to $436,000.",
+      "claim": "Real Wallet revenue reached $436,000 in Q1 2026, more than tripling year-over-year.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2026Q1-008",
+      "turn_index": 5,
+      "speaker_id": "tamir-poleg",
+      "verbatim_quote": "We now have 8,000 active agents on the platform, which represents 23% of our total agent base",
+      "claim": "Real Wallet has 8,000 active agents, representing 23% of the total agent base.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2026Q1-009",
+      "turn_index": 5,
+      "speaker_id": "tamir-poleg",
+      "verbatim_quote": "Weekly debit card spend has now exceeded $1 million a week.",
+      "claim": "Real Wallet weekly debit card spend exceeded $1 million.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2026Q1-010",
+      "turn_index": 5,
+      "speaker_id": "tamir-poleg",
+      "verbatim_quote": "deposit balances have grown to over $25 million",
+      "claim": "Real Wallet deposit balances grew to over $25 million.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2026Q1-011",
+      "turn_index": 5,
+      "speaker_id": "tamir-poleg",
+      "verbatim_quote": "we ended the quarter with approximately $9 million of credit extended to agents across Canada and the U.S.",
+      "claim": "Real Wallet extended approximately $9 million in credit to agents at the end of Q1 2026.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2026Q1-012",
+      "turn_index": 6,
+      "speaker_id": "tamir-poleg",
+      "verbatim_quote": "On One Real Title, revenue increased 22% in the quarter.",
+      "claim": "One Real Title revenue increased 22% in Q1 2026.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2026Q1-013",
+      "turn_index": 6,
+      "speaker_id": "tamir-poleg",
+      "verbatim_quote": "We now operate 13 title joint ventures across 19 states",
+      "claim": "One Real Title operates 13 joint ventures across 19 states.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2026Q1-014",
+      "turn_index": 6,
+      "speaker_id": "tamir-poleg",
+      "verbatim_quote": "we expect to open Colorado in the second quarter, bringing the total to 20 states.",
+      "claim": "One Real Title expects to open in Colorado in Q2 2026, expanding operations to 20 states.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2026Q1-015",
+      "turn_index": 6,
+      "speaker_id": "tamir-poleg",
+      "verbatim_quote": "On One Real Mortgage, revenue increased 20% year-over-year.",
+      "claim": "One Real Mortgage revenue increased 20% year-over-year in Q1 2026.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2026Q1-016",
+      "turn_index": 6,
+      "speaker_id": "tamir-poleg",
+      "verbatim_quote": "We are migrating to a new loan origination system in Q2",
+      "claim": "One Real Mortgage is migrating to a new loan origination system in Q2 2026.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2026Q1-017",
+      "turn_index": 7,
+      "speaker_id": "tamir-poleg",
+      "verbatim_quote": "we announced a definitive agreement to acquire RE/MAX Holdings, Inc. in a transaction that implies an enterprise value for RE/MAX of approximately $880 million",
+      "claim": "Real Brokerage announced a definitive agreement to acquire RE/MAX Holdings for an enterprise value of approximately $880 million.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2026Q1-018",
+      "turn_index": 8,
+      "speaker_id": "tamir-poleg",
+      "verbatim_quote": "Based on 2025 results, RE/MAX generated approximately $94 million of high-margin adjusted EBITDA",
+      "claim": "RE/MAX generated approximately $94 million in adjusted EBITDA in 2025.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2026Q1-019",
+      "turn_index": 8,
+      "speaker_id": "tamir-poleg",
+      "verbatim_quote": "Last year, the combined Real and RE/MAX networks closed over 700,000 transaction sides in the United States alone.",
+      "claim": "The combined Real and RE/MAX networks closed over 700,000 transaction sides in the U.S. in 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2026Q1-020",
+      "turn_index": 9,
+      "speaker_id": "tamir-poleg",
+      "verbatim_quote": "we estimate a 1% attachment rate on One Real Mortgage across that addressable transaction base would generate approximately $25 million of high-margin revenue for the combined company post-closing.",
+      "claim": "A 1% attachment rate on One Real Mortgage across the combined transaction base is estimated to generate approximately $25 million in revenue.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2026Q1-021",
+      "turn_index": 9,
+      "speaker_id": "tamir-poleg",
+      "verbatim_quote": "Similarly, we estimate a 1% attachment rate on title would generate over $10 million of revenue for the combined company.",
+      "claim": "A 1% attachment rate on title services is estimated to generate over $10 million in revenue for the combined company.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2026Q1-022",
+      "turn_index": 9,
+      "speaker_id": "tamir-poleg",
+      "verbatim_quote": "RE/MAX is a brand built on production. The average RE/MAX agent closes over 10 transactions a year",
+      "claim": "The average RE/MAX agent closes over 10 transactions per year.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2026Q1-023",
+      "turn_index": 10,
+      "speaker_id": "tamir-poleg",
+      "verbatim_quote": "the cost synergy opportunity of $30 million is grounded in real visible and duplicative costs.",
+      "claim": "The RE/MAX acquisition includes a cost synergy opportunity of $30 million.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2026Q1-024",
+      "turn_index": 14,
+      "speaker_id": "jenna-rozenblat",
+      "verbatim_quote": "our headcount efficiency ratio, defined as the number of agents per full-time brokerage employee, was 85 to one at the end of the first quarter.",
+      "claim": "The headcount efficiency ratio was 85 agents per full-time brokerage employee at the end of Q1 2026.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2026Q1-025",
+      "turn_index": 14,
+      "speaker_id": "jenna-rozenblat",
+      "verbatim_quote": "during the quarter, we onboarded 34 full-time employees into roles that were previously performed by outside contractors",
+      "claim": "Real Brokerage onboarded 34 full-time employees in Q1 2026 to replace outside contractors.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2026Q1-026",
+      "turn_index": 15,
+      "speaker_id": "jenna-rozenblat",
+      "verbatim_quote": "We now have ingested 357 MLS and are on track to reach 400+ by the end of Q2",
+      "claim": "HeyLeo has ingested 357 MLS feeds and is on track to reach over 400 by the end of Q2 2026.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2026Q1-027",
+      "turn_index": 15,
+      "speaker_id": "jenna-rozenblat",
+      "verbatim_quote": "full Canadian coverage already live.",
+      "claim": "HeyLeo has full Canadian coverage live.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2026Q1-028",
+      "turn_index": 16,
+      "speaker_id": "jenna-rozenblat",
+      "verbatim_quote": "HeyLeo already covers over 85% of our agents' geographic distribution.",
+      "claim": "HeyLeo covers over 85% of Real Brokerage agents' geographic distribution.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2026Q1-029",
+      "turn_index": 16,
+      "speaker_id": "jenna-rozenblat",
+      "verbatim_quote": "We currently have 450 agents in the beta test, with another 4,500 on the wait list.",
+      "claim": "HeyLeo has 450 agents in beta testing and 4,500 on the waitlist.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2026Q1-030",
+      "turn_index": 19,
+      "speaker_id": "ravi-jani",
+      "verbatim_quote": "Consolidated revenue for the first quarter was $466 million, up 32% year-over-year.",
+      "claim": "Consolidated revenue for Q1 2026 was $466 million, up 32% year-over-year.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2026Q1-031",
+      "turn_index": 19,
+      "speaker_id": "ravi-jani",
+      "verbatim_quote": "Ancillary revenue of $3 million grew 34% year-over-year",
+      "claim": "Ancillary revenue was $3 million in Q1 2026, growing 34% year-over-year.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2026Q1-032",
+      "turn_index": 19,
+      "speaker_id": "ravi-jani",
+      "verbatim_quote": "Gross profit increased 24% to $42.2 million in the first quarter",
+      "claim": "Gross profit increased 24% to $42.2 million in Q1 2026.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2026Q1-033",
+      "turn_index": 20,
+      "speaker_id": "ravi-jani",
+      "verbatim_quote": "Gross margin was 9.1%, compared to 9.6% in the prior year first quarter.",
+      "claim": "Gross margin was 9.1% in Q1 2026, compared to 9.6% in Q1 2025.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2026Q1-034",
+      "turn_index": 20,
+      "speaker_id": "ravi-jani",
+      "verbatim_quote": "Total operating expenses... were $45.6 million in the first quarter, up 17% from $39.1 million last year.",
+      "claim": "Total operating expenses were $45.6 million in Q1 2026, up 17% from $39.1 million in Q1 2025.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2026Q1-035",
+      "turn_index": 20,
+      "speaker_id": "ravi-jani",
+      "verbatim_quote": "Operating expenses included approximately $300,000 in expenses related to the RE/MAX acquisition.",
+      "claim": "Q1 2026 operating expenses included approximately $300,000 related to the RE/MAX acquisition.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2026Q1-036",
+      "turn_index": 21,
+      "speaker_id": "ravi-jani",
+      "verbatim_quote": "Operating loss improved to $3.4 million in the first quarter, compared to an operating loss of $5.2 million in the first quarter of 2025.",
+      "claim": "Operating loss improved to $3.4 million in Q1 2026 from $5.2 million in Q1 2025.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2026Q1-037",
+      "turn_index": 21,
+      "speaker_id": "ravi-jani",
+      "verbatim_quote": "Operating margin improved to -0.7% for the quarter from -1.5% in the prior period",
+      "claim": "Operating margin improved to -0.7% in Q1 2026 from -1.5% in Q1 2025.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2026Q1-038",
+      "turn_index": 21,
+      "speaker_id": "ravi-jani",
+      "verbatim_quote": "adjusted EBITDA rose to $14.9 million in the first quarter, an 80% improvement from $8.3 million in Q1 2025.",
+      "claim": "Adjusted EBITDA rose to $14.9 million in Q1 2026, an 80% improvement from $8.3 million in Q1 2025.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2026Q1-039",
+      "turn_index": 22,
+      "speaker_id": "ravi-jani",
+      "verbatim_quote": "Real generated cash flow from operating activities of $23.3 million in the first quarter",
+      "claim": "Real Brokerage generated $23.3 million in cash flow from operating activities in Q1 2026.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2026Q1-040",
+      "turn_index": 22,
+      "speaker_id": "ravi-jani",
+      "verbatim_quote": "ended the quarter with $62.9 million in unrestricted cash and short-term investments and continued to carry no debt.",
+      "claim": "Real Brokerage ended Q1 2026 with $62.9 million in unrestricted cash and short-term investments and no debt.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2026Q1-041",
+      "turn_index": 22,
+      "speaker_id": "ravi-jani",
+      "verbatim_quote": "we expect Q2 revenue to improve sequentially, consistent with normal seasonal patterns in the housing market.",
+      "claim": "Real Brokerage expects Q2 2026 revenue to improve sequentially due to seasonal patterns.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2026Q1-042",
+      "turn_index": 22,
+      "speaker_id": "ravi-jani",
+      "verbatim_quote": "Gross margin will follow a similar trajectory to prior years, declining through the year as more agents reach their annual commission cap",
+      "claim": "Gross margin is expected to decline through 2026 as more agents reach their annual commission cap.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2026Q1-043",
+      "turn_index": 22,
+      "speaker_id": "ravi-jani",
+      "verbatim_quote": "we expect Q2 to reflect a step up in acquisition-related costs, which we will disclose in non-recurring items.",
+      "claim": "Q2 2026 operating expenses are expected to reflect a step up in acquisition-related costs, disclosed as non-recurring items.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2026Q1-044",
+      "turn_index": 29,
+      "speaker_id": "tamir-poleg",
+      "verbatim_quote": "The attach rates on the JVs, we're seeing some JVs with attach rates of 40%, 50%. We have seen a couple with as high as 80%",
+      "claim": "One Real Title joint ventures are seeing attachment rates of 40-50%, with some as high as 80%.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2026Q1-045",
+      "turn_index": 33,
+      "speaker_id": "tamir-poleg",
+      "verbatim_quote": "One Real Title is operating in 19 states, and we will be opening Colorado soon. That will be 20, and we have 13 JVs at the moment.",
+      "claim": "One Real Title operates in 19 states with 13 JVs and will open in Colorado soon to reach 20 states.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2026Q1-046",
+      "turn_index": 64,
+      "speaker_id": "ravi-jani",
+      "verbatim_quote": "We underwrote the transaction with $30 million of synergies.",
+      "claim": "The RE/MAX transaction was underwritten with $30 million in synergies.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2026Q1-047",
+      "turn_index": 69,
+      "speaker_id": "tamir-poleg",
+      "verbatim_quote": "remax.com and remax.ca generate roughly 1 million leads a year.",
+      "claim": "remax.com and remax.ca generate roughly 1 million leads per year.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2026Q1-048",
+      "turn_index": 78,
+      "speaker_id": "tamir-poleg",
+      "verbatim_quote": "RE/MAX agents in 2025 closed around 10.3 transactions per agent on average. Real side was around six.",
+      "claim": "RE/MAX agents closed an average of 10.3 transactions per agent in 2025, while Real agents closed around 6.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "REAX-FY2026Q1-049",
+      "turn_index": 94,
+      "speaker_id": "ravi-jani",
+      "verbatim_quote": "Our first capital allocation priority post-close will be deleveraging, and we expect to reach the 2x net debt to adjusted EBITDA by the end of the second full fiscal year following close.",
+      "claim": "Real Brokerage expects to reach 2x net debt to adjusted EBITDA by the end of the second full fiscal year following the RE/MAX close.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2026Q1-050",
+      "turn_index": 98,
+      "speaker_id": "tamir-poleg",
+      "verbatim_quote": "we are targeting a close in the second half of the year",
+      "claim": "Real Brokerage is targeting a close of the RE/MAX acquisition in the second half of 2026.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "REAX-FY2026Q1-051",
+      "turn_index": 100,
+      "speaker_id": "tamir-poleg",
+      "verbatim_quote": "We're targeting $30 million in run rate savings grounded in Real duplicative overhead and corporate costs.",
+      "claim": "Real Brokerage is targeting $30 million in run-rate savings from duplicative overhead and corporate costs.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    }
+  ]
+}
