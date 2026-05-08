@@ -2,8 +2,8 @@
   "company_id": "real",
   "company_name": "Real Brokerage",
   "ticker": "REAX",
-  "period": "FY2025_Q4",
-  "call_label": "Q4 2025",
+  "period": "FY2026_Q1",
+  "call_label": "Q1 2026",
   "recipient": {
     "name": "Ravi Jani",
     "title": "CFO"
@@ -19,76 +19,75 @@
         "name": "Ravi Jani",
         "title": "CFO"
       },
-      "reference_call": "FY2025_Q4",
-      "reference_label": "Q4 2025",
+      "reference_call": "FY2026_Q1",
+      "reference_label": "Q1 2026",
       "corpus_size": 11
     },
     "findings": [
       {
         "id": "volume",
         "label": "Commitment volume",
-        "sentence": "Real Brokerage generated 57 forward-looking commitments in your Q4 2025 earnings call, the highest count of any company in our eleven-company corpus for that quarter — two ahead of Alphabet, Microsoft, Netflix, and Nvidia, which each produced 55.\n",
+        "sentence": "Real Brokerage generated 51 forward-looking commitments in your Q1 2026 earnings call — consistent with the 47–57 range across the trailing four calls. The RE/MAX acquisition announcement drove an unusually concentrated cluster of six new mid-horizon financial commitments covering $30M in synergies, a 2x net-debt delevering target, and an H2 2026 close timeline, all of which remain unresolved and verifiable.\n",
         "anchor": {
-          "value": 57,
+          "value": 51,
           "unit": "commitments",
-          "call": "Q4 2025"
+          "call": "Q1 2026"
         },
-        "rank": 1,
-        "tied_at_rank_2": [
-          "Alphabet",
-          "Microsoft",
-          "Netflix",
-          "Nvidia"
-        ],
-        "tied_count": 55
+        "remax_mid_horizon_unresolved": 6
       },
       {
         "id": "conviction",
         "label": "Conviction",
-        "sentence": "Your unhedged commitment rate of 81% in Q4 2025 is the second highest in the corpus, behind only Alphabet at 95% — every other company fell below 77%.\n",
+        "sentence": "Your unhedged commitment rate of 80% in Q1 2026 continues Real's pattern of assertive communication — every one of the trailing five reported calls has exceeded 74% unhedged, and the T4Q aggregate now stands at 80.1%. The 10 softly-hedged statements in Q1 2026 are concentrated in the RE/MAX deal commitments, where management appropriately qualified targets tied to a transaction not yet closed.\n",
         "anchor": {
-          "value": 81,
+          "value": 80,
           "unit": "pct_unhedged",
-          "call": "Q4 2025"
+          "call": "Q1 2026"
         },
-        "rank": 2,
-        "rank_1": {
-          "company": "Alphabet",
-          "value": 95
-        },
-        "rank_3": {
-          "company": "eXp Realty",
-          "value": 77
+        "t4q_unhedged_pct": 80.1,
+        "t4q_unhedged_range": {
+          "min": 74,
+          "max": 84
         }
       },
       {
-        "id": "category_shift",
-        "label": "Category shift",
-        "sentence": "For six consecutive quarters — Q1 2024 through Q2 2025 — operational metrics were Real's single largest commitment category every time; in Q4 2025 that position shifted to margin trajectory for the first time, as margin commitments rose from 6 (12% of total) in Q2 2025 to 17 (30%) in Q4 2025 while operational commitments fell from 18 to 10.\n",
-        "streak": {
-          "category": "operational_metric_specific",
-          "length": 6,
-          "from_call": "Q1 2024",
-          "through_call": "Q2 2025"
-        },
-        "break_call": "Q4 2025",
-        "new_leader": "margin_trajectory_specific",
-        "shift": {
+        "id": "category_rebound",
+        "label": "Category rebound",
+        "sentence": "Operational metrics returned as Real's top commitment category in Q1 2026 (29%, 15 statements), rebounding from Q4 2025 when margin trajectory led for the first time in seven calls. Margin remained elevated at 26% (13 statements) — above its Q1–Q2 2025 range of 12–17% — suggesting the Q4 2025 shift was a temporary peak rather than a sustained change in communication emphasis. A new financial-structure cluster (25%, 8 statements) appeared for the first time, driven entirely by RE/MAX deal mechanics.\n",
+        "q1_2026": {
+          "top_category": "operational_metric_specific",
+          "operational": {
+            "count": 15,
+            "pct": 29
+          },
           "margin": {
-            "from_count": 6,
-            "from_pct": 12,
-            "to_count": 17,
-            "to_pct": 30,
-            "from_call": "Q2 2025",
-            "to_call": "Q4 2025"
+            "count": 13,
+            "pct": 26
+          },
+          "financial_structure": {
+            "count": 8,
+            "pct": 16
+          }
+        },
+        "q4_2025": {
+          "top_category": "margin_trajectory_specific",
+          "margin": {
+            "count": 17,
+            "pct": 30
           },
           "operational": {
-            "from_count": 18,
-            "from_pct": 35,
-            "to_count": 10,
-            "to_pct": 18,
-            "from_call": "Q2 2025",
-            "to_call": "Q4 2025"
+            "count": 10,
+            "pct": 18
+          }
+        },
+        "prior_margin_range": {
+          "q1_2025": {
+            "count": 8,
+            "pct": 17
+          },
+          "q2_2025": {
+            "count": 6,
+            "pct": 12
           }
         }
       }
@@ -200,18 +199,33 @@
             "count": 17,
             "pct": 30
           }
+        },
+        {
+          "label": "Q1 2026",
+          "period": "FY2026_Q1",
+          "total_statements": 51,
+          "unhedged_pct": 80,
+          "top_category": "operational_metric_specific",
+          "operational_metric_specific": {
+            "count": 15,
+            "pct": 29
+          },
+          "margin_trajectory_specific": {
+            "count": 13,
+            "pct": 26
+          }
         }
       ]
     },
     "corpus_comparison": {
-      "quarter": "Q4 2025",
+      "quarter": "Q1 2026",
       "companies": [
         {
           "company_id": "real",
           "company_name": "Real Brokerage",
           "subject": true,
-          "total_statements": 57,
-          "unhedged_pct": 81
+          "total_statements": 51,
+          "unhedged_pct": 80
         },
         {
           "company_id": "alphabet",
@@ -287,53 +301,53 @@
         "name": "Ravi Jani",
         "title": "CFO"
       },
-      "reference_call": "FY2025_Q4",
-      "reference_label": "Q4 2025",
-      "call_date": "2026-03-05T00:00:00.000Z",
-      "call_title": "Real Brokerage Q4 2025 Earnings Call Transcript",
-      "call_url": "https://www.marketbeat.com/earnings/reports/2026-3-5-the-real-brokerage-inc-stock/"
+      "reference_call": "FY2026_Q1",
+      "reference_label": "Q1 2026",
+      "call_date": "2026-05-07T00:00:00.000Z",
+      "call_title": "Real Brokerage Q1 2026 Earnings Call Transcript",
+      "call_url": "https://www.marketbeat.com/earnings/reports/2026-5-7-the-real-brokerage-inc-stock/"
     },
     "statement": {
-      "id": "REAX-FY2025Q4-047",
-      "claim": "The company expects year-over-year improvements in GAAP and non-GAAP profitability metrics for full-year 2026.\n",
-      "verbatim_quote": "which should result in year-over-year improvements in both GAAP and non-GAAP profitability metrics for the full-year 2026",
+      "id": "REAX-FY2026Q1-049",
+      "claim": "Real Brokerage expects to reach 2x net debt to adjusted EBITDA by the end of the second full fiscal year following the close of the RE/MAX acquisition.\n",
+      "verbatim_quote": "Our first capital allocation priority post-close will be deleveraging, and we expect to reach the 2x net debt to adjusted EBITDA by the end of the second full fiscal year following close.",
       "speaker": {
         "id": "ravi-jani",
         "name": "Ravi Jani",
         "role": "CFO at The Real Brokerage"
       },
       "location": {
-        "turn_index": 21,
-        "timestamp": "00:17:23"
+        "turn_index": 94,
+        "timestamp": "00:41:52"
       },
       "passage": {
-        "before": "On a full-year basis, we expect the fundamental trends of organic growth significantly outpacing the broader industry to persist. We also remain confident in our ability to drive revenue and gross profit growth at a faster rate than operating expenses,",
-        "highlight": "which should result in year-over-year improvements in both GAAP and non-GAAP profitability metrics for the full-year 2026",
-        "after": ". More details on our results and key operating metrics can be found in the earnings press release and investor presentation that accompany this call. I'll now turn it back to Tamir."
+        "before": "We're approaching leverage very conservatively, and we're encouraged because both businesses are highly cash generative. They're asset light. RE/MAX brings recurring franchise revenue, which creates a lot of visibility into the future free cash flow of the company.",
+        "highlight": "Our first capital allocation priority post-close will be deleveraging, and we expect to reach the 2x net debt to adjusted EBITDA by the end of the second full fiscal year following close.",
+        "after": "As we de-lever, we'll see both a stronger balance sheet and stronger earnings as we reduce the associated interest expense. We think the debt balance is quite manageable."
       },
       "classification": {
         "hedging": {
           "value": "softly_hedged",
           "label": "Softly hedged",
-          "explanation": "The CFO qualified the commitment with \"should result\" rather than asserting it as certain. The claim is stated as a confident expectation, not a guarantee."
+          "explanation": "The CFO qualified the target with \"we expect\" rather than asserting it as certain. The softening reflects that delevering pace depends on post-close operating results and integration execution, both of which remain uncertain at the time of the call."
         },
         "override_window": {
           "value": "mid-horizon",
           "label": "Mid-horizon",
           "range": "12–24 months",
-          "explanation": "The commitment covers full-year 2026. With the call on March 5, 2026, resolution requires the FY2026 annual report, expected approximately nine months from the call date."
+          "explanation": "The commitment covers the second full fiscal year following close. With a targeted H2 2026 close, resolution requires the FY2028 annual report — approximately 24–30 months from the call date."
         },
         "categorizations": [
           {
-            "id": "margin_trajectory_specific",
-            "label": "Margin trajectory"
+            "id": "financial_structure_or_capital_action",
+            "label": "Capital structure"
           }
         ],
         "resolution": {
           "finding": "unresolved",
           "label": "Unresolved",
-          "as_of": "2026-05-05T00:00:00.000Z",
-          "explanation": "FY2026 results have not yet been reported. This commitment is active and will be evaluated against the full-year 2026 earnings disclosure."
+          "as_of": "2026-05-08T00:00:00.000Z",
+          "explanation": "The RE/MAX acquisition has not yet closed. This commitment becomes evaluable only after close and will be measured against the net debt to adjusted EBITDA ratio disclosed in the second full fiscal year following the close date."
         }
       },
       "extraction_tags": [
@@ -370,25 +384,25 @@
       "peer_company_id": "exp",
       "peer_company_name": "eXp Realty",
       "peer_ticker": "EXPI",
-      "brief_date": "2026-05-05T00:00:00.000Z"
+      "brief_date": "2026-05-08T00:00:00.000Z"
     },
     "scope": {
       "label": "Trailing four calls per company",
       "real": {
         "calls": [
-          "FY2024_Q4",
           "FY2025_Q1",
           "FY2025_Q2",
-          "FY2025_Q4"
+          "FY2025_Q4",
+          "FY2026_Q1"
         ],
         "labels": [
-          "Q4 2024",
           "Q1 2025",
           "Q2 2025",
-          "Q4 2025"
+          "Q4 2025",
+          "Q1 2026"
         ],
         "note": "Q3 2025 not in corpus",
-        "total_statements": 220
+        "total_statements": 206
       },
       "exp": {
         "calls": [
@@ -412,16 +426,16 @@
         "label": "Statements per call",
         "scope": "t4q_average",
         "real": {
-          "value": 55,
+          "value": 51.5,
           "range": {
             "min": 47,
-            "max": 65
+            "max": 57
           },
           "by_call": {
-            "FY2024_Q4": 65,
             "FY2025_Q1": 47,
             "FY2025_Q2": 51,
-            "FY2025_Q4": 57
+            "FY2025_Q4": 57,
+            "FY2026_Q1": 51
           }
         },
         "exp": {
@@ -439,10 +453,10 @@
         },
         "edge": {
           "leader": "real",
-          "delta": 4,
+          "delta": 0.5,
           "direction": "higher_is_more"
         },
-        "interpretation": "Real generates more commitments per call on average, but with wider variance (47–65 vs 44–55). The 65-statement Q4 2024 call is an outlier; the two companies are effectively similar in recent quarters."
+        "interpretation": "The two companies have converged to near-identical commitment volume: Real 51.5 vs eXp 51.0 trailing-four-call averages with nearly identical ranges (47–57 vs 44–55). The 65-statement Q4 2024 outlier rolled off Real's trailing window this quarter, closing the prior gap of 4.0 to 0.5. Both companies are generating equivalent commitment density per call."
       },
       {
         "id": "unhedged_pct",
@@ -450,15 +464,10 @@
         "scope": "t4q_aggregate",
         "note": "Aggregate across all statements in the trailing four calls, not an average of per-call rates.",
         "real": {
-          "value": 75.5,
-          "numerator": 166,
-          "denominator": 220,
+          "value": 80.1,
+          "numerator": 165,
+          "denominator": 206,
           "by_call": {
-            "FY2024_Q4": {
-              "unhedged": 42,
-              "total": 65,
-              "pct": 65
-            },
             "FY2025_Q1": {
               "unhedged": 35,
               "total": 47,
@@ -473,6 +482,11 @@
               "unhedged": 46,
               "total": 57,
               "pct": 81
+            },
+            "FY2026_Q1": {
+              "unhedged": 41,
+              "total": 51,
+              "pct": 80
             }
           }
         },
@@ -505,27 +519,22 @@
         },
         "edge": {
           "leader": "exp",
-          "delta": 5.4,
+          "delta": 0.8,
           "direction": "higher_is_more"
         },
-        "interpretation": "eXp edges Real on T4Q aggregate, but the picture reverses in the most recent quarter: Real 81% vs eXp 76% in Q4 2025. Real's T4Q drag comes from Q4 2024 (65%), its highest-volume call and one that included more qualified guidance."
+        "interpretation": "The T4Q aggregate gap has narrowed from 5.4 percentage points (prior brief) to 0.8 as Real's improved recent quarters now fully dominate the trailing window. On the most recent quarter available for each company, Real's Q1 2026 rate (80%) exceeds eXp's Q4 2025 rate (76%) — the current-quarter picture has reversed. The softly-hedged statements in Real's Q1 2026 call are concentrated in RE/MAX deal commitments where management appropriately qualified targets tied to a pending close."
       },
       {
         "id": "validation_rate",
         "label": "Validation rate",
         "scope": "t4q_aggregate",
         "real": {
-          "value": 63.6,
-          "numerator": 140,
-          "denominator": 220,
-          "unresolved": 80,
+          "value": 69.4,
+          "numerator": 143,
+          "denominator": 206,
+          "unresolved": 63,
           "not_validated": 0,
           "by_call": {
-            "FY2024_Q4": {
-              "validated": 34,
-              "total": 65,
-              "pct": 52
-            },
             "FY2025_Q1": {
               "validated": 30,
               "total": 47,
@@ -540,6 +549,11 @@
               "validated": 41,
               "total": 57,
               "pct": 72
+            },
+            "FY2026_Q1": {
+              "validated": 37,
+              "total": 51,
+              "pct": 73
             }
           }
         },
@@ -574,23 +588,23 @@
         },
         "edge": {
           "leader": "exp",
-          "delta": 15.3,
+          "delta": 9.5,
           "direction": "higher_is_more"
         },
-        "interpretation": "The largest gap in the table: eXp resolves 79% of its commitments against subsequent disclosures vs Real's 64%. The difference is not accuracy — neither company has a single not_validated statement in the corpus. It is forward-looking density: Real carries 80 unresolved statements in trailing four calls vs eXp's 43. Real is on the hook for nearly twice as many future claims."
+        "interpretation": "eXp still leads on T4Q validation rate, but the gap has closed from 15.3 pp to 9.5 pp as the high-validated Q1 2026 call (73%) replaced Real's lower Q4 2024 (52%) in the trailing window. Neither company carries a single not_validated statement. Real holds 63 unresolved commitments in the trailing window vs eXp's 43 — six of Real's new unresolveds stem from the RE/MAX deal cluster introduced in Q1 2026."
       },
       {
         "id": "top_category",
         "label": "Top category",
         "scope": "most_recent_call",
         "real": {
-          "call": "FY2025_Q4",
-          "label": "Q4 2025",
-          "value": "margin_trajectory_specific",
-          "display_label": "Margin trajectory",
-          "count": 17,
-          "pct": 30,
-          "t4q_context": "First margin-leading quarter in seven calls; operational metric led the prior six quarters (T4Q: ops 68, margin 49)."
+          "call": "FY2026_Q1",
+          "label": "Q1 2026",
+          "value": "operational_metric_specific",
+          "display_label": "Operational metric",
+          "count": 15,
+          "pct": 29,
+          "t4q_context": "Operational metrics returned as top category after a single-quarter margin-led call in Q4 2025 — the first in seven calls. T4Q: ops 59, margin 44. A new financial-structure cluster (8 statements) appeared for the first time, driven by RE/MAX deal mechanics."
         },
         "exp": {
           "call": "FY2025_Q4",
@@ -605,38 +619,38 @@
           "leader": null,
           "direction": "qualitative"
         },
-        "interpretation": "Real shifted its commitment center of gravity to margin in Q4 2025 for the first time, while eXp held consistent operational-metric focus across all four trailing calls. These are different investor communication strategies, not a better/worse comparison."
+        "interpretation": "Both companies led with operational metrics in their most recent calls, but eXp's concentration is higher (39% vs Real's 29%). Real's Q1 2026 introduced an entirely new multi-statement cluster around the RE/MAX transaction — financial structure, synergies, delevering, acquisition timeline — that has no parallel in eXp's trailing calls. These represent a new category of accountability commitments for Real going forward."
       },
       {
         "id": "override_window_distribution",
         "label": "Override window mix",
         "scope": "t4q_aggregate",
         "real": {
-          "total": 220,
+          "total": 206,
           "retrospective": {
-            "count": 140,
-            "pct": 64
+            "count": 143,
+            "pct": 69
           },
           "forward_looking": {
-            "count": 72,
-            "pct": 33
+            "count": 59,
+            "pct": 29
           },
           "indefinite": {
-            "count": 8,
-            "pct": 4
+            "count": 4,
+            "pct": 2
           },
           "forward_detail": {
             "immediate": {
-              "count": 41,
-              "pct": 19
+              "count": 28,
+              "pct": 14
             },
             "near_term": {
-              "count": 19,
-              "pct": 9
+              "count": 16,
+              "pct": 8
             },
             "mid_horizon": {
-              "count": 12,
-              "pct": 5
+              "count": 15,
+              "pct": 7
             },
             "long_horizon": {
               "count": 0,
@@ -679,10 +693,10 @@
         },
         "edge": {
           "leader": "real",
-          "delta": 13,
+          "delta": 9,
           "direction": "higher_forward_is_more_committed"
         },
-        "interpretation": "Real commits 33% of its statements to forward-looking windows vs eXp's 20%. Structurally different: Real leans on immediate claims (19%) while eXp leans on near-term (14%). Real also carries the only material mid-horizon share (5% vs 0%), consistent with management giving full-year guidance that extends beyond the next quarter."
+        "interpretation": "Real commits 29% of its statements to forward-looking windows vs eXp's 20% — a material gap that persists even as it narrowed from 13 pp to 9 pp. Real's mid-horizon share (7%) is now driven by the RE/MAX deal cluster: synergy delivery, delevering targets, and acquisition close timing all land in the 12–24 month window. eXp continues to favor near-term commitments (14%) over Real's immediate-heavy pattern (14% immediate, 8% near-term). Real is making more consequential long-duration commitments than any prior quarter in the corpus."
       }
     ]
   },

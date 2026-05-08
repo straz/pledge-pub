@@ -1,0 +1,171 @@
+{
+  "sector_label": "Residential Real Estate Technology",
+  "scope_label": "Trailing four quarters",
+  "observation": "Residential real estate technology companies in this period show wider variation in commitment-making behavior than other sectors in our corpus. The variation is structured rather than random and may reflect different strategic positioning choices among competing platforms in a consolidating market.",
+  "companies": [
+    {
+      "id": "real",
+      "name": "Real Brokerage",
+      "ticker": "REAX",
+      "is_subject": true,
+      "scope": {
+        "quarters": [
+          "FY2026_Q1",
+          "FY2025_Q4",
+          "FY2025_Q2",
+          "FY2025_Q1"
+        ],
+        "labels": [
+          "Q1 2026",
+          "Q4 2025",
+          "Q2 2025",
+          "Q1 2025"
+        ]
+      },
+      "total_statements": 206,
+      "commitment_density": {
+        "avg_per_call": 51.5,
+        "per_call": [
+          51,
+          57,
+          51,
+          47
+        ]
+      },
+      "hedging_dist": {
+        "unhedged_pct": 80.1,
+        "softly_hedged_pct": 19.4,
+        "heavily_hedged_pct": 0.5
+      },
+      "validation_rate": 69.4,
+      "top_category": {
+        "id": "operational_metric_specific",
+        "label": "Operational metrics"
+      },
+      "forward_window_pct": 30.6
+    },
+    {
+      "id": "exp",
+      "name": "eXp Realty",
+      "ticker": "EXPI",
+      "is_subject": false,
+      "scope": {
+        "quarters": [
+          "FY2025_Q4",
+          "FY2025_Q3",
+          "FY2025_Q2",
+          "FY2025_Q1"
+        ],
+        "labels": [
+          "Q4 2025",
+          "Q3 2025",
+          "Q2 2025",
+          "Q1 2025"
+        ]
+      },
+      "total_statements": 204,
+      "commitment_density": {
+        "avg_per_call": 51,
+        "per_call": [
+          51,
+          55,
+          54,
+          44
+        ]
+      },
+      "hedging_dist": {
+        "unhedged_pct": 80.9,
+        "softly_hedged_pct": 18.6,
+        "heavily_hedged_pct": 0.5
+      },
+      "validation_rate": 78.9,
+      "top_category": {
+        "id": "operational_metric_specific",
+        "label": "Operational metrics"
+      },
+      "forward_window_pct": 21.1
+    },
+    {
+      "id": "compass",
+      "name": "Compass",
+      "ticker": "COMP",
+      "is_subject": false,
+      "scope": {
+        "quarters": [
+          "FY2026_Q1",
+          "FY2025_Q4",
+          "FY2025_Q3",
+          "FY2025_Q2"
+        ],
+        "labels": [
+          "Q1 2026",
+          "Q4 2025",
+          "Q3 2025",
+          "Q2 2025"
+        ]
+      },
+      "total_statements": 195,
+      "commitment_density": {
+        "avg_per_call": 48.8,
+        "per_call": [
+          58,
+          48,
+          44,
+          45
+        ]
+      },
+      "hedging_dist": {
+        "unhedged_pct": 67.7,
+        "softly_hedged_pct": 27.7,
+        "heavily_hedged_pct": 4.6
+      },
+      "validation_rate": 51.3,
+      "top_category": {
+        "id": "margin_trajectory_specific",
+        "label": "Margin trajectory"
+      },
+      "forward_window_pct": 49.7
+    },
+    {
+      "id": "anywhere",
+      "name": "Anywhere Real Estate",
+      "ticker": "HOUS",
+      "is_subject": false,
+      "scope": {
+        "quarters": [
+          "FY2025_Q3",
+          "FY2025_Q2",
+          "FY2025_Q1",
+          "FY2024_Q4"
+        ],
+        "labels": [
+          "Q3 2025",
+          "Q2 2025",
+          "Q1 2025",
+          "Q4 2024"
+        ]
+      },
+      "total_statements": 171,
+      "commitment_density": {
+        "avg_per_call": 42.8,
+        "per_call": [
+          44,
+          40,
+          40,
+          47
+        ]
+      },
+      "hedging_dist": {
+        "unhedged_pct": 60.2,
+        "softly_hedged_pct": 38,
+        "heavily_hedged_pct": 1.8
+      },
+      "validation_rate": 70.2,
+      "top_category": {
+        "id": "operational_metric_specific",
+        "label": "Operational metrics"
+      },
+      "forward_window_pct": 29.2
+    }
+  ]
+}
