@@ -1,11 +1,23 @@
 {
-  "generated_at": "2026-05-08T21:16:11.131Z",
+  "generated_at": "2026-07-17T02:01:14.929Z",
   "companies": [
     {
       "id": "alphabet",
       "name": "Alphabet",
       "ticker": "GOOG",
       "calls": [
+        {
+          "period": "FY2026_Q1",
+          "title": "Alphabet Q1 2026 Earnings Call Transcript",
+          "datetime": "2026-04-30T22:00:00Z",
+          "statement_count": 0,
+          "stats": {
+            "by_hedging": {},
+            "by_category": {},
+            "by_resolution": {}
+          },
+          "fiscal_label": "Q1 2026"
+        },
         {
           "period": "FY2025_Q4",
           "title": "Alphabet Q4 2025 Earnings Call Transcript",
@@ -195,6 +207,18 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "calls": [
+        {
+          "period": "FY2026_Q1",
+          "title": "Amazon.com Q1 2026 Earnings Call Transcript",
+          "datetime": "2026-04-29T22:00:00Z",
+          "statement_count": 0,
+          "stats": {
+            "by_hedging": {},
+            "by_category": {},
+            "by_resolution": {}
+          },
+          "fiscal_label": "Q1 2026"
+        },
         {
           "period": "FY2025_Q4",
           "title": "Amazon.com Q4 2025 Earnings Call Transcript",
@@ -425,6 +449,18 @@
       "ticker": "AAPL",
       "calls": [
         {
+          "period": "FY2026_Q2",
+          "title": "Apple Q2 2026 Earnings Call Transcript",
+          "datetime": "2026-04-30T22:00:00Z",
+          "statement_count": 0,
+          "stats": {
+            "by_hedging": {},
+            "by_category": {},
+            "by_resolution": {}
+          },
+          "fiscal_label": "Q2 2026"
+        },
+        {
           "period": "FY2026_Q1",
           "title": "Apple Q1 2026 Earnings Call Transcript",
           "datetime": "2026-01-29T22:00:00Z",
@@ -649,6 +685,18 @@
       "ticker": "META",
       "calls": [
         {
+          "period": "FY2026_Q1",
+          "title": "Meta Platforms Q1 2026 Earnings Call Transcript",
+          "datetime": "2026-04-29T22:00:00Z",
+          "statement_count": 0,
+          "stats": {
+            "by_hedging": {},
+            "by_category": {},
+            "by_resolution": {}
+          },
+          "fiscal_label": "Q1 2026"
+        },
+        {
           "period": "FY2025_Q4",
           "title": "Meta Platforms Q4 2025 Earnings Call Transcript",
           "datetime": "2026-01-28T22:00:00Z",
@@ -843,6 +891,18 @@
       "ticker": "MSFT",
       "calls": [
         {
+          "period": "FY2026_Q3",
+          "title": "Microsoft Q3 2026 Earnings Call Transcript",
+          "datetime": "2026-04-29T22:00:00Z",
+          "statement_count": 0,
+          "stats": {
+            "by_hedging": {},
+            "by_category": {},
+            "by_resolution": {}
+          },
+          "fiscal_label": "Q3 2026"
+        },
+        {
           "period": "FY2026_Q2",
           "title": "Microsoft Q2 2026 Earnings Call Transcript",
           "datetime": "2026-01-28T22:00:00Z",
@@ -1031,6 +1091,18 @@
       "name": "Netflix",
       "ticker": "NFLX",
       "calls": [
+        {
+          "period": "FY2026_Q2",
+          "title": "Netflix Q2 2026 Earnings Call Transcript",
+          "datetime": "2026-07-16T22:00:00Z",
+          "statement_count": 0,
+          "stats": {
+            "by_hedging": {},
+            "by_category": {},
+            "by_resolution": {}
+          },
+          "fiscal_label": "Q2 2026"
+        },
         {
           "period": "FY2026_Q1",
           "title": "Netflix Q1 2026 Earnings Call Transcript",
@@ -1260,6 +1332,18 @@
       "name": "Nvidia",
       "ticker": "NVDA",
       "calls": [
+        {
+          "period": "FY2027_Q1",
+          "title": "NVIDIA Q1 2027 Earnings Call Transcript",
+          "datetime": "2026-05-20T22:00:00Z",
+          "statement_count": 0,
+          "stats": {
+            "by_hedging": {},
+            "by_category": {},
+            "by_resolution": {}
+          },
+          "fiscal_label": "Q1 2027"
+        },
         {
           "period": "FY2026_Q4",
           "title": "NVIDIA Q4 2026 Earnings Call Transcript",
@@ -1688,6 +1772,211 @@
             }
           },
           "fiscal_label": "Q4 2024"
+        }
+      ]
+    },
+    {
+      "id": "sap",
+      "name": "SAP",
+      "ticker": "SAP",
+      "calls": [
+        {
+          "period": "FY2026_Q1",
+          "title": "SAP Q1 2026 Earnings Call Transcript",
+          "datetime": "2026-04-23T22:00:00Z",
+          "statement_count": 43,
+          "stats": {
+            "by_hedging": {
+              "unhedged": 27,
+              "softly_hedged": 11,
+              "heavily_hedged": 5
+            },
+            "by_category": {
+              "operational_metric_specific": 13,
+              "revenue_trajectory_specific": 16,
+              "segment_growth_specific": 4,
+              "competitive_or_market_position_claim": 2,
+              "margin_trajectory_specific": 3,
+              "financial_structure_or_capital_action": 6,
+              "strategic_direction_claim": 2,
+              "capacity_or_capability_delivery": 2
+            },
+            "by_resolution": {
+              "validated": 21,
+              "unresolved": 13,
+              "unverifiable": 9
+            }
+          },
+          "fiscal_label": "Q1 2026"
+        },
+        {
+          "period": "FY2025_Q4",
+          "title": "SAP Q4 2025 Earnings Call Transcript",
+          "datetime": "2026-01-29T22:00:00Z",
+          "statement_count": 45,
+          "stats": {
+            "by_hedging": {
+              "unhedged": 27,
+              "softly_hedged": 18
+            },
+            "by_category": {
+              "operational_metric_specific": 19,
+              "revenue_trajectory_specific": 10,
+              "margin_trajectory_specific": 8,
+              "financial_structure_or_capital_action": 6,
+              "segment_growth_specific": 8,
+              "competitive_or_market_position_claim": 2,
+              "capacity_or_capability_delivery": 1
+            },
+            "by_resolution": {
+              "validated": 27,
+              "unresolved": 15,
+              "unverifiable": 3
+            }
+          },
+          "fiscal_label": "Q4 2025"
+        },
+        {
+          "period": "FY2025_Q3",
+          "title": "SAP Q3 2025 Earnings Call Transcript",
+          "datetime": "2025-10-22T22:00:00Z",
+          "statement_count": 38,
+          "stats": {
+            "by_hedging": {
+              "softly_hedged": 15,
+              "unhedged": 19,
+              "heavily_hedged": 4
+            },
+            "by_category": {
+              "revenue_trajectory_specific": 9,
+              "strategic_direction_claim": 3,
+              "margin_trajectory_specific": 8,
+              "operational_metric_specific": 11,
+              "financial_structure_or_capital_action": 7,
+              "capacity_or_capability_delivery": 4,
+              "segment_growth_specific": 8,
+              "geographic_or_regional_rollout": 1,
+              "competitive_or_market_position_claim": 1
+            },
+            "by_resolution": {
+              "unresolved": 17,
+              "validated": 18,
+              "unverifiable": 3
+            }
+          },
+          "fiscal_label": "Q3 2025"
+        },
+        {
+          "period": "FY2025_Q2",
+          "title": "SAP Q2 2025 Earnings Call Transcript",
+          "datetime": "2025-07-22T22:00:00Z",
+          "statement_count": 45,
+          "stats": {
+            "by_hedging": {
+              "unhedged": 27,
+              "softly_hedged": 11,
+              "heavily_hedged": 7
+            },
+            "by_category": {
+              "revenue_trajectory_specific": 5,
+              "segment_growth_specific": 9,
+              "operational_metric_specific": 21,
+              "margin_trajectory_specific": 6,
+              "capacity_or_capability_delivery": 5,
+              "financial_structure_or_capital_action": 1
+            },
+            "by_resolution": {
+              "validated": 22,
+              "unverifiable": 10,
+              "unresolved": 13
+            }
+          },
+          "fiscal_label": "Q2 2025"
+        },
+        {
+          "period": "FY2025_Q1",
+          "title": "SAP Q1 2025 Earnings Call Transcript",
+          "datetime": "2025-04-22T22:00:00Z",
+          "statement_count": 40,
+          "stats": {
+            "by_hedging": {
+              "unhedged": 24,
+              "softly_hedged": 13,
+              "heavily_hedged": 3
+            },
+            "by_category": {
+              "operational_metric_specific": 21,
+              "revenue_trajectory_specific": 10,
+              "margin_trajectory_specific": 6,
+              "segment_growth_specific": 4,
+              "strategic_direction_claim": 4,
+              "capacity_or_capability_delivery": 1,
+              "financial_structure_or_capital_action": 3,
+              "competitive_or_market_position_claim": 2
+            },
+            "by_resolution": {
+              "validated": 21,
+              "unresolved": 13,
+              "unverifiable": 6
+            }
+          },
+          "fiscal_label": "Q1 2025"
+        },
+        {
+          "period": "FY2024_Q4",
+          "title": "SAP Q4 2024 Earnings Call Transcript",
+          "datetime": "2025-01-28T22:00:00Z",
+          "statement_count": 44,
+          "stats": {
+            "by_hedging": {
+              "unhedged": 30,
+              "softly_hedged": 11,
+              "heavily_hedged": 3
+            },
+            "by_category": {
+              "operational_metric_specific": 19,
+              "revenue_trajectory_specific": 6,
+              "segment_growth_specific": 5,
+              "margin_trajectory_specific": 8,
+              "capacity_or_capability_delivery": 4,
+              "strategic_direction_claim": 6,
+              "financial_structure_or_capital_action": 4
+            },
+            "by_resolution": {
+              "validated": 23,
+              "unverifiable": 8,
+              "unresolved": 13
+            }
+          },
+          "fiscal_label": "Q4 2024"
+        },
+        {
+          "period": "FY2024_Q3",
+          "title": "SAP Q3 2024 Earnings Call Transcript",
+          "datetime": "2024-10-21T22:00:00Z",
+          "statement_count": 40,
+          "stats": {
+            "by_hedging": {
+              "softly_hedged": 14,
+              "unhedged": 26
+            },
+            "by_category": {
+              "operational_metric_specific": 16,
+              "segment_growth_specific": 7,
+              "revenue_trajectory_specific": 13,
+              "margin_trajectory_specific": 10,
+              "capacity_or_capability_delivery": 2,
+              "financial_structure_or_capital_action": 2,
+              "strategic_direction_claim": 1,
+              "geographic_or_regional_rollout": 1
+            },
+            "by_resolution": {
+              "validated": 25,
+              "unresolved": 12,
+              "unverifiable": 3
+            }
+          },
+          "fiscal_label": "Q3 2024"
         }
       ]
     },
@@ -2133,6 +2422,18 @@
       "name": "eXp Realty",
       "ticker": "EXPI",
       "calls": [
+        {
+          "period": "FY2026_Q1",
+          "title": "Exp World Q1 2026 Earnings Call Transcript",
+          "datetime": "2026-05-11T22:00:00Z",
+          "statement_count": 0,
+          "stats": {
+            "by_hedging": {},
+            "by_category": {},
+            "by_resolution": {}
+          },
+          "fiscal_label": "Q1 2026"
+        },
         {
           "period": "FY2025_Q4",
           "title": "Exp World Q4 2025 Earnings Call Transcript",

@@ -1,0 +1,326 @@
+{
+  "period_entries": [
+    {
+      "period": "FY2024_Q3",
+      "call_date": "2024-10-21",
+      "internal_forecasts": [
+        {
+          "metric": "cloud_revenue_2025_ambition",
+          "label": "2025 Cloud Revenue Ambition",
+          "unit": "€ B",
+          "internal": 21,
+          "external": 21.5,
+          "external_statement_id": "SAP-FY2024Q3-028",
+          "confidence": "medium",
+          "risk_flags": [
+            "WalkMe inorganic contribution to cloud growth lapses mid-2025",
+            "RISE conversion pacing in the DACH installed base behind plan",
+            "USD/EUR hedge book locked at 1.06 caps upside from a weaker euro"
+          ],
+          "note": "The €21.5B cloud revenue ambition for 2025, reaffirmed on the Q3 call, required 26.5% growth. The FP&A base case entering Q4 2024 was €21.0B (~24.5% growth), with the gap dependent on Q4 CCB momentum carrying into H1 and no slippage in large RISE conversions. Actual 2025 cloud revenue grew 26% — close to the ambition after currency adjustment, but the company had to signal the lower end of the guidance range at Q3 2025 before H2 bookings closed the gap."
+        },
+        {
+          "metric": "ccb_exit_2024",
+          "label": "Q4 2024 CCB Growth (exit rate)",
+          "unit": "%",
+          "internal": 27.5,
+          "external": 27,
+          "external_statement_id": "SAP-FY2024Q3-029",
+          "confidence": "high",
+          "note": "A rare cautious disclosure: the internal bookings model had exit CCB growth at 27.5% on the strength of the Q4 mega-deal pipeline, slightly above the \"similar level to prior year 27%\" communicated publicly. Actual Q4 2024 CCB growth came in at 29% — beating both figures as two large transformation deals signed early."
+        },
+        {
+          "metric": "op_profit_2025_ambition",
+          "label": "2025 Non-IFRS Operating Profit Ambition",
+          "unit": "€ B",
+          "internal": 10.3,
+          "external": 10.2,
+          "external_statement_id": "SAP-FY2024Q3-037",
+          "confidence": "high",
+          "note": "The maintained €10.2B operating profit ambition was fully covered by the internal plan of €10.3B. Restructuring savings from the 2024 transformation program were tracking ahead of schedule, and the share-based compensation decline was locked in. Management deliberately held the public number rather than raising it, preserving beat optionality. Actual 2025 non-IFRS operating profit was €10.4B."
+        }
+      ],
+      "commitment_assessments": [
+        {
+          "statement_id": "SAP-FY2024Q3-025",
+          "internal_alignment": "partial",
+          "governance_risk": "elevated",
+          "known_risks_at_disclosure": [
+            "Bottom-up planning model ends at 2026; no FP&A model supports 2027 acceleration",
+            "2025 cloud ambition €0.5B above internal base case at time of statement"
+          ],
+          "analyst_note": "The claim of being on track to achieve or overachieve all 2024 KPIs and the 2025 ambition was well supported — 2024 was tracking to beat. The \"accelerated revenue growth through 2027\" clause, however, came from the strategic planning narrative, not the FP&A model, whose horizon ended at 2026. The through-2027 acceleration framing would be repeated on six consecutive calls while remaining outside the modeled horizon."
+        },
+        {
+          "statement_id": "SAP-FY2024Q3-007",
+          "internal_alignment": "partial",
+          "governance_risk": "elevated",
+          "known_risks_at_disclosure": [
+            "Joule transaction coverage telemetry showed ~60% at end of Q3 2024",
+            "Coverage denominator ('most frequent transactions') redefined in September planning round"
+          ],
+          "analyst_note": "The commitment that Joule would cover 80% of the most frequent business and analytical transactions by end of 2024 was reachable only under the narrowed denominator adopted internally in September, which excluded several high-volume legacy transaction types. Product telemetry at the time of the call showed coverage around 60% under the original definition. The public statement did not disclose the definitional change."
+        },
+        {
+          "statement_id": "SAP-FY2024Q3-011",
+          "internal_alignment": "full",
+          "governance_risk": "low",
+          "analyst_note": "The full-year 2024 operating profit guidance of €7.8-8.0B was conservative relative to the internal forecast of €8.1B. Actual FY2024 non-IFRS operating profit came in at €8.2B, above the guided range. Clean disclosure with deliberate cushion."
+        }
+      ]
+    },
+    {
+      "period": "FY2024_Q4",
+      "call_date": "2025-01-28",
+      "internal_forecasts": [
+        {
+          "metric": "ai_efficiency_2025",
+          "label": "AI-Driven Internal Efficiency Effect 2025",
+          "unit": "€ M",
+          "internal": 190,
+          "external": 300,
+          "external_statement_id": "SAP-FY2024Q4-015",
+          "confidence": "low",
+          "risk_flags": [
+            "Measurement methodology not agreed with corporate controlling at disclosure",
+            "Developer-productivity gains do not convert 1:1 into P&L savings without backfill freezes",
+            "Works council consultation required before attrition-based capture in Germany"
+          ],
+          "note": "Of the roughly €300M AI-driven efficiency effect communicated for 2025, only €190M was traceable to specific cost lines in the internal plan — primarily support automation and code-generation productivity. The remainder assumed pilots scaling to full-year run rate by mid-year and headcount capture that had not cleared works council consultation. Controlling flagged that no agreed methodology existed to audit the figure."
+        },
+        {
+          "metric": "total_revenue_growth_2025",
+          "label": "2025 Total Revenue Growth (guidance midpoint)",
+          "unit": "%",
+          "internal": 10.3,
+          "external": 11,
+          "external_statement_id": "SAP-FY2024Q4-040",
+          "confidence": "medium",
+          "risk_flags": [
+            "Steeper-than-planned license revenue decline as on-prem deals convert",
+            "FY2025 FCF hedge portfolio at 1.06 USD/EUR limits translation upside"
+          ],
+          "note": "The ~11% total revenue growth midpoint for 2025 sat 0.7pp above the internal base case of 10.3%, with the difference attributable to a more aggressive transactional revenue assumption. Actual 2025 total revenue grew 11% — the external number was delivered, driven by cloud acceleration in Q2 that the base case had not assumed."
+        }
+      ],
+      "commitment_assessments": [
+        {
+          "statement_id": "SAP-FY2024Q4-007",
+          "internal_alignment": "partial",
+          "governance_risk": "elevated",
+          "known_risks_at_disclosure": [
+            "2026 acceleration contingent on backlog conversion rates holding at 2024 levels",
+            "2027 remains outside the bottom-up planning horizon"
+          ],
+          "analyst_note": "\"Accelerating double-digit total revenue growth and operating profit expansion through 2027\" was directionally supported for 2025-2026 but the 2027 leg remained a strategic-narrative extrapolation. Internal scenario work showed 2026 acceleration only if CCB growth held above 26% through 2025 — a condition that failed in Q4 2025 (25% actual)."
+        },
+        {
+          "statement_id": "SAP-FY2024Q4-012",
+          "internal_alignment": "none",
+          "governance_risk": "high",
+          "known_risks_at_disclosure": [
+            "No instrumentation existed to measure per-user efficiency across Joule surfaces",
+            "30% figure originated in a marketing benchmark of developer scenarios only"
+          ],
+          "analyst_note": "The aim of making every Joule user 30% more efficient by end of 2025 had no corresponding internal measurement framework. The 30% figure derived from an internal developer-productivity study (where Joule for developers did show up-to-30% gains) and was generalized to all user personas in external communication. Product analytics teams noted internally that cross-persona efficiency attribution was not feasible with existing telemetry. Heavily hedged in delivery, but the number anchored analyst models regardless."
+        },
+        {
+          "statement_id": "SAP-FY2024Q4-036",
+          "internal_alignment": "partial",
+          "governance_risk": "moderate",
+          "known_risks_at_disclosure": [
+            "Contingency framework for selective maintenance extensions existed for sovereign and defense accounts"
+          ],
+          "analyst_note": "The public hard line that on-premise ERP maintenance would not be extended beyond 2027 diverged from internal contingency planning, where a framework for selective extensions covering sovereign, defense, and critical-infrastructure accounts had been drafted at board request. The hard public deadline was viewed internally as essential negotiating leverage for RISE conversions; the exceptions framework was to be disclosed only if activated."
+        }
+      ]
+    },
+    {
+      "period": "FY2025_Q3",
+      "call_date": "2025-10-22",
+      "internal_forecasts": [
+        {
+          "metric": "ccb_exit_2025",
+          "label": "Q4 2025 CCB Growth (exit rate)",
+          "unit": "%",
+          "internal": 24.8,
+          "external": 26,
+          "external_statement_id": "SAP-FY2025Q3-034",
+          "confidence": "medium",
+          "risk_flags": [
+            "Two mega-renewals slipped from Q4 2025 into Q1 2026 in the pipeline review",
+            "Hyperscaler co-sell sourced pipeline down double digits year-over-year",
+            "WalkMe year-over-year contribution fully lapsed from Q3"
+          ],
+          "note": "Christian Klein publicly framed 26% exit CCB growth as \"a great result\" for FY2025. The October pipeline review had the base case at 24.8% after two mega-renewals moved into Q1 2026, with 26% reachable only if both pulled back in. Actual Q4 2025 CCB growth was 25% — between the internal base case and the public anchor, and acknowledged on the Q4 call as below the 26% previously expected."
+        },
+        {
+          "metric": "fcf_2025",
+          "label": "FY2025 Free Cash Flow",
+          "unit": "€ B",
+          "internal": 8.3,
+          "external": 8,
+          "external_statement_id": "SAP-FY2025Q3-023",
+          "confidence": "high",
+          "note": "The public commitment that free cash flow would exceed €8B was set below the internal forecast of €8.3B — a deliberate floor. Collections were running ahead of plan and the restructuring cash-out tail was winding down. Actual FY2025 free cash flow was approximately €8.2B, within €0.1B of the internal model."
+        }
+      ],
+      "commitment_assessments": [
+        {
+          "statement_id": "SAP-FY2025Q3-022",
+          "internal_alignment": "full",
+          "governance_risk": "low",
+          "analyst_note": "Guiding to the lower end of the FY2025 cloud revenue range was a candid disclosure that matched the internal forecast exactly. FP&A had flagged the low-end landing in September after Q3 transactional revenue softness; management communicated it on the first available call rather than waiting for Q4. A model example of timely alignment."
+        },
+        {
+          "statement_id": "SAP-FY2025Q3-010",
+          "internal_alignment": "none",
+          "governance_risk": "high",
+          "known_risks_at_disclosure": [
+            "Reaffirmed in the same quarter cloud revenue was guided to the low end",
+            "FP&A 2027 base case showed stable ~11% growth, not acceleration",
+            "Acceleration case required agentic-AI monetization not yet present in bookings"
+          ],
+          "analyst_note": "Reaffirming \"accelerating double-digit total revenue growth through 2027, enabled by AI\" while simultaneously guiding cloud revenue to the low end and flagging CCB deceleration created the widest narrative-to-model gap in the SAP dataset. The internal 2027 base case showed growth stable at roughly the 2025 rate. The acceleration scenario required Business AI and BDC bookings to inflect in 2026 — a thesis the FP&A team explicitly labeled \"not yet evidenced in order entry\" in the October board pack."
+        },
+        {
+          "statement_id": "SAP-FY2025Q3-008",
+          "internal_alignment": "partial",
+          "governance_risk": "moderate",
+          "known_risks_at_disclosure": [
+            "Only three to four named accounts identified as realistic pull-forward candidates"
+          ],
+          "analyst_note": "The statement that SAP would sign RISE deals in Q4 2025 that were initially planned for 2026 was supported by a short named-account list, not a broad trend. Two of the four candidates signed in Q4. The public phrasing implied a wider pull-forward dynamic than the pipeline supported, though the direction was accurate."
+        }
+      ]
+    },
+    {
+      "period": "FY2025_Q4",
+      "call_date": "2026-01-29",
+      "internal_forecasts": [
+        {
+          "metric": "fcf_2026",
+          "label": "2026 Free Cash Flow",
+          "unit": "€ B",
+          "internal": 9.2,
+          "external": 10,
+          "external_statement_id": "SAP-FY2025Q4-038",
+          "confidence": "medium",
+          "risk_flags": [
+            "Teradata litigation exposure unresolved at guidance date (€408M settled in Q1 2026)",
+            "Workforce transformation cash-out tail extends into H1 2026",
+            "Hedge book rolls onto less favorable USD/EUR rates through the year"
+          ],
+          "note": "The approximately €10B free cash flow guidance for 2026 assumed a collections uplift from the record €77B total backlog and no material litigation outflows. The internal treasury model carried €9.2B after provisioning for the Teradata dispute and the remaining restructuring cash-out. The €408M Teradata settlement paid in Q1 2026 consumed most of the gap between the internal and public numbers in the first quarter."
+        },
+        {
+          "metric": "ai_efficiency_runrate_2028",
+          "label": "AI Cost-Efficiency Run Rate by End of 2028",
+          "unit": "€ B",
+          "internal": 1.2,
+          "external": 2,
+          "external_statement_id": "SAP-FY2025Q4-017",
+          "confidence": "low",
+          "risk_flags": [
+            "Only ~€0.4B of realized savings traceable to AI programs through 2025",
+            "15-20% of addressable cost assumption sits at top of external benchmarks",
+            "German works council agreements cap attrition-based capture rates"
+          ],
+          "note": "The ~€2B AI efficiency run-rate target for end of 2028 was a top-down figure set in the strategy process. The bottom-up program inventory supported €1.2B — support automation, code generation (35% automated at disclosure), and shared-services consolidation. The remaining €0.8B was an unallocated placeholder labeled \"future agentic use cases\" in the internal bridge. FP&A confidence in the full figure was low at disclosure."
+        }
+      ],
+      "commitment_assessments": [
+        {
+          "statement_id": "SAP-FY2025Q4-035",
+          "internal_alignment": "partial",
+          "governance_risk": "elevated",
+          "known_risks_at_disclosure": [
+            "Base case 2026 total revenue growth flat at ~11%, matching 2025",
+            "Acceleration only in upside scenario requiring transactional recovery plus Reltio contribution"
+          ],
+          "analyst_note": "\"A path for total revenue growth to accelerate in 2026\" was technically accurate — a path existed — but the FP&A base case showed 2026 growth flat versus 2025. Acceleration required the upside scenario: transactional revenue recovery, full-year Reltio contribution, and CCB deceleration held under 2 points. Management chose the most constructive framing available without committing to a number."
+        },
+        {
+          "statement_id": "SAP-FY2025Q4-037",
+          "internal_alignment": "full",
+          "governance_risk": "low",
+          "analyst_note": "The commitment that non-IFRS operating profit growth would significantly exceed revenue growth in 2026 was fully supported: the share-based compensation decline was contractual, the 2025 workforce transformation charges would not recur, and the expense-to-revenue ratio was modeled at the low end of the 80-90% leverage range. One of the highest-confidence commitments in the SAP dataset."
+        }
+      ]
+    },
+    {
+      "period": "FY2026_Q1",
+      "call_date": "2026-04-23",
+      "internal_forecasts": [
+        {
+          "metric": "war_exposure_cloud_2026",
+          "label": "War-Related 2026 Cloud Revenue Exposure",
+          "unit": "€ M",
+          "internal": 220,
+          "external": 0,
+          "external_statement_id": "SAP-FY2026Q1-031",
+          "confidence": "low",
+          "risk_flags": [
+            "Strait of Hormuz closure duration unknowable at disclosure",
+            "Two Gulf sovereign cloud negotiations paused indefinitely in March",
+            "Logistics and energy vertical customers deferring go-lives in affected regions"
+          ],
+          "note": "Publicly, war-related business impacts were characterized as having \"limited effect\" on 2026 cloud revenue, with no figure disclosed (recorded here as external 0 — immaterial framing). The internal war-room estimate ranged €150-300M with a base case of €220M, roughly one point of cloud growth: paused Gulf sovereign deals, deferred go-lives in logistics and energy accounts, and elongated sales cycles across MENA. The \"limited\" framing was defensible against total cloud revenue of ~€27B but understated the concentration of impact in the sovereign pipeline that had been promoted on prior calls."
+        },
+        {
+          "metric": "fy2026_outlook_headroom",
+          "label": "FY2026 Outlook Reachable Under Base Case",
+          "unit": "qualitative",
+          "internal": 0,
+          "external": 1,
+          "external_statement_id": "SAP-FY2026Q1-029",
+          "confidence": "low",
+          "risk_flags": [
+            "Base case reached KPI ranges only if Strait of Hormuz reopened by early Q3",
+            "Reltio close and contribution assumed despite pending regulatory review",
+            "Q2 cloud growth deceleration already visible in April order entry"
+          ],
+          "note": "The full-year 2026 outlook was maintained publicly, but the April internal forecast reached the communicated KPI ranges only under the reopen-by-July scenario with Reltio contributing from Q3. The conditioning was partially disclosed — management explicitly named the Hormuz and Reltio assumptions on the call, an unusual level of assumption transparency — but the fact that the unconditioned base case fell short of the ranges was not."
+        }
+      ],
+      "commitment_assessments": [
+        {
+          "statement_id": "SAP-FY2026Q1-030",
+          "internal_alignment": "partial",
+          "governance_risk": "moderate",
+          "known_risks_at_disclosure": [
+            "Internal scenario tree gave roughly even odds to the reopen-by-Q3 assumption",
+            "Reltio regulatory clearance timeline outside SAP's control"
+          ],
+          "analyst_note": "Conditioning the FY2026 KPI commitment on the Strait of Hormuz reopening and the Reltio contribution was comparatively candid — the load-bearing assumptions were named in public. The gap is one of probability framing: the internal scenario tree treated the reopen assumption as a coin flip, while the public delivery implied it was the expected case. Partial alignment with moderate governance risk."
+        },
+        {
+          "statement_id": "SAP-FY2026Q1-031",
+          "internal_alignment": "partial",
+          "governance_risk": "elevated",
+          "known_risks_at_disclosure": [
+            "€220M base-case exposure concentrated in the publicly promoted sovereign cloud pipeline",
+            "No quantification offered publicly despite internal range being briefed to the audit committee"
+          ],
+          "analyst_note": "\"Limited effect\" was quantitatively defensible at the company level but omitted that the exposure fell disproportionately on the sovereign cloud pipeline management had highlighted as a growth driver on the two prior calls. The internal range had been briefed to the audit committee two weeks before the call. Choosing a qualitative characterization where an internal quantitative range existed is the recurring governance pattern of this period."
+        },
+        {
+          "statement_id": "SAP-FY2026Q1-037",
+          "internal_alignment": "none",
+          "governance_risk": "high",
+          "known_risks_at_disclosure": [
+            "Two consecutive annual base cases show stable, not accelerating, growth",
+            "2027 acceleration now additionally dependent on war-impact recovery timing"
+          ],
+          "analyst_note": "The expectation of revenue growth acceleration in 2027 versus 2026 extended the through-2027 acceleration narrative into its seventh consecutive quarter of public reaffirmation. By April 2026 the claim carried heavier hedging in delivery, but no internal base case had yet shown the acceleration: the FP&A view remained stable ~11% growth with acceleration confined to the upside scenario. The larger 2027 backlog-driven revenue increment cited publicly was real but offset in the internal model by the fading transactional base."
+        },
+        {
+          "statement_id": "SAP-FY2026Q1-018",
+          "internal_alignment": "full",
+          "governance_risk": "low",
+          "analyst_note": "Flagging the expected Q2 FY2026 cloud revenue growth deceleration was a clean, timely disclosure matching the April order-entry data. As with the FY2025 low-end guidance flag at Q3 2025, the CFO's office consistently disclosed near-term trajectory changes promptly — the governance gaps in the SAP dataset concentrate in multi-year narrative claims, not near-term guidance."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1794 @@
+{
+  "company_id": "sap",
+  "title": "SAP Q2 2025 Earnings Call Transcript",
+  "datetime": "2025-07-22T22:00:00Z",
+  "period": "FY2025_Q2",
+  "location": "Walldorf, Germany",
+  "url": "https://www.marketbeat.com/earnings/reports/2025-7-22-sap-se-stock/",
+  "people": [
+    {
+      "id": "operator",
+      "name": "Operator",
+      "role": ""
+    },
+    {
+      "id": "alexandra-steiger",
+      "name": "Alexandra Steiger",
+      "role": "Head of Investor Relations at SAP"
+    },
+    {
+      "id": "christian-klein",
+      "name": "Christian Klein",
+      "role": "CEO at SAP"
+    },
+    {
+      "id": "dominik-asam",
+      "name": "Dominik Asam",
+      "role": "CFO at SAP"
+    },
+    {
+      "id": "adam-wood",
+      "name": "Adam Wood",
+      "role": "Analyst at Morgan Stanley"
+    },
+    {
+      "id": "mark-moerdler",
+      "name": "Mark Moerdler",
+      "role": "Analyst at Bernstein"
+    },
+    {
+      "id": "jackson-ader",
+      "name": "Jackson Ader",
+      "role": "Analyst at KeyBanc Capital Markets"
+    },
+    {
+      "id": "michael-briest",
+      "name": "Michael Briest",
+      "role": "Analyst at UBS"
+    },
+    {
+      "id": "frederic-boulan",
+      "name": "Frederic Boulan",
+      "role": "Analyst at Bank of America"
+    },
+    {
+      "id": "charles-brennan",
+      "name": "Charles Brennan",
+      "role": "Analyst at Jefferies"
+    },
+    {
+      "id": "mohammed-moawalla",
+      "name": "Mohammed Moawalla",
+      "role": "Analyst at Goldman Sachs"
+    },
+    {
+      "id": "ben-castillo-bernaus",
+      "name": "Ben Castillo-Bernaus",
+      "role": "Analyst at BNP Paribas"
+    },
+    {
+      "id": "johannes-schaller",
+      "name": "Johannes Schaller",
+      "role": "Analyst at Deutsche Bank"
+    },
+    {
+      "id": "michael-turrin",
+      "name": "Michael Turrin",
+      "role": "Analyst at Wells Fargo securities"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:00:00",
+      "text": "Ladies and gentlemen, thank you for standing by. Welcome and thank you for joining the SAP Q2 and Half-Year 2025 Financial Results Conference Call. Throughout today's recorded presentation, all participants will be in a listen-only mode. The presentation will be followed by a question-and-answer session. If you would like to ask a question, you may press star followed by one on your touch-tone telephone. I would now like to turn the conference over to Alexandra Steiger, Global Head of Investor Relations. Please go ahead."
+    },
+    {
+      "speaker_id": "alexandra-steiger",
+      "speaker_name": "Alexandra Steiger",
+      "speaker_role": "Head of Investor Relations at SAP",
+      "timestamp": "00:00:36",
+      "text": "Good evening, everyone, and welcome. Thank you for joining us. With me today are CEO Christian Klein and CFO Dominik Asam. On this call, we will discuss SAP's second quarter 2025 results. You can find the deck supplementing this call, as well as our quarterly statement on our Investor Relations website. During this call, we will make forward-looking statements, which are predictions, projections, or other statements about future events. These statements are based on current expectations and assumptions that are subject to risk and uncertainties that could cause actual results and outcomes to differ materially. Additional information regarding these risks and uncertainties may be found in our filings with the SEC, including but not limited to the risk factor section of our annual report on Form 20-F for 2024."
+    },
+    {
+      "speaker_id": "alexandra-steiger",
+      "speaker_name": "Alexandra Steiger",
+      "speaker_role": "Head of Investor Relations at SAP",
+      "timestamp": "00:01:23",
+      "text": "Unless otherwise stated, all numbers on this call are non-IFRS, and growth rates and percentage point changes are non-IFRS, year-on-year at constant currencies. The non-IFRS financial measures we provide should not be considered as a substitute for or superior to the measures of financial performance prepared in accordance with IFRS. With that, over to you, Christian."
+    },
+    {
+      "speaker_id": "christian-klein",
+      "speaker_name": "Christian Klein",
+      "speaker_role": "CEO at SAP",
+      "timestamp": "00:01:44",
+      "text": "Thank you, Alexandra, and a warm welcome to everyone on the line. Q2 was another very good quarter, with our Sapphire conference as the main highlight. Let me start with two key messages. First, we are looking at a very solid set of Q2 numbers today. SAP was performing very well across all key financial indicators. Second, uncertainty in global markets from earlier this year remains, but SAP has an excellent pipeline for half-year two in almost all markets and regions. In a few individual industries impacted by uncertainty, we are seeing extended approval workflows on the customer side, for example, in the U.S. public sector and among manufacturers affected by tariffs. Whatever the market environment may bring, SAP is really well prepared. We are taking big steps in product innovation and rapidly increasing our productivity with Business AI."
+    },
+    {
+      "speaker_id": "christian-klein",
+      "speaker_name": "Christian Klein",
+      "speaker_role": "CEO at SAP",
+      "timestamp": "00:02:49",
+      "text": "Before I go deeper into these topics, let's have a look at the Q2 numbers and customer highlights. In Q2, cloud revenue rose 28%, marking an increase of two percentage points compared with Q1. The Cloud ERP Suite once again drove this momentum. For 14 quarters in a row, it has been consistently expanding at a rate of over 30%. Total revenue growth also continued to accelerate and reached 12%. Our current cloud backlog grew by 28% in Q2. Despite the currency headwind, it came in at EUR 18 billion. Finally, our Q2 bottom line is a real highlight. Operating profit surged 35%. This is a testament to the strengths of SAP's business model and the lasting improvements we achieved in our cost base with our transformation program, which includes the internal adoption of Business AI. The customer stories from Q2 add some nice color to the picture."
+    },
+    {
+      "speaker_id": "christian-klein",
+      "speaker_name": "Christian Klein",
+      "speaker_role": "CEO at SAP",
+      "timestamp": "00:04:00",
+      "text": "They reflect the whole spectrum of what SAP has to offer, from cloud ERP for our installed base and net new customers to leading data and LOB solutions to our Sovereign Cloud offering and much more. Let's start with our installed base and device journey. In Q2, Alibaba entered into a strategic partnership with SAP with a focus on two key areas. First, we will roll out the SAP Business Suite at Alibaba end-to-end, including BTP, Business AI, Ariba, Integrated Business Planning, SuccessFactors, and Analytics. Second, Alibaba, even more important, will become a partner for our RISE and GROW journeys. Together, we will be addressing the huge market potential in China, both among installed base and net new customers. Other key wins in Q2 were the pharma company GSK and the fashion brands Balmain and Bally. A number of new customers also joined us via the GROW journey."
+    },
+    {
+      "speaker_id": "christian-klein",
+      "speaker_name": "Christian Klein",
+      "speaker_role": "CEO at SAP",
+      "timestamp": "00:05:06",
+      "text": "Our wide range of net new customers included the American furniture company Gardner White and the fitness device maker EGYM. Beyond cloud ERP, many net new customers are also embracing solutions from the Business Suite. The U.S. construction company NEPCO and the live marketing company MCH Group, for example, signed up for HR and finance. In our solution areas and LOBs, business was humming too. For example, nearly 300 cloud customers selected our digital supply chain solutions only in Q2. For example, the airline Delta. Nearly 100 customers selected our customer engagement platform, for example, BMW, who also went live on digital supply chain this quarter. Over 300 customers signed up for our human capital management solutions. The German federal pension insurance opted for SuccessFactors in Q2. The global cosmetics leader L'OrÃ©al expanded their SuccessFactors footprint as well."
+    },
+    {
+      "speaker_id": "christian-klein",
+      "speaker_name": "Christian Klein",
+      "speaker_role": "CEO at SAP",
+      "timestamp": "00:06:11",
+      "text": "Finally, the German armed forces signed up for SAP Project and Resource Management, Business AI, Analytics Cloud, LeanIX, and Signavio. Let's now have a quick look at our software and cloud offering. In Q2, the German defense company Hensoldt and the British defense and security leader BAE Systems were among the customers that embraced SAP's excellent software and cloud offering. The debate on digital sovereignty and the best way to achieve it has picked up speed in recent weeks. SAP stands out as the only vendor that can offer sovereignty over the entire stack, from the infrastructure to the application. We also offer customers additional features on top, for example, EU Access, Bring Your Own Key, and Air Gap. Our platform runs on any hyperscaler and many local providers, but we also operate data centers of our own across the world."
+    },
+    {
+      "speaker_id": "christian-klein",
+      "speaker_name": "Christian Klein",
+      "speaker_role": "CEO at SAP",
+      "timestamp": "00:07:17",
+      "text": "Our unique capabilities ensure that customers stay in control of their data at all times. They can be sure, regardless of how their local sovereignty requirements evolve, we will be able to meet them. Let me now conclude the customer stories with a very exciting topic, the SAP Business Data Cloud. Many of the Q2 deals I have mentioned so far included BDC as a key component, including GSK, Reebok, BAE Systems, and NEPCO. The software company Adobe selected our new data offering too, and we are deepening our partnership with Palantir in the context of BDC. All taken together, this makes for a great start. Only a few months after we launched, the pipeline for Business Data Cloud is skyrocketing. For all our customers in all geographies, we have one goal. We want to help them to take full advantage of the SAP Business Suite for their company."
+    },
+    {
+      "speaker_id": "christian-klein",
+      "speaker_name": "Christian Klein",
+      "speaker_role": "CEO at SAP",
+      "timestamp": "00:08:24",
+      "text": "With each innovation we add, the Business Suite becomes even more attractive. In Q2, well over half of our cloud order entry volume came from deals that included AI use cases. Every hour, every day, more customers go live. ABB, for example, is using SAP Business AI to bring down the time to create price quotes for larger products, from 15 days and more to only one day. Siemens is using Joule for Consultants to speed up the transition to S/4HANA Cloud. The Australian utility company SA Power Networks leverages SAP Business AI to maintain its vast network of electricity poles in a targeted, efficient manner, for example, with predictive maintenance techniques. With the next generation of innovation now arriving with customers, we expect Business AI adoption to further speed up. In half-year one, we released our first 14 AI agents."
+    },
+    {
+      "speaker_id": "christian-klein",
+      "speaker_name": "Christian Klein",
+      "speaker_role": "CEO at SAP",
+      "timestamp": "00:09:28",
+      "text": "For example, an agent for the Commerce Cloud. Instructed via natural language, the agent helps online shop customers to find exactly the items they look for. No more clicking through pages of product pictures. The result is higher customer satisfaction and better sales conversion. Other agents released so far help customers to create quotes, streamline customer service, resolve dispute cases, analyze open receivables, and validate expense reports. By the end of the year, we expect the total number of available AI agents to reach 40. The agents will work across business functions, addressing all buying centers. In finance, for instance, our agents will streamline financial planning, ensure that accruals are automatically calculated, and proactively identify cash shortages. In supply chain management, upcoming agents will keep production moving, for example, by recommending and onboarding suppliers and proactively responding to shop floor disruptions."
+    },
+    {
+      "speaker_id": "christian-klein",
+      "speaker_name": "Christian Klein",
+      "speaker_role": "CEO at SAP",
+      "timestamp": "00:10:36",
+      "text": "As for Joule, our Sapphire announcements are starting to become available to customers. Joule will be available everywhere across SAP and non-SAP systems starting in Q3, thanks to the integration with WalkMe. It will also be giving answers to everything starting in Q4, powered by our partnership with Perplexity. With regard to data products for the Business Data Cloud, we are making very good progress as well. As of today, we have released more than 100 pre-built SAP managed data products covering finance, sales, manufacturing, and logistics. By the end of the year, we will more than double that, covering our entire Business Suite. These data products underpin our intelligent applications for core ERP, spend, finance, people, customer, and supply chain that bring together data, business simulations, and AI capabilities. Every day, we are expanding our innovation footprint in the data and Business AI space."
+    },
+    {
+      "speaker_id": "christian-klein",
+      "speaker_name": "Christian Klein",
+      "speaker_role": "CEO at SAP",
+      "timestamp": "00:11:46",
+      "text": "Now, coming to our own transformation. Of course, SAP also uses Business AI internally to boost productivity. This is reflected in the solid expansion of our operating profit. We are decoupling expense growth from revenue growth, thanks to our transformation program. Three examples for internal AI use cases. Our digital sales engagement platform, powered by Joule, increases productivity by up to 50% for selected sales roles. Thanks to Joule for SuccessFactors, HR tickets are now resolved in up to 20% less time. With Joule for developers, coders at SAP are becoming up to 30% more efficient. This is the beginning. It is already clear that AI will further increase productivity at SAP and in many other companies. It will further change jobs and job profiles. This is why it is so important to keep evolving and transforming our workforce in a continuous process."
+    },
+    {
+      "speaker_id": "christian-klein",
+      "speaker_name": "Christian Klein",
+      "speaker_role": "CEO at SAP",
+      "timestamp": "00:12:49",
+      "text": "As before, this transformation includes a reskilling component, reductions in areas with lower resource demand, and hiring in job profiles that define the future of our company, such as data and Business AI. To summarize, we achieved an outstanding Q2 despite market uncertainty. Since it is difficult to predict how this market environment will exactly evolve, we continue to focus on what makes us successful in the mid and the long term. With our data and AI innovations, we are strengthening our portfolio, and there is more to come. Our AI-enabled go-to-market transformation is moving ahead with speed, and we remain very diligent about simplification. The AI-powered transformation of our workforce continues. Thanks to ongoing operating efficiencies, we are able to do more with a leaner headcount. All this means that SAP is very well prepared for the second half of 2025 and for the coming year."
+    },
+    {
+      "speaker_id": "christian-klein",
+      "speaker_name": "Christian Klein",
+      "speaker_role": "CEO at SAP",
+      "timestamp": "00:13:53",
+      "text": "With that, I'm handing over to you, Dominik."
+    },
+    {
+      "speaker_id": "dominik-asam",
+      "speaker_name": "Dominik Asam",
+      "speaker_role": "CFO at SAP",
+      "timestamp": "00:13:56",
+      "text": "Thank you very much, Christian, and thank you all for joining us this evening. As you can see from some of the financial results Christian just shared, SAP delivered another great quarter, highlighted by accelerating total revenue growth and continued strength in both operating profit and free cash flow. This further reinforces the strength and consistency of the execution of our strategy. The ongoing momentum of Cloud ERP Suite and the impact of our strict cost discipline were again key contributors to this performance. Together, they reflect the resilience of our business model and our ability to deliver consistent results in a dynamic and uncertain environment. Our strategy is working, and our offerings remain mission-critical to customers as they pursue their transformation towards cloud-based business models. Now, let me provide more details around our financial highlights."
+    },
+    {
+      "speaker_id": "dominik-asam",
+      "speaker_name": "Dominik Asam",
+      "speaker_role": "CFO at SAP",
+      "timestamp": "00:14:54",
+      "text": "Current cloud backlog reached EUR 18.1 billion, up 28%. Cloud revenue increased also by 28% year on year. This was again driven by the strong performance of the Cloud ERP Suite, which continued to deliver 34% growth in Q2. This represents 86% of total cloud revenue, underscoring its role as a foundational part of our cloud business. As we look towards half-year two, we are mindful of the broader environment, including geopolitical developments, notably the ongoing uncertainty about trade policy that has contributed to elongated sales cycles in certain sectors, such as U.S. public sector and industrial manufacturing. The sequential one percentage point deceleration in current cloud backlog growth is underscoring the dampening effect on bookings in Q2. It is obviously hard, if not impossible, to predict when exactly we'll catch up on the push-outs."
+    },
+    {
+      "speaker_id": "dominik-asam",
+      "speaker_name": "Dominik Asam",
+      "speaker_role": "CFO at SAP",
+      "timestamp": "00:15:54",
+      "text": "Closing these open opportunities will be a focus in half-year two, where we, as you will recall, usually close roughly two-thirds of our annual new cloud business. Unfortunately, we have no crystal ball to reliably predict global trade policy decision-making, and it goes without saying that the longer this uncertainty persists, the more pressure it is likely to put on global trade and our customers' ability to make well-informed decisions. While capital markets appear to be optimistic and continue to perform at or near all-time highs, we do prepare SAP for less favorable outcomes by focusing on elements within our control to protect our bottom line and safeguarding free cash flow in 2025. These priorities will ensure SAP remains resilient and well-positioned regardless of how external conditions evolve. Software licenses revenue decreased by 13% in Q2, in line with the strategy we pursue."
+    },
+    {
+      "speaker_id": "dominik-asam",
+      "speaker_name": "Dominik Asam",
+      "speaker_role": "CFO at SAP",
+      "timestamp": "00:16:52",
+      "text": "The pace of contraction remained relatively stable as customers increasingly advanced their transformation journeys with RISE and GROW with SAP towards the cloud. Finally, total revenue came in at EUR 9 billion, up 12%, driven by broad-based strength, particularly within our share of more predictable revenue, which increased to 86%. Now, let's take a brief look at our regional performance. In Q2, SAP's cloud revenue performance was particularly strong in the APJ and EMEA region and solid in the Americas. Brazil, Chile, France, India, Italy, South Korea, and Spain had outstanding performance. Now, moving down the income statement, our non-IFRS cloud gross margin for the quarter continued its upward trend, expanding by 1.8 percentage points to 75.2%, driving cloud gross profit up by 31%."
+    },
+    {
+      "speaker_id": "dominik-asam",
+      "speaker_name": "Dominik Asam",
+      "speaker_role": "CFO at SAP",
+      "timestamp": "00:17:51",
+      "text": "IFRS operating profit increased to EUR 2.5 billion in the quarter, positively impacted by restructuring expense decline of EUR 0.6 billion as compared to the prior year in connection with the 2024 transformation program. In the second quarter, non-IFRS operating profit was up 35% to EUR 2.6 billion. Both IFRS and non-IFRS operating profit growth strongly benefited from cloud revenue growth at expanding cloud gross margin and a significant reduction in share-based compensation expenses. In fact, we have been able to reduce share-based compensation expenses by EUR 331 million or 26% in the first six months of 2025 as compared to the same period last year by allocating grants in a more targeted fashion and largely hedging the residual cash-settled part of it through April of this year."
+    },
+    {
+      "speaker_id": "dominik-asam",
+      "speaker_name": "Dominik Asam",
+      "speaker_role": "CFO at SAP",
+      "timestamp": "00:18:47",
+      "text": "Recall that in the last year, we had a significant headwind from share-based compensation expenses as the last major cash-settled tranches were marked to market, while our share price increased by roughly 50% in half-year one of 2024. The IFRS effective tax rate in Q2 was 30.1%, and that non-IFRS tax rate was 30.8%. Operating cash flow in the second quarter was up by 71% to EUR 2.6 billion, and free cash flow increased by 83% to EUR 2.4 billion. The increase was mainly attributable to the higher profitability and the positive development of working capital, lower payouts for share-based compensation, restructuring payments, and income tax payments. Finally, basic IFRS earnings per share increased to EUR 1.45, and non-IFRS earnings per share increased to EUR 1.50. Now, let's move on to the outlook."
+    },
+    {
+      "speaker_id": "dominik-asam",
+      "speaker_name": "Dominik Asam",
+      "speaker_role": "CFO at SAP",
+      "timestamp": "00:19:43",
+      "text": "As you have likely seen in the quarterly statement published earlier today, we've decided to keep our 2025 outlook unchanged across all metrics. In summary, Q2 reflects another leap forward for SAP, marked by continued strong momentum in our Cloud ERP Suite, resulting in accelerated total revenue growth and strong margin expansion. These results are a clear indication that our priorities are translating into consistent execution and measurable progress. We remain focused on discipline execution, cost control, and protecting our bottom line and free cash flow for the remainder of the year. With the first half complete, we are focused on sustaining momentum and closing the year with strength amidst a volatile and uncertain macro environment. Thank you, and we'll now be happy to take your questions."
+    },
+    {
+      "speaker_id": "alexandra-steiger",
+      "speaker_name": "Alexandra Steiger",
+      "speaker_role": "Head of Investor Relations at SAP",
+      "timestamp": "00:20:34",
+      "text": "All right, we will now take your questions."
+    },
+    {
+      "speaker_id": "alexandra-steiger",
+      "speaker_name": "Alexandra Steiger",
+      "speaker_role": "Head of Investor Relations at SAP",
+      "timestamp": "00:20:36",
+      "text": "As always, I would like to kindly remind you to only ask one question when prompted. Operator, please open the line."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:20:43",
+      "text": "Ladies and gentlemen, at this time, we will begin the question and answer session. Anyone who wishes to ask a question may press star followed by one on their touch-tone telephone. If you are using speaker equipment today, please lift the handset before making your selections. Again, anyone who has a question may press star followed by one at this time. We'll take our first question from Adam Wood with Morgan Stanley. Please go ahead."
+    },
+    {
+      "speaker_id": "adam-wood",
+      "speaker_name": "Adam Wood",
+      "speaker_role": "Analyst at Morgan Stanley",
+      "timestamp": "00:21:14",
+      "text": "Good evening, and thanks for taking the question. Congratulations on another good quarter. If I could just maybe dig in on the operating margin and the EBIT growth for the second half of the year. Obviously, you've had a phenomenal first half with margins up around 8% and then 5% in Q1 and Q2."
+    },
+    {
+      "speaker_id": "adam-wood",
+      "speaker_name": "Adam Wood",
+      "speaker_role": "Analyst at Morgan Stanley",
+      "timestamp": "00:21:31",
+      "text": "If the back of my envelope is right, it looks as if we're looking for more like 2-2.5% increases in margins in the second half. Obviously, Christian, you've talked about decoupling revenues and expenses and the benefits of consuming your own technology internally, but I imagine there's some nervousness in terms of how the macro turns out and also some desire to invest for growth. Could you maybe just talk us through how those things play off against each other? How much caution is in there in terms of that big step down in margin improvement in the second half of the year, please? Thank you."
+    },
+    {
+      "speaker_id": "dominik-asam",
+      "speaker_name": "Dominik Asam",
+      "speaker_role": "CFO at SAP",
+      "timestamp": "00:22:01",
+      "text": "Yeah, sure. I'm happy to have a stab at that."
+    },
+    {
+      "speaker_id": "dominik-asam",
+      "speaker_name": "Dominik Asam",
+      "speaker_role": "CFO at SAP",
+      "timestamp": "00:22:05",
+      "text": "First of all, let's not forget that one important factor of the strong performance in operating profit in the first half of the year was that kind of EUR 331 million improvement in stock-based compensation. You recall that we said we want to end up the year at about EUR 2 billion. We had EUR 2.4 billion last year. We basically said that about EUR 0.4 billion improvement that will come from stock-based compensation, and the lion's share of that is kind of hitting H1. The reason being that, as I mentioned in my introductory remarks, the headwind we had last year was very kind of first half-year centric. We have much easier comps in the first half than in the second half on that factor. Secondly, we will continue to fine-tune and adjust our workforce. You mentioned the AI transformation being in full swing."
+    },
+    {
+      "speaker_id": "dominik-asam",
+      "speaker_name": "Dominik Asam",
+      "speaker_role": "CFO at SAP",
+      "timestamp": "00:22:55",
+      "text": "That means that on the one hand, there will be hiring. There are resources we need to get on board to future-proof the company. On the other hand, after having now completed this massive restructuring program in the first quarter, we will probably see going forward continuous adjustment, I would call it optimization of a much smaller magnitude. You can think of a kind of 1-2% of workforce annual adjustments. We cannot rule out that there might be some severance payment for the one or the other position in certain geographies here. That will also be kind of happening. That will not be an adjustment to our non-IFRS operating profit because that will be, I always say, like brushing teeth going forward. This will not be something that is very special."
+    },
+    {
+      "speaker_id": "dominik-asam",
+      "speaker_name": "Dominik Asam",
+      "speaker_role": "CFO at SAP",
+      "timestamp": "00:23:38",
+      "text": "By doing that, we want to avoid actually having to kind of every now and then make a huge restructuring, but rather continuously adjust as we move along. These are the factors that I want to call out. I would say that the full guidance is solidly on track. No reason to get overly excited about that. Obviously, the other question is always, where exactly will we end up on the cloud revenue side? Yes, I think that protects us also for kind of lower outcomes in case the trade disputes we alluded to would continue to weigh on sentiment here."
+    },
+    {
+      "speaker_id": "christian-klein",
+      "speaker_name": "Christian Klein",
+      "speaker_role": "CEO at SAP",
+      "timestamp": "00:24:11",
+      "text": "Yeah, and maybe Adam, just to build on that, we are just in the, of course, in the planning process for the upcoming years, for the next two years."
+    },
+    {
+      "speaker_id": "christian-klein",
+      "speaker_name": "Christian Klein",
+      "speaker_role": "CEO at SAP",
+      "timestamp": "00:24:22",
+      "text": "Obviously, Dominik and I have given the team also now the task to say, how can we further decouple the expense growth from the accelerated total revenue growth we are going to achieve in the next years? I mean, think about the cloud gross margin. I mean, we just achieved that by economies of scale and EUR 18 billion backlog signals there is more to come. When you think about onboarding customers, patching customers, when you think about, you know, servicing customers, I mean, there is almost like a digital twin to our operations people who helps to further automate this task by a significant percentage point. Second, I mean, when you are in support, solving tickets, ticket routing, ticket solving, I mean, there is more to come."
+    },
+    {
+      "speaker_id": "christian-klein",
+      "speaker_name": "Christian Klein",
+      "speaker_role": "CEO at SAP",
+      "timestamp": "00:25:08",
+      "text": "What we are seeing with Joule and when we are now building these agents, I mean, what we expect is actually that AI will be a further productivity driver also in the years to come, for sure. That is, you know, also, I guess, very important for our credibility when we go to customers to showcase, hey, this is how SAP wants, and this is our transformation. That is, of course, also our major goal when it comes to margin optimization for the years to come. Obviously, then it's our obligation to always look at our workforce and do our job and do, you know, some cynical, very distinct measures on reducing profiles where we don't need the people anymore."
+    },
+    {
+      "speaker_id": "christian-klein",
+      "speaker_name": "Christian Klein",
+      "speaker_role": "CEO at SAP",
+      "timestamp": "00:25:46",
+      "text": "On the other hand, of course, when it comes to agentic AI, you would not believe how many customers are now coming and say, hey, SAP, I need Joule. I do not need custom AI use cases. I do not even know how to train all of that and, you know, how to improve the outcome. This is where we need also on the consulting side, where we dedicated people who can help us to drive the change management with the customers and to implement all of these agents at the business of our customers."
+    },
+    {
+      "speaker_id": "christian-klein",
+      "speaker_name": "Christian Klein",
+      "speaker_role": "CEO at SAP",
+      "timestamp": "00:26:14",
+      "text": "The next question is from the line of Mark Moerdler with Bernstein Research. Please go ahead."
+    },
+    {
+      "speaker_id": "mark-moerdler",
+      "speaker_name": "Mark Moerdler",
+      "speaker_role": "Analyst at Bernstein",
+      "timestamp": "00:26:24",
+      "text": "Thank you very much and congratulations on the quarter. I would like to drill in a little more on the substantial margin improvement that we saw this quarter. We saw it in cloud gross margin."
+    },
+    {
+      "speaker_id": "mark-moerdler",
+      "speaker_name": "Mark Moerdler",
+      "speaker_role": "Analyst at Bernstein",
+      "timestamp": "00:26:37",
+      "text": "We saw it in sales and marketing and R&D as a percentage of revenue. Can you give us a color, Dominik, how you think long-term sustainability of those improvements, especially as you invest in AI, and how much more room you think there is for continuing to drive that margin improvement? Thank you."
+    },
+    {
+      "speaker_id": "christian-klein",
+      "speaker_name": "Christian Klein",
+      "speaker_role": "CEO at SAP",
+      "timestamp": "00:26:56",
+      "text": "Yeah, sure. I mean, I can say that now with more confidence because, as Christian mentioned, we are now kind of starting to sharpen the pencil for the planning exercise for the coming years. I just always come back, and I'm glad to say that will not change. Our operating leverage, i.e., the increase in total expenses versus the increase in revenues, will be contained in a range of 80-90%. That is the kind of yardstick for coming years. We have been doing much more than that."
+    },
+    {
+      "speaker_id": "christian-klein",
+      "speaker_name": "Christian Klein",
+      "speaker_role": "CEO at SAP",
+      "timestamp": "00:27:27",
+      "text": "Now, with the big restructuring we have executed through Q1 of this year, there was 10,000 jobs being eliminated. As I just stated, while there might be some continuous fine-tuning at a much smaller degree, which will then also not be kind of fully embarked on non-IFRS operating profit, that will enable us to get there. Our confidence level on being able to reach these operating leverage ratios is quite high. Now where exactly we will end up in that range also for 2026, that is something we want to really hone in when we communicate the guidance for 2026. It is the best kind of rough yardstick I can give you at present for these coming years."
+    },
+    {
+      "speaker_id": "dominik-asam",
+      "speaker_name": "Dominik Asam",
+      "speaker_role": "CFO at SAP",
+      "timestamp": "00:28:10",
+      "text": "How it is distributed, I mean, we never go into details because we want to keep the flexibility."
+    },
+    {
+      "speaker_id": "dominik-asam",
+      "speaker_name": "Dominik Asam",
+      "speaker_role": "CFO at SAP",
+      "timestamp": "00:28:16",
+      "text": "You know, sometimes we want to kind of push harder on incentives. Sometimes we want to give more marketing incentives. But the pegging order is still that the biggest % improvement in operating leverages and selling expenses. And then there is also still some improvement potential, we believe, on the R&D side and then also some on G&A. On the gross margin, you've seen a pretty favorable development. We were really pleased with the massive expansion we've seen in Q2, 1.8%. That's really good news because we talk about pushing cloud and also giving transformation incentives. I mean, that's all embarked in that number. So all of that is absorbed and still we kind of come to the 1.8% gross margin improvement. Now, that will become a slower, much slower gradient going forward because the one-off extra effects that we were benefiting from in the past might not reoccur."
+    },
+    {
+      "speaker_id": "dominik-asam",
+      "speaker_name": "Dominik Asam",
+      "speaker_role": "CFO at SAP",
+      "timestamp": "00:29:11",
+      "text": "Still, that's also part of a kind of grinding up the margin."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:29:14",
+      "text": "The next question comes from Jackson Ader with KeyBanc Capital Markets. Please go ahead."
+    },
+    {
+      "speaker_id": "jackson-ader",
+      "speaker_name": "Jackson Ader",
+      "speaker_role": "Analyst at KeyBanc Capital Markets",
+      "timestamp": "00:29:24",
+      "text": "All right. Thanks for taking our questions, guys. Christian, I'd like to spend a couple of minutes on the Alibaba partnership that you mentioned in your prepared remarks. I'm just curious, how large is your Chinese footprint today? I guess, are there any more details or maybe mechanics on the go-to-market motion, how this partnership is actually going to work with Alibaba, and maybe how large is that Chinese total addressable market for SAP? Thanks."
+    },
+    {
+      "speaker_id": "christian-klein",
+      "speaker_name": "Christian Klein",
+      "speaker_role": "CEO at SAP",
+      "timestamp": "00:29:57",
+      "text": "Yeah, I mean, the China market, we have to look at it from two angles. First, you have to see that 90% of the multinationals we are warning also outside of China are doing business in China."
+    },
+    {
+      "speaker_id": "christian-klein",
+      "speaker_name": "Christian Klein",
+      "speaker_role": "CEO at SAP",
+      "timestamp": "00:30:16",
+      "text": "Because of the trade conflicts, I mean, obviously, they are looking for solutions to further drive productivity in China for China in their factories to improve their logistics, to get more supply chain resiliency. They need to decouple it to a certain extent, yeah, to mitigate risk. There, of course, Alibaba is now key because we have now also a Chinese partner with us where we can really deliver our cloud in China for China. The Chinese customers itself, I mean, there are many, many tech companies who are very open for moving with us to the cloud. They need SAP also to globalize their business. I mean, also a car manufacturer like BYD, they started rather small, and now they became very big on our platform."
+    },
+    {
+      "speaker_id": "christian-klein",
+      "speaker_name": "Christian Klein",
+      "speaker_role": "CEO at SAP",
+      "timestamp": "00:31:06",
+      "text": "Of course, the market is still smaller compared to a U.S. or Germany, actually the growth, what we are seeing is quite considerable. Of course, with such a partnership, we definitely want to now see how we can join forces on go-to-market. It is not only about the large enterprises, it is also about the upper mid-market, which we want to capture and hopefully then also can win together with Alibaba. I have huge hopes. Over the time, let's see with Ali, I mean, we see also now customers in Asia, even in EMEA, also asking for our partnership with Ali. Let's see what we are going to do. The first focus is now to make it work in China for China."
+    },
+    {
+      "speaker_id": "dominik-asam",
+      "speaker_name": "Dominik Asam",
+      "speaker_role": "CFO at SAP",
+      "timestamp": "00:31:50",
+      "text": "I mean, in terms of revenues, we don't disclose China-specific revenues, but it's included, of course, in what we call rest of APJ, which I just checked is about 10% of our revenues. Of course, not all of that is China. If you want to pick the middle as a wild guess, you come to mid-single-digit kind of contribution very roughly. You also see the growth rates for these regions, which are reasonable. We don't have by far cry the same business size as we have in the United States, where we generated 31% of revenues in Q2."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:32:20",
+      "text": "The next question is from the line of Toby Ogg with JP Morgan. Please go ahead. Toby, your line is now open. We'll move on to our next question from Michael Briest with UBS. Please go ahead."
+    },
+    {
+      "speaker_id": "michael-briest",
+      "speaker_name": "Michael Briest",
+      "speaker_role": "Analyst at UBS",
+      "timestamp": "00:32:52",
+      "text": "Thank you. Good evening and my congratulations as well."
+    },
+    {
+      "speaker_id": "michael-briest",
+      "speaker_name": "Michael Briest",
+      "speaker_role": "Analyst at UBS",
+      "timestamp": "00:32:58",
+      "text": "Dominik, another really good quarter on cash flow. Contract liabilities, I think the cash inflow is up about $400 million year on year. I know at Sapphire, you were talking about the impact of transformation credits. Can you maybe say whether those are related? In terms of the unwinding of that transformation credit balance, what size is it today and what impact might it have on cash flow next year?"
+    },
+    {
+      "speaker_id": "dominik-asam",
+      "speaker_name": "Dominik Asam",
+      "speaker_role": "CFO at SAP",
+      "timestamp": "00:33:23",
+      "text": "Thank you. Yeah. I mean, on the transformation credit, again, just to make sure we're all on the same page, what this is all about. When we are signing deals, in certain situations, we are granting a credit to the customer, which is basically a cash voucher to offset some of the non-recurring project costs they have in transforming or adding some of our lines of business or moving to the public cloud as examples."
+    },
+    {
+      "speaker_id": "dominik-asam",
+      "speaker_name": "Dominik Asam",
+      "speaker_role": "CFO at SAP",
+      "timestamp": "00:33:53",
+      "text": "What we do is we take that kind of value of the voucher and we amortize or we spread it over the term of the deal. If it is used in early innings, there is, of course, a certain cash conversion negative in that early phase, which is then recovered. Over the life of the full transaction, basically, it is a wash, it is a kind of neutral cash conversion. We do not disclose details on how big that is. That would be also competitively quite sensitive. It is just one part of our working capital management. The way I really want to think about it also in terms of what we should look at for 2026 is to really start from non-IFRS operating profit. For that next year, we need to embark on a reasonable currency assumption."
+    },
+    {
+      "speaker_id": "dominik-asam",
+      "speaker_name": "Dominik Asam",
+      "speaker_role": "CFO at SAP",
+      "timestamp": "00:34:43",
+      "text": "You know that on the cash flow, we are hedging that. While we had been able to hedge at very good rates for free cash flow in 2025, now we need to still hedge for 2026 in the remaining to-do of the year and maybe even in the early innings of 2026 when the planning is finalized. We have a very solid base for that. These are all the elements we need to take into account. We start from non-IFRS operating profit. We deduct taxes. The current tax rates you see are a pretty reasonable proxy of what they might be also in 2026. There is always that offset between the cash and the P&L on stock-based comp, which is adding roundabouts â‚¬1 billion."
+    },
+    {
+      "speaker_id": "dominik-asam",
+      "speaker_name": "Dominik Asam",
+      "speaker_role": "CFO at SAP",
+      "timestamp": "00:35:24",
+      "text": "You can also see that we did a little bit more than $0.5 billion in the first half of the year in terms of positive contribution to cash conversion from stock-based comp. I would not really overemphasize the attribution of the puts and takes every quarter because they can be quite volatile sometimes, seasonal sometimes. There is a lot of information actually in the balance sheet, as you point out, to contract liabilities and so forth. It would really now bust the scope of this call if we go jointly through all the accounts payables, contract liabilities, and all of that. I'm actually preparing a little bit of a talk sheet for that so we can all take that offline and go through this if you're interested in playing that game."
+    },
+    {
+      "speaker_id": "dominik-asam",
+      "speaker_name": "Dominik Asam",
+      "speaker_role": "CFO at SAP",
+      "timestamp": "00:36:10",
+      "text": "You will see when you do that, any given quarter can be kind of misleading. What really matters is more like a rolling 12-month window. This is why I tend to focus on the full year. I can only reemphasize again, now having looked at the first view on the planning for the midterm, that this kind of stupid rule of thumb, take the kind of non-IFRS operating profit, tax-affected, and then take into account the positive impact from stock-based being equity settled to a certain degree, is a very good proxy over that type of time frame with certain fluctuations year by year."
+    },
+    {
+      "speaker_id": "christian-klein",
+      "speaker_name": "Christian Klein",
+      "speaker_role": "CEO at SAP",
+      "timestamp": "00:36:45",
+      "text": "Yeah. Michael, just to build on that, looking at the health of business we are closing these days, I mean, obviously, when do we use these migration credits?"
+    },
+    {
+      "speaker_id": "christian-klein",
+      "speaker_name": "Christian Klein",
+      "speaker_role": "CEO at SAP",
+      "timestamp": "00:36:58",
+      "text": "I mean, we are using that when especially large customers go into a massive transformation greenfield. They are really completely redesigning the way how they predict demand, optimize supply chain on the shop floor, or logistics. That, of course, comes with some initial costs also, not only on system migration, but also really working on the business processes. Now, obviously, what we are doing is then, okay, we say, okay, to make the business case even more compelling, we give these migration credits at the limited threshold. What we also then achieving is actually that our prices after discount go also constantly up. I mean, our goal is, of course, which is super important for the margin and the profit long term, is of course that our prices are actually increasing quarter over quarter. That is what we are achieving."
+    },
+    {
+      "speaker_id": "christian-klein",
+      "speaker_name": "Christian Klein",
+      "speaker_role": "CEO at SAP",
+      "timestamp": "00:37:56",
+      "text": "Despite some desperate moves, I have to say, from some of our competitors out there, we are achieving really a healthy increase of prices quarter over quarter. When you then offset that and compare that, I would say we are using these migration credits in a very good, in a very wise way to also protect our prices on subscription and recurring cloud revenue."
+    },
+    {
+      "speaker_id": "christian-klein",
+      "speaker_name": "Christian Klein",
+      "speaker_role": "CEO at SAP",
+      "timestamp": "00:38:18",
+      "text": "The next question is from the line of Frederic Boulan with Bank of America. Please go ahead."
+    },
+    {
+      "speaker_id": "frederic-boulan",
+      "speaker_name": "Frederic Boulan",
+      "speaker_role": "Analyst at Bank of America",
+      "timestamp": "00:38:27",
+      "text": "Hey, good evening, Christian and Dominik. You both started your comments with a fairly prudent message on the macro environment. It would be great if you could discuss how you see the demand impacting CCB in the rest of the year. You highlighted the U.S. public sector and some manufacturing segments impacted by tariffs. Also a fairly positive message."
+    },
+    {
+      "speaker_id": "frederic-boulan",
+      "speaker_name": "Frederic Boulan",
+      "speaker_role": "Analyst at Bank of America",
+      "timestamp": "00:38:56",
+      "text": "It would be great to understand a bit your assumptions and how we should think about CCB and also cloud with a nice pickup to 20% in Q2, but any specific factors we should bear in mind for the second half. Thank you."
+    },
+    {
+      "speaker_id": "christian-klein",
+      "speaker_name": "Christian Klein",
+      "speaker_role": "CEO at SAP",
+      "timestamp": "00:39:09",
+      "text": "Yeah, thanks a lot. I mean, first, we clearly said already at the beginning of the year that we always expected a slight deceleration of CCB. What we said at the beginning of the year is now actually also becoming a reality and was planned in as we honestly, after this massive Q4, we of course also came in at a very high base and Q1 was of course definitely a record high."
+    },
+    {
+      "speaker_id": "christian-klein",
+      "speaker_name": "Christian Klein",
+      "speaker_role": "CEO at SAP",
+      "timestamp": "00:39:39",
+      "text": "Now, when you're looking at half year two, I mean, first, which gives me the confidence on the guidance is that pipeline coverage, we actually have the same coverage like last year where we had a stellar half year two. That, of course, assuming now we're going to hit the same conversion rates like last year, I mean, that is of course a very great position to be in. I mean, that is good, strong pipeline on, of course, on a set of very ambitious bookings numbers for half year two. Now, of course, what now comes in is the uncertainty. The same like in Q1, I would love to have a crystal ball. I mean, there are some mega deals in, yeah, where of course this creates a swing in CCB on both sides."
+    },
+    {
+      "speaker_id": "christian-klein",
+      "speaker_name": "Christian Klein",
+      "speaker_role": "CEO at SAP",
+      "timestamp": "00:40:35",
+      "text": "Obviously, what we need to see, especially in a few sectors like U.S. public sector, manufacturing industries where customers are impacted by tariffs, that is of course now really an important factor in half year two. We have the pipeline, we have really good coverage. Look, the fascinating thing about SAP is also when you're sitting in these forecast calls, you see the sheer resiliency of this company. I'm not sure if all of our peers have that. No matter if one GEO is performing a little bit soft, we have other GEOs who are actually performing really well. You also see a good swing in the products. We have a broad portfolio. Last quarter, it was definitely a very good quarter in cash flow optimization. We had a good quarter in spend, etc."
+    },
+    {
+      "speaker_id": "christian-klein",
+      "speaker_name": "Christian Klein",
+      "speaker_role": "CEO at SAP",
+      "timestamp": "00:41:25",
+      "text": "Now it's really hard to say for half year two. It's really about, do we get all of the deals in with a similar conversion rate like last year? Of course, what we need for that is really predictability on trade and customers who really then sign up for those deals."
+    },
+    {
+      "speaker_id": "dominik-asam",
+      "speaker_name": "Dominik Asam",
+      "speaker_role": "CFO at SAP",
+      "timestamp": "00:41:43",
+      "text": "Maybe one addition there, do not forget the WalkMe impact for the remaining to-do. This is the last quarter, Q2, where we still benefit from the year-on-year improvement. This will kind of phase out over the next couple of quarters. Actually, Q3 already on CCB, it will be done now because we closed the deal in the Q3 of the prior year. It's kind of apples to apples at that point in time. That roughly, very roughly, is one and a half percentage points. Once that happens, now what happens?"
+    },
+    {
+      "speaker_id": "dominik-asam",
+      "speaker_name": "Dominik Asam",
+      "speaker_role": "CFO at SAP",
+      "timestamp": "00:42:14",
+      "text": "Otherwise, Christian has already commented, but I also want to make the point, you should also not forget that we have some room in terms of protecting the accelerated revenue growth for 2026, 2027 because of the very strong mix effect we are currently benefiting. So even if we had beyond that kind of 1.5, a very slight continued deceleration, that would still not derail that objective."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:42:37",
+      "text": "The next question is from the line of Charles Brennan with Jefferies. Please go ahead."
+    },
+    {
+      "speaker_id": "charles-brennan",
+      "speaker_name": "Charles Brennan",
+      "speaker_role": "Analyst at Jefferies",
+      "timestamp": "00:42:47",
+      "text": "Hi, great. Yeah, thanks for taking my question. Just a couple of quick ones if I can. Firstly, on the cloud revenues, we do not often see growth matching the CCB. Were there any one-off catch-up payments in the cloud revenues that we should be aware of, or was it a fairly clean quarter?"
+    },
+    {
+      "speaker_id": "christian-klein",
+      "speaker_name": "Christian Klein",
+      "speaker_role": "CEO at SAP",
+      "timestamp": "00:43:11",
+      "text": "Secondly, obviously in the prepared remarks, you were calling out the Business Data Cloud. You gave a couple of examples of contracts where you have got BDC embedded into the contracts. Is there anything you can say in terms of the commercials that you have been able to extract that sheds some light on how material it could be for you over time? Thank you."
+    },
+    {
+      "speaker_id": "christian-klein",
+      "speaker_name": "Christian Klein",
+      "speaker_role": "CEO at SAP",
+      "timestamp": "00:43:36",
+      "text": "Maybe I would step at that kind of 28% both on CCB and cloud revenue. You are right. I mean, if you look at the cloud CCB growth, normally there is then some attrition downwards because of transaction revenues. We actually did not mention that, but I can mention it now. The transactional part of the business was again disappointing, frankly. It is not surprising."
+    },
+    {
+      "speaker_id": "christian-klein",
+      "speaker_name": "Christian Klein",
+      "speaker_role": "CEO at SAP",
+      "timestamp": "00:44:01",
+      "text": "I mean, if you look at share prices of temporary workforce companies imploding over the last half year or so, and the airlines also reporting on travel restrictions, also sometimes because of policy, that is not a super good environment again. That was dilutive. The good news is that kind of, we always said kind of $800 million-ish ticket is now further and further diluted in the mix. The dilutive effect on cloud revenue growth is coming down. Indeed, normally CCB growth is followed by cloud revenue growth, which is a touch lighter because of that transactional business. Now on BDC,"
+    },
+    {
+      "speaker_id": "dominik-asam",
+      "speaker_name": "Dominik Asam",
+      "speaker_role": "CFO at SAP",
+      "timestamp": "00:44:43",
+      "text": "I can take that. I can take that question. Look, BDC, I mean, first, it is good to see that we can leverage BDC and sell it in many ways."
+    },
+    {
+      "speaker_id": "dominik-asam",
+      "speaker_name": "Dominik Asam",
+      "speaker_role": "CFO at SAP",
+      "timestamp": "00:44:51",
+      "text": "I mean, first, we indeed, BDC is part of many RISE deals, especially customers, you know, and there are many who still have their BW system on prem. They are now seeing with BDC a real business case because they're saying, hey, I'm not only now shifting the BW to the cloud, I'm actually now working with Databricks to harmonize data, to really build the semantic layer, and then of course consume the intelligent apps on top. That kind of uplift on a wise deal can be up to 20-30% of ACV. It really depends on the size of the BW system and how many data products a customer is consuming. Now, BDC is not only a RISE add-on. BDC is of course now embedded in all of our solutions."
+    },
+    {
+      "speaker_id": "dominik-asam",
+      "speaker_name": "Dominik Asam",
+      "speaker_role": "CFO at SAP",
+      "timestamp": "00:45:38",
+      "text": "I mean, when you consume in the future SuccessFactors, you can have actually our intelligent app for HR in it, and you get pre-packaged content, pre-packaged data products semantically for the skills of your workforce, for hiring profiles, for to really manage your workforce end to end. That BDC will be also added to all of our LOB deals. When you sum that up, obviously BDC, I expect that this will be in a few years, of course, also a business which can be a few billions big. Absolutely, when you just consider the installed base, what we are having also on the BW side."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:46:19",
+      "text": "The next question is from the line of Mohammed Moawalla with Goldman Sachs. Please go ahead."
+    },
+    {
+      "speaker_id": "mohammed-moawalla",
+      "speaker_name": "Mohammed Moawalla",
+      "speaker_role": "Analyst at Goldman Sachs",
+      "timestamp": "00:46:28",
+      "text": "Great, thank you. Hi Christian, hi Dominik, and well done on the quarter."
+    },
+    {
+      "speaker_id": "mohammed-moawalla",
+      "speaker_name": "Mohammed Moawalla",
+      "speaker_role": "Analyst at Goldman Sachs",
+      "timestamp": "00:46:36",
+      "text": "My question was just again around coming back to some of the macro impacts that you're seeing. You've obviously been able to withstand that pretty impressively. When we look at your CCB growth versus corresponding metrics to some of your peers, still quite impressive. In your view, what has perhaps changed? Has it changed really in the last couple of months that has kind of driven this change? You alluded to some of the sort of mega deals being a gating factor. I noticed that the percentage of kind of $5 million plus order entry has been diminishing a little bit. Is it down to that, or is it perhaps the complexity of some of the deals that customers are looking to kind of break up into smaller pieces? It would be helpful to get some color on that."
+    },
+    {
+      "speaker_id": "mohammed-moawalla",
+      "speaker_name": "Mohammed Moawalla",
+      "speaker_role": "Analyst at Goldman Sachs",
+      "timestamp": "00:47:20",
+      "text": "Are there any particular verticals that you're seeing this weakness in? Thank you."
+    },
+    {
+      "speaker_id": "christian-klein",
+      "speaker_name": "Christian Klein",
+      "speaker_role": "CEO at SAP",
+      "timestamp": "00:47:24",
+      "text": "Yeah, a really good question. Look, I mean, first, very important, no deal with elongated deal cycles is lost. I mean, obviously we have seen in the last few weeks that suddenly customers needed additional approval at the very top. Deal cycles just become longer because there is much more strict cost controls, especially in a few industries which we mentioned. Now, I mean, when you're now looking into half year two, I mean, for all of these big deals, what we are having, and obviously half year two, we have some of them. I mean, we have clear closing plans. We have, of course, also customers leaning in. They like what they see with the business case."
+    },
+    {
+      "speaker_id": "christian-klein",
+      "speaker_name": "Christian Klein",
+      "speaker_role": "CEO at SAP",
+      "timestamp": "00:48:12",
+      "text": "They also oftentimes see SAP as a solution to overcome their own financial challenges coming from macro uncertainty. Obviously, can you now, can we certainly say in Q3 we're going to hit all deals which are now lined up, especially the mega deals? I mean, obviously that is really hard to predict. That is why the CCB, I mean, we always said we're going to see a slight deceleration. Even assume there will be a further percentage point of deceleration in Q3, even that would mean that we can further accelerate our total revenue growth. Look, the good piece is the pipeline is there. We are not losing these deals."
+    },
+    {
+      "speaker_id": "christian-klein",
+      "speaker_name": "Christian Klein",
+      "speaker_role": "CEO at SAP",
+      "timestamp": "00:48:53",
+      "text": "We just now need to be more diligent in managing the closing plans and be even closer to the customer that we are getting these deals in because obviously the CCB has a swing in half year two. That is hard to predict how big this swing will be. Again, the good piece is we have the pipeline and we have the material and the customers responding very positively to the business cases, what we are showing to them."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:49:19",
+      "text": "The next question is from the line of Ben Castillo-Bernaus with BNP Paribas. Please go ahead."
+    },
+    {
+      "speaker_id": "ben-castillo-bernaus",
+      "speaker_name": "Ben Castillo-Bernaus",
+      "speaker_role": "Analyst at BNP Paribas",
+      "timestamp": "00:49:28",
+      "text": "Hi, good evening. Thanks for taking my question. Just coming back to the OpEx trajectory, obviously you've just grown even some 40-something % in H1. I know you talked about the stock comp impact there. Nevertheless, that still implies the operating profit growth slows quite materially in H2."
+    },
+    {
+      "speaker_id": "ben-castillo-bernaus",
+      "speaker_name": "Ben Castillo-Bernaus",
+      "speaker_role": "Analyst at BNP Paribas",
+      "timestamp": "00:49:47",
+      "text": "How much of that's just kind of conservatism on your part versus concrete plans to accelerate the investments in the back half? I guess tying that into your comments around headcount, which was only up very modestly. Dominik, you mentioned possible continued optimization going forward. What's the level of hiring that you feel is appropriate to deliver on the growth acceleration there? Thanks."
+    },
+    {
+      "speaker_id": "dominik-asam",
+      "speaker_name": "Dominik Asam",
+      "speaker_role": "CFO at SAP",
+      "timestamp": "00:50:08",
+      "text": "Yeah, I mean, I tried to really mention the things that will make the kind of second half remain to do versus first half a little bit more challenging."
+    },
+    {
+      "speaker_id": "dominik-asam",
+      "speaker_name": "Dominik Asam",
+      "speaker_role": "CFO at SAP",
+      "timestamp": "00:50:23",
+      "text": "You mentioned it yourself on the stock-based compensation that we have already taken the lion's share of the improvement because that improvement was against, I'd say, very easy comps in the first half of the year where we had this big impact on a large cash settle to last tranches, weighing on our results in 2024, and that's kind of going away in 2025, and that will not reoccur in the second half of the year. Now, very specifically on some investments we need to make, it's about hiring, yes. I don't want to be precise now on how many headcount exactly, but we are talking about several thousand of headcount we would still embark. I also mentioned that this kind of continuous improvement to avoid massive restructuring one-offs like we had last year, recall was 10,000 people, would probably require some fine-tuning every now and then."
+    },
+    {
+      "speaker_id": "dominik-asam",
+      "speaker_name": "Dominik Asam",
+      "speaker_role": "CFO at SAP",
+      "timestamp": "00:51:14",
+      "text": "We think that Q3 is probably a good point in time to do that. That will also in some geographies like Germany, of course, imply severance payments that we need to pay. If you say 1-2% of the population, you can make the math on 100,000 plus that we talk about, up to 2,000. You can make a certain assumption about what could happen in Germany, or in France, or in some other jurisdictions where you have severance. That will also cost some money. We deliberately decided to not kind of start disclosing it like we did with the big programs because we feel that this will be a recurring topic in the coming years."
+    },
+    {
+      "speaker_id": "dominik-asam",
+      "speaker_name": "Dominik Asam",
+      "speaker_role": "CFO at SAP",
+      "timestamp": "00:51:52",
+      "text": "In a certain way, it's an upgrade, you could say, because we are really embarking that, digesting that in our numbers without affecting our operating profit by that. That's what I wanted to allude to. That's the reason why the second half looks a little bit more manageable. I also made the comment that, yeah, we have to be cautious, prudent about H2 in terms of remain to do of all the top line. We don't want to speculate on the kind of most frothy part of our guidance on that for operating profit, but also be able to absorb in case we are lending a little bit more towards the lower half in case that would materialize that we also have protection in the operating profit and be solid on that one."
+    },
+    {
+      "speaker_id": "christian-klein",
+      "speaker_name": "Christian Klein",
+      "speaker_role": "CEO at SAP",
+      "timestamp": "00:52:36",
+      "text": "Same truth of cash flow, by the way."
+    },
+    {
+      "speaker_id": "christian-klein",
+      "speaker_name": "Christian Klein",
+      "speaker_role": "CEO at SAP",
+      "timestamp": "00:52:39",
+      "text": "I mean, cash flow, we also look quite robust, as you've commented, or some of you have commented yourself for the remain to do. It's a manageable task, I'd say."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:52:48",
+      "text": "The next question is from the line of Johannes Schaller with Deutsche Bank. Please go ahead."
+    },
+    {
+      "speaker_id": "johannes-schaller",
+      "speaker_name": "Johannes Schaller",
+      "speaker_role": "Analyst at Deutsche Bank",
+      "timestamp": "00:52:57",
+      "text": "Yeah, thanks. Good evening. Thanks for taking my question. One for Christian maybe. I mean, yesterday we launched the Made for Germany initiative. SAP is unsurprisingly part of that. I think you also attended the launch event. Can you maybe talk a little bit about that? Just firstly, maybe in terms of SAP's contribution to this initiative, are there any also maybe investments that you're planning as a part of that that's material enough for us to think about? Secondly, just what you are hoping to get out of this as SAP?"
+    },
+    {
+      "speaker_id": "johannes-schaller",
+      "speaker_name": "Johannes Schaller",
+      "speaker_role": "Analyst at Deutsche Bank",
+      "timestamp": "00:53:31",
+      "text": "It's obviously with â‚¬600 billion plus massive investments planned over the next few years. Talk a bit about potentially the financial impact for you, but also what you hope to get out of it non-financially. Thank you."
+    },
+    {
+      "speaker_id": "christian-klein",
+      "speaker_name": "Christian Klein",
+      "speaker_role": "CEO at SAP",
+      "timestamp": "00:53:43",
+      "text": "Johannes, happy to answer your question. I mean, look, first of all, in Germany, definitely some optimism is needed. I guess this initiative yesterday is also a good starting point that also the private sector sees now some really early positive actions by our new government, which we definitely also want to support by also further highlighting the importance of Germany as one of our investment areas in the future. With regard to SAP, I mean, we have actually very important labs in Munich, in Berlin. We are actually collaborating a lot with the Technical University on supply chain AI."
+    },
+    {
+      "speaker_id": "christian-klein",
+      "speaker_name": "Christian Klein",
+      "speaker_role": "CEO at SAP",
+      "timestamp": "00:54:28",
+      "text": "We are doing a lot with obviously the HPI, which is world-class when it comes to AI on the data side. We are doing a lot also there in some research in industrial-related AI modules. That is, of course, a few investment areas we are going to see also going forward. For us as SAP, obviously in this initiative, it's also very important to further push down the overregulation we have in Europe because that is clearly a factor which reduces the competitiveness of not only the industry, but also especially the many startups we are having. I mean, we do a lot of development of AI in Palo Alto, in India, etc. Think about all the tech startups we are having in Europe and with the kind of overregulation we are having."
+    },
+    {
+      "speaker_id": "christian-klein",
+      "speaker_name": "Christian Klein",
+      "speaker_role": "CEO at SAP",
+      "timestamp": "00:55:21",
+      "text": "I mean, they are starting already with a big, big disadvantage compared to some other startups around the world. Last but not least, obviously, what we are pushing is with Sovereign Cloud. I mean, I mentioned Hensoldt. I mentioned we have a lot of defense customers in Europe. Obviously, with this initiative and a big focus on digital, I mean, obviously we see another strong momentum coming to us when it comes to transforming defense, where there is anyway a lot of spend these days. Of course, all of these defense customers are also now reaching out and say, hey, we cannot only spend in assets, in more production capabilities. We also definitely need to drive digitization."
+    },
+    {
+      "speaker_id": "christian-klein",
+      "speaker_name": "Christian Klein",
+      "speaker_role": "CEO at SAP",
+      "timestamp": "00:56:03",
+      "text": "That is, of course, the Sovereignty aspect is, of course, also a huge aspect what SAP can contribute to the competitiveness of Europe, especially in areas like public sector and, of course, also defense."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:56:16",
+      "text": "The next question is from the line of Michael Turrin with Wells Fargo Securities. Please go ahead."
+    },
+    {
+      "speaker_id": "michael-turrin",
+      "speaker_name": "Michael Turrin",
+      "speaker_role": "Analyst at Wells Fargo securities",
+      "timestamp": "00:56:25",
+      "text": "Hey, great. Good afternoon. Thanks for taking the question. Christian, you mentioned Sapphire as the main highlight in Q2. Can you speak more around any business impacts you're seeing on the back of that event? Any commentary around pipeline, new product impacts, or adoption trends and how that sets you up for the rest of the year? Just a small follow-on on the U.S. public sector commentary. Are you confident any elongation impacts you're seeing there currently are appropriately factored into how you're looking at the rest of the year from a guidance perspective? Thank you."
+    },
+    {
+      "speaker_id": "christian-klein",
+      "speaker_name": "Christian Klein",
+      "speaker_role": "CEO at SAP",
+      "timestamp": "00:56:59",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "christian-klein",
+      "speaker_name": "Christian Klein",
+      "speaker_role": "CEO at SAP",
+      "timestamp": "00:57:03",
+      "text": "I mean, Sapphire, I mean, it's always the event of the year where we actually generate the pipeline to have enough coverage to close out the year according to our guidance. This was definitely the case this year. I mean, it was a few billion of pipeline which we added on top of the Sapphire, which, again, yeah, which is every year needed. This year, I would say it was definitely a very, very positive outcome when you just look at the pipeline we generated out of Orlando and, of course, one week later out of Madrid. Now, on the public sector, I mean, this is, of course, when you think about the U.S. public sector, I mean, obviously, things have become a bit more difficult with DOGE, with certain agencies."
+    },
+    {
+      "speaker_id": "christian-klein",
+      "speaker_name": "Christian Klein",
+      "speaker_role": "CEO at SAP",
+      "timestamp": "00:57:56",
+      "text": "Of course, decision cycles and who is now deciding to move forward on a certain project. I mean, of course, there we are also, of course, working extremely close together with DOGE, with a few agencies. We just hope that in half year two, that pays off. Still, I have to say, of course, this is one of the areas where we definitely have to see that we can hopefully accelerate sales cycles in half year two and when we are on it. Yeah, that is the situation in the U.S. public sector."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:58:32",
+      "text": "Awesome. Thank you, Christian and Dominik. This concludes our call for today. Thank you, everyone, for joining."
+    },
+    {
+      "speaker_id": "christian-klein",
+      "speaker_name": "Christian Klein",
+      "speaker_role": "CEO at SAP",
+      "timestamp": "00:58:39",
+      "text": "Thanks a lot."
+    },
+    {
+      "speaker_id": "dominik-asam",
+      "speaker_name": "Dominik Asam",
+      "speaker_role": "CFO at SAP",
+      "timestamp": "00:58:40",
+      "text": "Have a great day. Thank you. Bye-bye."
+    },
+    {
+      "speaker_id": "operator",
+      "speaker_name": "Operator",
+      "speaker_role": "",
+      "timestamp": "00:58:43",
+      "text": "Ladies and gentlemen, the conference is now concluded and you may disconnect your telephone. Thank you for joining and have a pleasant day."
+    }
+  ],
+  "statements": [
+    {
+      "id": "SAP-FY2025Q2-001",
+      "turn_index": 4,
+      "speaker_id": "christian-klein",
+      "verbatim_quote": "In Q2, cloud revenue rose 28%, marking an increase of two percentage points compared with Q1.",
+      "claim": "SAP cloud revenue grew 28% year-on-year in Q2 2025, up two percentage points from Q1.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "SAP-FY2025Q2-002",
+      "turn_index": 4,
+      "speaker_id": "christian-klein",
+      "verbatim_quote": "For 14 quarters in a row, it has been consistently expanding at a rate of over 30%.",
+      "claim": "The Cloud ERP Suite has grown at over 30% for 14 consecutive quarters.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "SAP-FY2025Q2-003",
+      "turn_index": 4,
+      "speaker_id": "christian-klein",
+      "verbatim_quote": "Total revenue growth also continued to accelerate and reached 12%.",
+      "claim": "SAP total revenue grew 12% year-on-year in Q2 2025.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "SAP-FY2025Q2-004",
+      "turn_index": 4,
+      "speaker_id": "christian-klein",
+      "verbatim_quote": "Our current cloud backlog grew by 28% in Q2. Despite the currency headwind, it came in at EUR 18 billion.",
+      "claim": "Current cloud backlog reached EUR 18 billion in Q2 2025, up 28% year-on-year.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "SAP-FY2025Q2-005",
+      "turn_index": 4,
+      "speaker_id": "christian-klein",
+      "verbatim_quote": "Operating profit surged 35%.",
+      "claim": "SAP non-IFRS operating profit grew 35% year-on-year in Q2 2025.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "SAP-FY2025Q2-006",
+      "turn_index": 9,
+      "speaker_id": "christian-klein",
+      "verbatim_quote": "In Q2, well over half of our cloud order entry volume came from deals that included AI use cases.",
+      "claim": "More than half of Q2 2025 cloud order entry volume included deals with AI use cases.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "unverifiable"
+      }
+    },
+    {
+      "id": "SAP-FY2025Q2-007",
+      "turn_index": 10,
+      "speaker_id": "christian-klein",
+      "verbatim_quote": "By the end of the year, we expect the total number of available AI agents to reach 40.",
+      "claim": "SAP will have 40 AI agents available by end of 2025.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "SAP-FY2025Q2-008",
+      "turn_index": 11,
+      "speaker_id": "christian-klein",
+      "verbatim_quote": "Joule will be available everywhere across SAP and non-SAP systems starting in Q3, thanks to the integration with WalkMe.",
+      "claim": "Joule will be available across SAP and non-SAP systems starting Q3 2025 via WalkMe integration.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "SAP-FY2025Q2-009",
+      "turn_index": 11,
+      "speaker_id": "christian-klein",
+      "verbatim_quote": "It will also be giving answers to everything starting in Q4, powered by our partnership with Perplexity.",
+      "claim": "Joule will provide answers across everything starting Q4 2025 via Perplexity partnership.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "SAP-FY2025Q2-010",
+      "turn_index": 11,
+      "speaker_id": "christian-klein",
+      "verbatim_quote": "As of today, we have released more than 100 pre-built SAP managed data products covering finance, sales, manufacturing, and logistics. By the end of the year, we will more than double that, covering our entire Business Suite.",
+      "claim": "SAP will more than double its 100+ pre-built managed data products by end of 2025, covering the entire Business Suite.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "SAP-FY2025Q2-011",
+      "turn_index": 12,
+      "speaker_id": "christian-klein",
+      "verbatim_quote": "Our digital sales engagement platform, powered by Joule, increases productivity by up to 50% for selected sales roles.",
+      "claim": "The Joule-powered digital sales engagement platform increases productivity by up to 50% for selected sales roles.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "heavily_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "unverifiable"
+      }
+    },
+    {
+      "id": "SAP-FY2025Q2-012",
+      "turn_index": 12,
+      "speaker_id": "christian-klein",
+      "verbatim_quote": "Thanks to Joule for SuccessFactors, HR tickets are now resolved in up to 20% less time.",
+      "claim": "Joule for SuccessFactors reduces HR ticket resolution time by up to 20%.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "heavily_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "unverifiable"
+      }
+    },
+    {
+      "id": "SAP-FY2025Q2-013",
+      "turn_index": 12,
+      "speaker_id": "christian-klein",
+      "verbatim_quote": "With Joule for developers, coders at SAP are becoming up to 30% more efficient.",
+      "claim": "Joule for developers makes SAP coders up to 30% more efficient.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "heavily_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "unverifiable"
+      }
+    },
+    {
+      "id": "SAP-FY2025Q2-014",
+      "turn_index": 16,
+      "speaker_id": "dominik-asam",
+      "verbatim_quote": "Current cloud backlog reached EUR 18.1 billion, up 28%.",
+      "claim": "Current cloud backlog reached EUR 18.1 billion in Q2 2025, up 28% year-on-year.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "SAP-FY2025Q2-015",
+      "turn_index": 16,
+      "speaker_id": "dominik-asam",
+      "verbatim_quote": "This was again driven by the strong performance of the Cloud ERP Suite, which continued to deliver 34% growth in Q2.",
+      "claim": "Cloud ERP Suite grew 34% year-on-year in Q2 2025.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "SAP-FY2025Q2-016",
+      "turn_index": 16,
+      "speaker_id": "dominik-asam",
+      "verbatim_quote": "This represents 86% of total cloud revenue, underscoring its role as a foundational part of our cloud business.",
+      "claim": "Cloud ERP Suite represented 86% of total SAP cloud revenue in Q2 2025.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "SAP-FY2025Q2-017",
+      "turn_index": 17,
+      "speaker_id": "dominik-asam",
+      "verbatim_quote": "Software licenses revenue decreased by 13% in Q2, in line with the strategy we pursue.",
+      "claim": "SAP software licenses revenue decreased 13% year-on-year in Q2 2025.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "SAP-FY2025Q2-018",
+      "turn_index": 18,
+      "speaker_id": "dominik-asam",
+      "verbatim_quote": "total revenue came in at EUR 9 billion, up 12%",
+      "claim": "SAP total revenue was EUR 9 billion in Q2 2025, up 12% year-on-year.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "SAP-FY2025Q2-019",
+      "turn_index": 18,
+      "speaker_id": "dominik-asam",
+      "verbatim_quote": "particularly within our share of more predictable revenue, which increased to 86%",
+      "claim": "SAP's share of more predictable revenue increased to 86% in Q2 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "SAP-FY2025Q2-020",
+      "turn_index": 18,
+      "speaker_id": "dominik-asam",
+      "verbatim_quote": "our non-IFRS cloud gross margin for the quarter continued its upward trend, expanding by 1.8 percentage points to 75.2%, driving cloud gross profit up by 31%.",
+      "claim": "SAP non-IFRS cloud gross margin was 75.2% in Q2 2025, up 1.8 percentage points, and cloud gross profit grew 31%.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "SAP-FY2025Q2-021",
+      "turn_index": 19,
+      "speaker_id": "dominik-asam",
+      "verbatim_quote": "IFRS operating profit increased to EUR 2.5 billion in the quarter",
+      "claim": "SAP IFRS operating profit was EUR 2.5 billion in Q2 2025.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "SAP-FY2025Q2-022",
+      "turn_index": 19,
+      "speaker_id": "dominik-asam",
+      "verbatim_quote": "In the second quarter, non-IFRS operating profit was up 35% to EUR 2.6 billion.",
+      "claim": "SAP non-IFRS operating profit was EUR 2.6 billion in Q2 2025, up 35% year-on-year.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "SAP-FY2025Q2-023",
+      "turn_index": 19,
+      "speaker_id": "dominik-asam",
+      "verbatim_quote": "we have been able to reduce share-based compensation expenses by EUR 331 million or 26% in the first six months of 2025 as compared to the same period last year",
+      "claim": "SAP reduced share-based compensation expenses by EUR 331 million or 26% in H1 2025 versus H1 2024.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "SAP-FY2025Q2-024",
+      "turn_index": 20,
+      "speaker_id": "dominik-asam",
+      "verbatim_quote": "The IFRS effective tax rate in Q2 was 30.1%, and that non-IFRS tax rate was 30.8%.",
+      "claim": "SAP IFRS effective tax rate was 30.1% and non-IFRS tax rate was 30.8% in Q2 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "SAP-FY2025Q2-025",
+      "turn_index": 20,
+      "speaker_id": "dominik-asam",
+      "verbatim_quote": "Operating cash flow in the second quarter was up by 71% to EUR 2.6 billion, and free cash flow increased by 83% to EUR 2.4 billion.",
+      "claim": "SAP Q2 2025 operating cash flow was EUR 2.6 billion (up 71%) and free cash flow was EUR 2.4 billion (up 83%).",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "SAP-FY2025Q2-026",
+      "turn_index": 20,
+      "speaker_id": "dominik-asam",
+      "verbatim_quote": "basic IFRS earnings per share increased to EUR 1.45, and non-IFRS earnings per share increased to EUR 1.50.",
+      "claim": "SAP Q2 2025 basic IFRS EPS was EUR 1.45 and non-IFRS EPS was EUR 1.50.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "SAP-FY2025Q2-027",
+      "turn_index": 21,
+      "speaker_id": "dominik-asam",
+      "verbatim_quote": "we've decided to keep our 2025 outlook unchanged across all metrics",
+      "claim": "SAP is maintaining its FY2025 outlook unchanged across all metrics.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "SAP-FY2025Q2-028",
+      "turn_index": 28,
+      "speaker_id": "dominik-asam",
+      "verbatim_quote": "You recall that we said we want to end up the year at about EUR 2 billion. We had EUR 2.4 billion last year.",
+      "claim": "SAP expects to end 2025 with about EUR 2 billion in stock-based compensation expense versus EUR 2.4 billion in 2024.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "SAP-FY2025Q2-029",
+      "turn_index": 29,
+      "speaker_id": "dominik-asam",
+      "verbatim_quote": "You can think of a kind of 1-2% of workforce annual adjustments.",
+      "claim": "SAP expects annual workforce adjustments of approximately 1-2% going forward.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "heavily_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "SAP-FY2025Q2-030",
+      "turn_index": 38,
+      "speaker_id": "dominik-asam",
+      "verbatim_quote": "Our operating leverage, i.e., the increase in total expenses versus the increase in revenues, will be contained in a range of 80-90%. That is the kind of yardstick for coming years.",
+      "claim": "SAP expects operating leverage (expense growth vs revenue growth) in the 80-90% range in coming years.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "SAP-FY2025Q2-031",
+      "turn_index": 39,
+      "speaker_id": "christian-klein",
+      "verbatim_quote": "with the big restructuring we have executed through Q1 of this year, there was 10,000 jobs being eliminated",
+      "claim": "SAP eliminated 10,000 jobs through its restructuring program completed by Q1 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "SAP-FY2025Q2-032",
+      "turn_index": 48,
+      "speaker_id": "dominik-asam",
+      "verbatim_quote": "rest of APJ, which I just checked is about 10% of our revenues",
+      "claim": "SAP's rest of APJ region represents about 10% of revenues.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "SAP-FY2025Q2-033",
+      "turn_index": 48,
+      "speaker_id": "dominik-asam",
+      "verbatim_quote": "we generated 31% of revenues in Q2",
+      "claim": "The United States generated 31% of SAP's revenues in Q2 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "SAP-FY2025Q2-034",
+      "turn_index": 67,
+      "speaker_id": "dominik-asam",
+      "verbatim_quote": "This is the last quarter, Q2, where we still benefit from the year-on-year improvement. This will kind of phase out over the next couple of quarters. Actually, Q3 already on CCB, it will be done now",
+      "claim": "WalkMe's year-on-year contribution to CCB growth phases out starting Q3 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "SAP-FY2025Q2-035",
+      "turn_index": 67,
+      "speaker_id": "dominik-asam",
+      "verbatim_quote": "That roughly, very roughly, is one and a half percentage points.",
+      "claim": "WalkMe contributed roughly 1.5 percentage points to CCB growth previously.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "heavily_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "unverifiable"
+      }
+    },
+    {
+      "id": "SAP-FY2025Q2-036",
+      "turn_index": 75,
+      "speaker_id": "dominik-asam",
+      "verbatim_quote": "That kind of uplift on a wise deal can be up to 20-30% of ACV.",
+      "claim": "BDC can contribute up to 20-30% of ACV uplift on a RISE deal.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "heavily_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "SAP-FY2025Q2-037",
+      "turn_index": 76,
+      "speaker_id": "dominik-asam",
+      "verbatim_quote": "BDC, I expect that this will be in a few years, of course, also a business which can be a few billions big.",
+      "claim": "Klein expects BDC to become a business of a few billions in revenue in a few years.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "heavily_hedged",
+      "override_window": "long-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "SAP-FY2025Q2-038",
+      "turn_index": 88,
+      "speaker_id": "dominik-asam",
+      "verbatim_quote": "we are talking about several thousand of headcount we would still embark",
+      "claim": "SAP still plans to hire several thousand headcount going forward.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "SAP-FY2025Q2-039",
+      "turn_index": 15,
+      "speaker_id": "dominik-asam",
+      "verbatim_quote": "elongated sales cycles in certain sectors, such as U.S. public sector and industrial manufacturing",
+      "claim": "SAP is experiencing elongated sales cycles in U.S. public sector and industrial manufacturing sectors.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "unverifiable"
+      }
+    },
+    {
+      "id": "SAP-FY2025Q2-040",
+      "turn_index": 16,
+      "speaker_id": "dominik-asam",
+      "verbatim_quote": "we, as you will recall, usually close roughly two-thirds of our annual new cloud business",
+      "claim": "SAP typically closes roughly two-thirds of annual new cloud business in the second half.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "SAP-FY2025Q2-041",
+      "turn_index": 9,
+      "speaker_id": "christian-klein",
+      "verbatim_quote": "ABB, for example, is using SAP Business AI to bring down the time to create price quotes for larger products, from 15 days and more to only one day.",
+      "claim": "ABB uses SAP Business AI to reduce large product quote creation time from 15+ days to one day.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "unverifiable"
+      }
+    },
+    {
+      "id": "SAP-FY2025Q2-042",
+      "turn_index": 6,
+      "speaker_id": "christian-klein",
+      "verbatim_quote": "nearly 300 cloud customers selected our digital supply chain solutions only in Q2",
+      "claim": "Nearly 300 cloud customers selected SAP digital supply chain solutions in Q2 2025.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "unverifiable"
+      }
+    },
+    {
+      "id": "SAP-FY2025Q2-043",
+      "turn_index": 6,
+      "speaker_id": "christian-klein",
+      "verbatim_quote": "Nearly 100 customers selected our customer engagement platform",
+      "claim": "Nearly 100 customers selected SAP's customer engagement platform in Q2 2025.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "unverifiable"
+      }
+    },
+    {
+      "id": "SAP-FY2025Q2-044",
+      "turn_index": 6,
+      "speaker_id": "christian-klein",
+      "verbatim_quote": "Over 300 customers signed up for our human capital management solutions.",
+      "claim": "Over 300 customers signed up for SAP HCM solutions in Q2 2025.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "unverifiable"
+      }
+    },
+    {
+      "id": "SAP-FY2025Q2-045",
+      "turn_index": 10,
+      "speaker_id": "christian-klein",
+      "verbatim_quote": "In half-year one, we released our first 14 AI agents.",
+      "claim": "SAP released its first 14 AI agents in H1 2025.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    }
+  ]
+}
