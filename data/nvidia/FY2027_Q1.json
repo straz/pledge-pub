@@ -601,5 +601,976 @@
       "text": "This concludes today's conference call. You may now disconnect."
     }
   ],
-  "statements": []
+  "statements": [
+    {
+      "id": "NVDA-FY2027Q1-001",
+      "turn_index": 3,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "Total revenue of $82 billion was up 85% year-over-year and 20% sequentially.",
+      "claim": "NVIDIA reported Q1 FY2027 total revenue of $82 billion, up 85% year-over-year and 20% sequentially.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NVDA-FY2027Q1-002",
+      "turn_index": 4,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "Data center revenue of $75 billion was up 92% year-over-year and 21% sequentially",
+      "claim": "Q1 FY2027 data center revenue was $75 billion, up 92% YoY and 21% sequentially.",
+      "categorizations": [
+        "segment_growth_specific",
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NVDA-FY2027Q1-003",
+      "turn_index": 4,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "InfiniBand has also had a very strong quarter, growing more than 4x year-over-year",
+      "claim": "InfiniBand revenue grew more than 4x year-over-year in Q1 FY2027.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NVDA-FY2027Q1-004",
+      "turn_index": 5,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "data center computing revenue of $60 billion was up 77% year-over-year, while data center networking revenue of $15 billion nearly tripled year-over-year",
+      "claim": "Data center computing revenue was $60B up 77% YoY and networking revenue was $15B nearly tripling YoY in Q1 FY2027.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NVDA-FY2027Q1-005",
+      "turn_index": 6,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "Hyperscale revenue of $38 billion was approximately 50% of Data Center revenue and increased 12% quarter-over-quarter.",
+      "claim": "Hyperscale sub-segment revenue was $38B, ~50% of Data Center, up 12% QoQ in Q1 FY2027.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NVDA-FY2027Q1-006",
+      "turn_index": 6,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "ACIE revenue was $37 billion and grew 31% quarter-over-quarter, including AI cloud revenue that more than tripled year-over-year.",
+      "claim": "ACIE revenue was $37B, up 31% QoQ, with AI cloud revenue more than tripling YoY in Q1 FY2027.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NVDA-FY2027Q1-007",
+      "turn_index": 6,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "The number of partner data centers exceeding 10 MW has nearly doubled in just one year, now surpassing 80 sites.",
+      "claim": "Partner data centers exceeding 10 MW now surpass 80 sites, nearly double the prior year.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NVDA-FY2027Q1-008",
+      "turn_index": 6,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "Sovereign revenue increased more than 80% year-over-year.",
+      "claim": "Sovereign revenue grew more than 80% year-over-year in Q1 FY2027.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NVDA-FY2027Q1-009",
+      "turn_index": 6,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "NVIDIA AI infrastructure is now deployed across nearly 40 countries",
+      "claim": "NVIDIA AI infrastructure is deployed across nearly 40 countries.",
+      "categorizations": [
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NVDA-FY2027Q1-010",
+      "turn_index": 7,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "The price of renting an H100 has risen 20% year to date, while A100 cloud pricing is up nearly 15%.",
+      "claim": "H100 rental price is up 20% YTD and A100 cloud pricing up nearly 15%.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "unverifiable"
+      }
+    },
+    {
+      "id": "NVDA-FY2027Q1-011",
+      "turn_index": 9,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "AI infrastructure spending is on track to reach $3 trillion-$4 trillion annually by the end of this decade.",
+      "claim": "AI infrastructure spending will reach $3-4 trillion annually by the end of the decade.",
+      "categorizations": [
+        "strategic_direction_claim"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "heavily_hedged",
+      "override_window": "long-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-FY2027Q1-012",
+      "turn_index": 9,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "Starting this year, AWS will add more than 1 million Blackwell and Rubin GPUs",
+      "claim": "AWS will deploy more than 1 million Blackwell and Rubin GPUs starting this year.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-FY2027Q1-013",
+      "turn_index": 9,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "Microsoft's Fairwater, the world's most powerful AI data center, is now live, ahead of schedule, powered by hundreds of thousands of Blackwell GPUs.",
+      "claim": "Microsoft's Fairwater AI data center is live, powered by hundreds of thousands of Blackwell GPUs.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NVDA-FY2027Q1-014",
+      "turn_index": 11,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "Full stack innovations drove the 2.7x increase in throughput and a 60% reduction in the cost per token on GB300 compared to just six months ago.",
+      "claim": "GB300 delivered 2.7x throughput increase and 60% cost per token reduction versus six months prior.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NVDA-FY2027Q1-015",
+      "turn_index": 12,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "Vera will deliver up to 1.5x faster performance per core, 2x performance per watt, and 4x density per rack compared to x86-based alternatives.",
+      "claim": "Vera CPU will deliver up to 1.5x performance per core, 2x perf/watt, and 4x rack density vs x86.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-FY2027Q1-016",
+      "turn_index": 12,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "Vera CPU opens a brand-new $200 billion TAM for NVIDIA",
+      "claim": "Vera CPU addresses a new $200 billion TAM for NVIDIA.",
+      "categorizations": [
+        "strategic_direction_claim"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "long-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-FY2027Q1-017",
+      "turn_index": 12,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "We have visibility to nearly $20 billion in total CPU revenue this year",
+      "claim": "NVIDIA has visibility to nearly $20 billion in total CPU revenue this year.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-FY2027Q1-018",
+      "turn_index": 12,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "We are on track to commence production shipments of Vera Rubin in the second half of this year, starting in Q3.",
+      "claim": "Vera Rubin production shipments will begin in Q3 of FY2027 (second half of the year).",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-FY2027Q1-019",
+      "turn_index": 13,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "Vera Rubin will deliver up to 35x higher inference throughput and up to 10x greater AI factory revenue compared with Blackwell.",
+      "claim": "Vera Rubin will deliver up to 35x higher inference throughput and 10x AI factory revenue vs Blackwell.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-FY2027Q1-020",
+      "turn_index": 13,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "we are not including any China data center compute revenue in our outlook",
+      "claim": "NVIDIA's Q2 FY2027 outlook excludes any China data center compute revenue.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-FY2027Q1-021",
+      "turn_index": 13,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "Our Edge Computing market platform generated $6.4 billion, up 10% quarter-over-quarter and 29% year-over-year.",
+      "claim": "Edge Computing revenue was $6.4B, up 10% QoQ and 29% YoY in Q1 FY2027.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NVDA-FY2027Q1-022",
+      "turn_index": 14,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "Our physical AI continues to gain momentum, exceeding $9 billion in revenue over the last 12 months.",
+      "claim": "Physical AI revenue exceeded $9 billion over the trailing 12 months.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NVDA-FY2027Q1-023",
+      "turn_index": 14,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "Our partnership with Uber will power the Robotaxi fleet across nearly 30 cities and four continents by 2028.",
+      "claim": "NVIDIA-Uber partnership will power Robotaxi fleet across nearly 30 cities and 4 continents by 2028.",
+      "categorizations": [
+        "geographic_or_regional_rollout",
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-FY2027Q1-024",
+      "turn_index": 14,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "In Q1, we increased total supply, inclusive of inventory, purchase commitments, and prepaids to $145 billion.",
+      "claim": "NVIDIA increased total supply (inventory, purchase commitments, prepaids) to $145 billion in Q1 FY2027.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NVDA-FY2027Q1-025",
+      "turn_index": 15,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "GAAP gross margin was 74.9% and non-GAAP gross margins was 75%",
+      "claim": "Q1 FY2027 GAAP gross margin was 74.9% and non-GAAP gross margin was 75%.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NVDA-FY2027Q1-026",
+      "turn_index": 15,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "Our non-GAAP effective tax rate of 16% came just below our prior outlook",
+      "claim": "Q1 FY2027 non-GAAP effective tax rate was 16%.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NVDA-FY2027Q1-027",
+      "turn_index": 15,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "We expect to return to the mid-50s in Q2.",
+      "claim": "DSO will return to mid-50s days in Q2 FY2027.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-FY2027Q1-028",
+      "turn_index": 15,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "We generated record free cash flow, $49 billion, up from $35 billion in Q4.",
+      "claim": "Q1 FY2027 free cash flow was a record $49 billion, up from $35 billion in Q4.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NVDA-FY2027Q1-029",
+      "turn_index": 3,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "We returned a record $20 billion to our shareholders",
+      "claim": "NVIDIA returned a record $20 billion to shareholders in Q1 FY2027.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NVDA-FY2027Q1-030",
+      "turn_index": 16,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "we are increasing our quarterly dividend from $0.01-$0.20 per share",
+      "claim": "NVIDIA is increasing its quarterly dividend (Jensen later corrected to $0.25 per share).",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-FY2027Q1-031",
+      "turn_index": 16,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "We are also announcing an $80 billion share repurchase authorization, which is in addition to the $39 billion remaining on our current plan.",
+      "claim": "NVIDIA authorized $80 billion in new share repurchases, in addition to $39 billion remaining.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NVDA-FY2027Q1-032",
+      "turn_index": 17,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "we plan to return roughly 50% of free cash flow to shareholders this year",
+      "claim": "NVIDIA plans to return approximately 50% of free cash flow to shareholders in FY2027.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-FY2027Q1-033",
+      "turn_index": 17,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "Total revenue is expected to be $91 billion, Â±2%.",
+      "claim": "Q2 FY2027 revenue guidance is $91 billion plus or minus 2%.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-FY2027Q1-034",
+      "turn_index": 17,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "giving us full confidence in the $1 trillion in Blackwell and Rubin revenue we foresee from 2025 through calendar 2027",
+      "claim": "NVIDIA reaffirms $1 trillion in Blackwell and Rubin revenue expectation from 2025 through calendar 2027.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-FY2027Q1-035",
+      "turn_index": 17,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "GAAP and non-GAAP gross margins are expected to be 74.9% and 75% respectively, Â±50 basis points.",
+      "claim": "Q2 FY2027 GAAP gross margin guided to 74.9% and non-GAAP 75%, ±50 bps.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-FY2027Q1-036",
+      "turn_index": 17,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "For the full year, we are still expecting to be in the mid-70s.",
+      "claim": "Full-year FY2027 gross margins expected in the mid-70s percent range.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-FY2027Q1-037",
+      "turn_index": 17,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "GAAP and non-GAAP operating expenses are expected to be approximately $8.5 billion and $8.3 billion respectively.",
+      "claim": "Q2 FY2027 GAAP OPEX expected at ~$8.5B and non-GAAP OPEX ~$8.3B.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-FY2027Q1-038",
+      "turn_index": 18,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "we now expect OPEX growth to grow somewhere in the upper 40s on a year-over-year basis",
+      "claim": "Full-year FY2027 OPEX growth expected in the upper 40s percent YoY.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-FY2027Q1-039",
+      "turn_index": 18,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "For the full year 2027, we expect GAAP and non-GAAP tax rates to be between 16% and 18%",
+      "claim": "Full-year FY2027 GAAP and non-GAAP tax rates expected between 16% and 18%.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-FY2027Q1-040",
+      "turn_index": 22,
+      "speaker_id": "jensen-huang",
+      "verbatim_quote": "Colette meant to say we're increasing our quarterly dividends from $0.01-$0.25.",
+      "claim": "NVIDIA is increasing quarterly dividend to $0.25 per share (corrected from Colette's earlier statement).",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-FY2027Q1-041",
+      "turn_index": 31,
+      "speaker_id": "jensen-huang",
+      "verbatim_quote": "They're $1 trillion this year. I have every expectation it's going to grow from here",
+      "claim": "Hyperscaler CapEx is $1 trillion this year and expected to grow further.",
+      "categorizations": [
+        "strategic_direction_claim"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-FY2027Q1-042",
+      "turn_index": 38,
+      "speaker_id": "jensen-huang",
+      "verbatim_quote": "The amount of capacity that we're going to bring online for Anthropic this year and next year is going to be quite significant.",
+      "claim": "NVIDIA will bring online significant compute capacity for Anthropic across this year and next.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "heavily_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-FY2027Q1-043",
+      "turn_index": 48,
+      "speaker_id": "jensen-huang",
+      "verbatim_quote": "My sense is that we'll be supply constrained throughout the entire life of Vera Rubin.",
+      "claim": "NVIDIA expects Vera Rubin to be supply constrained throughout its lifecycle.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "heavily_hedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-FY2027Q1-044",
+      "turn_index": 13,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "Google's A5X bare-metal instances, which can support up to 960,000 Rubin GPUs across multiple sites",
+      "claim": "Google's A5X bare-metal instances can support up to 960,000 Rubin GPUs across multiple sites.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "NVDA-FY2027Q1-045",
+      "turn_index": 15,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "GAAP and non-GAAP operating expenses were up 12% sequentially",
+      "claim": "Q1 FY2027 GAAP and non-GAAP OPEX rose 12% sequentially.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "NVDA-FY2027Q1-046",
+      "turn_index": 68,
+      "speaker_id": "colette-kress",
+      "verbatim_quote": "we're going to start in Q3 and continue to ramp into Q4. Q1 of next year certainly is going to be very big as well.",
+      "claim": "Vera Rubin will begin shipping in Q3, ramp in Q4, with continued significant volume in Q1 FY2028.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    }
+  ]
 }

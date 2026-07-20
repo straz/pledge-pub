@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T18:46:37.099Z",
+  "generated_at": "2026-07-20T19:09:53.946Z",
   "companies": [
     {
       "id": "alphabet",
@@ -484,11 +484,27 @@
           "period": "FY2026_Q2",
           "title": "Apple Q2 2026 Earnings Call Transcript",
           "datetime": "2026-04-30T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 46,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "unhedged": 37,
+              "softly_hedged": 8,
+              "heavily_hedged": 1
+            },
+            "by_category": {
+              "revenue_trajectory_specific": 9,
+              "segment_growth_specific": 8,
+              "geographic_or_regional_rollout": 5,
+              "capacity_or_capability_delivery": 5,
+              "financial_structure_or_capital_action": 12,
+              "operational_metric_specific": 5,
+              "margin_trajectory_specific": 6,
+              "strategic_direction_claim": 3
+            },
+            "by_resolution": {
+              "validated": 29,
+              "unresolved": 17
+            }
           },
           "fiscal_label": "Q2 2026"
         },
@@ -942,11 +958,27 @@
           "period": "FY2026_Q3",
           "title": "Microsoft Q3 2026 Earnings Call Transcript",
           "datetime": "2026-04-29T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 61,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "unhedged": 38,
+              "softly_hedged": 23
+            },
+            "by_category": {
+              "revenue_trajectory_specific": 12,
+              "segment_growth_specific": 15,
+              "operational_metric_specific": 14,
+              "capacity_or_capability_delivery": 5,
+              "competitive_or_market_position_claim": 1,
+              "margin_trajectory_specific": 6,
+              "financial_structure_or_capital_action": 7,
+              "strategic_direction_claim": 3
+            },
+            "by_resolution": {
+              "validated": 28,
+              "unverifiable": 2,
+              "unresolved": 31
+            }
           },
           "fiscal_label": "Q3 2026"
         },
@@ -1143,11 +1175,28 @@
           "period": "FY2026_Q2",
           "title": "Netflix Q2 2026 Earnings Call Transcript",
           "datetime": "2026-07-16T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 39,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "unhedged": 20,
+              "softly_hedged": 18,
+              "heavily_hedged": 1
+            },
+            "by_category": {
+              "revenue_trajectory_specific": 4,
+              "competitive_or_market_position_claim": 3,
+              "operational_metric_specific": 20,
+              "segment_growth_specific": 6,
+              "financial_structure_or_capital_action": 7,
+              "strategic_direction_claim": 5,
+              "capacity_or_capability_delivery": 4,
+              "geographic_or_regional_rollout": 1
+            },
+            "by_resolution": {
+              "unresolved": 15,
+              "unverifiable": 18,
+              "validated": 6
+            }
           },
           "fiscal_label": "Q2 2026"
         },
@@ -1384,11 +1433,28 @@
           "period": "FY2027_Q1",
           "title": "NVIDIA Q1 2027 Earnings Call Transcript",
           "datetime": "2026-05-20T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 46,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "unhedged": 23,
+              "softly_hedged": 20,
+              "heavily_hedged": 3
+            },
+            "by_category": {
+              "revenue_trajectory_specific": 6,
+              "segment_growth_specific": 9,
+              "operational_metric_specific": 9,
+              "geographic_or_regional_rollout": 3,
+              "strategic_direction_claim": 3,
+              "capacity_or_capability_delivery": 10,
+              "financial_structure_or_capital_action": 7,
+              "margin_trajectory_specific": 3
+            },
+            "by_resolution": {
+              "validated": 20,
+              "unverifiable": 1,
+              "unresolved": 25
+            }
           },
           "fiscal_label": "Q1 2027"
         },
