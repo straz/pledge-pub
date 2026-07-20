@@ -767,5 +767,962 @@
       "text": "This concludes today's conference call. Thank you for joining, and you may now disconnect."
     }
   ],
-  "statements": []
+  "statements": [
+    {
+      "id": "META-FY2026Q1-001",
+      "turn_index": 13,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "We estimate 3.56 billion people used at least one of our family of apps on a daily basis in March",
+      "claim": "Meta reported 3.56 billion daily active people across the family of apps in March 2026.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2026Q1-002",
+      "turn_index": 13,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "Q1 total family of apps revenue was $55.9 billion, up 33% year-over-year",
+      "claim": "Meta reported Q1 2026 family of apps revenue of $55.9 billion, up 33% year-over-year.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2026Q1-003",
+      "turn_index": 13,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "Q1 family of apps ad revenue was $55 billion, up 33%, or 29% on a constant currency basis",
+      "claim": "Meta reported Q1 2026 family of apps ad revenue of $55 billion, up 33% (29% constant currency).",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2026Q1-004",
+      "turn_index": 13,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "the total number of ad impressions served across our services increased 19%",
+      "claim": "Meta ad impressions increased 19% year-over-year in Q1 2026.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2026Q1-005",
+      "turn_index": 14,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "The global average price per ad increased 12% year-over-year in Q1",
+      "claim": "Meta's global average price per ad increased 12% year-over-year in Q1 2026.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2026Q1-006",
+      "turn_index": 14,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "Family of apps other revenue was $885 million, up 74%",
+      "claim": "Meta Family of Apps other revenue was $885 million in Q1 2026, up 74%.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2026Q1-007",
+      "turn_index": 14,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "Q1 revenue was $402 million, down 2% year-over-year due to lower Quest headset sales",
+      "claim": "Meta Reality Labs Q1 2026 revenue was $402 million, down 2% year-over-year.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2026Q1-008",
+      "turn_index": 15,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "Q1 total revenue was $56.3 billion, up 33%, or 29% on a constant currency basis",
+      "claim": "Meta Q1 2026 consolidated total revenue was $56.3 billion, up 33%.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2026Q1-009",
+      "turn_index": 15,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "Q1 total expenses were $33.4 billion, up 35% compared to last year",
+      "claim": "Meta Q1 2026 total expenses were $33.4 billion, up 35% year-over-year.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2026Q1-010",
+      "turn_index": 15,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "We ended Q1 with over 77,900 employees, down 1% from Q4",
+      "claim": "Meta ended Q1 2026 with over 77,900 employees, down 1% from Q4 2025.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2026Q1-011",
+      "turn_index": 15,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "First quarter operating income was $22.9 billion, representing a 41% operating margin",
+      "claim": "Meta reported Q1 2026 operating income of $22.9 billion and a 41% operating margin.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2026Q1-012",
+      "turn_index": 16,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "Net income was $26.8 billion or $10.44 per share",
+      "claim": "Meta reported Q1 2026 net income of $26.8 billion or $10.44 per share.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2026Q1-013",
+      "turn_index": 17,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "Capital expenditures, including principal payments on finance leases, were $19.8 billion",
+      "claim": "Meta Q1 2026 capital expenditures including finance lease principal payments were $19.8 billion.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2026Q1-014",
+      "turn_index": 17,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "Free cash flow was $12.4 billion. We ended the quarter with $81.2 billion in cash and marketable securities and $58.7 billion in debt",
+      "claim": "Meta reported Q1 2026 free cash flow of $12.4 billion, $81.2B cash/marketable securities, $58.7B debt.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2026Q1-015",
+      "turn_index": 17,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "the ranking improvements that we made in Q1 drove a 10% lift in Reels time spent",
+      "claim": "Meta's Q1 2026 Instagram ranking improvements drove a 10% lift in Reels time spent.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2026Q1-016",
+      "turn_index": 17,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "On Facebook, total video time increased more than 8% globally in Q1",
+      "claim": "Facebook total video time increased more than 8% globally in Q1 2026.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2026Q1-017",
+      "turn_index": 18,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "ranking improvements we made drove a 9% increase in video watch time on Facebook in Q1",
+      "claim": "U.S./Canada ranking improvements drove a 9% increase in Facebook video watch time in Q1 2026.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2026Q1-018",
+      "turn_index": 19,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "same-day posts now representing more than 30% of recommended Reels on both Instagram and Facebook, more than double the levels one year ago",
+      "claim": "Same-day posts now represent more than 30% of recommended Reels on Instagram and Facebook.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2026Q1-019",
+      "turn_index": 19,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "Over half a billion users on each of Facebook and Instagram are now watching AI-translated videos weekly",
+      "claim": "Over half a billion weekly users on each of Facebook and Instagram watch AI-translated videos.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2026Q1-020",
+      "turn_index": 19,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "This year, we will continue scaling up our models in several dimensions, including their size and complexity, while incorporating LLMs to deepen content understanding across our platform",
+      "claim": "Meta will continue scaling up its recommendation models in size and complexity and incorporate LLMs during 2026.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "META-FY2026Q1-021",
+      "turn_index": 21,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "double-digit percent increases in Meta AI sessions per user",
+      "claim": "Meta AI sessions per user increased by double-digit percent following the Muse Spark rollout.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2026Q1-022",
+      "turn_index": 22,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "enhancements we made to Lattice's modeling and learning techniques, along with advances in our GEM model architecture, drove a more than 6% increase in conversion rate for landing page view ads",
+      "claim": "Meta drove a more than 6% conversion rate increase for landing page view ads in Q1 2026.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2026Q1-023",
+      "turn_index": 23,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "we expanded coverage of our adaptive ranking model to support offsite conversions, which drove a 1.6% increase in conversion rates across the major surfaces on Facebook and Instagram",
+      "claim": "Adaptive ranking model expansion drove a 1.6% conversion rate increase across Facebook and Instagram in Q1 2026.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2026Q1-024",
+      "turn_index": 24,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "common account issues being resolved at a 20% higher rate",
+      "claim": "Meta AI business assistant is resolving common account issues at a 20% higher rate.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2026Q1-025",
+      "turn_index": 24,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "more than 8 million advertisers using at least one of our gen AI ad creative tools",
+      "claim": "More than 8 million advertisers are using at least one of Meta's gen AI ad creative tools.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2026Q1-026",
+      "turn_index": 24,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "advertisers using our video generation feature seeing more than 3% higher conversion rates in tests",
+      "claim": "Advertisers using Meta's video generation feature see more than 3% higher conversion rates in tests.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2026Q1-027",
+      "turn_index": 25,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "more than 10 million conversations each week being facilitated through business AIs, up from 1 million at the start of the year",
+      "claim": "Meta has more than 10 million weekly conversations through business AIs, up from 1 million at start of year.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2026Q1-028",
+      "turn_index": 25,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "We'll further expand access to more countries this quarter while adding more capabilities to the AIs",
+      "claim": "Meta will expand business AI access to more countries in Q2 2026 and add more capabilities.",
+      "categorizations": [
+        "geographic_or_regional_rollout",
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "META-FY2026Q1-029",
+      "turn_index": 25,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "the annual revenue run rate of our value optimization suite now over $20 billion, more than doubling year-over-year",
+      "claim": "Meta's value optimization suite has an annual revenue run rate over $20 billion, more than doubled year-over-year.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2026Q1-030",
+      "turn_index": 26,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "our partnerships ads product, with its revenue run rate more than doubling year-over-year in Q1 to $10 billion",
+      "claim": "Meta partnerships ads product revenue run rate more than doubled year-over-year in Q1 2026 to $10 billion.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2026Q1-031",
+      "turn_index": 28,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "These multi-year cloud deals and our infrastructure purchase agreements drove a $107 billion step-up in our contractual commitments this quarter",
+      "claim": "Meta's contractual commitments stepped up $107 billion in Q1 2026 from multi-year cloud and infrastructure deals.",
+      "categorizations": [
+        "financial_structure_or_capital_action",
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2026Q1-032",
+      "turn_index": 28,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "we plan to reduce the size of our employee base in May",
+      "claim": "Meta plans to reduce the size of its employee base in May 2026.",
+      "categorizations": [
+        "operational_metric_specific",
+        "strategic_direction_claim"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "META-FY2026Q1-033",
+      "turn_index": 28,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "We expect second quarter 2026 total revenue to be in the range of $58 billion-$61 billion",
+      "claim": "Meta expects Q2 2026 total revenue in the range of $58 billion to $61 billion.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "META-FY2026Q1-034",
+      "turn_index": 29,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "Our guidance assumes foreign currency is an approximately 2% tailwind to year-over-year total revenue growth",
+      "claim": "Meta's Q2 2026 guidance assumes approximately 2% FX tailwind to year-over-year revenue growth.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "META-FY2026Q1-035",
+      "turn_index": 29,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "We expect full year 2026 total expenses to be in the range of $162 billion-$169 billion, unchanged from our prior outlook",
+      "claim": "Meta expects full year 2026 total expenses in the range of $162 billion to $169 billion.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "META-FY2026Q1-036",
+      "turn_index": 29,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "We continue to expect to deliver operating income this year that is above 2025 operating income",
+      "claim": "Meta expects 2026 operating income to exceed 2025 operating income.",
+      "categorizations": [
+        "margin_trajectory_specific",
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "META-FY2026Q1-037",
+      "turn_index": 29,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "We anticipate 2026 capital expenditures, including principal payments on finance leases, to be in the range of $125 billion-$145 billion, increased from our prior range of $115 billion-$135 billion",
+      "claim": "Meta raised 2026 CapEx guidance to $125-$145 billion from prior $115-$135 billion.",
+      "categorizations": [
+        "financial_structure_or_capital_action",
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "META-FY2026Q1-038",
+      "turn_index": 30,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "we expect our tax rate for the remaining quarters of 2026 to be between 13% and 16%",
+      "claim": "Meta expects a tax rate between 13% and 16% for remaining quarters of 2026.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "heavily_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "META-FY2026Q1-039",
+      "turn_index": 8,
+      "speaker_id": "mark-zuckerberg",
+      "verbatim_quote": "we are rolling out more than 1 GW of our own custom silicon that we're developing with Broadcom",
+      "claim": "Meta is rolling out more than 1 GW of its own custom silicon developed with Broadcom.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "META-FY2026Q1-040",
+      "turn_index": 9,
+      "speaker_id": "mark-zuckerberg",
+      "verbatim_quote": "the number of people using them daily tripling year-over-year",
+      "claim": "Number of daily AI glasses users tripled year-over-year.",
+      "categorizations": [
+        "operational_metric_specific",
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2026Q1-041",
+      "turn_index": 6,
+      "speaker_id": "mark-zuckerberg",
+      "verbatim_quote": "Weekly conversations have grown 10x since the start of this year",
+      "claim": "Weekly conversations on business AIs grew 10x since start of 2026.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2026Q1-042",
+      "turn_index": 2,
+      "speaker_id": "mark-zuckerberg",
+      "verbatim_quote": "More than 3.5 billion people use at least one of our apps every day",
+      "claim": "More than 3.5 billion people use at least one Meta app daily.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2026Q1-043",
+      "turn_index": 16,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "Our tax rate for the quarter was -23%, which was favorably impacted by a tax benefit of $8.03 billion",
+      "claim": "Meta's Q1 2026 tax rate was -23%, favorably impacted by an $8.03 billion tax benefit.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "META-FY2026Q1-044",
+      "turn_index": 41,
+      "speaker_id": "mark-zuckerberg",
+      "verbatim_quote": "We have our next set of more advanced models in training now",
+      "claim": "Meta has its next set of more advanced models in training as of Q1 2026.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "META-FY2026Q1-045",
+      "turn_index": 23,
+      "speaker_id": "susan-li",
+      "verbatim_quote": "The Meta AI business assistant has now been fully rolled out to all eligible advertisers on supported Meta buying surfaces",
+      "claim": "Meta AI business assistant has been fully rolled out to all eligible advertisers on supported buying surfaces.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    }
+  ]
 }

@@ -605,5 +605,1015 @@
       "text": "Thanks for joining us on the call today and for your questions. A replay will be available on our investor relations website for at least three months. We appreciate your interest in Amazon, and look forward to talking with you again next quarter."
     }
   ],
-  "statements": []
+  "statements": [
+    {
+      "id": "AMZN-FY2026Q1-001",
+      "turn_index": 4,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "We're reporting $181.5 billion in revenue, up 17% year-over-year.",
+      "claim": "Amazon reported Q1 2026 revenue of $181.5 billion, up 17% year-over-year.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2026Q1-002",
+      "turn_index": 4,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "Operating income was $23.9 billion.",
+      "claim": "Amazon reported Q1 2026 operating income of $23.9 billion.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2026Q1-003",
+      "turn_index": 4,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "AWS, growth continued to accelerate, up 28% year-over-year, the fastest growth rate in 15 quarters",
+      "claim": "AWS Q1 2026 revenue grew 28% year-over-year, the fastest growth in 15 quarters.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2026Q1-004",
+      "turn_index": 4,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "AWS is now a $150 billion annualized revenue run rate business.",
+      "claim": "AWS has reached a $150 billion annualized revenue run rate.",
+      "categorizations": [
+        "segment_growth_specific",
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2026Q1-005",
+      "turn_index": 5,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "In the first three years of this AI wave, AWS's AI revenue run rate is over $15 billion",
+      "claim": "AWS's AI revenue run rate is over $15 billion after three years of the AI wave.",
+      "categorizations": [
+        "segment_growth_specific",
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2026Q1-006",
+      "turn_index": 5,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "Bedrock, which saw 170% growth in customer spend quarter-over-quarter",
+      "claim": "Amazon Bedrock customer spend grew 170% quarter-over-quarter in Q1 2026.",
+      "categorizations": [
+        "operational_metric_specific",
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2026Q1-007",
+      "turn_index": 5,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "Yesterday, we added OpenAI's GPT 5.4 model, with 5.5 coming soon.",
+      "claim": "OpenAI's GPT 5.5 model will be added to Amazon Bedrock soon after the call.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AMZN-FY2026Q1-008",
+      "turn_index": 6,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "Strands, which has been downloaded more than 25 million times and saw 3x more downloads quarter-over-quarter",
+      "claim": "Strands has been downloaded more than 25 million times with 3x more downloads quarter-over-quarter.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2026Q1-009",
+      "turn_index": 7,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "The number of developers using Amazon Q more than doubled quarter-over-quarter, and enterprise customer usage increased nearly 10x.",
+      "claim": "Amazon Q developer count more than doubled QoQ and enterprise customer usage grew nearly 10x.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2026Q1-010",
+      "turn_index": 7,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "Customers have used AWS Transform to save over 1.56 million hours of manual effort",
+      "claim": "AWS Transform customers have saved over 1.56 million hours of manual effort.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2026Q1-011",
+      "turn_index": 10,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "Our chips business continues to grow rapidly and is larger than what a lot of folks thought. We saw nearly 40% quarter-over-quarter growth in Q1, and our annual revenue run rate is now over $20 billion and growing triple-digit percentages year-over-year.",
+      "claim": "Amazon's chips business grew nearly 40% QoQ, has an annual run rate over $20 billion, and is growing triple-digit percentages YoY.",
+      "categorizations": [
+        "segment_growth_specific",
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2026Q1-012",
+      "turn_index": 11,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "We now have over $225 billion in revenue commitments for Trainium.",
+      "claim": "Amazon has over $225 billion in revenue commitments for Trainium.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2026Q1-013",
+      "turn_index": 11,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "Our Trainium2 chip has about 30% better price performance than comparable GPUs and is largely sold out.",
+      "claim": "Trainium2 has about 30% better price performance than comparable GPUs and is largely sold out.",
+      "categorizations": [
+        "competitive_or_market_position_claim",
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2026Q1-014",
+      "turn_index": 12,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "Trainium3, which just started shipping at the start of 2026 and is 30%-40% more price performant than Trainium2, is nearly fully subscribed.",
+      "claim": "Trainium3 started shipping at the start of 2026, is 30-40% more price performant than Trainium2, and is nearly fully subscribed.",
+      "categorizations": [
+        "capacity_or_capability_delivery",
+        "competitive_or_market_position_claim"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2026Q1-015",
+      "turn_index": 12,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "Trainium4, which is still about 18 months from broad availability",
+      "claim": "Trainium4 is expected to reach broad availability approximately 18 months from Q1 2026.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AMZN-FY2026Q1-016",
+      "turn_index": 12,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "Amazon Bedrock, which is used expansively by over 125,000 customers",
+      "claim": "Amazon Bedrock is used by over 125,000 customers.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2026Q1-017",
+      "turn_index": 14,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "We expect Trainium will save us tens of billions of dollars of CapEx each year and provide several hundred basis points of operating margin advantage versus relying on others' chips for inference.",
+      "claim": "Trainium is expected to save Amazon tens of billions of dollars of CapEx annually and provide several hundred basis points of operating margin advantage.",
+      "categorizations": [
+        "margin_trajectory_specific",
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AMZN-FY2026Q1-018",
+      "turn_index": 16,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "Units grew 15% year-over-year, the highest we've seen since the tail end of COVID lockdowns.",
+      "claim": "Amazon stores units grew 15% YoY in Q1 2026, the highest since COVID lockdowns.",
+      "categorizations": [
+        "operational_metric_specific",
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2026Q1-019",
+      "turn_index": 16,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "With more than $150 billion in gross sales in 2025, we're now the second-largest grocer in the U.S.",
+      "claim": "Amazon achieved more than $150 billion in grocery gross sales in 2025 and is the second-largest US grocer.",
+      "categorizations": [
+        "competitive_or_market_position_claim",
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "unverifiable"
+      }
+    },
+    {
+      "id": "AMZN-FY2026Q1-020",
+      "turn_index": 17,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "Whole Foods Market also continues to accelerate, with over 550 stores today and 100 more coming in the next few years.",
+      "claim": "Whole Foods has over 550 stores and Amazon plans to open 100 more in the next few years.",
+      "categorizations": [
+        "geographic_or_regional_rollout",
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AMZN-FY2026Q1-021",
+      "turn_index": 18,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "Prime Day will take place in most countries in June",
+      "claim": "Prime Day will take place in most countries in June 2026.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AMZN-FY2026Q1-022",
+      "turn_index": 18,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "we've delivered more than 1 billion items same day overnight so far this year",
+      "claim": "Amazon has delivered more than 1 billion items same-day/overnight so far in 2026.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2026Q1-023",
+      "turn_index": 19,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "It started last year in India, where orders are increasing 25% month-over-month",
+      "claim": "Amazon Now orders in India are increasing 25% month-over-month.",
+      "categorizations": [
+        "operational_metric_specific",
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2026Q1-024",
+      "turn_index": 20,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "Monthly active users are up over 115%. Engagement is up nearly 400% year-over-year.",
+      "claim": "Rufus monthly active users are up over 115% and engagement is up nearly 400% YoY.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2026Q1-025",
+      "turn_index": 20,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "generating $17.2 billion of revenue in the quarter and up 22% year-over-year.",
+      "claim": "Amazon Ads generated $17.2 billion in Q1 2026 revenue, up 22% YoY.",
+      "categorizations": [
+        "segment_growth_specific",
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2026Q1-026",
+      "turn_index": 22,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "moviegoers have flocked to Project Hail Mary with nearly $615 million in global box office to date",
+      "claim": "Project Hail Mary reached nearly $615 million in global box office to date.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2026Q1-027",
+      "turn_index": 23,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "Zoox has now driven nearly 2 million mi and carried more than 350,000 riders.",
+      "claim": "Zoox has driven nearly 2 million miles and carried more than 350,000 riders.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2026Q1-028",
+      "turn_index": 23,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "Amazon Leo continues gaining momentum. With commercial service on track to launch in a few months",
+      "claim": "Amazon Leo commercial service is on track to launch within a few months of April 2026.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AMZN-FY2026Q1-029",
+      "turn_index": 25,
+      "speaker_id": "brian-olsavsky",
+      "verbatim_quote": "Worldwide operating income was $23.9 billion with an operating margin of 13.1%, our highest operating margin ever.",
+      "claim": "Amazon Q1 2026 worldwide operating margin was 13.1%, the highest ever.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2026Q1-030",
+      "turn_index": 25,
+      "speaker_id": "brian-olsavsky",
+      "verbatim_quote": "In the North America segment, first quarter revenue was $104.1 billion, an increase of 12% year-over-year.",
+      "claim": "North America Q1 2026 revenue was $104.1 billion, up 12% YoY.",
+      "categorizations": [
+        "segment_growth_specific",
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2026Q1-031",
+      "turn_index": 25,
+      "speaker_id": "brian-olsavsky",
+      "verbatim_quote": "International segment revenue was $39.8 billion, an increase of 11% year-over-year, excluding the impact of foreign exchange.",
+      "claim": "International Q1 2026 revenue was $39.8 billion, up 11% YoY excluding FX.",
+      "categorizations": [
+        "segment_growth_specific",
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2026Q1-032",
+      "turn_index": 27,
+      "speaker_id": "brian-olsavsky",
+      "verbatim_quote": "North America segment operating income was $8.3 billion with an operating margin of 7.9%.",
+      "claim": "North America Q1 2026 operating income was $8.3 billion with a 7.9% operating margin.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2026Q1-033",
+      "turn_index": 27,
+      "speaker_id": "brian-olsavsky",
+      "verbatim_quote": "International segment operating income was $1.4 billion with an operating margin of 3.6%.",
+      "claim": "International Q1 2026 operating income was $1.4 billion with a 3.6% operating margin.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2026Q1-034",
+      "turn_index": 28,
+      "speaker_id": "brian-olsavsky",
+      "verbatim_quote": "All of our U.S. large format fulfillment center launches in 2026 will have this latest generation technology.",
+      "claim": "All 2026 US large-format fulfillment center launches will have the latest generation robotics/automation technology.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AMZN-FY2026Q1-035",
+      "turn_index": 28,
+      "speaker_id": "brian-olsavsky",
+      "verbatim_quote": "Moving to our AWS segment, revenue is $37.6 billion and growth accelerated 480 basis points to 28% year-over-year",
+      "claim": "AWS Q1 2026 revenue was $37.6 billion, with growth accelerating 480 bps to 28% YoY.",
+      "categorizations": [
+        "segment_growth_specific",
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2026Q1-036",
+      "turn_index": 29,
+      "speaker_id": "brian-olsavsky",
+      "verbatim_quote": "In 2025, we delivered 4x improvements in Trainium 2's token throughput.",
+      "claim": "Amazon delivered 4x improvements in Trainium 2 token throughput during 2025.",
+      "categorizations": [
+        "capacity_or_capability_delivery",
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2026Q1-037",
+      "turn_index": 30,
+      "speaker_id": "brian-olsavsky",
+      "verbatim_quote": "AWS operating income was $14.2 billion",
+      "claim": "AWS Q1 2026 operating income was $14.2 billion.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2026Q1-038",
+      "turn_index": 30,
+      "speaker_id": "brian-olsavsky",
+      "verbatim_quote": "Our cash CapEx is $43.2 billion in Q1.",
+      "claim": "Amazon Q1 2026 cash CapEx was $43.2 billion.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2026Q1-039",
+      "turn_index": 31,
+      "speaker_id": "brian-olsavsky",
+      "verbatim_quote": "Q2 net sales are expected to be between $194 billion and $199 billion.",
+      "claim": "Amazon expects Q2 2026 net sales between $194 billion and $199 billion.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AMZN-FY2026Q1-040",
+      "turn_index": 31,
+      "speaker_id": "brian-olsavsky",
+      "verbatim_quote": "Q2 operating income is expected to be between $20 billion and $24 billion.",
+      "claim": "Amazon expects Q2 2026 operating income between $20 billion and $24 billion.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AMZN-FY2026Q1-041",
+      "turn_index": 32,
+      "speaker_id": "brian-olsavsky",
+      "verbatim_quote": "within the North America segment, we do expect a year-over-year cost increase of approximately $1 billion related to Amazon Leo",
+      "claim": "Amazon expects approximately $1 billion YoY cost increase in North America Q2 2026 related to Amazon Leo.",
+      "categorizations": [
+        "financial_structure_or_capital_action",
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AMZN-FY2026Q1-042",
+      "turn_index": 32,
+      "speaker_id": "brian-olsavsky",
+      "verbatim_quote": "Amazon Leo's commercial service is on track to launch in Q3, and we expect to begin capitalizing certain costs in Q4",
+      "claim": "Amazon Leo commercial service is on track to launch in Q3 2026 and Amazon expects to begin capitalizing certain costs in Q4 2026.",
+      "categorizations": [
+        "capacity_or_capability_delivery",
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AMZN-FY2026Q1-043",
+      "turn_index": 42,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "the backlog, for Q1 is $364 billion. That does not include the recent deal that we announced with Anthropic for over $100 billion.",
+      "claim": "AWS Q1 2026 backlog is $364 billion, excluding the recent $100+ billion Anthropic deal.",
+      "categorizations": [
+        "revenue_trajectory_specific",
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2026Q1-044",
+      "turn_index": 57,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "we have over 250 satellites in space",
+      "claim": "Amazon Leo has over 250 satellites in space as of Q1 2026.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "AMZN-FY2026Q1-045",
+      "turn_index": 58,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "Delta Air Lines committing at least half of their fleet starting in 2028",
+      "claim": "Delta Air Lines has committed to Amazon Leo for at least half of its fleet starting in 2028.",
+      "categorizations": [
+        "capacity_or_capability_delivery",
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "long-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AMZN-FY2026Q1-046",
+      "turn_index": 59,
+      "speaker_id": "andy-jassy",
+      "verbatim_quote": "We have over 20 launches planned this year. We have over 30 launches planned in 2027.",
+      "claim": "Amazon has over 20 Leo satellite launches planned in 2026 and over 30 planned in 2027.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "AMZN-FY2026Q1-047",
+      "turn_index": 27,
+      "speaker_id": "brian-olsavsky",
+      "verbatim_quote": "outbound shipping costs grew 12% year-over-year and fulfillment expense grew 9% year-over-year, both on an FX neutral basis.",
+      "claim": "Q1 2026 outbound shipping costs grew 12% YoY and fulfillment expense grew 9% YoY on an FX-neutral basis.",
+      "categorizations": [
+        "operational_metric_specific",
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    }
+  ]
 }

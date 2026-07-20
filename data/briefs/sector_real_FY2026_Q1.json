@@ -51,39 +51,39 @@
       "is_subject": false,
       "scope": {
         "quarters": [
+          "FY2026_Q1",
           "FY2025_Q4",
           "FY2025_Q3",
-          "FY2025_Q2",
-          "FY2025_Q1"
+          "FY2025_Q2"
         ],
         "labels": [
+          "Q1 2026",
           "Q4 2025",
           "Q3 2025",
-          "Q2 2025",
-          "Q1 2025"
+          "Q2 2025"
         ]
       },
-      "total_statements": 204,
+      "total_statements": 188,
       "commitment_density": {
-        "avg_per_call": 51,
+        "avg_per_call": 47,
         "per_call": [
+          28,
           51,
           55,
-          54,
-          44
+          54
         ]
       },
       "hedging_dist": {
-        "unhedged_pct": 80.9,
-        "softly_hedged_pct": 18.6,
-        "heavily_hedged_pct": 0.5
+        "unhedged_pct": 76.1,
+        "softly_hedged_pct": 21.8,
+        "heavily_hedged_pct": 1.6
       },
-      "validation_rate": 78.9,
+      "validation_rate": 71.8,
       "top_category": {
         "id": "operational_metric_specific",
         "label": "Operational metrics"
       },
-      "forward_window_pct": 21.1
+      "forward_window_pct": 26.1
     },
     {
       "id": "compass",

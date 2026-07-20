@@ -279,5 +279,594 @@
       "text": "Great. All right. Over at Slido, we have already answered the questions that we got there. Thank you everyone for joining us on our first quarter earnings call. This concludes the call. As always, please stay connected by visiting eXp World Holdings for the latest updates on eXp news, results, and events. Additionally, you'll find a recording of this call and our latest investor presentation on the investor section of our site. Thanks again for joining. This concludes our first quarter earnings fireside chat."
     }
   ],
-  "statements": []
+  "statements": [
+    {
+      "id": "EXPI-FY2026Q1-001",
+      "turn_index": 0,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "resulting in a gross profit of $75.3 million",
+      "claim": "eXp reported gross profit of $75.3 million in Q1 2026.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2026Q1-002",
+      "turn_index": 0,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "Operating loss of $8.8 million for the quarter improved 15% year-over-year from a loss of $10.4 million last year",
+      "claim": "eXp reported an operating loss of $8.8 million in Q1 2026, a 15% year-over-year improvement from a $10.4 million loss.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2026Q1-003",
+      "turn_index": 0,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "Adjusted EBITDA was $4.1 million for the first quarter and above the midpoint of our guidance range of $2 million-$5 million, an increase of 88% over Q1 2025",
+      "claim": "eXp reported Q1 2026 Adjusted EBITDA of $4.1 million, an 88% increase over Q1 2025 and above the midpoint of its $2-5 million guidance range.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2026Q1-004",
+      "turn_index": 0,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "Operating expenses were $84.1 million at the midpoint of our guidance range in the first quarter",
+      "claim": "eXp reported operating expenses of $84.1 million in Q1 2026.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2026Q1-005",
+      "turn_index": 0,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "we increased our cash position 6% year-over-year, ending the quarter with $122 million in cash on the balance sheet",
+      "claim": "eXp ended Q1 2026 with $122 million in cash, up 6% year-over-year.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2026Q1-006",
+      "turn_index": 1,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "The North America Realty segment continues to be the largest revenue and profit generator for the company, with revenue of $965.1 million for the first quarter and $10 million in Adjusted EBITDA, a 29% year-over-year increase",
+      "claim": "North America Realty segment generated $965.1 million in revenue and $10 million in Adjusted EBITDA in Q1 2026, a 29% year-over-year increase.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2026Q1-007",
+      "turn_index": 1,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "International continues to be our fastest growing segment, increasing 27% in Q1",
+      "claim": "The International segment grew 27% year-over-year in Q1 2026.",
+      "categorizations": [
+        "segment_growth_specific",
+        "geographic_or_regional_rollout"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2026Q1-008",
+      "turn_index": 2,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "we expect revenue in the range of $1.36 billion-$1.45 billion",
+      "claim": "eXp expects Q2 2026 revenue in the range of $1.36 billion to $1.45 billion.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2026Q1-009",
+      "turn_index": 2,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "expenses in the range of $93 million-$97 million",
+      "claim": "eXp expects Q2 2026 operating expenses in the range of $93 million to $97 million.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2026Q1-010",
+      "turn_index": 2,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "Adjusted EBITDA in the range of $16 million-$21 million",
+      "claim": "eXp expects Q2 2026 Adjusted EBITDA in the range of $16 million to $21 million.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2026Q1-011",
+      "turn_index": 2,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "we are reiterating our outlook with revenue in the range of $4.85 billion-$5.15 billion",
+      "claim": "eXp reiterates full-year 2026 revenue guidance of $4.85 billion to $5.15 billion.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2026Q1-012",
+      "turn_index": 2,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "operating expenses in the range of $325 million-$345 million",
+      "claim": "eXp reiterates full-year 2026 operating expenses guidance of $325 million to $345 million.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2026Q1-013",
+      "turn_index": 2,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "Adjusted EBITDA in the range of $50 million-$75 million for 2026",
+      "claim": "eXp reiterates full-year 2026 Adjusted EBITDA guidance of $50 million to $75 million.",
+      "categorizations": [
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2026Q1-014",
+      "turn_index": 3,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "we will continue to stay financially flexible, reserve the right to invest where we see meaningful opportunities to support our agents, strengthen our technology platform and enhance long-term shareholder value",
+      "claim": "eXp will maintain financial flexibility and invest in agent support, technology platform, and shareholder value.",
+      "categorizations": [
+        "strategic_direction_claim"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "rhetorical_only",
+      "override_window": "indefinite",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2026Q1-015",
+      "turn_index": 4,
+      "speaker_id": "glenn-sanford",
+      "verbatim_quote": "We brought staffing down about 60%",
+      "claim": "SUCCESS reduced staffing by approximately 60% during the retooling.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "unverifiable"
+      }
+    },
+    {
+      "id": "EXPI-FY2026Q1-016",
+      "turn_index": 5,
+      "speaker_id": "glenn-sanford",
+      "verbatim_quote": "On its own, SUCCESS Coaching should move SUCCESS into net income by 2027",
+      "claim": "SUCCESS Coaching on its own will move the SUCCESS business into net income by 2027.",
+      "categorizations": [
+        "segment_growth_specific",
+        "margin_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "mid-horizon",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2026Q1-017",
+      "turn_index": 5,
+      "speaker_id": "glenn-sanford",
+      "verbatim_quote": "SUCCESS Certified Coaching has completed its first cohort. The second cohort started last week",
+      "claim": "SUCCESS Certified Coaching completed its first cohort and started its second cohort as of Q1 2026.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "unverifiable"
+      }
+    },
+    {
+      "id": "EXPI-FY2026Q1-018",
+      "turn_index": 5,
+      "speaker_id": "glenn-sanford",
+      "verbatim_quote": "We've launched SUCCESS Events, and that success.events is also generating revenue",
+      "claim": "eXp has launched SUCCESS Events (success.events), which is generating revenue.",
+      "categorizations": [
+        "capacity_or_capability_delivery",
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "unverifiable"
+      }
+    },
+    {
+      "id": "EXPI-FY2026Q1-019",
+      "turn_index": 6,
+      "speaker_id": "glenn-sanford",
+      "verbatim_quote": "We have a signature offering coming that marries those two worlds, the wisdom that built SUCCESS and the science now confirming it",
+      "claim": "eXp will launch a signature SUCCESS offering combining traditional personal development wisdom and modern science.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "attributable_to_specific_speaker"
+      ],
+      "hedging": "heavily_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2026Q1-020",
+      "turn_index": 7,
+      "speaker_id": "glenn-sanford",
+      "verbatim_quote": "This last week we changed our ticker to AGNT",
+      "claim": "eXp World Holdings changed its stock ticker to AGNT the week prior to the call.",
+      "categorizations": [
+        "financial_structure_or_capital_action"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2026Q1-021",
+      "turn_index": 7,
+      "speaker_id": "glenn-sanford",
+      "verbatim_quote": "eXp North America is now multi-model option through NextHome",
+      "claim": "eXp North America now offers a multi-model brokerage option via NextHome acquisition.",
+      "categorizations": [
+        "capacity_or_capability_delivery",
+        "strategic_direction_claim"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "validated"
+      }
+    },
+    {
+      "id": "EXPI-FY2026Q1-022",
+      "turn_index": 23,
+      "speaker_id": "leo-pareja",
+      "verbatim_quote": "There is a gentleman by the name of Albert Maggers in the Gold Coast of California who's joining NextHome with 200 agents",
+      "claim": "A broker named Albert Maggers is joining NextHome with 200 agents.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2026Q1-023",
+      "turn_index": 27,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "Their financial contribution will, frankly be modest, when you layer it against our full consolidated results in the near term",
+      "claim": "NextHome's near-term financial contribution to consolidated results will be modest.",
+      "categorizations": [
+        "segment_growth_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "heavily_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2026Q1-024",
+      "turn_index": 27,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "it's not currently included in our full year guidance at this time",
+      "claim": "NextHome contribution is not included in eXp's current full-year 2026 guidance.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2026Q1-025",
+      "turn_index": 27,
+      "speaker_id": "jesse-hill",
+      "verbatim_quote": "I think that is something we're gonna evaluate, when we fully incorporate this here in Q2 and look to reiterate full year guidance at that time",
+      "claim": "eXp will evaluate incorporating NextHome into full-year guidance at Q2 2026.",
+      "categorizations": [
+        "revenue_trajectory_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "immediate",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2026Q1-026",
+      "turn_index": 30,
+      "speaker_id": "leo-pareja",
+      "verbatim_quote": "there will be no changes to the NextHome brand. They will be a standalone frame because it is a different offering as a complete separate chassis",
+      "claim": "NextHome will operate as a standalone brand with no brand changes post-acquisition.",
+      "categorizations": [
+        "strategic_direction_claim"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    },
+    {
+      "id": "EXPI-FY2026Q1-027",
+      "turn_index": 31,
+      "speaker_id": "leo-pareja",
+      "verbatim_quote": "They're 42% virtual",
+      "claim": "NextHome operations are 42% virtual.",
+      "categorizations": [
+        "operational_metric_specific"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "unhedged",
+      "override_window": "retrospective",
+      "resolution": {
+        "finding": "unverifiable"
+      }
+    },
+    {
+      "id": "EXPI-FY2026Q1-028",
+      "turn_index": 9,
+      "speaker_id": "glenn-sanford",
+      "verbatim_quote": "Every investment we're making right now, the eXp Hub, AI copilots, the listing intelligence platform, the App Store Marketplace, and the single thread leadership model",
+      "claim": "eXp is currently investing in eXp Hub, AI copilots, listing intelligence platform, App Store Marketplace, and single-thread leadership model.",
+      "categorizations": [
+        "capacity_or_capability_delivery"
+      ],
+      "extraction_tags": [
+        "explicit_forward_or_present_tense_assertion",
+        "verifiable_against_subsequent_disclosure_or_financial_statement",
+        "attributable_to_specific_speaker",
+        "falsifiable_within_eight_quarter_window"
+      ],
+      "hedging": "softly_hedged",
+      "override_window": "near-term",
+      "resolution": {
+        "finding": "unresolved"
+      }
+    }
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T02:01:14.929Z",
+  "generated_at": "2026-07-20T18:46:37.099Z",
   "companies": [
     {
       "id": "alphabet",
@@ -10,11 +10,27 @@
           "period": "FY2026_Q1",
           "title": "Alphabet Q1 2026 Earnings Call Transcript",
           "datetime": "2026-04-30T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 47,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "unhedged": 38,
+              "softly_hedged": 9
+            },
+            "by_category": {
+              "segment_growth_specific": 11,
+              "revenue_trajectory_specific": 14,
+              "operational_metric_specific": 18,
+              "capacity_or_capability_delivery": 3,
+              "margin_trajectory_specific": 5,
+              "strategic_direction_claim": 1,
+              "geographic_or_regional_rollout": 2,
+              "financial_structure_or_capital_action": 6
+            },
+            "by_resolution": {
+              "validated": 28,
+              "unverifiable": 9,
+              "unresolved": 10
+            }
           },
           "fiscal_label": "Q1 2026"
         },
@@ -211,11 +227,27 @@
           "period": "FY2026_Q1",
           "title": "Amazon.com Q1 2026 Earnings Call Transcript",
           "datetime": "2026-04-29T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 47,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "unhedged": 33,
+              "softly_hedged": 14
+            },
+            "by_category": {
+              "revenue_trajectory_specific": 13,
+              "margin_trajectory_specific": 9,
+              "segment_growth_specific": 13,
+              "operational_metric_specific": 14,
+              "capacity_or_capability_delivery": 12,
+              "competitive_or_market_position_claim": 3,
+              "financial_structure_or_capital_action": 4,
+              "geographic_or_regional_rollout": 1
+            },
+            "by_resolution": {
+              "validated": 33,
+              "unresolved": 13,
+              "unverifiable": 1
+            }
           },
           "fiscal_label": "Q1 2026"
         },
@@ -688,11 +720,27 @@
           "period": "FY2026_Q1",
           "title": "Meta Platforms Q1 2026 Earnings Call Transcript",
           "datetime": "2026-04-29T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 45,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "unhedged": 36,
+              "softly_hedged": 8,
+              "heavily_hedged": 1
+            },
+            "by_category": {
+              "operational_metric_specific": 20,
+              "revenue_trajectory_specific": 11,
+              "segment_growth_specific": 6,
+              "financial_structure_or_capital_action": 8,
+              "margin_trajectory_specific": 2,
+              "capacity_or_capability_delivery": 7,
+              "geographic_or_regional_rollout": 1,
+              "strategic_direction_claim": 1
+            },
+            "by_resolution": {
+              "validated": 34,
+              "unresolved": 11
+            }
           },
           "fiscal_label": "Q1 2026"
         },
@@ -2426,11 +2474,29 @@
           "period": "FY2026_Q1",
           "title": "Exp World Q1 2026 Earnings Call Transcript",
           "datetime": "2026-05-11T22:00:00Z",
-          "statement_count": 0,
+          "statement_count": 28,
           "stats": {
-            "by_hedging": {},
-            "by_category": {},
-            "by_resolution": {}
+            "by_hedging": {
+              "unhedged": 15,
+              "softly_hedged": 10,
+              "rhetorical_only": 1,
+              "heavily_hedged": 2
+            },
+            "by_category": {
+              "revenue_trajectory_specific": 6,
+              "margin_trajectory_specific": 5,
+              "operational_metric_specific": 6,
+              "financial_structure_or_capital_action": 2,
+              "segment_growth_specific": 4,
+              "geographic_or_regional_rollout": 1,
+              "strategic_direction_claim": 3,
+              "capacity_or_capability_delivery": 5
+            },
+            "by_resolution": {
+              "validated": 9,
+              "unresolved": 15,
+              "unverifiable": 4
+            }
           },
           "fiscal_label": "Q1 2026"
         },
